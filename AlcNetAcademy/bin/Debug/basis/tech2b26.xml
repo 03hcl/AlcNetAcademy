@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 基礎コース -->
+
+<unit idx="26">
+
+<introduction>
+<title>知能ロボットと人間</title>
+<read>&lt;font size="16" color="#000000"&gt;
+（学習のポイント）                   
+&lt;/font&gt;
+&lt;font size="16" color="#0000FF"&gt;
+複文／as／research
+&lt;/font&gt;
+&lt;br&gt;
+&lt;font size="16" color="#000000"&gt;
+未来映画のロボットの世界は少しずつ現実のものになりつつあります。人間とロボットの共同生活は実現するのでしょうか。ここでは、as を使った複文による表現です。理系勘どころ表現は『つれてってアズ（as）』。
+&lt;/font&gt;</read>
+</introduction>
+
+
+<notes>
+<w idx="1" name="mechanical engineering">
+<jp>機械工学</jp>
+<sound>tech2b26idx01_mechanical_engineering.mp3</sound>
+</w>
+<w idx="2" name="electronics">
+<jp>電子工学</jp>
+<sound>tech2b26idx02_electronics.mp3</sound>
+</w>
+<w idx="3" name="development">
+<jp>開発</jp>
+<sound>tech2b26idx03_development.mp3</sound>
+</w>
+<w idx="4" name="space">
+<jp>宇宙空間</jp>
+<sound>tech2b26idx04_space.mp3</sound>
+</w>
+<w idx="5" name="care">
+<jp>介護</jp>
+<sound>tech2b26idx05_care.mp3</sound>
+</w>
+<w idx="6" name="brain">
+<jp>脳</jp>
+<sound>tech2b26idx06_brain.mp3</sound>
+</w>
+<w idx="7" name="software">
+<jp>ソフトウェア</jp>
+<sound>tech2b26idx07_software.mp3</sound>
+</w>
+<w idx="8" name="intelligent robot">
+<jp>知能ロボット</jp>
+<sound>tech2b26idx08_intelligent_robot.mp3</sound>
+</w>
+</notes>
+
+
+<!-- Step1、Topic&Vocaburary -->
+<contents type="tech2bStep1">
+<p>　ロボットは人間の体の機能をモデルにして、<w idx="1">機械工学</w>と<w idx="2">電子工学</w>の技術により<w idx="3">開発</w>されてきた。危険な場所や<w idx="4">宇宙空間</w>など人間が直接行動できない場所で利用されるだけでなく、最近では<w idx="5">介護</w>補助など家庭内での活躍も期待されている。現在、<w idx="6">脳</w>の働きを<w idx="7">ソフトウェア</w>として組み込み、より人間に近い行動を可能にするための研究が進んでいる。脳の研究が進むにつれて、環境の変化に対応して行動する<w idx="8">知能ロボット</w>の開発が急速に加速するだろう。</p>
+</contents>
+
+
+<!-- Step2、Writing1 -->
+<contents type="tech2bStep2">
+<instruction1>次の日本文から、複文の形で幹センを抜き出そう。</instruction1>
+<instruction2>[先輩]ボタンを押して、先輩が書いた英文とあなたの英文を比べてみよう。</instruction2>
+<sentence>
+<ph idx="1" miki="true">脳の研究が</ph>
+<ph idx="2" miki="true">進むにつれて、</ph>
+<ph idx="3">環境の変化に対応して</ph>
+<ph idx="4">行動する</ph>
+<ph idx="5" miki="true">知能ロボットの開発が</ph>
+<ph idx="6">急速に</ph>
+<ph idx="7" miki="true">加速するだろう。</ph>
+</sentence>
+<mikisentence>
+<ph idx="1" type="S(従属節)">脳の研究が</ph>
+<ph idx="2" type="V">進む</ph>
+<ph idx="3">につれて、</ph>
+<ph idx="4" type="S(主節)">知能ロボットの開発が</ph>
+<ph idx="5" type="V">加速するだろう。</ph>
+</mikisentence>
+<hint text="">
+<ph idx="1">research</ph>
+<ph idx="2">brain</ph>
+<ph idx="3">advance</ph>
+<ph idx="4">intelligent robots</ph>
+</hint>
+<senior answer="A">As <sel cd="A">research of</sel> the brain <sel cd="B">advances</sel>, the <sel cd="C">development of</sel> intelligent robots will <sel cd="D">accelerate</sel>.</senior>
+<teach>As research on the brain advances, the development of intelligent robots will accelerate.</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　「…つれて」には、お決まりのパターンがあります。&lt;font color="#0000FF"&gt;&lt;b&gt;『つれてってアズ（as）』&lt;/b&gt;&lt;/font&gt;と覚えましょう。 as については、「…のときに」「…ので」「…ように」などなどいろいろ習いましたが、理系の英文では次の３つの使い方だけで済みます。&lt;br&gt;
+&lt;br&gt;
+　まずは、この場合のように、&lt;b&gt;「As + 主語 + 動詞」でこの動詞を「動く」系にすると、「…するにつれて」となります&lt;/b&gt;。「動く」系動詞とは、increase（増加する）、decrease（減少する）、proceed（進む）、rise（上がる）、advance（進む）などです。次に、&lt;font color="#FF0000"&gt;as shown in Figure 1&lt;/font&gt;（図１に示すように）、&lt;font color="#FF0000"&gt;as shown in Table 1&lt;/font&gt;（表１に示すように）などの&lt;b&gt;「…のように」&lt;/b&gt;のパターン。さらに、&lt;b&gt;「as + 名詞」で「として」です&lt;/b&gt;。この例は、as raw materials and resources（ユニット20）にすでに登場しています。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　「…の研究」は &lt;font color="#FF0000"&gt;research on ...&lt;/font&gt; 、&lt;font color="#FF0000"&gt;study on ...&lt;/font&gt; というように of ではなく on を使います。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step3、Writing2 -->
+<contents type="tech2bStep3">
+<hint text="">
+<ph idx="1">move</ph>
+<ph idx="2">in response to</ph>
+<ph idx="3">environmental change</ph>
+<ph idx="4">rapidly</ph>
+</hint>
+</contents>
+
+
+<!-- Step4、Comparisons -->
+<contents type="tech2bStep4">
+<senior answer="2">As research on the brain advances, the development of intelligent robots which move in response to environmental change will rapidly accelerate.</senior>
+<teach>
+&lt;font size="20" color="#000000"&gt;
+As research on the brain advances, the development of intelligent robots 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+which move in response to environmental changes 
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+will 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+rapidly 
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+accelerate.
+&lt;/font&gt;
+</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　「進む」「対応して」「行動する」「加速する」と４つの動詞が登場します。幹センの主語は「知能ロボットの開発」で、「加速する」が中心の動詞です。次に、「…に対応して」には &lt;font color="#FF0000"&gt;in response to ...&lt;/font&gt; を使います。これは覚えるしかありません。さらに、「知能ロボットは環境の変化に対応して行動する」という文が作れますから、以下のようにふたつの英文ができます。&lt;br&gt;
+　　Development of intelligent robots will accelerate.&lt;br&gt;
+　　Intelligent robots move in response to environmental changes.&lt;br&gt;
+これらふたつの文の共通語は intelligent robots で、これを接着剤 which でつなげます。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　数えられる名詞 change を無冠詞単数で使うのはかわいそうです。環境の変化には、場所、明るさ、相手の人数などいろいろありそうです。複数にしましょう。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step5、Exercisse -->
+<contents type="tech2bStep5" size="5">
+<instruction1>このユニットで登場した表現、関連する表現、さらに新しい表現を練習しよう。</instruction1>
+<question no="1" type="R">
+<textTrans>脳の研究が進む。</textTrans>
+<text>Research on the brain will <sel cd="A" answer="3"></sel> .</text>
+<sel cd="A" idx="1">go ahead</sel>
+<sel cd="A" idx="2">put forward</sel>
+<sel cd="A" idx="3">advance</sel>
+<hint>
+<sound>tech2b26s5Q01.mp3</sound>
+</hint>
+<point>　advance は「高度な段階に進歩する」です。普通の「進歩する」には progress を使います。</point>
+</question>
+
+<question no="2" type="R">
+<textTrans>温度が上がると、液体の粘度は減少する。</textTrans>
+<text>As the temperature rises, the viscosity of a liquid <sel cd="A" answer="1"></sel> .</text>
+<sel cd="A" idx="1">decreases</sel>
+<sel cd="A" idx="2">falls</sel>
+<hint>
+<sound>tech2b26s5Q02.mp3</sound>
+</hint>
+<point>　この文は複文です。前半は「as + 動く系動詞」のパターンです。「温度が上がるにつれて」と訳します。 fall は「急激に」という意味を含む語ですので、通常は「減少する」には decrease を使いましょう。</point>
+</question>
+
+<question no="3" type="R">
+<textTrans>洗剤は水の界面張力を弱める。</textTrans>
+<text>Detergent <sel cd="A" answer="1"></sel> the surface tension of water.</text>
+<sel cd="A" idx="1">reduces</sel>
+<sel cd="A" idx="2">falls</sel>
+<hint>
+<sound>tech2b26s5Q03.mp3</sound>
+</hint>
+<point>　「（…を）減らす」と考えて reduce を使います。この日本文の場合は weaken も間違いではありませんが、よく使う reduce を覚えましょう。 fall に他動詞で「減らす」という意味はありません。</point>
+</question>
+
+<question no="4" type="R">
+<textTrans>放射能の強度は、線源からの距離が増加すると弱まる。</textTrans>
+<text>The intensity of radioactivity <sel cd="A" answer="2"></sel> as the distance from the source increases.</text>
+<sel cd="A" idx="1">reduces</sel>
+<sel cd="A" idx="2">diminishes</sel>
+<hint>
+<sound>tech2b26s5Q04.mp3</sound>
+</hint>
+<point>　「縮小する、減少する」には diminish を使います。</point>
+</question>
+
+<question no="5" type="R">
+<textTrans>電子の放出が400℃付近の温度で観察される。</textTrans>
+<text>Electron emission is <sel cd="A" answer="2"></sel> at temperatures near 400 ｰC.</text>
+<sel cd="A" idx="1">found</sel>
+<sel cd="A" idx="2">observed</sel>
+<hint>
+<sound>tech2b26s5Q05.mp3</sound>
+</hint>
+<point>　「観察する」は observe、「検出する」には detect です。 find は「発見する」です。</point>
+</question>
+</contents>
+
+
+<contents type="phrase">
+<p><ph idx="1">As research on the brain advances, the development of intelligent robots which move in response to environmental changes will rapidly accelerate.</ph></p>
+<p></p>
+<p><ph idx="2">1. Research on the brain will advance.</ph></p>
+<p><ph idx="3">2. As the temperature rises, the viscosity of a liquid decreases.</ph></p>
+<p><ph idx="4">3. Detergent reduces the surface tension of water.</ph></p>
+<p><ph idx="5">4. The intensity of radioactivity diminishes as the distance from the source increases.</ph></p>
+<p><ph idx="6">5. Electron emission is observed at temperatures near 400 degrees centigrade.</ph></p>
+</contents>
+
+<contents type="translation">
+<p><ph idx="1">脳の研究が進むにつれて、環境の変化に対応して行動する知能ロボットの開発が急速に加速するだろう。</ph></p>
+<p></p>
+<p><ph idx="2">1. 脳の研究が進む。</ph></p>
+<p><ph idx="3">2. 温度が上がると、液体の粘度は減少する。</ph></p>
+<p><ph idx="4">3. 洗剤は水の界面張力を弱める。</ph></p>
+<p><ph idx="5">4. 放射能の強度は、線源からの距離が増加すると弱まる。</ph></p>
+<p><ph idx="6">5. 電子の放出が400℃付近の温度で観察される。（℃の部分は読み方を文字で書いてみよう）</ph></p>
+</contents>
+
+
+</unit>

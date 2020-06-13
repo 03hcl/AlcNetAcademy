@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 レビュークイズ -->
+
+<unit idx="05" size="24">
+
+<question no="17" type="R">
+<text>Plastics are classified into thermoplastic and thermosetting polymers according to the change in shape when heated.</text>
+<textTrans>プラスチックは、加熱による形の変化に従って、熱可塑性ポリマーと熱硬化性ポリマーとに大別される。</textTrans>
+<hint no="1">plastic,polymer,change,shape,thermoplastic,thermosetting</hint>
+<hint no="2">plastic,polymer,change,shape,thermoplastic,thermosetting,classify,heat,according to,into,and,to,in</hint>
+<sound>tech2b17s4m2.mp3</sound>
+<reference>Unit17の課題文</reference>
+</question>
+
+<question no="17" type="I">
+<text>Differential equations are classified into two types.</text>
+<textTrans>微分方程式は２種に大別される。</textTrans>
+<hint no="1">differential equation,two,type</hint>
+<hint no="2">differential equation,two,type,classify,into</hint>
+<sound>tech2b17s5Q01.mp3</sound>
+<reference>Unit17のStep5</reference>
+</question>
+
+<question no="17" type="I">
+<text>The entries in this book are grouped.</text>
+<textTrans>この本の見出し語は分類されている。</textTrans>
+<hint no="1">entry</hint>
+<hint no="2">entry,book,group</hint>
+<sound>tech2b17s5Q02.mp3</sound>
+<reference>Unit17のStep5</reference>
+</question>
+
+<question no="17" type="I">
+<text>Analog voltmeters fall into three categories.</text>
+<textTrans>アナログ電圧計は３種に大別される。</textTrans>
+<hint no="1">analog voltmeter,category,fall</hint>
+<hint no="2">analog voltmeter,category,three,fall,into</hint>
+<sound>tech2b17s5Q03.mp3</sound>
+<reference>Unit17のStep5</reference>
+</question>
+
+<question no="17" type="I">
+<text>Amplifiers are classified according to frequency.</text>
+<textTrans>増幅器は周波数によって分類される。</textTrans>
+<hint no="1">amplifier,frequency</hint>
+<hint no="2">amplifier,frequency,classify,according to</hint>
+<sound>tech2b17s5Q04.mp3</sound>
+<reference>Unit17のStep5</reference>
+</question>
+
+<question no="17" type="I">
+<text>You can do everything according to the cookbook.</text>
+<textTrans>料理の本どおりにすべてできます。</textTrans>
+<hint no="1">everything,cookbook</hint>
+<hint no="2">everything,cookbook,do,according to</hint>
+<sound>tech2b17s5Q05.mp3</sound>
+<reference>Unit17のStep5</reference>
+</question>
+
+<question no="18" type="R">
+<text>For example, in gene therapies for treating cancer, normal genes are injected to activate immunocytes attacking cancer cells.</text>
+<textTrans>例えば、ガンに対する遺伝子治療では、正常な遺伝子が注入され、ガン細胞を攻撃する免疫細胞を活性化する。</textTrans>
+<hint no="1">gene therapy,cancer,gene,immunocyte,cancer cell,inject,activate</hint>
+<hint no="2">gene therapy,cancer,gene,immunocyte,cancer cell,inject,activate,normal,treat,attack,for example,in,for</hint>
+<sound>tech2b18s4m2.mp3</sound>
+<reference>Unit18の課題文</reference>
+</question>
+
+<question no="18" type="I">
+<text>The patient was treated for cancer.</text>
+<textTrans>その患者はガンの治療を受けた。</textTrans>
+<hint no="1">patient,cancer</hint>
+<hint no="2">patient,cancer,treat,for</hint>
+<sound>tech2b18s5Q01.mp3</sound>
+<reference>Unit18のStep5</reference>
+</question>
+
+<question no="18" type="I">
+<text>Bacterial infection can be treated with antimicrobials.</text>
+<textTrans>細菌感染は抗菌剤で治療できる。</textTrans>
+<hint no="1">bacterial infection,antimicrobial</hint>
+<hint no="2">bacterial infection,antimicrobial,treat,with</hint>
+<sound>tech2b18s5Q02.mp3</sound>
+<reference>Unit18のStep5</reference>
+</question>
+
+<question no="18" type="I">
+<text>Foreign tumor-cell lines are injected into terminal cancer patients.</text>
+<textTrans>異種の腫瘍（しゅよう）細胞系が末期ガン患者に注入される。</textTrans>
+<hint no="1">tumor-cell lines,cancer,patient,foreign,terminal</hint>
+<hint no="2">tumor-cell lines,cancer,patient,foreign,terminal,inject,into</hint>
+<sound>tech2b18s5Q03.mp3</sound>
+<reference>Unit18のStep5</reference>
+</question>
+
+<question no="18" type="I">
+<text>Intravenous injection of any drug solution must be done slowly.</text>
+<textTrans>どんな薬剤溶液でも静脈注射はゆっくり行わなければならない。</textTrans>
+<hint no="1">intravenous injection,drug solution</hint>
+<hint no="2">intravenous injection,drug solution,slowly,do</hint>
+<sound>tech2b18s5Q04.mp3</sound>
+<reference>Unit18のStep5</reference>
+</question>
+
+<question no="18" type="I">
+<text>The heart circulates blood throughout the body.</text>
+<textTrans>心臓は体中に血液を循環させる。</textTrans>
+<hint no="1">heart,blood,body</hint>
+<hint no="2">heart,blood,body,circulate,throughout</hint>
+<sound>tech2b18s5Q05.mp3</sound>
+<reference>Unit18のStep5</reference>
+</question>
+
+<question no="19" type="R">
+<text>A universal design is intended for planning amenities, or environments and products available for anyone.</text>
+<textTrans>ユニバーサルデザインは、快適さ、すなわちだれもが利用できる環境や製品を設計することを目的にしている。</textTrans>
+<hint no="1">universal design,amenity,environment,product</hint>
+<hint no="2">universal design,amenity,environment,product,available,intend,plan,for,or</hint>
+<sound>tech2b19s2m1.mp3</sound>
+<reference>Unit19の幹セン</reference>
+</question>
+
+<question no="19" type="I">
+<text>Hybridization studies were intended to demonstrate virus-specific DNA.</text>
+<textTrans>交配研究の目的はウイルスに関する特異的DNAを立証することだった。</textTrans>
+<hint no="1">hybridization,study,virus,DNA</hint>
+<hint no="2">hybridization,study,virus,DNA,specific,intend</hint>
+<sound>tech2b19s5Q01.mp3</sound>
+<reference>Unit19のStep5</reference>
+</question>
+
+<question no="19" type="I">
+<text>Students that are motivated tend to work harder.</text>
+<textTrans>動機づけられた学生は懸命に勉強する傾向がある。</textTrans>
+<hint no="1">student,hard,motivate</hint>
+<hint no="2">student,hard,motivate,tend,work</hint>
+<sound>tech2b19s5Q02.mp3</sound>
+<reference>Unit19のStep5</reference>
+</question>
+
+<question no="19" type="I">
+<text>The wave propagates in the direction parallel to the x-y plane.</text>
+<textTrans>波はx-y平面に平行な方向に伝わる。</textTrans>
+<hint no="1">wave,direction,x-y plane,propagate</hint>
+<hint no="2">wave,direction,x-y plane,propagate,parallel,in,to</hint>
+<sound>tech2b19s5Q03.mp3</sound>
+<reference>Unit19のStep5</reference>
+</question>
+
+<question no="19" type="I">
+<text>The antenna was mounted 2 m above the rooftops.</text>
+<textTrans>アンテナは屋上２ｍの高さに取り付けた。</textTrans>
+<hint no="1">antenna,rooftop</hint>
+<hint no="2">antenna,rooftop,2 m,mount,above</hint>
+<sound>tech2b19s5Q04.mp3</sound>
+<reference>Unit19のStep5</reference>
+</question>
+
+<question no="19" type="I">
+<text>Most chemical reactions are accompanied by a thermal change.</text>
+<textTrans>たいていの化学反応は熱変化を伴う。</textTrans>
+<hint no="1">reaction,change,thermal</hint>
+<hint no="2">reaction,change,thermal,most,accompany,by</hint>
+<sound>tech2b19s5Q05.mp3</sound>
+<reference>Unit19のStep5</reference>
+</question>
+
+<question no="20" type="R">
+<text>Zero emission is defined as a complete recycling production system.</text>
+<textTrans>ゼロエミッションは、完全循環型の生産システムと定義される。</textTrans>
+<hint no="1">zero emission,production system</hint>
+<hint no="2">zero emission,production system,complete,define,recycle,as</hint>
+<sound>tech2b20s2m1.mp3</sound>
+<reference>Unit20の幹セン</reference>
+</question>
+
+<question no="20" type="I">
+<text>Different materials emit different signals.</text>
+<textTrans>さまざまな物質はさまざまな信号を出す。</textTrans>
+<hint no="1">material,signal</hint>
+<hint no="2">material,signal,different,emit</hint>
+<sound>tech2b20s5Q01.mp3</sound>
+<reference>Unit20のStep5</reference>
+</question>
+
+<question no="20" type="I">
+<text>Electrons are emitted by the gun.</text>
+<textTrans>電子が銃から放出される。</textTrans>
+<hint no="1">electron</hint>
+<hint no="2">electron,gun,emit,by</hint>
+<sound>tech2b20s5Q02.mp3</sound>
+<reference>Unit20のStep5</reference>
+</question>
+
+<question no="20" type="I">
+<text>Speech is defined as a form of communication.</text>
+<textTrans>言葉は伝達の一形態であると定義される。</textTrans>
+<hint no="1">speech,communication</hint>
+<hint no="2">speech,communication,form,define,as,of</hint>
+<sound>tech2b20s5Q03.mp3</sound>
+<reference>Unit20のStep5</reference>
+</question>
+
+<question no="20" type="I">
+<text>Bits 28-31 are set to zeros.</text>
+<textTrans>ビット28-31はゼロに設定される。</textTrans>
+<hint no="1">bit,28-31,zero</hint>
+<hint no="2">bit,28-31,zero,set,to</hint>
+<sound>tech2b20s5Q04.mp3</sound>
+<reference>Unit20のStep5</reference>
+</question>
+
+<question no="20" type="I">
+<text>The electrical properties of semiconductors depend on purity.</text>
+<textTrans>半導体の電気物性は純度で差が出る。</textTrans>
+<hint no="1">electrical property,semiconductor,purity</hint>
+<hint no="2">electrical property,semiconductor,purity,depend,of,on</hint>
+<sound>tech2b20s5Q05.mp3</sound>
+<reference>Unit20のStep5</reference>
+</question>
+
+</unit>

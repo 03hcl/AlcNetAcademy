@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 基礎コース -->
+
+<unit idx="27">
+
+<introduction>
+<title>耐久性を求めたＳＩ住宅</title>
+<read>&lt;font size="16" color="#000000"&gt;
+（学習のポイント）             
+&lt;/font&gt;
+&lt;font size="16" color="#0000FF"&gt;
+カンマ付きwhich／approximately
+&lt;/font&gt;
+&lt;br&gt;
+&lt;font size="16" color="#000000"&gt;
+日本の住宅事情は欧米に比べてはるかに遅れています。今後求められる新しい住宅スタイルの話題です。理系と一般の表現で使われる語句には違いがあります。約、およそ（＝about）も落とし穴のひとつです。
+&lt;/font&gt;</read>
+</introduction>
+
+
+<notes>
+<w idx="1" name="rebuilt housing">
+<jp>住宅の建て替え</jp>
+<sound>tech2b27idx01_rebuilt_housing.mp3</sound>
+</w>
+<w idx="2" name="cycle">
+<jp>サイクル</jp>
+<sound>tech2b27idx02_cycle.mp3</sound>
+</w>
+<w idx="3" name="life">
+<jp>寿命</jp>
+<sound>tech2b27idx03_life.mp3</sound>
+</w>
+<w idx="4" name="multiple dwelling houses">
+<jp>集合住宅</jp>
+<sound>tech2b27idx04_multiple_dwelling_houses.mp3</sound>
+</w>
+<w idx="5" name="skeleton">
+<jp>骨格</jp>
+<sound>tech2b27idx05_skeleton.mp3</sound>
+</w>
+<w idx="6" name="durability">
+<jp>耐久性</jp>
+<sound>tech2b27idx06_durability.mp3</sound>
+</w>
+</notes>
+
+
+<!-- Step1、Topic&Vocaburary -->
+<contents type="tech2bStep1">
+<p>　日本では<w idx="1">住宅の建て替え</w><w idx="2">サイクル</w>が約30年であり、欧米諸国に比べてずっと短い。そこで、100年以上の<w idx="3">寿命</w>をもつ<w idx="4">集合住宅</w>「SI住宅」が注目を集めている。SI住宅とは<w idx="5">骨格</w>部分（Skeleton）と内装設備（Infill）を分離した住宅で、S 部分は100年以上の<w idx="6">耐久性</w>をもち、I 部分は家族構成の変化などに応じてリフォームを繰り返しながら住み続けることができるようになっている。</p>
+</contents>
+
+
+<!-- Step2、Writing1 -->
+<contents type="tech2bStep2">
+<instruction1>次の日本文の「、」までを幹センとして、主語・動詞・補語を選んでみよう。</instruction1>
+<instruction2>[先輩]ボタンを押して、先輩が書いた英文とあなたの英文を比べてみよう。</instruction2>
+<sentence>
+<ph idx="1" miki="true">日本では</ph>
+<ph idx="2" miki="true">住宅の建て替えサイクルが</ph>
+<ph idx="3" miki="true">約30年</ph>
+<ph idx="4" miki="true">であり、</ph>
+<ph idx="5">欧米諸国に比べてずっと短い。</ph>
+</sentence>
+<mikisentence>
+<ph idx="1">日本では</ph>
+<ph idx="2" type="S">住宅の建て替えサイクルが</ph>
+<ph idx="3" type="C">約30年</ph>
+<ph idx="4" type="V">である。</ph>
+</mikisentence>
+<hint text="">
+<ph idx="1">cycle</ph>
+<ph idx="2">rebuilt</ph>
+<ph idx="3">housing</ph>
+</hint>
+<senior answer="D"><sel cd="A">The cycle</sel> of <sel cd="B">rebuilt housing</sel> <sel cd="C">in Japan</sel> is <sel cd="D">about 30 years</sel>.</senior>
+<teach>The cycle of rebuilt housing in Japan is approximately 30 years.</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　さて、先輩のどこがおかしいんだ、とお思いでしょう。私も皆さんの立場だったらそう文句をつけていたでしょう。理系の英文、特に論文などでは口語的表現（話し言葉っぽい表現）を避けます。そのベスト５を紹介しましょう。「約」「得る」「する」「入る」「触れる」を英語にしてください。&lt;br&gt;
+　　about、get、do、come in、touch&lt;br&gt;
+とすれば全問不正解です。理系の英文なら、&lt;br&gt;
+　　&lt;font color="#FF0000"&gt;approximately&lt;/font&gt;、&lt;font color="#FF0000"&gt;obtain&lt;/font&gt;、&lt;font color="#FF0000"&gt;perform&lt;/font&gt;、&lt;font color="#FF0000"&gt;enter&lt;/font&gt;、&lt;font color="#FF0000"&gt;contact&lt;/font&gt;&lt;br&gt;
+が正解です。&lt;br&gt;
+&lt;br&gt;
+　ついでにいうと、１語で済むのにわざわざ２語以上で表現すると「冗長」（親分の名前ではありません。じょうちょうと読みます）と非難されます。例えば、before を prior to とすると冗長です。また、ユニット３では many times ではなく repeatedly を使いました。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step3、Writing2 -->
+<contents type="tech2bStep3">
+<hint text="">
+<ph idx="1">which</ph>
+<ph idx="2">shorter</ph>
+<ph idx="3">Europe</ph>
+<ph idx="4">United States</ph>
+</hint>
+</contents>
+
+
+<!-- Step4、Comparisons -->
+<contents type="tech2bStep4">
+<senior answer="6">The cycle of rebuilt housing in Japan is approximately 30 years, which is very shorter compared to that in Europe and the United States.</senior>
+<teach>
+&lt;font size="20" color="#000000"&gt;
+The cycle of rebuilt housing in Japan is approximately 30 years
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+, which is much shorter than that in Europe and the United States
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+.
+&lt;/font&gt;
+</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　こういう文を追加するときにも、なんとあの接着剤 which が使えます。ただし、カンマ付きの which です。カンマ付き which は、ひと呼吸おいて文を付け加えるという用法です。&lt;br&gt;
+&lt;br&gt;
+　「ずっと」という言葉は比較級を強めています。比較級の強調には &lt;font color="#FF0000"&gt;much&lt;/font&gt; を使います。理系の文章では、具体的な数値を使うことが原則ですから、「ずっと」といったって、３倍なのか300倍なのかわからないので、なるべく使わないようにしてください。&lt;br&gt;
+　　&lt;u&gt;a cycle of rebuilt housing&lt;/u&gt; in Japan と&lt;br&gt;
+　　&lt;u&gt;a cycle of rebuilt housing&lt;/u&gt; in Europe and the United States&lt;br&gt;
+とを比較しています。下線を引いた共通部分を単数なので that で代用します（複数なら those で代用）。そんなわけで than の後が that in Europe and the United States となります。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　compared to の場合には原形のままでいいのです。&lt;br&gt;
+　　&lt;b&gt;which is very short compared to that in Europe and the United States.&lt;/b&gt;&lt;br&gt;
+というのが正しい形です。比較級を使うのであれば、先生のように&lt;br&gt;
+　　&lt;b&gt;which is much shorter than that in Europe and the United States.&lt;/b&gt;&lt;br&gt;
+と書いてください。比較級を強める場合は very でなく much を使います。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step5、Exercisse -->
+<contents type="tech2bStep5" size="5">
+<instruction1>このユニットで登場した表現と、新しい表現を練習しよう。</instruction1>
+<question no="1" type="R">
+<textTrans>会社は新しい機械の購入を受け入れないだろう。</textTrans>
+<text>The company will not <sel cd="A" answer="3"></sel> to purchase new machines.</text>
+<sel cd="A" idx="1">accept</sel>
+<sel cd="A" idx="2">get</sel>
+<sel cd="A" idx="3">agree</sel>
+<hint>
+<sound>tech2b27s5Q01.mp3</sound>
+</hint>
+<point>　「agree to do」の形で「～することに同意する」という意味なります。 accept に不定詞は続きません。</point>
+</question>
+
+<question no="2" type="I">
+<textTrans>私はおよそ１カ月前にロサンゼルスに着きました。</textTrans>
+<text>I arrived in Los Angeles <sel cd="A" answer="2"></sel> a month ago.</text>
+<sel cd="A" idx="1">approximately</sel>
+<sel cd="A" idx="2">about</sel>
+<hint>
+<sound>tech2b27s5Q02.mp3</sound>
+</hint>
+<point>　about は口語調です。技術文書では approximately が多用されます。この文では about の方がよいでしょう。</point>
+</question>
+
+<question no="3" type="R">
+<textTrans>補助記憶装置はプロセッサからデータを受け入れる。</textTrans>
+<text>Secondary storage devices <sel cd="A" answer="1"></sel> data from the processor.</text>
+<sel cd="A" idx="1">accept</sel>
+<sel cd="A" idx="2">get</sel>
+<sel cd="A" idx="3">agree</sel>
+<hint>
+<sound>tech2b27s5Q03.mp3</sound>
+</hint>
+<point>　accept は「（申し出、データを）受け入れる」です。</point>
+</question>
+
+<question no="4" type="I">
+<textTrans>人工呼吸は無効であった。</textTrans>
+<text>Artificial respiration was of no <sel cd="A" answer="1"></sel> .</text>
+<sel cd="A" idx="1">avail</sel>
+<sel cd="A" idx="2">value</sel>
+<sel cd="A" idx="3">interest</sel>
+<hint>
+<sound>tech2b27s5Q04.mp3</sound>
+</hint>
+<point>　be of no avail ＝ be not available「無益である」。同様の意味で、be of no use ＝ be not useful があります。</point>
+</question>
+
+<question no="5" type="R">
+<textTrans>カルシウムの濃度は１～４g/l の範囲にある。</textTrans>
+<text>The concentration of calcium <sel cd="A" answer="2"></sel> from 1 to 4 g/l.</text>
+<sel cd="A" idx="1">includes</sel>
+<sel cd="A" idx="2">ranges</sel>
+<sel cd="A" idx="3">passes</sel>
+<hint>
+<sound>tech2b27s5Q05.mp3</sound>
+</hint>
+<point>　range from A to B で「A から B の範囲にある」。</point>
+</question>
+</contents>
+
+
+<contents type="phrase">
+<p><ph idx="1">The cycle of rebuilt housing in Japan is approximately 30 years, which is much shorter than that in Europe and the United States.</ph></p>
+<p></p>
+<p><ph idx="2">1. The company will not agree to purchase new machines.</ph></p>
+<p><ph idx="3">2. I arrived in Los Angeles about a month ago.</ph></p>
+<p><ph idx="4">3. Secondary storage devices accept data from the processor.</ph></p>
+<p><ph idx="5">4. Artificial respiration was of no avail.</ph></p>
+<p><ph idx="6">5. The concentration of calcium ranges from 1 to 4 g/l.</ph></p>
+</contents>
+
+<contents type="translation">
+<p><ph idx="1">日本では住宅の建て替えサイクルが約30年であり、欧米諸国に比べてずっと短い。</ph></p>
+<p></p>
+<p><ph idx="2">1. 会社は新しい機械の購入を受け入れないだろう。</ph></p>
+<p><ph idx="3">2. 私はおよそ１カ月前にロサンゼルスに着きました。</ph></p>
+<p><ph idx="4">3. 補助記憶装置はプロセッサからデータを受け入れる。</ph></p>
+<p><ph idx="5">4. 人工呼吸は無効であった。</ph></p>
+<p><ph idx="6">5. カルシウムの濃度は１～４g/l の範囲にある。</ph></p>
+</contents>
+
+
+</unit>

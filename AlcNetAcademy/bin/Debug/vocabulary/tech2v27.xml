@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="27">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅱ 動詞・形容詞ほか,動詞６</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">技術英語でよく使われる動詞です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="lower">
+<jp>下げる</jp>
+<exp>【動】下げる</exp>
+<sound>tech2v27idx01_lower.mp3</sound>
+</w>
+<w idx="2" name="run">
+<jp>（機械などが）作動する</jp>
+<exp>【動】（機械などが）作動する、運転する</exp>
+<sound>tech2v27idx02_run.mp3</sound>
+</w>
+<w idx="3" name="act">
+<jp>作用する</jp>
+<exp>【動】作用する</exp>
+<sound>tech2v27idx03_act.mp3</sound>
+</w>
+<w idx="4" name="expose">
+<jp>露出する</jp>
+<exp>【動】露出する、露光する</exp>
+<sound>tech2v27idx04_expose.mp3</sound>
+</w>
+<w idx="5" name="finish">
+<jp>仕上げる</jp>
+<exp>【動】仕上げる</exp>
+<sound>tech2v27idx05_finish.mp3</sound>
+</w>
+<w idx="6" name="support">
+<jp>支持する</jp>
+<exp>【動】支持する、耐える</exp>
+<sound>tech2v27idx06_support.mp3</sound>
+</w>
+<w idx="7" name="follow">
+<jp>従う</jp>
+<exp>【動】従う</exp>
+<sound>tech2v27idx07_follow.mp3</sound>
+</w>
+<w idx="8" name="contract">
+<jp>収縮する</jp>
+<exp>【動】収縮する</exp>
+<sound>tech2v27idx08_contract.mp3</sound>
+</w>
+<w idx="9" name="correct">
+<jp>訂正する</jp>
+<exp>【動】訂正する</exp>
+<sound>tech2v27idx09_correct.mp3</sound>
+</w>
+<w idx="10" name="prepare">
+<jp>準備する</jp>
+<exp>【動】準備する</exp>
+<sound>tech2v27idx10_prepare.mp3</sound>
+</w>
+<w idx="11" name="erase">
+<jp>消去する</jp>
+<exp>【動】消去する</exp>
+<sound>tech2v27idx11_erase.mp3</sound>
+</w>
+<w idx="12" name="consume">
+<jp>消費する</jp>
+<exp>【動】消費する</exp>
+<sound>tech2v27idx12_consume.mp3</sound>
+</w>
+<w idx="13" name="omit">
+<jp>省略する</jp>
+<exp>【動】省略する</exp>
+<sound>tech2v27idx13_omit.mp3</sound>
+</w>
+<w idx="14" name="propel">
+<jp>推進する</jp>
+<exp>【動】推進する</exp>
+<sound>tech2v27idx14_propel.mp3</sound>
+</w>
+<w idx="15" name="suck">
+<jp>吸う</jp>
+<exp>【動】吸う</exp>
+<sound>tech2v27idx15_suck.mp3</sound>
+</w>
+<w idx="16" name="mount">
+<jp>据え付ける</jp>
+<exp>【動】据え付ける</exp>
+<sound>tech2v27idx16_mount.mp3</sound>
+</w>
+<w idx="17" name="proceed">
+<jp>進む</jp>
+<exp>【動】進む</exp>
+<sound>tech2v27idx17_proceed.mp3</sound>
+</w>
+<w idx="18" name="sharpen">
+<jp>鋭くする</jp>
+<exp>【動】鋭くする</exp>
+<sound>tech2v27idx18_sharpen.mp3</sound>
+</w>
+<w idx="19" name="limit">
+<jp>制限する</jp>
+<exp>【動】制限する</exp>
+<sound>tech2v27idx19_limit.mp3</sound>
+</w>
+<w idx="20" name="succeed">
+<jp>成功する</jp>
+<exp>【動】成功する</exp>
+<sound>tech2v27idx20_succeed.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. lower</p>
+<p>2. run</p>
+<p>3. act</p>
+<p>4. expose</p>
+<p>5. finish</p>
+<p>6. support</p>
+<p>7. follow</p>
+<p>8. contract</p>
+<p>9. correct</p>
+<p>10. prepare</p>
+<p>11. erase</p>
+<p>12. consume</p>
+<p>13. omit</p>
+<p>14. propel</p>
+<p>15. suck</p>
+<p>16. mount</p>
+<p>17. proceed</p>
+<p>18. sharpen</p>
+<p>19. limit</p>
+<p>20. succeed</p>
+</contents>
+</unit>

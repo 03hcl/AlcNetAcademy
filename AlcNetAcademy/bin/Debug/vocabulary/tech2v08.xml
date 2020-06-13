@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="08">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅰ 専門分野別,電気１</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">電気の分野でよく使われる語句です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="ampere">
+<jp>アンペア</jp>
+<exp>【名】アンペア</exp>
+<sound>tech2v08idx01_ampere.mp3</sound>
+</w>
+<w idx="2" name="parallel">
+<jp>並列</jp>
+<exp>【名】並列　【形】並列の</exp>
+<sound>tech2v08idx02_parallel.mp3</sound>
+</w>
+<w idx="3" name="series">
+<jp>直列</jp>
+<exp>【名】直列　【形】直列の</exp>
+<sound>tech2v08idx03_series.mp3</sound>
+</w>
+<w idx="4" name="volt">
+<jp>ボルト</jp>
+<exp>【名】ボルト</exp>
+<sound>tech2v08idx04_volt.mp3</sound>
+</w>
+<w idx="5" name="watt">
+<jp>ワット</jp>
+<exp>【名】ワット</exp>
+<sound>tech2v08idx05_watt.mp3</sound>
+</w>
+<w idx="6" name="amplification">
+<jp>増幅</jp>
+<exp>【名】増幅</exp>
+<sound>tech2v08idx06_amplification.mp3</sound>
+</w>
+<w idx="7" name="amplify">
+<jp>増幅する</jp>
+<exp>【動】増幅する</exp>
+<sound>tech2v08idx07_amplify.mp3</sound>
+</w>
+<w idx="8" name="battery">
+<jp>電池</jp>
+<exp>【名】電池</exp>
+<sound>tech2v08idx08_battery.mp3</sound>
+</w>
+<w idx="9" name="circuit">
+<jp>回路</jp>
+<exp>【名】回路</exp>
+<sound>tech2v08idx09_circuit.mp3</sound>
+</w>
+<w idx="10" name="earth">
+<jp>接地</jp>
+<exp>【名】接地　【動】接地する</exp>
+<sound>tech2v08idx10_earth.mp3</sound>
+</w>
+<w idx="11" name="electric wire">
+<jp>電線</jp>
+<exp>【名】電線</exp>
+<sound>tech2v08idx11_electric_wire.mp3</sound>
+</w>
+<w idx="12" name="electricity">
+<jp>電気</jp>
+<exp>【名】電気</exp>
+<sound>tech2v08idx12_electricity.mp3</sound>
+</w>
+<w idx="13" name="electrode">
+<jp>電極</jp>
+<exp>【名】電極</exp>
+<sound>tech2v08idx13_electrode.mp3</sound>
+</w>
+<w idx="14" name="electron">
+<jp>電子</jp>
+<exp>【名】電子</exp>
+<sound>tech2v08idx14_electron.mp3</sound>
+</w>
+<w idx="15" name="light bulb">
+<jp>電球</jp>
+<exp>【名】電球</exp>
+<sound>tech2v08idx15_light_bulb.mp3</sound>
+</w>
+<w idx="16" name="alternating current">
+<jp>交流</jp>
+<exp>【名】交流</exp>
+<sound>tech2v08idx16_alternating_current.mp3</sound>
+</w>
+<w idx="17" name="direct current">
+<jp>直流</jp>
+<exp>【名】直流</exp>
+<sound>tech2v08idx17_direct_current.mp3</sound>
+</w>
+<w idx="18" name="electric current">
+<jp>電流</jp>
+<exp>【名】電流</exp>
+<sound>tech2v08idx18_electric_current.mp3</sound>
+</w>
+<w idx="19" name="resistance">
+<jp>抵抗</jp>
+<exp>【名】抵抗</exp>
+<sound>tech2v08idx19_resistance.mp3</sound>
+</w>
+<w idx="20" name="voltage">
+<jp>電圧</jp>
+<exp>【名】電圧</exp>
+<sound>tech2v08idx20_voltage.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. ampere</p>
+<p>2. parallel</p>
+<p>3. series</p>
+<p>4. volt</p>
+<p>5. watt</p>
+<p>6. amplification</p>
+<p>7. amplify</p>
+<p>8. battery</p>
+<p>9. circuit</p>
+<p>10. earth</p>
+<p>11. electric wire</p>
+<p>12. electricity</p>
+<p>13. electrode</p>
+<p>14. electron</p>
+<p>15. light bulb</p>
+<p>16. alternating current</p>
+<p>17. direct current</p>
+<p>18. electric current</p>
+<p>19. resistance</p>
+<p>20. voltage</p>
+</contents>
+</unit>

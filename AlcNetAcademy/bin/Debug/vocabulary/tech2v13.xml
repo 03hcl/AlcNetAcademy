@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="13">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅰ 専門分野別,コンピュータ１</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">コンピュータに関連する語句です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="central processing unit">
+<jp>中央処理装置</jp>
+<exp>【名】中央処理装置（ＣＰＵ）</exp>
+<sound>tech2v13idx01_central_processing_unit.mp3</sound>
+</w>
+<w idx="2" name="integrated circuit">
+<jp>集積回路</jp>
+<exp>【名】集積回路（ＩＣ）</exp>
+<sound>tech2v13idx02_integrated_circuit.mp3</sound>
+</w>
+<w idx="3" name="large scale integration">
+<jp>大規模集積</jp>
+<exp>【名】大規模集積（ＬＳＩ）</exp>
+<sound>tech2v13idx03_large_scale_integration.mp3</sound>
+</w>
+<w idx="4" name="microprocessing unit">
+<jp>超小型演算装置</jp>
+<exp>【名】超小型演算装置（ＭＰＵ）</exp>
+<sound>tech2v13idx04_microprocessing_unit.mp3</sound>
+</w>
+<w idx="5" name="byte">
+<jp>バイト</jp>
+<exp>【名】バイト</exp>
+<sound>tech2v13idx05_byte.mp3</sound>
+</w>
+<w idx="6" name="backup">
+<jp>予備</jp>
+<exp>【名】予備、複写、バックアップ</exp>
+<sound>tech2v13idx06_backup.mp3</sound>
+</w>
+<w idx="7" name="architecture">
+<jp>アーキテクチャ</jp>
+<exp>【名】アーキテクチャ</exp>
+<sound>tech2v13idx07_architecture.mp3</sound>
+</w>
+<w idx="8" name="digital versatile disk">
+<jp>デジタル多用途ディスク</jp>
+<exp>【名】デジタル多用途ディスク（ＤＶＤ）</exp>
+<sound>tech2v13idx08_digital_versatile_disk.mp3</sound>
+</w>
+<w idx="9" name="flash memory">
+<jp>フラッシュメモリ</jp>
+<exp>【名】フラッシュメモリ</exp>
+<sound>tech2v13idx09_flash_memory.mp3</sound>
+</w>
+<w idx="10" name="floppy disk">
+<jp>フロッピーディスク</jp>
+<exp>【名】フロッピーディスク</exp>
+<sound>tech2v13idx10_floppy_disk.mp3</sound>
+</w>
+<w idx="11" name="memory">
+<jp>メモリ</jp>
+<exp>【名】メモリ、記憶装置</exp>
+<sound>tech2v13idx11_memory.mp3</sound>
+</w>
+<w idx="12" name="random-access memory">
+<jp>ランダムアクセス記憶装置</jp>
+<exp>【名】ランダムアクセス記憶装置（ＲＡＭ）</exp>
+<sound>tech2v13idx12_random-access_memory.mp3</sound>
+</w>
+<w idx="13" name="read-only memory">
+<jp>読み取り専用記憶装置</jp>
+<exp>【名】読み取り専用記憶装置（ＲＯＭ）</exp>
+<sound>tech2v13idx13_read-only_memory.mp3</sound>
+</w>
+<w idx="14" name="start-up disk">
+<jp>起動ディスク</jp>
+<exp>【名】起動ディスク</exp>
+<sound>tech2v13idx14_start-up_disk.mp3</sound>
+</w>
+<w idx="15" name="storage">
+<jp>記憶装置</jp>
+<exp>【名】記憶装置</exp>
+<sound>tech2v13idx15_storage.mp3</sound>
+</w>
+<w idx="16" name="store">
+<jp>記憶する</jp>
+<exp>【動】記憶する</exp>
+<sound>tech2v13idx16_store.mp3</sound>
+</w>
+<w idx="17" name="keyboard">
+<jp>キーボード</jp>
+<exp>【名】キーボード</exp>
+<sound>tech2v13idx17_keyboard.mp3</sound>
+</w>
+<w idx="18" name="scanner">
+<jp>スキャナ</jp>
+<exp>【名】スキャナ、走査機</exp>
+<sound>tech2v13idx18_scanner.mp3</sound>
+</w>
+<w idx="19" name="personal computer">
+<jp>パソコン</jp>
+<exp>【名】パソコン</exp>
+<sound>tech2v13idx19_personal_computer.mp3</sound>
+</w>
+<w idx="20" name="monitor">
+<jp>モニタ</jp>
+<exp>【名】モニタ</exp>
+<sound>tech2v13idx20_monitor.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. central processing unit</p>
+<p>2. integrated circuit</p>
+<p>3. large scale integration</p>
+<p>4. microprocessing unit</p>
+<p>5. byte</p>
+<p>6. backup</p>
+<p>7. architecture</p>
+<p>8. digital versatile disk</p>
+<p>9. flash memory</p>
+<p>10. floppy disk</p>
+<p>11. memory</p>
+<p>12. random-access memory</p>
+<p>13. read-only memory</p>
+<p>14. start-up disk</p>
+<p>15. storage</p>
+<p>16. store</p>
+<p>17. keyboard</p>
+<p>18. scanner</p>
+<p>19. personal computer</p>
+<p>20. monitor</p>
+</contents>
+</unit>

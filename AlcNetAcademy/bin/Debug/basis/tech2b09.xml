@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 基礎コース -->
+
+<unit idx="09">
+
+<introduction>
+<title>暗号化技術</title>
+<read>&lt;font size="16" color="#000000"&gt;
+（学習のポイント）                   
+&lt;/font&gt;
+&lt;font size="16" color="#0000FF"&gt;
+ 品詞／動名詞／add
+&lt;/font&gt;
+&lt;br&gt;
+&lt;font size="16" color="#000000"&gt;
+デジタルネットワーク社会において情報の安全性を確保するための暗号化の話題です。動詞に -ing を付けると、動名詞または現在分詞として使えます。ここでは動名詞による表現を学習します。
+&lt;/font&gt;</read>
+</introduction>
+
+<notes>
+<w idx="1" name="access">
+<jp>アクセス</jp>
+<sound>tech2b09idx01_access.mp3</sound>
+</w>
+<w idx="2" name="code">
+<jp>暗号</jp>
+<sound>tech2b09idx02_code.mp3</sound>
+</w>
+<w idx="3" name="encrypt">
+<jp>暗号化する</jp>
+<sound>tech2b09idx03_encrypt.mp3</sound>
+</w>
+<w idx="4" name="algorithm">
+<jp>アルゴリズム</jp>
+<sound>tech2b09idx04_algorithm.mp3</sound>
+</w>
+<w idx="5" name="add">
+<jp>足し</jp>
+<sound>tech2b09idx05_add.mp3</sound>
+</w>
+<w idx="6" name="logic">
+<jp>論理</jp>
+<sound>tech2b09idx06_logic.mp3</sound>
+</w>
+</notes>
+
+
+<!-- Step1、Topic&Vocaburary -->
+<contents type="tech2bStep1">
+<p>　インターネットの普及に伴い、個人データの漏洩や不正<w idx="1">アクセス</w>といった問題が多発すると、<w idx="2">暗号</w>技術の必要性が高まった。情報を<w idx="3">暗号化する</w>場合、送り手側はデータを<w idx="4">アルゴリズム</w>と鍵とで混ぜ合わせ、元の情報を分からなくする（暗号化）。つまり、データを送信する前に、データにある数を<w idx="5">足し</w>てそのデータを暗号化する。この「足し算をする」という<w idx="6">論理</w>がアルゴリズム、「ある数」が鍵にあたる。受け手側は同じアルゴリズムと鍵を使って元に戻す（復号化）のである。</p>
+</contents>
+
+
+<!-- Step2、Writing1 -->
+<contents type="tech2bStep2">
+<instruction1>次の日本文から、幹セン（Ｓ・Ｖ・Ｏ）を抜き出そう。</instruction1>
+<instruction2>[先輩]ボタンを押して、先輩が書いた英文とあなたの英文を比べてみよう。</instruction2>
+<sentence>
+<ph idx="1">データを送信する前に、</ph>
+<ph idx="2" miki="true">データにある数を足して</ph>
+<ph idx="3" miki="true">そのデータを</ph>
+<ph idx="4" miki="true">暗号化する。</ph>
+</sentence>
+<mikisentence>
+<ph idx="1" type="S">データにある数を足して</ph>
+<ph idx="2" type="O">そのデータを</ph>
+<ph idx="3" type="V">暗号化する。</ph>
+</mikisentence>
+<hint text="">
+<ph idx="1">data</ph>
+<ph idx="2">number</ph>
+<ph idx="3">add</ph>
+<ph idx="4">encrypt</ph>
+</hint>
+<senior answer="C"><sel cd="A">Adding</sel> a <sel cd="B">number to data</sel> <sel cd="C">encrypt</sel> <sel cd="D">the data</sel>.</senior>
+<teach>Adding a certain number to data encrypts the data.</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　SVO の文型で、S（主語）と O（目的語）には、品詞（英語では part of speech と呼びます。会話の部品です）でいうと、名詞か代名詞が当てはまります。&lt;b&gt;理系の英文では代名詞はあまり使いません&lt;/b&gt;。代名詞が指す言葉を探す必要があるからです。名詞といっても範囲は広く、動詞の後ろに ing をつけた&lt;font color="#0000FF"&gt;動名詞&lt;/font&gt;や動詞の前に to をつけた&lt;font color="#0000FF"&gt;不定詞&lt;/font&gt;も S や O の候補です。&lt;br&gt;
+&lt;br&gt;
+　「データにある数を足すことはそのデータを暗号化する」と、少々読みとりにくいけれども伝えたい意味のはっきりした日本文にリライトすると、SVO の文型が見えてきます。「●（データ）に▲（ある数）を足す」 &lt;font color="#FF0000"&gt;add ▲ to ●&lt;/font&gt; をこのまま動名詞（動詞に ing をつけて作る）にすると、adding ▲ to ●. これを主語にすることができます。「暗号化する」という動詞には &lt;font color="#FF0000"&gt;encrypt&lt;/font&gt; を使ってください。&lt;br&gt;
+&lt;br&gt;
+　&lt;font color="#FF0000"&gt;data&lt;/font&gt; は、datum の複数形です。でも、data は単数にも複数にも扱います。同様の複数形のパターンに、medium（単数）、media（複数）があります。&lt;br&gt;
+&lt;br&gt;
+　「ある数」をどうするのか？ certain number が順当なところでしょう。「数」「数字」「数値」はそれぞれ、number、figure、value です。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　adding ▲ to ● という動名詞の主語は、私（１人称）でもあなた（２人称）でもなく、それ以外の３人称です。また複数には見えません。単数です。さらに、現在形です。こういうとき、すなわち３人称で単数で現在形（略して３単現）のときには動詞に s をつけてください。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step3、Writing2 -->
+<contents type="tech2bStep3">
+<hint text="">
+<ph idx="1">transmit</ph>
+</hint>
+</contents>
+
+
+<!-- Step4、Comparisons -->
+<contents type="tech2bStep4">
+<senior answer="1">Adding a certain number to data encrypts the data before transmiting the data.</senior>
+<teach>
+&lt;font size="20" color="#000000"&gt;
+Adding a certain number to data encrypts the data 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+before transmission
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+.
+&lt;/font&gt;
+</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　「データを送信する前に」のところは、そのまま、before transmitting the data でもよいのですが、そうすると、ひとつの単文の中に data が３回も出たことになり、目立ちすぎです。そこで、before transmission としました。日本語では「“送信する”前に」となっていますが、英文では名詞を使うことで簡潔に表すことができます。&lt;br&gt;
+&lt;br&gt;
+　手元の英文法書によれば、品詞は10種類に分類されています。理系の英文での重要品詞ベストテンを発表すると、第１位が動詞、第２位が前置詞、第３位が冠詞、以下、名詞、形容詞、接続詞、副詞、助動詞、代名詞、そして最下位は間投詞です。すべての品詞を、というより、まずは第３位までをたっぷり勉強しましょう。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　transmit の動名詞の正しいつづりは、transmitting です。スペルひとつでも間違いは間違い。スペルが不安になったらすぐ辞書を引きましょう。そのために手の届くところに辞書を置いてください。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step5、Exercisse -->
+<contents type="tech2bStep5" size="5">
+<instruction1>このユニットで登場した表現と、新しい表現を練習しよう。</instruction1>
+<question no="1" type="R">
+<textTrans>機密保護のためにデータは暗号化されて送信される。</textTrans>
+<text>Data is <sel cd="A" answer="1"></sel> for security before transmission.</text>
+<sel cd="A" idx="1">encrypted</sel>
+<sel cd="A" idx="2">encoded</sel>
+<sel cd="A" idx="3">coded</sel>
+<hint>
+<sound>tech2b09s5Q01.mp3</sound>
+</hint>
+<point>　data は datum の複数形ですが、単数扱いされます。 before transmission の部分は「送信する前に」と訳さずに、「…して送信される」と左から右に訳しましょう。</point>
+</question>
+
+<question no="2" type="R">
+<textTrans>他の成分を混合物に加えた。</textTrans>
+<text>The other ingredients were added <sel cd="A" answer="2"></sel> the mixture.</text>
+<sel cd="A" idx="1">on</sel>
+<sel cd="A" idx="2">to</sel>
+<sel cd="A" idx="3">in</sel>
+<hint>
+<sound>tech2b09s5Q02.mp3</sound>
+</hint>
+<point>　add A to B の形で、「A を B に加える」の意味です。受け身になっています。</point>
+</question>
+
+<question no="3" type="R">
+<textTrans>ノブを反時計回りに回しなさい。</textTrans>
+<text><sel cd="A" answer="2"></sel> the knob counterclockwise.</text>
+<sel cd="A" idx="1">Rotate</sel>
+<sel cd="A" idx="2">Turn</sel>
+<sel cd="A" idx="3">Touch</sel>
+<hint>
+<sound>tech2b09s5Q03.mp3</sound>
+</hint>
+<point>　turn が「回る」「回す」の意味にあたる最も一般的な語です。 rotate は車輪など「軸の周りを回転する（させる）」場合に使います。 clockwise（時計回りに）と counterclockwise（反時計回りに）を覚えましょう。</point>
+</question>
+
+<question no="4" type="R">
+<textTrans>ネジをネジ回しで締めなさい。</textTrans>
+<text><sel cd="A" answer="1"></sel> the screw with a screwdriver.</text>
+<sel cd="A" idx="1">Tighten</sel>
+<sel cd="A" idx="2">Close</sel>
+<sel cd="A" idx="3">Turn</sel>
+<hint>
+<sound>tech2b09s5Q04.mp3</sound>
+</hint>
+<point>　tighten（締める）の対立語は loosen（ゆるめる）。「ルースン」と発音して、濁りません。</point>
+</question>
+
+<question no="5" type="R">
+<textTrans>機構を詳しく説明しなさい。</textTrans>
+<text><sel cd="A" answer="3"></sel> the mechanism.</text>
+<sel cd="A" idx="1">Describe</sel>
+<sel cd="A" idx="2">Explain</sel>
+<sel cd="A" idx="3">Illustrate</sel>
+<hint>
+<sound>tech2b09s5Q05.mp3</sound>
+</hint>
+<point>　explain ... in detail（または details）を１語でいうと illustrate になります。</point>
+</question>
+</contents>
+
+
+<contents type="phrase">
+<p><ph idx="1">Adding a certain number to data encrypts the data before transmission.</ph></p>
+<p></p>
+<p><ph idx="2">1. Data is encrypted for security before transmission.</ph></p>
+<p><ph idx="3">2. The other ingredients were added to the mixture.</ph></p>
+<p><ph idx="4">3. Turn the knob counterclockwise.</ph></p>
+<p><ph idx="5">4. Tighten the screw with a screwdriver.</ph></p>
+<p><ph idx="6">5. Illustrate the mechanism.</ph></p>
+</contents>
+
+<contents type="translation">
+<p><ph idx="1">データを送信する前に、データにある数を足してそのデータを暗号化する。</ph></p>
+<p></p>
+<p><ph idx="2">1. 機密保護のためにデータは暗号化されて送信される。</ph></p>
+<p><ph idx="3">2. 他の成分を混合物に加えた。</ph></p>
+<p><ph idx="4">3. ノブを反時計回りに回しなさい。</ph></p>
+<p><ph idx="5">4. ネジをネジ回しで締めなさい。</ph></p>
+<p><ph idx="6">5. 機構を詳しく説明しなさい。</ph></p>
+</contents>
+
+
+</unit>

@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="41">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅱ 動詞・形容詞ほか,関連語</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">技術英語の基本的な表現に必要な語句をまとめました。同類の語句をまとめて覚えましょう。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="gas">
+<jp>気体</jp>
+<exp>【名】気体、ガス</exp>
+<sound>tech2v41idx01_gas.mp3</sound>
+</w>
+<w idx="2" name="liquid">
+<jp>液体</jp>
+<exp>【名】液体　【形】液体の</exp>
+<sound>tech2v41idx02_liquid.mp3</sound>
+</w>
+<w idx="3" name="solid">
+<jp>固体</jp>
+<exp>【名】固体　【形】固体の</exp>
+<sound>tech2v41idx03_solid.mp3</sound>
+</w>
+<w idx="4" name="heat energy">
+<jp>熱エネルギー</jp>
+<exp>【名】熱エネルギー</exp>
+<sound>tech2v41idx04_heat_energy.mp3</sound>
+</w>
+<w idx="5" name="mechanical energy">
+<jp>力学的エネルギー</jp>
+<exp>【名】力学的エネルギー</exp>
+<sound>tech2v41idx05_mechanical_energy.mp3</sound>
+</w>
+<w idx="6" name="potential energy">
+<jp>位置エネルギー</jp>
+<exp>【名】位置エネルギー</exp>
+<sound>tech2v41idx06_potential_energy.mp3</sound>
+</w>
+<w idx="7" name="hardness">
+<jp>硬さ</jp>
+<exp>【名】硬さ</exp>
+<sound>tech2v41idx07_hardness.mp3</sound>
+</w>
+<w idx="8" name="size">
+<jp>大きさ</jp>
+<exp>【名】大きさ</exp>
+<sound>tech2v41idx08_size.mp3</sound>
+</w>
+<w idx="9" name="thickness">
+<jp>厚さ</jp>
+<exp>【名】厚さ</exp>
+<sound>tech2v41idx09_thickness.mp3</sound>
+</w>
+<w idx="10" name="weight">
+<jp>重さ</jp>
+<exp>【名】重さ</exp>
+<sound>tech2v41idx10_weight.mp3</sound>
+</w>
+<w idx="11" name="width">
+<jp>幅</jp>
+<exp>【名】幅</exp>
+<sound>tech2v41idx11_width.mp3</sound>
+</w>
+<w idx="12" name="depth">
+<jp>深さ</jp>
+<exp>【名】深さ、奥行</exp>
+<sound>tech2v41idx12_depth.mp3</sound>
+</w>
+<w idx="13" name="height">
+<jp>高さ</jp>
+<exp>【名】高さ</exp>
+<sound>tech2v41idx13_height.mp3</sound>
+</w>
+<w idx="14" name="length">
+<jp>長さ</jp>
+<exp>【名】長さ</exp>
+<sound>tech2v41idx14_length.mp3</sound>
+</w>
+<w idx="15" name="strength">
+<jp>強さ</jp>
+<exp>【名】強さ</exp>
+<sound>tech2v41idx15_strength.mp3</sound>
+</w>
+<w idx="16" name="buoyancy">
+<jp>浮力</jp>
+<exp>【名】浮力</exp>
+<sound>tech2v41idx16_buoyancy.mp3</sound>
+</w>
+<w idx="17" name="gravity">
+<jp>重力</jp>
+<exp>【名】重力</exp>
+<sound>tech2v41idx17_gravity.mp3</sound>
+</w>
+<w idx="18" name="pressure">
+<jp>圧力</jp>
+<exp>【名】圧力</exp>
+<sound>tech2v41idx18_pressure.mp3</sound>
+</w>
+<w idx="19" name="stress">
+<jp>応力</jp>
+<exp>【名】応力</exp>
+<sound>tech2v41idx19_stress.mp3</sound>
+</w>
+<w idx="20" name="tension">
+<jp>張力</jp>
+<exp>【名】張力</exp>
+<sound>tech2v41idx20_tension.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. gas</p>
+<p>2. liquid</p>
+<p>3. solid</p>
+<p>4. heat energy</p>
+<p>5. mechanical energy</p>
+<p>6. potential energy</p>
+<p>7. hardness</p>
+<p>8. size</p>
+<p>9. thickness</p>
+<p>10. weight</p>
+<p>11. width</p>
+<p>12. depth</p>
+<p>13. height</p>
+<p>14. length</p>
+<p>15. strength</p>
+<p>16. buoyancy</p>
+<p>17. gravity</p>
+<p>18. pressure</p>
+<p>19. stress</p>
+<p>20. tension</p>
+</contents>
+</unit>

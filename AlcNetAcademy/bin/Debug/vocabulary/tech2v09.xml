@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="09">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅰ 専門分野別,電気２</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">電気の分野でよく使われる語句です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="charge">
+<jp>充電</jp>
+<exp>【名】充電、電荷　【動】充電する</exp>
+<sound>tech2v09idx01_charge.mp3</sound>
+</w>
+<w idx="2" name="discharge">
+<jp>放電</jp>
+<exp>【名】放電　【動】放電する</exp>
+<sound>tech2v09idx02_discharge.mp3</sound>
+</w>
+<w idx="3" name="fuel cell">
+<jp>燃料電池</jp>
+<exp>【名】燃料電池</exp>
+<sound>tech2v09idx03_fuel_cell.mp3</sound>
+</w>
+<w idx="4" name="fuse">
+<jp>ヒューズ</jp>
+<exp>【名】ヒューズ</exp>
+<sound>tech2v09idx04_fuse.mp3</sound>
+</w>
+<w idx="5" name="insulate">
+<jp>絶縁する</jp>
+<exp>【動】絶縁する</exp>
+<sound>tech2v09idx05_insulate.mp3</sound>
+</w>
+<w idx="6" name="insulator">
+<jp>絶縁物</jp>
+<exp>【名】絶縁物、絶縁体</exp>
+<sound>tech2v09idx06_insulator.mp3</sound>
+</w>
+<w idx="7" name="load">
+<jp>負荷</jp>
+<exp>【名】負荷　【動】負荷をかける</exp>
+<sound>tech2v09idx07_load.mp3</sound>
+</w>
+<w idx="8" name="power cord">
+<jp>電源コード</jp>
+<exp>【名】電源コード</exp>
+<sound>tech2v09idx08_power_cord.mp3</sound>
+</w>
+<w idx="9" name="power failure">
+<jp>停電</jp>
+<exp>【名】停電、電源障害</exp>
+<sound>tech2v09idx09_power_failure.mp3</sound>
+</w>
+<w idx="10" name="power line">
+<jp>電気系統</jp>
+<exp>【名】電気系統、送電線</exp>
+<sound>tech2v09idx10_power_line.mp3</sound>
+</w>
+<w idx="11" name="short circuit">
+<jp>短絡回路</jp>
+<exp>【名】短絡回路</exp>
+<sound>tech2v09idx11_short_circuit.mp3</sound>
+</w>
+<w idx="12" name="transformer">
+<jp>変圧器</jp>
+<exp>【名】変圧器</exp>
+<sound>tech2v09idx12_transformer.mp3</sound>
+</w>
+<w idx="13" name="generator">
+<jp>発電機</jp>
+<exp>【名】発電機、発生器</exp>
+<sound>tech2v09idx13_generator.mp3</sound>
+</w>
+<w idx="14" name="conduction">
+<jp>伝導</jp>
+<exp>【名】伝導</exp>
+<sound>tech2v09idx14_conduction.mp3</sound>
+</w>
+<w idx="15" name="conductor">
+<jp>導体</jp>
+<exp>【名】導体</exp>
+<sound>tech2v09idx15_conductor.mp3</sound>
+</w>
+<w idx="16" name="diode">
+<jp>ダイオード</jp>
+<exp>【名】ダイオード</exp>
+<sound>tech2v09idx16_diode.mp3</sound>
+</w>
+<w idx="17" name="semiconductor">
+<jp>半導体</jp>
+<exp>【名】半導体</exp>
+<sound>tech2v09idx17_semiconductor.mp3</sound>
+</w>
+<w idx="18" name="transistor">
+<jp>トランジスタ</jp>
+<exp>【名】トランジスタ</exp>
+<sound>tech2v09idx18_transistor.mp3</sound>
+</w>
+<w idx="19" name="device">
+<jp>素子</jp>
+<exp>【名】素子、装置、デバイス</exp>
+<sound>tech2v09idx19_device.mp3</sound>
+</w>
+<w idx="20" name="superconductivity">
+<jp>超電導</jp>
+<exp>【名】超電導</exp>
+<sound>tech2v09idx20_superconductivity.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. charge</p>
+<p>2. discharge</p>
+<p>3. fuel cell</p>
+<p>4. fuse</p>
+<p>5. insulate</p>
+<p>6. insulator</p>
+<p>7. load</p>
+<p>8. power cord</p>
+<p>9. power failure</p>
+<p>10. power line</p>
+<p>11. short circuit</p>
+<p>12. transformer</p>
+<p>13. generator</p>
+<p>14. conduction</p>
+<p>15. conductor</p>
+<p>16. diode</p>
+<p>17. semiconductor</p>
+<p>18. transistor</p>
+<p>19. device</p>
+<p>20. superconductivity</p>
+</contents>
+</unit>

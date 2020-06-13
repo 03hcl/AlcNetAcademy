@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="24">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅱ 動詞・形容詞ほか,動詞３</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">技術英語でよく使われる動詞です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="condense">
+<jp>凝縮する</jp>
+<exp>【動】凝縮する、集光する、圧縮する</exp>
+<sound>tech2v24idx01_condense.mp3</sound>
+</w>
+<w idx="2" name="eliminate">
+<jp>除去する</jp>
+<exp>【動】除去する、消去する</exp>
+<sound>tech2v24idx02_eliminate.mp3</sound>
+</w>
+<w idx="3" name="produce">
+<jp>生産する</jp>
+<exp>【動】生産する</exp>
+<sound>tech2v24idx03_produce.mp3</sound>
+</w>
+<w idx="4" name="generate">
+<jp>（電気などを）発生させる</jp>
+<exp>【動】（電気・熱・信号などを）発生させる、生成する</exp>
+<sound>tech2v24idx04_generate.mp3</sound>
+</w>
+<w idx="5" name="discover">
+<jp>発見する</jp>
+<exp>【動】発見する</exp>
+<sound>tech2v24idx05_discover.mp3</sound>
+</w>
+<w idx="6" name="compress">
+<jp>圧縮する</jp>
+<exp>【動】圧縮する</exp>
+<sound>tech2v24idx06_compress.mp3</sound>
+</w>
+<w idx="7" name="appear">
+<jp>現れる</jp>
+<exp>【動】現れる、生ずる</exp>
+<sound>tech2v24idx07_appear.mp3</sound>
+</w>
+<w idx="8" name="maintain">
+<jp>維持する</jp>
+<exp>【動】維持する</exp>
+<sound>tech2v24idx08_maintain.mp3</sound>
+</w>
+<w idx="9" name="depend">
+<jp>依存する</jp>
+<exp>【動】依存する</exp>
+<sound>tech2v24idx09_depend.mp3</sound>
+</w>
+<w idx="10" name="print">
+<jp>印刷する</jp>
+<exp>【動】印刷する</exp>
+<sound>tech2v24idx10_print.mp3</sound>
+</w>
+<w idx="11" name="float">
+<jp>浮かぶ</jp>
+<exp>【動】浮かぶ</exp>
+<sound>tech2v24idx11_float.mp3</sound>
+</w>
+<w idx="12" name="receive">
+<jp>受ける</jp>
+<exp>【動】受ける</exp>
+<sound>tech2v24idx12_receive.mp3</sound>
+</w>
+<w idx="13" name="behave">
+<jp>（機械などが）動く</jp>
+<exp>【動】（機械などが）動く、動作する</exp>
+<sound>tech2v24idx13_behave.mp3</sound>
+</w>
+<w idx="14" name="lose">
+<jp>失う</jp>
+<exp>【動】失う</exp>
+<sound>tech2v24idx14_lose.mp3</sound>
+</w>
+<w idx="15" name="slice">
+<jp>薄く切る</jp>
+<exp>【動】薄く切る</exp>
+<sound>tech2v24idx15_slice.mp3</sound>
+</w>
+<w idx="16" name="skim">
+<jp>上澄みをすくう</jp>
+<exp>【動】上澄みをすくう</exp>
+<sound>tech2v24idx16_skim.mp3</sound>
+</w>
+<w idx="17" name="select">
+<jp>選ぶ</jp>
+<exp>【動】選ぶ</exp>
+<sound>tech2v24idx17_select.mp3</sound>
+</w>
+<w idx="18" name="assist">
+<jp>援助する</jp>
+<exp>【動】援助する</exp>
+<sound>tech2v24idx18_assist.mp3</sound>
+</w>
+<w idx="19" name="extend">
+<jp>延長する</jp>
+<exp>【動】延長する</exp>
+<sound>tech2v24idx19_extend.mp3</sound>
+</w>
+<w idx="20" name="respond">
+<jp>応答する</jp>
+<exp>【動】応答する</exp>
+<sound>tech2v24idx20_respond.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. condense</p>
+<p>2. eliminate</p>
+<p>3. produce</p>
+<p>4. generate</p>
+<p>5. discover</p>
+<p>6. compress</p>
+<p>7. appear</p>
+<p>8. maintain</p>
+<p>9. depend</p>
+<p>10. print</p>
+<p>11. float</p>
+<p>12. receive</p>
+<p>13. behave</p>
+<p>14. lose</p>
+<p>15. slice</p>
+<p>16. skim</p>
+<p>17. select</p>
+<p>18. assist</p>
+<p>19. extend</p>
+<p>20. respond</p>
+</contents>
+</unit>

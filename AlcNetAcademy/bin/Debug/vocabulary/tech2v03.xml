@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="03">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅰ 専門分野別 ,物理１</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">物理でよく使われる語句です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="acceleration">
+<jp>加速度</jp>
+<exp>【名】加速度</exp>
+<sound>tech2v03idx01_acceleration.mp3</sound>
+</w>
+<w idx="2" name="action">
+<jp>作用</jp>
+<exp>【名】作用</exp>
+<sound>tech2v03idx02_action.mp3</sound>
+</w>
+<w idx="3" name="echo">
+<jp>反響波</jp>
+<exp>【名】反響波</exp>
+<sound>tech2v03idx03_echo.mp3</sound>
+</w>
+<w idx="4" name="energy">
+<jp>エネルギー</jp>
+<exp>【名】エネルギー</exp>
+<sound>tech2v03idx04_energy.mp3</sound>
+</w>
+<w idx="5" name="field">
+<jp>場</jp>
+<exp>【名】場、分野</exp>
+<sound>tech2v03idx05_field.mp3</sound>
+</w>
+<w idx="6" name="frequency">
+<jp>周波数</jp>
+<exp>【名】周波数、振動数</exp>
+<sound>tech2v03idx06_frequency.mp3</sound>
+</w>
+<w idx="7" name="friction">
+<jp>摩擦</jp>
+<exp>【名】摩擦</exp>
+<sound>tech2v03idx07_friction.mp3</sound>
+</w>
+<w idx="8" name="heat">
+<jp>熱</jp>
+<exp>【名】熱　【動】熱する</exp>
+<sound>tech2v03idx08_heat.mp3</sound>
+</w>
+<w idx="9" name="inertia">
+<jp>慣性</jp>
+<exp>【名】慣性</exp>
+<sound>tech2v03idx09_inertia.mp3</sound>
+</w>
+<w idx="10" name="kinetic energy">
+<jp>運動エネルギー</jp>
+<exp>【名】運動エネルギー</exp>
+<sound>tech2v03idx10_kinetic_energy.mp3</sound>
+</w>
+<w idx="11" name="mass">
+<jp>質量</jp>
+<exp>【名】質量</exp>
+<sound>tech2v03idx11_mass.mp3</sound>
+</w>
+<w idx="12" name="motion">
+<jp>運動</jp>
+<exp>【名】運動</exp>
+<sound>tech2v03idx12_motion.mp3</sound>
+</w>
+<w idx="13" name="pendulum">
+<jp>振り子</jp>
+<exp>【名】振り子</exp>
+<sound>tech2v03idx13_pendulum.mp3</sound>
+</w>
+<w idx="14" name="reflection">
+<jp>反射</jp>
+<exp>【名】反射</exp>
+<sound>tech2v03idx14_reflection.mp3</sound>
+</w>
+<w idx="15" name="sound">
+<jp>音</jp>
+<exp>【名】音</exp>
+<sound>tech2v03idx15_sound.mp3</sound>
+</w>
+<w idx="16" name="sound wave">
+<jp>音波</jp>
+<exp>【名】音波</exp>
+<sound>tech2v03idx16_sound_wave.mp3</sound>
+</w>
+<w idx="17" name="specific gravity">
+<jp>比重</jp>
+<exp>【名】比重</exp>
+<sound>tech2v03idx17_specific_gravity.mp3</sound>
+</w>
+<w idx="18" name="substance">
+<jp>物質</jp>
+<exp>【名】物質</exp>
+<sound>tech2v03idx18_substance.mp3</sound>
+</w>
+<w idx="19" name="ultrasonic wave">
+<jp>超音波</jp>
+<exp>【名】超音波</exp>
+<sound>tech2v03idx19_ultrasonic_wave.mp3</sound>
+</w>
+<w idx="20" name="vibration">
+<jp>振動</jp>
+<exp>【名】振動</exp>
+<sound>tech2v03idx20_vibration.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. acceleration</p>
+<p>2. action</p>
+<p>3. echo</p>
+<p>4. energy</p>
+<p>5. field</p>
+<p>6. frequency</p>
+<p>7. friction</p>
+<p>8. heat</p>
+<p>9. inertia</p>
+<p>10. kinetic energy</p>
+<p>11. mass</p>
+<p>12. motion</p>
+<p>13. pendulum</p>
+<p>14. reflection</p>
+<p>15. sound</p>
+<p>16. sound wave</p>
+<p>17. specific gravity</p>
+<p>18. substance</p>
+<p>19. ultrasonic wave</p>
+<p>20. vibration</p>
+</contents>
+</unit>

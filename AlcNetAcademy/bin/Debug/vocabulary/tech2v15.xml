@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="15">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅰ 専門分野別,情報・通信</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">情報・通信の分野でよく使われる語句です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="access">
+<jp>呼び出し</jp>
+<exp>【名】呼び出し、アクセス</exp>
+<sound>tech2v15idx01_access.mp3</sound>
+</w>
+<w idx="2" name="bulletin board">
+<jp>掲示板</jp>
+<exp>【名】掲示板</exp>
+<sound>tech2v15idx02_bulletin_board.mp3</sound>
+</w>
+<w idx="3" name="screen">
+<jp>画面</jp>
+<exp>【名】画面</exp>
+<sound>tech2v15idx03_screen.mp3</sound>
+</w>
+<w idx="4" name="population">
+<jp>母集団</jp>
+<exp>【名】母集団、人口</exp>
+<sound>tech2v15idx04_population.mp3</sound>
+</w>
+<w idx="5" name="statistics">
+<jp>統計</jp>
+<exp>【名】統計</exp>
+<sound>tech2v15idx05_statistics.mp3</sound>
+</w>
+<w idx="6" name="array">
+<jp>配列</jp>
+<exp>【名】配列</exp>
+<sound>tech2v15idx06_array.mp3</sound>
+</w>
+<w idx="7" name="dialog">
+<jp>対話</jp>
+<exp>【名】対話</exp>
+<sound>tech2v15idx07_dialog.mp3</sound>
+</w>
+<w idx="8" name="entropy">
+<jp>エントロピー</jp>
+<exp>【名】エントロピー</exp>
+<sound>tech2v15idx08_entropy.mp3</sound>
+</w>
+<w idx="9" name="assembler">
+<jp>アセンブラ</jp>
+<exp>【名】アセンブラ</exp>
+<sound>tech2v15idx09_assembler.mp3</sound>
+</w>
+<w idx="10" name="format">
+<jp>書式</jp>
+<exp>【名】書式</exp>
+<sound>tech2v15idx10_format.mp3</sound>
+</w>
+<w idx="11" name="telecommunication">
+<jp>電気通信</jp>
+<exp>【名】電気通信</exp>
+<sound>tech2v15idx11_telecommunication.mp3</sound>
+</w>
+<w idx="12" name="frequency modulation">
+<jp>周波数変調（ＦＭ）</jp>
+<exp>【名】周波数変調（ＦＭ）</exp>
+<sound>tech2v15idx12_frequency_modulation.mp3</sound>
+</w>
+<w idx="13" name="routine">
+<jp>ルーチン</jp>
+<exp>【名】ルーチン</exp>
+<sound>tech2v15idx13_routine.mp3</sound>
+</w>
+<w idx="14" name="intercom">
+<jp>相互通信機</jp>
+<exp>【名】相互通信機、インターホン</exp>
+<sound>tech2v15idx14_intercom.mp3</sound>
+</w>
+<w idx="15" name="leased line">
+<jp>専用回線</jp>
+<exp>【名】専用回線</exp>
+<sound>tech2v15idx15_leased_line.mp3</sound>
+</w>
+<w idx="16" name="optical fiber cable">
+<jp>光ファイバーケーブル</jp>
+<exp>【名】光ファイバーケーブル</exp>
+<sound>tech2v15idx16_optical_fiber_cable.mp3</sound>
+</w>
+<w idx="17" name="Internet">
+<jp>インターネット</jp>
+<exp>【名】インターネット</exp>
+<sound>tech2v15idx17_Internet.mp3</sound>
+</w>
+<w idx="18" name="Intranet">
+<jp>イントラネット</jp>
+<exp>【名】イントラネット</exp>
+<sound>tech2v15idx18_Intranet.mp3</sound>
+</w>
+<w idx="19" name="floating point">
+<jp>浮動小数点</jp>
+<exp>【名】浮動小数点</exp>
+<sound>tech2v15idx19_floating_point.mp3</sound>
+</w>
+<w idx="20" name="radio signals">
+<jp>無線信号</jp>
+<exp>【名】無線信号</exp>
+<sound>tech2v15idx20_radio_signals.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. access</p>
+<p>2. bulletin board</p>
+<p>3. screen</p>
+<p>4. population</p>
+<p>5. statistics</p>
+<p>6. array</p>
+<p>7. dialog</p>
+<p>8. entropy</p>
+<p>9. assembler</p>
+<p>10. format</p>
+<p>11. telecommunication</p>
+<p>12. frequency modulation</p>
+<p>13. routine</p>
+<p>14. intercom</p>
+<p>15. leased line</p>
+<p>16. optical fiber cable</p>
+<p>17. Internet</p>
+<p>18. Intranet</p>
+<p>19. floating point</p>
+<p>20. radio signals</p>
+</contents>
+</unit>

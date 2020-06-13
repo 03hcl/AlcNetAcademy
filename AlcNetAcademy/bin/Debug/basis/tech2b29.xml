@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 基礎コース -->
+
+<unit idx="29">
+
+<introduction>
+<title>コンピュータウイルスの感染</title>
+<read>&lt;font size="16" color="#000000"&gt;
+（学習のポイント）                   
+&lt;/font&gt;
+&lt;font size="16" color="#0000FF"&gt;
+the + 比較級／virus
+&lt;/font&gt;
+&lt;br&gt;
+&lt;font size="16" color="#000000"&gt;
+ネットワークを利用する限り、コンピュータウイルスの対策は必須です。このユニットでは、「…すればするほど」という比較級を使った表現を学習します。 The shorter, the better. が理系の基本です。
+&lt;/font&gt;</read>
+</introduction>
+
+
+<notes>
+<w idx="1" name="screen">
+<jp>画面</jp>
+<sound>tech2b29idx01_screen.mp3</sound>
+</w>
+<w idx="2" name="message">
+<jp>メッセージ</jp>
+<sound>tech2b29idx02_message.mp3</sound>
+</w>
+<w idx="3" name="program">
+<jp>プログラム</jp>
+<sound>tech2b29idx03_program.mp3</sound>
+</w>
+<w idx="4" name="computer virus">
+<jp>コンピュータウイルス</jp>
+<sound>tech2b29idx04_computer_virus.mp3</sound>
+</w>
+<w idx="5" name="infection">
+<jp>感染</jp>
+<sound>tech2b29idx05_infection.mp3</sound>
+</w>
+<w idx="6" name="incubation time">
+<jp>潜伏期間</jp>
+<sound>tech2b29idx06_incubation_time.mp3</sound>
+</w>
+</notes>
+
+
+<!-- Step1、Topic&Vocaburary -->
+<contents type="tech2bStep1">
+<p>　コンピュータ内のデータを破壊したり、<w idx="1">画面</w>に無意味な<w idx="2">メッセージ</w>を表示するなど、他人に害を及ぼす目的で作られた<w idx="3">プログラム</w>を<w idx="4">コンピュータウイルス</w>という。人間に<w idx="5">感染</w>するウイルスと同様に、感染、潜伏、発病といったプロセスを経るのでこう呼ばれる。<w idx="6">潜伏期間</w>が長いコンピュータウイルスはそれだけ発見しにくい。そのため、感染に気づかないままコンピュータを使用し続けて他のコンピュータにウイルスを感染させてしまうことがある。</p>
+</contents>
+
+
+<!-- Step2、Writing1 -->
+<contents type="tech2bStep2">
+<instruction1>次の日本文から、幹センを抜き出そう。</instruction1>
+<instruction2>[先輩]ボタンを押して、先輩が書いた英文とあなたの英文を比べてみよう。</instruction2>
+<sentence>
+<ph idx="1">潜伏期間が</ph>
+<ph idx="2">長い</ph>
+<ph idx="3" miki="true">コンピュータウイルスは</ph>
+<ph idx="4">それだけ</ph>
+<ph idx="5" miki="true">発見しにくい。</ph>
+</sentence>
+<mikisentence>
+<ph idx="1" type="S">コンピュータウイルスは</ph>
+<ph idx="2" type="C">発見しにくい。</ph>
+</mikisentence>
+<hint text="">
+<ph idx="1">detect</ph>
+</hint>
+<senior answer="D"><sel cd="A">It is</sel> <sel cd="B">difficult</sel> to <sel cd="C">detect</sel> a <sel cd="D">computer wirus</sel>.</senior>
+<teach>A computer virus is difficult to detect.</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　コンピュータウイルスは発見しにくい。&lt;br&gt;
+　　It is difficult to detect a computer virus.&lt;br&gt;
+としなくても、&lt;br&gt;
+　　&lt;b&gt;A computer virus is difficult to detect.&lt;/b&gt;&lt;br&gt;
+で済みます。同じように、「この問題は解きやすい」「この問題は解きにくい」はそれぞれ&lt;br&gt;
+　This problem is easy to solve.  This problem is difficult to solve.&lt;br&gt;
+です。「形式主語」は、できれば使わない方が読み手に苦労をさせません。読み手に内容を分かりやすく、正しく伝えることを第一に考えることが理系の英文なのです。何よりも readable な文章にこだわっています。このあたりが受験英語とは違うのです。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　「ウイルス」はカタカナ英語です。英語の virus の読み方はヴァイアラスです。同類に、ワクチン &lt;font color="#FF0000"&gt;vaccine&lt;/font&gt; があります。読み方はヴァクシンです。間違えずに「ばく進」してください。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step3、Writing2 -->
+<contents type="tech2bStep3">
+<hint text="">
+<ph idx="1">long</ph>
+<ph idx="2">incubation time</ph>
+</hint>
+</contents>
+
+
+<!-- Step4、Comparisons -->
+<contents type="tech2bStep4">
+<senior answer="8">The computer virus whose incubation time is long is difficult to detect.</senior>
+<teach>
+&lt;font size="20" color="#0000FF"&gt;
+The longer the incubation time of a computer virus, the more 
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+difficult 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+the 
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+virus is to detect.
+&lt;/font&gt;
+</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　忘れた頃にやってくる「すればするほど」の構文です。&lt;br&gt;
+　　&lt;b&gt;The shorter, the better.  短ければ短いほどよい。&lt;/b&gt;&lt;br&gt;
+これは文章を書くときの基本です。&lt;br&gt;
+&lt;br&gt;
+　「すればするほど」構文の作り方は３つのステップからなります。①普通の文をふたつ書く、②形容詞や副詞を the 付きの比較級にする、③ the 付きの比較級を文頭に出して、ふたつの文をコンマでつなぐ。これで出来上がりです。&lt;br&gt;
+　①　An incubation time of a computer virus is long.&lt;br&gt;
+　　　 そして The virus is difficult to detect.&lt;br&gt;
+　②　An incubation time of a computer virus is the longer.&lt;br&gt;
+　　　 The virus is the more difficult to detect.&lt;br&gt;
+　③　The longer an incubation time of a computer virus, the more difficult the virus is to detect.&lt;br&gt;
+&lt;br&gt;
+　「&lt;font color="#0000FF"&gt;the + 比較級, the + 比較級&lt;/font&gt;」の形の文では、省略できるところはなるべく省略します。この場合では、前の文から is を省きます。 The shorter it is, the better it is. の前後の文から it is を省くと、The shorter, the better. になります。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　なかなかの力作です。しかしながら、関係詞の中でも whose はほとんど使われません。課題文のニュアンス「●●はそれだけ発見しにくい」を表現するには、「the + 比較級, the + 比較級」の構文であればそれだけでよいのです。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step5、Exercisse -->
+<contents type="tech2bStep5" size="5">
+<instruction1>このユニットで登場した表現に関連する表現、新しい表現を練習しよう。</instruction1>
+<question no="1" type="R">
+<textTrans>pHは培養中に変化しなかった。</textTrans>
+<text>The pH did not change <sel cd="A" answer="3"></sel> incubation.</text>
+<sel cd="A" idx="1">in</sel>
+<sel cd="A" idx="2">within</sel>
+<sel cd="A" idx="3">during</sel>
+<hint>
+<sound>tech2b29s5Q01.mp3</sound>
+</hint>
+<point>　「培養中」のように「（特定の）期間」には during を使います。</point>
+</question>
+
+<question no="2" type="R">
+<textTrans>患者はマラリアに感染した。</textTrans>
+<text>The patient was infected <sel cd="A" answer="1"></sel> malaria.</text>
+<sel cd="A" idx="1">with</sel>
+<sel cd="A" idx="2">by</sel>
+<sel cd="A" idx="3">of</sel>
+<hint>
+<sound>tech2b29s5Q02.mp3</sound>
+</hint>
+<point>　「infect ヒト with 病気」のパターンを、ヒトを主語にして受け身にすると、「ヒト is infected with 病気」になります。</point>
+</question>
+
+<question no="3" type="R">
+<textTrans>鉄の膨張率は温度によらず一定である。</textTrans>
+<text>The expansion rate of iron is constant irrespective <sel cd="A" answer="1"></sel> temperature.</text>
+<sel cd="A" idx="1">of</sel>
+<sel cd="A" idx="2">to</sel>
+<sel cd="A" idx="3">for</sel>
+<hint>
+<sound>tech2b29s5Q03.mp3</sound>
+</hint>
+<point>　「…とは無関係に」「…にかかわらず」は irrespective of ... です。</point>
+</question>
+
+<question no="4" type="R">
+<textTrans>光がプリズムを通る。</textTrans>
+<text>Light passes <sel cd="A" answer="2"></sel> a prism.</text>
+<sel cd="A" idx="1">across</sel>
+<sel cd="A" idx="2">through</sel>
+<sel cd="A" idx="3">in</sel>
+<hint>
+<sound>tech2b29s5Q04.mp3</sound>
+</hint>
+<point>　「通り抜ける」で pass through です。 across では「通り越して」の意味になってしまいます。</point>
+</question>
+
+<question no="5" type="R">
+<textTrans>温度が上昇して、水銀柱が上がった。</textTrans>
+<text>A rise <sel cd="A" answer="3"></sel> temperature caused the column of Hg to rise.</text>
+<sel cd="A" idx="1">of</sel>
+<sel cd="A" idx="2">for</sel>
+<sel cd="A" idx="3">in</sel>
+<hint>
+<sound>tech2b29s5Q05.mp3</sound>
+</hint>
+<point>　「…の上昇、…の増加、…の減少、…の変化」はそれぞれ in を使って、rise in ... 、increase in ... 、decrease in ... 、change in ... と表します。</point>
+</question>
+</contents>
+
+
+<contents type="phrase">
+<p><ph idx="1">The longer the incubation time of a computer virus, the more difficult the virus is to detect.</ph></p>
+<p></p>
+<p><ph idx="2">1. The pH did not change during incubation.</ph></p>
+<p><ph idx="3">2. The patient was infected with malaria.</ph></p>
+<p><ph idx="4">3. The expansion rate of iron is constant irrespective of temperature.</ph></p>
+<p><ph idx="5">4. Light passes through a prism.</ph></p>
+<p><ph idx="6">5. A rise in temperature caused the column of Hg to rise.</ph></p>
+</contents>
+
+<contents type="translation">
+<p><ph idx="1">潜伏期間が長いコンピュータウイルスはそれだけ発見しにくい。</ph></p>
+<p></p>
+<p><ph idx="2">1. pHは培養中に変化しなかった。</ph></p>
+<p><ph idx="3">2. 患者はマラリアに感染した。</ph></p>
+<p><ph idx="4">3. 鉄の膨張率は温度によらず一定である。</ph></p>
+<p><ph idx="5">4. 光がプリズムを通る。</ph></p>
+<p><ph idx="6">5. 温度が上昇して、水銀柱が上がった。</ph></p>
+</contents>
+
+
+</unit>

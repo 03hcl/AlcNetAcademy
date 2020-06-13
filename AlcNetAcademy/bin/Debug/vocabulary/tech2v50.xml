@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="50">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅲ 科学基礎,科学基礎９</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">科学全般に共通する基礎語彙力を身につけます。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="spare">
+<jp>予備の</jp>
+<exp>【名】スペア　【形】予備の</exp>
+<sound>tech2v50idx01_spare.mp3</sound>
+</w>
+<w idx="2" name="display">
+<jp>表示</jp>
+<exp>【名】表示、ディスプレイ　【動】表示する</exp>
+<sound>tech2v50idx02_display.mp3</sound>
+</w>
+<w idx="3" name="balance">
+<jp>平衡</jp>
+<exp>【名】平衡、天秤　【動】平衡を保たせる</exp>
+<sound>tech2v50idx03_balance.mp3</sound>
+</w>
+<w idx="4" name="rare metal">
+<jp>貴金属</jp>
+<exp>【名】貴金属</exp>
+<sound>tech2v50idx04_rare_metal.mp3</sound>
+</w>
+<w idx="5" name="coal">
+<jp>石炭</jp>
+<exp>【名】石炭</exp>
+<sound>tech2v50idx05_coal.mp3</sound>
+</w>
+<w idx="6" name="petroleum">
+<jp>石油</jp>
+<exp>【名】石油</exp>
+<sound>tech2v50idx06_petroleum.mp3</sound>
+</w>
+<w idx="7" name="lime">
+<jp>石灰</jp>
+<exp>【名】石灰</exp>
+<sound>tech2v50idx07_lime.mp3</sound>
+</w>
+<w idx="8" name="diamond">
+<jp>ダイヤモンド</jp>
+<exp>【名】ダイヤモンド</exp>
+<sound>tech2v50idx08_diamond.mp3</sound>
+</w>
+<w idx="9" name="mechanic">
+<jp>機械工</jp>
+<exp>【名】機械工、整備士</exp>
+<sound>tech2v50idx09_mechanic.mp3</sound>
+</w>
+<w idx="10" name="engineer">
+<jp>技師</jp>
+<exp>【名】技師</exp>
+<sound>tech2v50idx10_engineer.mp3</sound>
+</w>
+<w idx="11" name="thrust">
+<jp>推力</jp>
+<exp>【名】推力</exp>
+<sound>tech2v50idx11_thrust.mp3</sound>
+</w>
+<w idx="12" name="line">
+<jp>線路</jp>
+<exp>【名】線路、ライン</exp>
+<sound>tech2v50idx12_line.mp3</sound>
+</w>
+<w idx="13" name="rod">
+<jp>ロッド</jp>
+<exp>【名】ロッド、棒、桿状体（かんじょうたい）</exp>
+<sound>tech2v50idx13_rod.mp3</sound>
+</w>
+<w idx="14" name="drip">
+<jp>滴下</jp>
+<exp>【名】滴下、ドリップ　【動】滴る</exp>
+<sound>tech2v50idx14_drip.mp3</sound>
+</w>
+<w idx="15" name="electric power">
+<jp>電力</jp>
+<exp>【名】電力</exp>
+<sound>tech2v50idx15_electric_power.mp3</sound>
+</w>
+<w idx="16" name="hydraulic power">
+<jp>水力</jp>
+<exp>【名】水力</exp>
+<sound>tech2v50idx16_hydraulic_power.mp3</sound>
+</w>
+<w idx="17" name="fusion reactor">
+<jp>核融合反応炉</jp>
+<exp>【名】核融合反応炉</exp>
+<sound>tech2v50idx17_fusion_reactor.mp3</sound>
+</w>
+<w idx="18" name="nuclear fusion">
+<jp>核融合</jp>
+<exp>【名】核融合</exp>
+<sound>tech2v50idx18_nuclear_fusion.mp3</sound>
+</w>
+<w idx="19" name="atomic nucleus">
+<jp>原子核</jp>
+<exp>【名】原子核</exp>
+<sound>tech2v50idx19_atomic_nucleus.mp3</sound>
+</w>
+<w idx="20" name="radioactivity">
+<jp>放射能</jp>
+<exp>【名】放射能</exp>
+<sound>tech2v50idx20_radioactivity.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. spare</p>
+<p>2. display</p>
+<p>3. balance</p>
+<p>4. rare metal</p>
+<p>5. coal</p>
+<p>6. petroleum</p>
+<p>7. lime</p>
+<p>8. diamond</p>
+<p>9. mechanic</p>
+<p>10. engineer</p>
+<p>11. thrust</p>
+<p>12. line</p>
+<p>13. rod</p>
+<p>14. drip</p>
+<p>15. electric power</p>
+<p>16. hydraulic power</p>
+<p>17. fusion reactor</p>
+<p>18. nuclear fusion</p>
+<p>19. atomic nucleus</p>
+<p>20. radioactivity</p>
+</contents>
+</unit>

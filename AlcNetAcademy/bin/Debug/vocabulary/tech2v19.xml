@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="19">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅰ 専門分野別,医療</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">医療の分野でよく使われる語句です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="artery">
+<jp>動脈</jp>
+<exp>【名】動脈</exp>
+<sound>tech2v19idx01_artery.mp3</sound>
+</w>
+<w idx="2" name="brain">
+<jp>脳</jp>
+<exp>【名】脳</exp>
+<sound>tech2v19idx02_brain.mp3</sound>
+</w>
+<w idx="3" name="human body">
+<jp>人体</jp>
+<exp>【名】人体</exp>
+<sound>tech2v19idx03_human_body.mp3</sound>
+</w>
+<w idx="4" name="lung">
+<jp>肺</jp>
+<exp>【名】肺</exp>
+<sound>tech2v19idx04_lung.mp3</sound>
+</w>
+<w idx="5" name="nerve">
+<jp>神経</jp>
+<exp>【名】神経</exp>
+<sound>tech2v19idx05_nerve.mp3</sound>
+</w>
+<w idx="6" name="organ">
+<jp>器官</jp>
+<exp>【名】器官</exp>
+<sound>tech2v19idx06_organ.mp3</sound>
+</w>
+<w idx="7" name="pain">
+<jp>苦痛</jp>
+<exp>【名】苦痛</exp>
+<sound>tech2v19idx07_pain.mp3</sound>
+</w>
+<w idx="8" name="sense">
+<jp>感覚</jp>
+<exp>【名】感覚</exp>
+<sound>tech2v19idx08_sense.mp3</sound>
+</w>
+<w idx="9" name="skin">
+<jp>皮膚</jp>
+<exp>【名】皮膚</exp>
+<sound>tech2v19idx09_skin.mp3</sound>
+</w>
+<w idx="10" name="vein">
+<jp>静脈</jp>
+<exp>【名】静脈</exp>
+<sound>tech2v19idx10_vein.mp3</sound>
+</w>
+<w idx="11" name="AIDS">
+<jp>後天性免疫不全症候群</jp>
+<exp>【名】後天性免疫不全症候群</exp>
+<sound>tech2v19idx11_AIDS.mp3</sound>
+</w>
+<w idx="12" name="cancer">
+<jp>癌</jp>
+<exp>【名】癌</exp>
+<sound>tech2v19idx12_cancer.mp3</sound>
+</w>
+<w idx="13" name="disease">
+<jp>疾患</jp>
+<exp>【名】疾患</exp>
+<sound>tech2v19idx13_disease.mp3</sound>
+</w>
+<w idx="14" name="cloning technology">
+<jp>クローン技術</jp>
+<exp>【名】クローン技術</exp>
+<sound>tech2v19idx14_cloning_technology.mp3</sound>
+</w>
+<w idx="15" name="drug addiction">
+<jp>薬物中毒</jp>
+<exp>【名】薬物中毒</exp>
+<sound>tech2v19idx15_drug_addiction.mp3</sound>
+</w>
+<w idx="16" name="gene therapy">
+<jp>遺伝子治療</jp>
+<exp>【名】遺伝子治療</exp>
+<sound>tech2v19idx16_gene_therapy.mp3</sound>
+</w>
+<w idx="17" name="hormone">
+<jp>ホルモン</jp>
+<exp>【名】ホルモン</exp>
+<sound>tech2v19idx17_hormone.mp3</sound>
+</w>
+<w idx="18" name="infect">
+<jp>伝染する</jp>
+<exp>【動】伝染する</exp>
+<sound>tech2v19idx18_infect.mp3</sound>
+</w>
+<w idx="19" name="medicine">
+<jp>医薬品</jp>
+<exp>【名】医薬品</exp>
+<sound>tech2v19idx19_medicine.mp3</sound>
+</w>
+<w idx="20" name="x-ray">
+<jp>Ｘ線</jp>
+<exp>【名】Ｘ線</exp>
+<sound>tech2v19idx20_x-ray.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. artery</p>
+<p>2. brain</p>
+<p>3. human body</p>
+<p>4. lung</p>
+<p>5. nerve</p>
+<p>6. organ</p>
+<p>7. pain</p>
+<p>8. sense</p>
+<p>9. skin</p>
+<p>10. vein</p>
+<p>11. AIDS</p>
+<p>12. cancer</p>
+<p>13. disease</p>
+<p>14. cloning technology</p>
+<p>15. drug addiction</p>
+<p>16. gene therapy</p>
+<p>17. hormone</p>
+<p>18. infect</p>
+<p>19. medicine</p>
+<p>20. x-ray</p>
+</contents>
+</unit>

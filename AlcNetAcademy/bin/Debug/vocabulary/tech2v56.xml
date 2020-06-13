@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="56">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅲ 科学基礎,科学基礎15</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">科学全般に共通する基礎語彙力を身につけます。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="cover">
+<jp>表紙</jp>
+<exp>【名】表紙、覆い</exp>
+<sound>tech2v56idx01_cover.mp3</sound>
+</w>
+<w idx="2" name="inflation">
+<jp>膨張（主に気体）</jp>
+<exp>【名】膨張（主に気体）</exp>
+<sound>tech2v56idx02_inflation.mp3</sound>
+</w>
+<w idx="3" name="model">
+<jp>模型</jp>
+<exp>【名】模型、モデル</exp>
+<sound>tech2v56idx03_model.mp3</sound>
+</w>
+<w idx="4" name="sheet">
+<jp>用紙</jp>
+<exp>【名】用紙</exp>
+<sound>tech2v56idx04_sheet.mp3</sound>
+</w>
+<w idx="5" name="advantage">
+<jp>利点</jp>
+<exp>【名】利点</exp>
+<sound>tech2v56idx05_advantage.mp3</sound>
+</w>
+<w idx="6" name="quarter">
+<jp>４分の１</jp>
+<exp>【名】４分の１</exp>
+<sound>tech2v56idx06_quarter.mp3</sound>
+</w>
+<w idx="7" name="lining">
+<jp>裏張り</jp>
+<exp>【名】裏張り、整列</exp>
+<sound>tech2v56idx07_lining.mp3</sound>
+</w>
+<w idx="8" name="can">
+<jp>缶</jp>
+<exp>【名】缶</exp>
+<sound>tech2v56idx08_can.mp3</sound>
+</w>
+<w idx="9" name="original">
+<jp>原型</jp>
+<exp>【名】原型、オリジナル　【形】最初の</exp>
+<sound>tech2v56idx09_original.mp3</sound>
+</w>
+<w idx="10" name="plant">
+<jp>工場設備</jp>
+<exp>【名】工場設備、工場、植物</exp>
+<sound>tech2v56idx10_plant.mp3</sound>
+</w>
+<w idx="11" name="spring">
+<jp>温泉</jp>
+<exp>【名】温泉、バネ</exp>
+<sound>tech2v56idx11_spring.mp3</sound>
+</w>
+<w idx="12" name="answer">
+<jp>解答</jp>
+<exp>【名】解答　【動】応答、答える</exp>
+<sound>tech2v56idx12_answer.mp3</sound>
+</w>
+<w idx="13" name="mirror">
+<jp>鏡</jp>
+<exp>【名】鏡</exp>
+<sound>tech2v56idx13_mirror.mp3</sound>
+</w>
+<w idx="14" name="chip">
+<jp>切りくず</jp>
+<exp>【名】切りくず、チップ、半導体片</exp>
+<sound>tech2v56idx14_chip.mp3</sound>
+</w>
+<w idx="15" name="criticality">
+<jp>臨界</jp>
+<exp>【名】臨界</exp>
+<sound>tech2v56idx15_criticality.mp3</sound>
+</w>
+<w idx="16" name="point">
+<jp>点</jp>
+<exp>【名】点</exp>
+<sound>tech2v56idx16_point.mp3</sound>
+</w>
+<w idx="17" name="progress">
+<jp>進展</jp>
+<exp>【名】進展、進歩　【動】進む</exp>
+<sound>tech2v56idx17_progress.mp3</sound>
+</w>
+<w idx="18" name="shelf">
+<jp>棚</jp>
+<exp>【名】棚</exp>
+<sound>tech2v56idx18_shelf.mp3</sound>
+</w>
+<w idx="19" name="zone">
+<jp>地域</jp>
+<exp>【名】地域、帯</exp>
+<sound>tech2v56idx19_zone.mp3</sound>
+</w>
+<w idx="20" name="sign">
+<jp>記号</jp>
+<exp>【名】記号</exp>
+<sound>tech2v56idx20_sign.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. cover</p>
+<p>2. inflation</p>
+<p>3. model</p>
+<p>4. sheet</p>
+<p>5. advantage</p>
+<p>6. quarter</p>
+<p>7. lining</p>
+<p>8 can</p>
+<p>9. original</p>
+<p>10. plant</p>
+<p>11. spring</p>
+<p>12. answer</p>
+<p>13. mirror</p>
+<p>14. chip</p>
+<p>15. criticality</p>
+<p>16. point</p>
+<p>17. progress</p>
+<p>18. shelf</p>
+<p>19. zone</p>
+<p>20. sign</p>
+</contents>
+</unit>

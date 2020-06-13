@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 基礎コース -->
+
+<unit idx="02">
+
+<introduction>
+<title>インターネット電話</title>
+<read>&lt;font size="16" color="#000000"&gt;
+（学習のポイント）                   
+&lt;/font&gt;
+&lt;font size="16" color="#0000FF"&gt;
+SVO／divide／or
+&lt;/font&gt;
+&lt;br&gt;
+&lt;font size="16" color="#000000"&gt;
+このユニットではインターネット電話を取り上げます。日本語をよく読んで、時制をどのように表現するかを考えます。新しい用語を「すなわち」と言い換える表現を学びます。
+&lt;/font&gt;</read>
+</introduction>
+
+
+<notes>
+<w idx="1" name="enterprise">
+<jp>企業</jp>
+<sound>tech2b02idx01_enterprise.mp3</sound>
+</w>
+<w idx="2" name="telephone charges">
+<jp>電話料金</jp>
+<sound>tech2b02idx02_telephone_charges.mp3</sound>
+</w>
+<w idx="3" name="Internet telephony">
+<jp>インターネット電話</jp>
+<sound>tech2b02idx03_Internet_telephony.mp3</sound>
+</w>
+<w idx="4" name="transmission">
+<jp>送信</jp>
+<sound>tech2b02idx04_transmission.mp3</sound>
+</w>
+<w idx="5" name="voice data">
+<jp>音声情報</jp>
+<sound>tech2b02idx05_voice_data.mp3</sound>
+</w>
+<w idx="6" name="packet">
+<jp>パケット</jp>
+<sound>tech2b02idx06_packet.mp3</sound>
+</w>
+<w idx="7" name="cost">
+<jp>費用</jp>
+<sound>tech2b02idx07_cost.mp3</sound>
+</w>
+</notes>
+
+
+<!-- Step1、Topic&Vocaburary -->
+<contents type="tech2bStep1">
+<p>　多くの<w idx="1">企業</w>が、通常の<w idx="2">電話料金</w>よりも安い料金で利用できる<w idx="3">インターネット電話</w>のサービスを提供するようになった。インターネット電話は、<w idx="4">送信</w>のために<w idx="5">音声情報</w>を<w idx="6">パケット</w>すなわち細かいユニットに分割している。TCP/IPという通信手順に従って、インターネットを通じて音声信号を送る。この伝送経路では<w idx="7">費用</w>がかからないので、料金を安く設定できる。</p>
+<p></p>
+<p>TCP/IP: Transmission Control Protocol / Internet Protocol</p>
+</contents>
+
+
+<!-- Step2、Writing1 -->
+<contents type="tech2bStep2">
+<instruction1>次の日本文から、幹セン（S・V・O）を抜き出そう。</instruction1>
+<instruction2>[先輩]ボタンを押して、先輩が書いた英文とあなたの英文を比べてみよう。</instruction2>
+<sentence>
+<ph idx="1" miki="true">インターネット電話は、</ph>
+<ph idx="2">送信のために</ph>
+<ph idx="3" miki="true">音声情報を</ph>
+<ph idx="4" miki="true">パケット</ph>
+<ph idx="5">すなわち</ph>
+<ph idx="6">細かいユニットに</ph>
+<ph idx="7" miki="true">分割している。</ph>
+</sentence>
+<mikisentence>
+<ph idx="1" type="S">インターネット電話は、</ph>
+<ph idx="2" type="O">音声情報を</ph>
+<ph idx="3">パケットに</ph>
+<ph idx="4" type="V">分割している。</ph>
+</mikisentence>
+<hint text="">
+<ph idx="1">Internet</ph>
+<ph idx="2">telephony</ph>
+<ph idx="3">voice</ph>
+<ph idx="4">data</ph>
+<ph idx="5">packet</ph>
+</hint>
+<senior answer="B,D"><sel cd="A">Internet telephony</sel> <sel cd="B">is distributing</sel> <sel cd="C">voice data</sel> <sel cd="D">to</sel> packets.</senior>
+<teach>Internet telephony divides voice data into packets.</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　日本文を忠実に訳して英文にする。これはもともと無理な話なのです。言語は１対１に対応しているとは限らないからです。日本文には「している」とありますが、単純に現在進行形だと考えるのは間違いです。この「している」は「今まさにしている」わけではないからです。ここは、現在形です。&lt;b&gt;理系の論文では、現在形と過去形がほとんどで、それに現在完了形と未来形がたまに加わる程度だということを覚えましょう。&lt;/b&gt;現在進行形はほとんど使いません。&lt;br&gt;
+&lt;br&gt;
+　divide は四則演算での「割る（÷）」にあたります。ここでまとめておきましょう。&lt;br&gt;
+　　「足す（＋）」は &lt;font color="#FF0000"&gt;add&lt;/font&gt; で、その結果の「和」は &lt;font color="#FF0000"&gt;sum&lt;/font&gt;&lt;br&gt;
+　　「引く（－）」は &lt;font color="#FF0000"&gt;subtract&lt;/font&gt; で、その結果の「差」は &lt;font color="#FF0000"&gt;difference&lt;/font&gt;&lt;br&gt;
+　　「掛ける（×）」は &lt;font color="#FF0000"&gt;multiply&lt;/font&gt; で、その結果の「積」は &lt;font color="#FF0000"&gt;product&lt;/font&gt;&lt;br&gt;
+　　「割る（÷）」は &lt;font color="#FF0000"&gt;divide&lt;/font&gt; で、その結果の「商」は &lt;font color="#FF0000"&gt;quotient&lt;/font&gt; で、「余り」は &lt;font color="#FF0000"&gt;remainder&lt;/font&gt;&lt;br&gt;
+という具合です。高校の数学の教科書に登場する総和のΣはギリシャ文字で、ローマ字の s に対応します。「差」「積」「商」の記号には、それぞれ d 、P 、Q を使っています。理系の文章で登場する記号はなんらかの意味を込めて使っています。逆にいうと、勝手気ままに記号を使えないのです。&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;&lt;font color="#FF0000"&gt;先輩へ&lt;/font&gt;：&lt;/b&gt;&lt;br&gt;
+　辞書には distribute にも「分割する」という意味が出ていますが、この語は「（種類ごとに）分配する」というニュアンスです。 divide は &lt;font color="#FF0000"&gt;into&lt;/font&gt; とセットでよく使います。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step3、Writing2 -->
+<contents type="tech2bStep3">
+<hint text="">
+<ph idx="1">unit</ph>
+<ph idx="2">transmission</ph>
+</hint>
+</contents>
+
+
+<!-- Step4、Comparisons -->
+<contents type="tech2bStep4">
+<senior answer="2">Internet telephony divides voice data into packets or small unit for transmission.</senior>
+<teach>
+&lt;font size="20" color="#000000"&gt;
+Internet telephony divides voice data into packets 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+or small units for transmission
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+.
+&lt;/font&gt;
+</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　「すなわち」の表現です。理系の英文にはよく登場します。通常は、&lt;font color="#FF0000"&gt;or&lt;/font&gt; です。 &lt;b&gt;or には「あるいは」という意味もあります&lt;/b&gt;。理系の英文ではどちらかといえば「すなわち」の方が主役です。 or の前にコンマをつけても構いません。論文では、&lt;font color="#FF0000"&gt;i.e.&lt;/font&gt; を使います。これは、ラテン語出身の単語です。使い方は次のとおり。&lt;br&gt;
+　　&lt;b&gt;packets, i.e., small units&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+　transmission は transmit の名詞形です。英和辞典で transmission を引くと、次のように載っています。&lt;br&gt;
+　　１（U）送ること、伝えること&lt;br&gt;
+　　２（C）（自動車の）変速装置&lt;br&gt;
+この記号 U と C はウランと炭素ではもちろんありません。 &lt;font color="#0000FF"&gt;Uncountable （数えられない名詞）&lt;/font&gt;と &lt;font color="#0000FF"&gt;Countable （数えられる名詞）&lt;/font&gt;ということを示しています。ここでは１の意味ですから、a もつかないし、複数にもなりません。そのうち英英辞典をお薦めしますが、しばらくは英和辞典を友達として手の届くところに置いてください。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;&lt;font color="#FF0000"&gt;先輩へ&lt;/font&gt;：&lt;/b&gt;&lt;br&gt;
+　&lt;b&gt;or は「すなわち」ですから、or の前が複数なら、後ろも複数です。&lt;/b&gt;&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step5、Exercisse -->
+<contents type="tech2bStep5" size="5">
+<instruction1>このユニットで登場した表現を応用してみよう。
+計算の表現を覚えよう。</instruction1>
+<question no="1" type="I">
+<textTrans>その大学は５つの学部に分けられている。</textTrans>
+<text>The university is divided <sel cd="A" answer="2"></sel> five faculties.</text>
+<sel cd="A" idx="1">in</sel>
+<sel cd="A" idx="2">into</sel>
+<sel cd="A" idx="3">to</sel>
+<hint>
+<sound>tech2b02s5Q01.mp3</sound>
+</hint>
+<point>　ひとつのものをいくつか（ふつう等分）に分けるときには、divide です。 divide ... into を受け身にした文で「大学」が主語になっています。</point>
+</question>
+
+<question no="2" type="I">
+<textTrans>彼はケーキをふたつに分けた。</textTrans>
+<text>He divided the cake <sel cd="A" answer="1"></sel> two.</text>
+<sel cd="A" idx="1">in</sel>
+<sel cd="A" idx="2">between</sel>
+<sel cd="A" idx="3">to</sel>
+<hint>
+<sound>tech2b02s5Q02.mp3</sound>
+</hint>
+<point>　ふたつに（半分に）分けるときには、divide ... in two を使います。</point>
+</question>
+
+<question no="3" type="R">
+<textTrans>初期値がそれぞれの数に加算される。</textTrans>
+<text>An initial number is <sel cd="A" answer="3"></sel> to each number.</text>
+<sel cd="A" idx="1">made</sel>
+<sel cd="A" idx="2">multiplied</sel>
+<sel cd="A" idx="3">added</sel>
+<hint>
+<sound>tech2b02s5Q03.mp3</sound>
+</hint>
+<point>　「A を B に加える」は add A to B です。 initial の対立語は final。</point>
+</question>
+
+<question no="4" type="R">
+<textTrans>８から２を引くと６になる。</textTrans>
+<text>Subtract <sel cd="A" answer="2"></sel> <sel cd="B" answer="1"></sel> <sel cd="C" answer="1"></sel>, and you get six.</text>
+<sel cd="A" idx="1">eight</sel>
+<sel cd="A" idx="2">two</sel>
+<sel cd="A" idx="3">six</sel>
+<sel cd="B" idx="1">from</sel>
+<sel cd="B" idx="2">to</sel>
+<sel cd="B" idx="3">by</sel>
+<sel cd="C" idx="1">eight</sel>
+<sel cd="C" idx="2">two</sel>
+<sel cd="C" idx="3">six</sel>
+<hint>
+<sound>tech2b02s5Q04.mp3</sound>
+</hint>
+<point>　「A を B から引く」は subtract A from B です。 from を頼りにしましょう。</point>
+</question>
+
+<question no="5" type="R">
+<textTrans>力は質量に加速度を掛けて算出される。</textTrans>
+<text>The force is evaluated by multiplying mass <sel cd="A" answer="3"></sel> acceleration.</text>
+<sel cd="A" idx="1">to</sel>
+<sel cd="A" idx="2">for</sel>
+<sel cd="A" idx="3">by</sel>
+<hint>
+<sound>tech2b02s5Q05.mp3</sound>
+</hint>
+<point>　「A に B を掛ける」は multiply A by B、「A を B で割る」は divide A by B です。</point>
+</question>
+</contents>
+
+<contents type="phrase">
+<p><ph idx="1">Internet telephony divides voice data into packets or small units for transmission.</ph></p>
+<p></p>
+<p><ph idx="2">1. The university is divided into five faculties.</ph></p>
+<p><ph idx="3">2. He divided the cake in two.</ph></p>
+<p><ph idx="4">3. An initial number is added to each number.</ph></p>
+<p><ph idx="5">4. Subtract two from eight, and you get six.</ph></p>
+<p><ph idx="6">5. The force is evaluated by multiplying mass by acceleration.</ph></p>
+</contents>
+
+<contents type="translation">
+<p><ph idx="1">インターネット電話は、送信のために音声情報をパケットすなわち細かいユニットに分割している。</ph></p>
+<p></p>
+<p><ph idx="2">1. その大学は５つの学部に分けられている。</ph></p>
+<p><ph idx="3">2. 彼はケーキをふたつに分けた。</ph></p>
+<p><ph idx="4">3. 初期値がそれぞれの数に加算される。</ph></p>
+<p><ph idx="5">4. ８から２を引くと６になる。</ph></p>
+<p><ph idx="6">5. 力は質量に加速度を掛けて算出される。</ph></p>
+</contents>
+
+
+
+</unit>

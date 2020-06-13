@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 基礎コース -->
+
+<unit idx="22">
+
+<introduction>
+<title>温室効果のないフロン代替物質</title>
+<read>&lt;font size="16" color="#000000"&gt;
+（学習のポイント）                 
+&lt;/font&gt;
+&lt;font size="16" color="#0000FF"&gt;
+複文／cause／reach
+&lt;/font&gt;
+&lt;br&gt;
+&lt;font size="16" color="#000000"&gt;
+南極でのオゾン層発見には日本人も貢献しました。フロン、温室効果といった環境問題は地球のシステム全体として捉える必要があります。ここでは、複文を使った表現です。たくさんの動詞を整理して構造を考えます。
+&lt;/font&gt;</read>
+</introduction>
+
+
+<notes>
+<w idx="1" name="chlorofluorocarbon">
+<jp>フロン</jp>
+<sound>tech2b22idx01_chlorofluorocarbon.mp3</sound>
+</w>
+<w idx="2" name="refrigerator">
+<jp>冷蔵庫</jp>
+<sound>tech2b22idx02_refrigerator.mp3</sound>
+</w>
+<w idx="3" name="air conditioner">
+<jp>クーラー</jp>
+<sound>tech2b22idx03_air_conditioner.mp3</sound>
+</w>
+<w idx="4" name="refrigerant">
+<jp>冷媒</jp>
+<sound>tech2b22idx04_refrigerant.mp3</sound>
+</w>
+<w idx="5" name="electronic parts">
+<jp>電子部品</jp>
+<sound>tech2b22idx05_electronic_parts.mp3</sound>
+</w>
+<w idx="6" name="cleaning agent">
+<jp>洗浄剤</jp>
+<sound>tech2b22idx06_cleaning_agent.mp3</sound>
+</w>
+<w idx="7" name="Antarctic">
+<jp>南極</jp>
+<sound>tech2b22idx07_Antarctic.mp3</sound>
+</w>
+<w idx="8" name="stratosphere">
+<jp>成層圏</jp>
+<sound>tech2b22idx08_stratosphere.mp3</sound>
+</w>
+<w idx="9" name="ozone layer">
+<jp>オゾン層</jp>
+<sound>tech2b22idx09_ozone_layer.mp3</sound>
+</w>
+<w idx="10" name="greenhouse effect">
+<jp>温室効果</jp>
+<sound>tech2b22idx10_greenhouse_effect.mp3</sound>
+</w>
+</notes>
+
+
+<!-- Step1、Topic&Vocaburary -->
+<contents type="tech2bStep1">
+<p>　<w idx="1">フロン</w>は<w idx="2">冷蔵庫</w>や<w idx="3">クーラー</w>の<w idx="4">冷媒</w>、<w idx="5">電子部品</w>の<w idx="6">洗浄剤</w>などに使用されてきた。1985年に<w idx="7">南極</w>でオゾンホールが観測されて以来、フロンが大気に放出されて<w idx="8">成層圏</w>に達すると、その分解物質のひとつである塩素が<w idx="9">オゾン層</w>を破壊する原因となることがわかった。フロンの代替物質であるHFC類は分子中に塩素を含まないものの、温暖化への影響がある。そのため、<w idx="10">温室効果</w>のない完全なフロン代替物質の開発が望まれている。</p>
+<p></p>
+<p>HFC: Hydro Fluoro Carbon</p>
+</contents>
+
+
+<!-- Step2、Writing1 -->
+<contents type="tech2bStep2">
+<instruction1>複文で英訳します。「ことがわかった」を除いて主語と動詞を全て選んでみよう。</instruction1>
+<instruction2>[先輩]ボタンを押して、先輩が書いた英文とあなたの英文を比べてみましょう。</instruction2>
+<sentence>
+<ph idx="1" miki="true">フロンが</ph>
+<ph idx="2" miki="true">大気に</ph>
+<ph idx="3" miki="true">放出されて</ph>
+<ph idx="4" miki="true">成層圏に達すると、</ph>
+<ph idx="5">その分解物質のひとつである</ph>
+<ph idx="6" miki="true">塩素が</ph>
+<ph idx="7" miki="true">オゾン層を破壊する</ph>
+<ph idx="8" miki="true">原因となる</ph>
+<ph idx="9">ことがわかった。</ph>
+</sentence>
+<mikisentence>
+<ph idx="1" type="S(従属節)">フロンが</ph>
+<ph idx="2">大気に</ph>
+<ph idx="3" type="V">放出されて</ph>
+<ph idx="4">成層圏に</ph>
+<ph idx="5" type="V">達すると、</ph>
+<ph idx="6" type="S(主節)">塩素が</ph>
+<ph idx="7">オゾン層を破壊する</ph>
+<ph idx="8" type="V">原因となる。</ph>
+</mikisentence>
+<hint text="">
+<ph idx="1">chlorofluorocarbon</ph>
+<ph idx="2">emit</ph>
+<ph idx="3">atmosphere</ph>
+<ph idx="4">reach</ph>
+<ph idx="5">stratosphere</ph>
+<ph idx="6">chlorine</ph>
+<ph idx="7">cause</ph>
+<ph idx="8">ozone layer</ph>
+<ph idx="9">depletion</ph>
+</hint>
+<senior answer="B">Chlorofluorocarbons <sel cd="A">are emitted into</sel> the atmosphere and <sel cd="B">reach to</sel> the stratosphere, <sel cd="C">and then</sel> chlorine <sel cd="D">causes</sel> a depletion of the ozone layer.</senior>
+<teach>When chlorofluorocarbons are emitted into the atmosphere and reach the stratosphere, chlorine causes a depletion of the ozone layer.</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　長い文ですが、「…に達すると、」までを接続詞の when で表現します。接続詞の入っている方を&lt;font color="#0000FF"&gt;従属節&lt;/font&gt;と呼び、&lt;font color="#0000FF"&gt;接続詞&lt;/font&gt;の入っていない方を&lt;font color="#0000FF"&gt;主節&lt;/font&gt;と呼びます。従属節と主節からなる文を複文と呼びます。さて、その後の、「…する原因となる」のところには、ぴったんこ動詞 &lt;font color="#FF0000"&gt;cause&lt;/font&gt; があります。「オゾン層を破壊する原因となる」は、「オゾン層の破壊の原因となる」とリライトします。&lt;br&gt;
+&lt;br&gt;
+　chlorofluorocarbon は種類が多くあるので複数にします。大気、成層圏そしてオゾン層は、みんなが知っていますから the をつけます。&lt;br&gt;
+&lt;br&gt;
+　この日本文は動詞だらけです。「放出されて」「に達する」「破壊する」そして「原因となる」はそれぞれ動詞の原形でいうと、emit、reach、deplete、そして cause です。先生の英文では動詞の受け身、現在形、名詞、そしてまた現在形で使っています。より簡潔な英文にするために、それぞれの動詞は日本語の表現そのままではなく、適切な形に変化させているのです。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　reach には前置詞は不要です。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step3、Writing2 -->
+<contents type="tech2bStep3">
+<hint text="">
+<ph idx="1">decomposed substance</ph>
+</hint>
+</contents>
+
+
+<!-- Step4、Comparisons -->
+<contents type="tech2bStep4">
+<senior answer="2">We found that when chlorofluorocarbons are emitted into the atmosphere and reach the stratosphere, chlorine as one of the decomposed substance causes a depletion of the ozone layer.</senior>
+<teach>
+&lt;font size="20" color="#0000FF"&gt;
+It was demonstrated that 
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+when chlorofluorocarbons are emitted into the atmosphere and reach the stratosphere, chlorine 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+as one of the decomposed substances 
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+causes a depletion of the ozone layer.
+&lt;/font&gt;
+</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　日本文を整理すると、&lt;br&gt;
+　　&lt;b&gt;（フロンが大気に放出されて…オゾン層を破壊する原因となる）&lt;/b&gt;ことがわかった。&lt;br&gt;
+となります。そこで、（　　）内の長文をいったん全部 it で受け持ちます。&lt;br&gt;
+　　We demonstrated it.&lt;br&gt;
+ただし、we よりも it  が話の中心なので it を主語にして、&lt;br&gt;
+　　&lt;b&gt;It was demonstrated ...&lt;/b&gt;&lt;br&gt;
+とすればいいのです。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　「…ことがわかった」は先輩文のように we found that ... としたくなります。でも待ってください。大事なのは we ではなく、「フロンが…原因となる」ことです。これを主語にしてください。「フロンは…原因となる」という事実を実験研究から示したわけなので、demonstrate（証明する）という動詞がぴったりきます。&lt;br&gt;
+　one of に続く名詞は複数ですよね。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step5、Exercisse -->
+<contents type="tech2bStep5" size="5">
+<instruction1>このユニットで登場した表現、関連する表現、さらに新しい表現を練習しよう。</instruction1>
+<question no="1" type="R">
+<textTrans>振動がこの界面での摩擦の原因となる。</textTrans>
+<text>The vibration <sel cd="A" answer="1"></sel> friction at this interface.</text>
+<sel cd="A" idx="1">causes</sel>
+<sel cd="A" idx="2">brings</sel>
+<sel cd="A" idx="3">produces</sel>
+<hint>
+<sound>tech2b22s5Q01.mp3</sound>
+</hint>
+<point>　「● cause ▲」で「●は▲の原因となる」になります。</point>
+</question>
+
+<question no="2" type="R">
+<textTrans>二酸化炭素の温室効果によって表面温度は高くなる。</textTrans>
+<text>The greenhouse effect of carbon dioxide <sel cd="A" answer="1"></sel> the high surface temperature.</text>
+<sel cd="A" idx="1">causes</sel>
+<sel cd="A" idx="2">brings</sel>
+<sel cd="A" idx="3">produces</sel>
+<hint>
+<sound>tech2b22s5Q02.mp3</sound>
+</hint>
+<point>　日本文が「…によって」となっていますが、「表面温度は高くなる」を名詞で書ければ、「●は▲の原因となる」で、cause が使えます。 cause の代わりに、result in ... 、contribute to ... も使えます。</point>
+</question>
+
+<question no="3" type="R">
+<textTrans>喫煙は肺ガンの主な原因のひとつです。</textTrans>
+<text>Smoking is one of <sel cd="A" answer="2"></sel> causes of lung cancer.</text>
+<sel cd="A" idx="1">the most important</sel>
+<sel cd="A" idx="2">the major</sel>
+<hint>
+<sound>tech2b22s5Q03.mp3</sound>
+</hint>
+<point>　major で main と同義です。 major はメジャーではなくメイジャーと読んでください。</point>
+</question>
+
+<question no="4" type="R">
+<textTrans>地震による被害は40億円に達した。</textTrans>
+<text>The damage caused by the earthquake <sel cd="A" answer="3"></sel> four billion yen.</text>
+<sel cd="A" idx="1">arrived at</sel>
+<sel cd="A" idx="2">got to</sel>
+<sel cd="A" idx="3">reached</sel>
+<hint>
+<sound>tech2b22s5Q04.mp3</sound>
+</hint>
+<point>　「（金額、数量、状態）に達する」というとき、reach には前置詞は不要です。</point>
+</question>
+
+<question no="5" type="R">
+<textTrans>二酸化炭素は一酸化炭素と酸素に分解される。</textTrans>
+<text>Carbon dioxide is decomposed <sel cd="A" answer="3"></sel> carbon monoxide and oxygen.</text>
+<sel cd="A" idx="1">in</sel>
+<sel cd="A" idx="2">to</sel>
+<sel cd="A" idx="3">into</sel>
+<hint>
+<sound>tech2b22s5Q05.mp3</sound>
+</hint>
+<point>　「decompose ● into ▲」は「●を▲に分解する」です。●を主語にして受け身になります。</point>
+</question>
+</contents>
+
+
+<contents type="phrase">
+<p><ph idx="1">When chlorofluorocarbons are emitted into the atmosphere and reach the stratosphere, chlorine causes a depletion of the ozone layer.</ph></p>
+<p></p>
+<p><ph idx="2">1. The vibration causes friction at this interface.</ph></p>
+<p><ph idx="3">2. The greenhouse effect of carbon dioxide causes the high surface temperature.</ph></p>
+<p><ph idx="4">3. Smoking is one of the major causes of lung cancer.</ph></p>
+<p><ph idx="5">4. The damage caused by the earthquake reached four billion yen.</ph></p>
+<p><ph idx="6">5. Carbon dioxide is decomposed into carbon monoxide and oxygen.</ph></p>
+</contents>
+
+<contents type="translation">
+<p><ph idx="1">フロンが大気に放出されて成層圏に達すると、塩素がオゾン層を破壊する原因となる。</ph></p>
+<p></p>
+<p><ph idx="2">1. 振動がこの界面での摩擦の原因となる。</ph></p>
+<p><ph idx="3">2. 二酸化炭素の温室効果によって表面温度は高くなる。</ph></p>
+<p><ph idx="4">3. 喫煙は肺ガンの主な原因のひとつです。</ph></p>
+<p><ph idx="5">4. 地震による被害は40億円に達した。</ph></p>
+<p><ph idx="6">5. 二酸化炭素は一酸化炭素と酸素に分解される。</ph></p>
+</contents>
+
+
+</unit>

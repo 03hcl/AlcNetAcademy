@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 基礎コース -->
+
+<unit idx="20">
+
+<introduction>
+<title>地球環境とゼロエミッション</title>
+<read>&lt;font size="16" color="#000000"&gt;
+（学習のポイント）               
+&lt;/font&gt;
+&lt;font size="16" color="#0000FF"&gt;
+定義の受け身／define／emit
+&lt;/font&gt;
+&lt;br&gt;
+&lt;font size="16" color="#000000"&gt;
+地球はひとつの閉じた循環システム系です。産業構造でのトータルな完全循環系のシステムが模索されています。理系では新しい技術と共に新しい言葉が定義されます。受け身を使った用語の定義表現を学習します。
+&lt;/font&gt;</read>
+</introduction>
+
+
+<notes>
+<w idx="1" name="industry">
+<jp>産業</jp>
+<sound>tech2b20idx01_industry.mp3</sound>
+</w>
+<w idx="2" name="wastes">
+<jp>廃棄物</jp>
+<sound>tech2b20idx02_wastes.mp3</sound>
+</w>
+<w idx="3" name="raw materials">
+<jp>原料</jp>
+<sound>tech2b20idx03_raw_materials.mp3</sound>
+</w>
+<w idx="4" name="resources">
+<jp>資源</jp>
+<sound>tech2b20idx04_resources.mp3</sound>
+</w>
+<w idx="5" name="circulation">
+<jp>循環</jp>
+<sound>tech2b20idx05_circulation.mp3</sound>
+</w>
+<w idx="6" name="production system">
+<jp>生産システム</jp>
+<sound>tech2b20idx06_production_system.mp3</sound>
+</w>
+<w idx="7" name="consumption">
+<jp>消費</jp>
+<sound>tech2b20idx07_consumption.mp3</sound>
+</w>
+<w idx="8" name="environment">
+<jp>環境</jp>
+<sound>tech2b20idx08_environment.mp3</sound>
+</w>
+<w idx="9" name="symbiosis">
+<jp>共生</jp>
+<sound>tech2b20idx09_symbiosis.mp3</sound>
+</w>
+</notes>
+
+
+<!-- Step1、Topic&Vocaburary -->
+<contents type="tech2bStep1">
+<p>　ゼロエミッションは、私たちの生活や<w idx="1">産業</w>から排出される<w idx="2">廃棄物</w>を、他の分野の<w idx="3">原料</w>や<w idx="4">資源</w>として再利用する、完全<w idx="5">循環</w>型の<w idx="6">生産システム</w>と定義される。これは1994年に国連大学で提唱された考え方である。大量<w idx="7">消費</w>時代の20世紀を反省し、廃棄物を限りなくゼロに近づけ、資源を繰り返し有効活用することにより、地球規模での<w idx="8">環境</w>との<w idx="9">共生</w>をめざしている。現在、国・自治体・企業・地域におけるすべての人々の意識と行動の変革が求められている。</p>
+</contents>
+
+
+<!-- Step2、Writing1 -->
+<contents type="tech2bStep2">
+<instruction1>次の日本文から、幹センを抜き出そう。</instruction1>
+<instruction2>[先輩]ボタンを押して、先輩が書いた英文とあなたの英文を比べてみよう。</instruction2>
+<sentence>
+<ph idx="1" miki="true">ゼロエミッションは、</ph>
+<ph idx="2">私たちの生活や産業から排出される</ph>
+<ph idx="3">廃棄物を、</ph>
+<ph idx="4">他の分野の</ph>
+<ph idx="5">原料や資源として再利用する、</ph>
+<ph idx="6" miki="true">完全循環型の生産システムと</ph>
+<ph idx="7" miki="true">定義される。</ph>
+</sentence>
+<mikisentence>
+<ph idx="1" type="S">ゼロエミッションは、</ph>
+<ph idx="2">完全循環型の生産システムと</ph>
+<ph idx="3" type="V">定義される。</ph>
+</mikisentence>
+<hint text="">
+<ph idx="1">zero emission</ph>
+<ph idx="2">define</ph>
+<ph idx="3">recycling</ph>
+<ph idx="4">production</ph>
+<ph idx="5">system</ph>
+</hint>
+<senior answer="B"><sel cd="A">Zero emission</sel> <sel cd="B">is defined</sel> a <sel cd="C">complete</sel> <sel cd="D">recycling production system</sel>.</senior>
+<teach>Zero emission is defined as a complete recycling production system.</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　科学技術の進歩に伴って、新しい言葉が生まれます。また、新しい考え方に従って新しい言葉が定義されます。用語を定義するときには次のような文を使います。&lt;br&gt;
+　　&lt;b&gt;&lt;font color="#FF0000"&gt;We call ● ▲.&lt;/font&gt;			●を▲と名付ける&lt;/b&gt;&lt;br&gt;
+　　&lt;b&gt;&lt;font color="#FF0000"&gt;We refer to ● as ▲.&lt;/font&gt;		●を▲と名付ける&lt;/b&gt;&lt;br&gt;
+　　&lt;b&gt;&lt;font color="#FF0000"&gt;We define  ● as ▲.&lt;/font&gt;		●を▲と定義する&lt;/b&gt;&lt;br&gt;
+ここでは、we よりも●が話の中心ですから、●を主語にして受け身にします。&lt;br&gt;
+　　&lt;b&gt;&lt;font color="#FF0000"&gt;● is defined as ▲.&lt;/font&gt;&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+　用語を定義したり、説明したりするときには、その用語は無冠詞で使ってください。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　We define ● as ▲ の受け身です。●が主語になって抜けても as は残ります。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step3、Writing2 -->
+<contents type="tech2bStep3">
+<hint text="">
+<ph idx="1">reuse</ph>
+<ph idx="2">waste</ph>
+<ph idx="3">daily life</ph>
+<ph idx="4">industry</ph>
+<ph idx="5">raw material</ph>
+<ph idx="6">resource</ph>
+<ph idx="7">field</ph>
+</hint>
+</contents>
+
+
+<!-- Step4、Comparisons -->
+<contents type="tech2bStep4">
+<senior answer="2">Zero emission is defined as a complete recycling production system for reusing wastes from our daily life and from industry as raw material and resource in other fields.</senior>
+<teach>
+&lt;font size="20" color="#000000"&gt;
+Zero emission is defined as a complete recycling production system 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+for reusing wastes from our daily life and from industry as raw materials and resources in other fields
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+.
+&lt;/font&gt;
+</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　「私たちの生活や産業から…再利用する完全循環型の生産システム」の中の「完全循環型の生産システム」にかかる長い修飾を「私たちの生活や産業から…再利用する（ための）完全循環型の生産システム」と、「ための」を補えば、&lt;font color="#FF0000"&gt;for + 動名詞&lt;/font&gt;でこなせます。 for は「目的」をはっきりアピールできる前置詞なのです。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　長文に惑わされずに、文を書き上げた後に必ず、スペルと単複のチェックをする習慣をつけましょう。 material も resource も複数（plural）にしてください。ついでながら、天然資源は &lt;font color="#FF0000"&gt;natural resources&lt;/font&gt; といいます。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step5、Exercisse -->
+<contents type="tech2bStep5" size="5">
+<instruction1>このユニットで登場した表現、関連する表現、さらに新しい表現を練習しよう。</instruction1>
+<question no="1" type="R">
+<textTrans>さまざまな物質はさまざまな信号を出す。</textTrans>
+<text>Different materials <sel cd="A" answer="3"></sel> different signals.</text>
+<sel cd="A" idx="1">send</sel>
+<sel cd="A" idx="2">radiate</sel>
+<sel cd="A" idx="3">emit</sel>
+<hint>
+<sound>tech2b20s5Q01.mp3</sound>
+</hint>
+<point>　「（信号、熱、光、音などを）放出する」には emit を使ってください。「一点から放射する」には radiate です。 The sun radiates light and heat. 太陽が光と熱を放射する。</point>
+</question>
+
+<question no="2" type="R">
+<textTrans>電子が銃から放出される。</textTrans>
+<text>Electrons are <sel cd="A" answer="3"></sel> by the gun.</text>
+<sel cd="A" idx="1">observed</sel>
+<sel cd="A" idx="2">made</sel>
+<sel cd="A" idx="3">emitted</sel>
+<hint>
+<sound>tech2b20s5Q02.mp3</sound>
+</hint>
+<point>　The gun emits electrons. を受け身にした文です。実験をしていて、電子を「観察した」のなら、observe を選びます。</point>
+</question>
+
+<question no="3" type="R">
+<textTrans>言葉は伝達の一形態であると定義される。</textTrans>
+<text>Speech is defined <sel cd="A" answer="2"></sel> a form of communication.</text>
+<sel cd="A" idx="1">by</sel>
+<sel cd="A" idx="2">as</sel>
+<sel cd="A" idx="3">to</sel>
+<hint>
+<sound>tech2b20s5Q03.mp3</sound>
+</hint>
+<point>　We define ● as ▲.「●を▲と定義する」。この文の●を主語にすると、● is defined as ▲. となります。</point>
+</question>
+
+<question no="4" type="R">
+<textTrans>ビット28～31はゼロに設定される。</textTrans>
+<text>Bits 28-31 are set <sel cd="A" answer="2"></sel> zeros.</text>
+<sel cd="A" idx="1">in</sel>
+<sel cd="A" idx="2">to</sel>
+<sel cd="A" idx="3">by</sel>
+<hint>
+<sound>tech2b20s5Q04.mp3</sound>
+</hint>
+<point>　set で「（値を）設定する」の意味があります。値の前には to または at を置きます。</point>
+</question>
+
+<question no="5" type="R">
+<textTrans>半導体の電気物性は純度で差が出る。</textTrans>
+<text>The electrical properties of semiconductors <sel cd="A" answer="3"></sel> on purity.</text>
+<sel cd="A" idx="1">change</sel>
+<sel cd="A" idx="2">differ</sel>
+<sel cd="A" idx="3">depend</sel>
+<hint>
+<sound>tech2b20s5Q05.mp3</sound>
+</hint>
+<point>　depend on ... で「…に依存する」「…で差が出る」の意味。「…に頼る」という意味ではありません。</point>
+</question>
+</contents>
+
+
+<contents type="phrase">
+<p><ph idx="1">Zero emission is defined as a complete recycling production system.</ph></p>
+<p></p>
+<p><ph idx="2">1. Different materials emit different signals.</ph></p>
+<p><ph idx="3">2. Electrons are emitted by the gun.</ph></p>
+<p><ph idx="4">3. Speech is defined as a form of communication.</ph></p>
+<p><ph idx="5">4. Bits 28-31 are set to zeros.</ph></p>
+<p><ph idx="6">5. The electrical properties of semiconductors depend on purity.</ph></p>
+</contents>
+
+<contents type="translation">
+<p><ph idx="1">ゼロエミッションは、完全循環型の生産システムと定義される。</ph></p>
+<p></p>
+<p><ph idx="2">1. さまざまな物質はさまざまな信号を出す。</ph></p>
+<p><ph idx="3">2. 電子が銃から放出される。</ph></p>
+<p><ph idx="4">3. 言葉は伝達の一形態であると定義される。</ph></p>
+<p><ph idx="5">4. ビット28-31はゼロに設定される。</ph></p>
+<p><ph idx="6">5. 半導体の電気物性は純度で差が出る。</ph></p>
+</contents>
+
+
+</unit>

@@ -1,0 +1,8 @@
+Z:\Documents\Visual Studio 2017\Projects\AlcNetAcademy\AlcNetAcademy\bin\Release\AlcNetAcademy.exe.config
+Z:\Documents\Visual Studio 2017\Projects\AlcNetAcademy\AlcNetAcademy\bin\Release\AlcNetAcademy.exe
+Z:\Documents\Visual Studio 2017\Projects\AlcNetAcademy\AlcNetAcademy\bin\Release\AlcNetAcademy.pdb
+Z:\Documents\Visual Studio 2017\Projects\AlcNetAcademy\AlcNetAcademy\bin\Release\StyleCop.CSharp.dll
+Z:\Documents\Visual Studio 2017\Projects\AlcNetAcademy\AlcNetAcademy\bin\Release\StyleCop.dll
+Z:\Documents\Visual Studio 2017\Projects\AlcNetAcademy\AlcNetAcademy\obj\Release\AlcNetAcademy.exe
+Z:\Documents\Visual Studio 2017\Projects\AlcNetAcademy\AlcNetAcademy\obj\Release\AlcNetAcademy.pdb
+Z:\Documents\Visual Studio 2017\Projects\AlcNetAcademy\AlcNetAcademy\obj\Release\AlcNetAcademy.csprojResolveAssemblyReference.cache

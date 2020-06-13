@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="29">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅱ 動詞・形容詞ほか,動詞８</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">技術英語でよく使われる動詞です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="oil">
+<jp>注油する</jp>
+<exp>【動】注油する</exp>
+<sound>tech2v29idx01_oil.mp3</sound>
+</w>
+<w idx="2" name="tune">
+<jp>調子を合わせる</jp>
+<exp>【動】調子を合わせる</exp>
+<sound>tech2v29idx02_tune.mp3</sound>
+</w>
+<w idx="3" name="adjust">
+<jp>調整する</jp>
+<exp>【動】調整する</exp>
+<sound>tech2v29idx03_adjust.mp3</sound>
+</w>
+<w idx="4" name="settle">
+<jp>沈殿する</jp>
+<exp>【動】沈殿する、置く</exp>
+<sound>tech2v29idx04_settle.mp3</sound>
+</w>
+<w idx="5" name="spend">
+<jp>費やす</jp>
+<exp>【動】費やす</exp>
+<sound>tech2v29idx05_spend.mp3</sound>
+</w>
+<w idx="6" name="suspend">
+<jp>つるす</jp>
+<exp>【動】つるす</exp>
+<sound>tech2v29idx06_suspend.mp3</sound>
+</w>
+<w idx="7" name="resist">
+<jp>抵抗する</jp>
+<exp>【動】抵抗する</exp>
+<sound>tech2v29idx07_resist.mp3</sound>
+</w>
+<w idx="8" name="reach">
+<jp>到達する</jp>
+<exp>【動】到達する</exp>
+<sound>tech2v29idx08_reach.mp3</sound>
+</w>
+<w idx="9" name="solve">
+<jp>解く</jp>
+<exp>【動】解く</exp>
+<sound>tech2v29idx09_solve.mp3</sound>
+</w>
+<w idx="10" name="melt">
+<jp>溶ける</jp>
+<exp>【動】溶ける</exp>
+<sound>tech2v29idx10_melt.mp3</sound>
+</w>
+<w idx="11" name="paint">
+<jp>塗装する</jp>
+<exp>【動】塗装する</exp>
+<sound>tech2v29idx11_paint.mp3</sound>
+</w>
+<w idx="12" name="replace">
+<jp>取り替える</jp>
+<exp>【動】取り替える、置き換える</exp>
+<sound>tech2v29idx12_replace.mp3</sound>
+</w>
+<w idx="13" name="remove">
+<jp>取り外す</jp>
+<exp>【動】取り外す、取り除く</exp>
+<sound>tech2v29idx13_remove.mp3</sound>
+</w>
+<w idx="14" name="stream">
+<jp>流れる</jp>
+<exp>【動】流れる</exp>
+<sound>tech2v29idx14_stream.mp3</sound>
+</w>
+<w idx="15" name="throw">
+<jp>投げる</jp>
+<exp>【動】投げる</exp>
+<sound>tech2v29idx15_throw.mp3</sound>
+</w>
+<w idx="16" name="unload">
+<jp>荷を下ろす</jp>
+<exp>【動】荷を下ろす</exp>
+<sound>tech2v29idx16_unload.mp3</sound>
+</w>
+<w idx="17" name="twist">
+<jp>ねじる</jp>
+<exp>【動】ねじる</exp>
+<sound>tech2v29idx17_twist.mp3</sound>
+</w>
+<w idx="18" name="burn">
+<jp>燃焼する</jp>
+<exp>【動】燃焼する</exp>
+<sound>tech2v29idx18_burn.mp3</sound>
+</w>
+<w idx="19" name="adhere">
+<jp>粘着する</jp>
+<exp>【動】粘着する</exp>
+<sound>tech2v29idx19_adhere.mp3</sound>
+</w>
+<w idx="20" name="describe">
+<jp>述べる</jp>
+<exp>【動】述べる、記述する</exp>
+<sound>tech2v29idx20_describe.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. oil</p>
+<p>2. tune</p>
+<p>3. adjust</p>
+<p>4. settle</p>
+<p>5. spend</p>
+<p>6. suspend</p>
+<p>7. resist</p>
+<p>8. reach</p>
+<p>9. solve</p>
+<p>10. melt</p>
+<p>11. paint</p>
+<p>12. replace</p>
+<p>13. remove</p>
+<p>14. stream</p>
+<p>15. throw</p>
+<p>16. unload</p>
+<p>17. twist</p>
+<p>18. burn</p>
+<p>19. adhere</p>
+<p>20. describe</p>
+</contents>
+</unit>

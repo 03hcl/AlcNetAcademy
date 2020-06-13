@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="47">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅲ 科学基礎,科学基礎６</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">科学全般に共通する基礎語彙力を身につけます。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="plate">
+<jp>（金属の）板</jp>
+<exp>【名】（金属の）板　【動】めっきする</exp>
+<sound>tech2v47idx01_plate.mp3</sound>
+</w>
+<w idx="2" name="disk">
+<jp>円盤</jp>
+<exp>【名】円盤・円板</exp>
+<sound>tech2v47idx02_disk.mp3</sound>
+</w>
+<w idx="3" name="nozzle">
+<jp>ノズル</jp>
+<exp>【名】ノズル</exp>
+<sound>tech2v47idx03_nozzle.mp3</sound>
+</w>
+<w idx="4" name="pin">
+<jp>ピン</jp>
+<exp>【名】ピン、留め具</exp>
+<sound>tech2v47idx04_pin.mp3</sound>
+</w>
+<w idx="5" name="valve">
+<jp>弁</jp>
+<exp>【名】弁、バルブ</exp>
+<sound>tech2v47idx05_valve.mp3</sound>
+</w>
+<w idx="6" name="button">
+<jp>ボタン</jp>
+<exp>【名】ボタン</exp>
+<sound>tech2v47idx06_button.mp3</sound>
+</w>
+<w idx="7" name="vessel">
+<jp>（主に液体を入れる）容器</jp>
+<exp>【名】（主に液体を入れる）容器、管、船</exp>
+<sound>tech2v47idx07_vessel.mp3</sound>
+</w>
+<w idx="8" name="welding">
+<jp>溶接</jp>
+<exp>【名】溶接</exp>
+<sound>tech2v47idx08_welding.mp3</sound>
+</w>
+<w idx="9" name="coat">
+<jp>皮膜</jp>
+<exp>【名】皮膜　【動】皮膜する</exp>
+<sound>tech2v47idx09_coat.mp3</sound>
+</w>
+<w idx="10" name="needle">
+<jp>針</jp>
+<exp>【名】針</exp>
+<sound>tech2v47idx10_needle.mp3</sound>
+</w>
+<w idx="11" name="crack">
+<jp>亀裂</jp>
+<exp>【名】亀裂</exp>
+<sound>tech2v47idx11_crack.mp3</sound>
+</w>
+<w idx="12" name="smoke">
+<jp>煙</jp>
+<exp>【名】煙</exp>
+<sound>tech2v47idx12_smoke.mp3</sound>
+</w>
+<w idx="13" name="pointer">
+<jp>指針</jp>
+<exp>【名】指針</exp>
+<sound>tech2v47idx13_pointer.mp3</sound>
+</w>
+<w idx="14" name="plug">
+<jp>栓</jp>
+<exp>【名】栓、プラグ　【動】差し込む</exp>
+<sound>tech2v47idx14_plug.mp3</sound>
+</w>
+<w idx="15" name="film">
+<jp>フィルム</jp>
+<exp>【名】フィルム、膜</exp>
+<sound>tech2v47idx15_film.mp3</sound>
+</w>
+<w idx="16" name="frame">
+<jp>枠</jp>
+<exp>【名】枠、フレーム　【動】組み立てる</exp>
+<sound>tech2v47idx16_frame.mp3</sound>
+</w>
+<w idx="17" name="groove">
+<jp>溝</jp>
+<exp>【名】溝</exp>
+<sound>tech2v47idx17_groove.mp3</sound>
+</w>
+<w idx="18" name="rail">
+<jp>レール</jp>
+<exp>【名】レール</exp>
+<sound>tech2v47idx18_rail.mp3</sound>
+</w>
+<w idx="19" name="pedal">
+<jp>ペダル</jp>
+<exp>【名】ペダル</exp>
+<sound>tech2v47idx19_pedal.mp3</sound>
+</w>
+<w idx="20" name="slot">
+<jp>溝穴</jp>
+<exp>【名】溝穴、スロット</exp>
+<sound>tech2v47idx20_slot.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. plate</p>
+<p>2. disk</p>
+<p>3. nozzle</p>
+<p>4. pin</p>
+<p>5. valve</p>
+<p>6. button</p>
+<p>7. vessel</p>
+<p>8. welding</p>
+<p>9. coat</p>
+<p>10. needle</p>
+<p>11. crack</p>
+<p>12. smoke</p>
+<p>13. pointer</p>
+<p>14. plug</p>
+<p>15. film</p>
+<p>16. frame</p>
+<p>17. groove</p>
+<p>18. rail</p>
+<p>19. pedal</p>
+<p>20. slot</p>
+</contents>
+</unit>

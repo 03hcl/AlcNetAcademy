@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="11">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅰ 専門分野別,機械１</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">機械の分野でよく使われる語句です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="air conditioner">
+<jp>空調設備</jp>
+<exp>【名】空調設備</exp>
+<sound>tech2v11idx01_air_conditioner.mp3</sound>
+</w>
+<w idx="2" name="belt conveyor">
+<jp>ベルトコンベヤー</jp>
+<exp>【名】ベルトコンベヤー</exp>
+<sound>tech2v11idx02_belt_conveyor.mp3</sound>
+</w>
+<w idx="3" name="combustion chamber">
+<jp>燃焼室</jp>
+<exp>【名】燃焼室</exp>
+<sound>tech2v11idx03_combustion_chamber.mp3</sound>
+</w>
+<w idx="4" name="control">
+<jp>制御</jp>
+<exp>【名】制御　【動】制御する</exp>
+<sound>tech2v11idx04_control.mp3</sound>
+</w>
+<w idx="5" name="gear">
+<jp>歯車</jp>
+<exp>【名】歯車、ギア</exp>
+<sound>tech2v11idx05_gear.mp3</sound>
+</w>
+<w idx="6" name="lift">
+<jp>昇降機</jp>
+<exp>【名】昇降機、リフト</exp>
+<sound>tech2v11idx06_lift.mp3</sound>
+</w>
+<w idx="7" name="machine">
+<jp>機械</jp>
+<exp>【名】機械　【動】機械加工する</exp>
+<sound>tech2v11idx07_machine.mp3</sound>
+</w>
+<w idx="8" name="machinery">
+<jp>（集合的に）機械類</jp>
+<exp>【名】（集合的に）機械類</exp>
+<sound>tech2v11idx08_machinery.mp3</sound>
+</w>
+<w idx="9" name="steam engine">
+<jp>蒸気機関</jp>
+<exp>【名】蒸気機関</exp>
+<sound>tech2v11idx09_steam_engine.mp3</sound>
+</w>
+<w idx="10" name="stroke">
+<jp>行程</jp>
+<exp>【名】行程、往復運動（ピストン）</exp>
+<sound>tech2v11idx10_stroke.mp3</sound>
+</w>
+<w idx="11" name="turbine">
+<jp>タービン</jp>
+<exp>【名】タービン</exp>
+<sound>tech2v11idx11_turbine.mp3</sound>
+</w>
+<w idx="12" name="water-cooled engine">
+<jp>水冷機関</jp>
+<exp>【名】水冷機関</exp>
+<sound>tech2v11idx12_water-cooled_engine.mp3</sound>
+</w>
+<w idx="13" name="winch">
+<jp>巻き上げ機</jp>
+<exp>【名】巻き上げ機</exp>
+<sound>tech2v11idx13_winch.mp3</sound>
+</w>
+<w idx="14" name="computer-controlled">
+<jp>コンピュータ制御の</jp>
+<exp>【形】コンピュータ制御の</exp>
+<sound>tech2v11idx14_computer-controlled.mp3</sound>
+</w>
+<w idx="15" name="elevator">
+<jp>エレベータ</jp>
+<exp>【名】エレベータ</exp>
+<sound>tech2v11idx15_elevator.mp3</sound>
+</w>
+<w idx="16" name="escalator">
+<jp>エスカレータ</jp>
+<exp>【名】エスカレータ</exp>
+<sound>tech2v11idx16_escalator.mp3</sound>
+</w>
+<w idx="17" name="assembly">
+<jp>組み立て</jp>
+<exp>【名】組み立て</exp>
+<sound>tech2v11idx17_assembly.mp3</sound>
+</w>
+<w idx="18" name="torque">
+<jp>トルク</jp>
+<exp>【名】トルク</exp>
+<sound>tech2v11idx18_torque.mp3</sound>
+</w>
+<w idx="19" name="bearing">
+<jp>ベアリング</jp>
+<exp>【名】ベアリング</exp>
+<sound>tech2v11idx19_bearing.mp3</sound>
+</w>
+<w idx="20" name="blade">
+<jp>羽根</jp>
+<exp>【名】羽根</exp>
+<sound>tech2v11idx20_blade.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. air conditioner</p>
+<p>2. belt conveyor</p>
+<p>3. combustion chamber</p>
+<p>4. control</p>
+<p>5. gear</p>
+<p>6. lift</p>
+<p>7. machine</p>
+<p>8. machinery</p>
+<p>9. steam engine</p>
+<p>10. stroke</p>
+<p>11. turbine</p>
+<p>12. water-cooled engine</p>
+<p>13. winch</p>
+<p>14. computer-controlled</p>
+<p>15. elevator</p>
+<p>16. escalator</p>
+<p>17. assembly</p>
+<p>18. torque</p>
+<p>19. bearing</p>
+<p>20. blade</p>
+</contents>
+</unit>

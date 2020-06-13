@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="17">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅰ 専門分野別,環境２</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">環境の分野でよく使われる語句です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="air">
+<jp>空気</jp>
+<exp>【名】空気</exp>
+<sound>tech2v17idx01_air.mp3</sound>
+</w>
+<w idx="2" name="atmosphere">
+<jp>大気</jp>
+<exp>【名】大気</exp>
+<sound>tech2v17idx02_atmosphere.mp3</sound>
+</w>
+<w idx="3" name="atmospheric pressure">
+<jp>大気圧</jp>
+<exp>【名】大気圧</exp>
+<sound>tech2v17idx03_atmospheric_pressure.mp3</sound>
+</w>
+<w idx="4" name="natural resources">
+<jp>天然資源</jp>
+<exp>【名】天然資源</exp>
+<sound>tech2v17idx04_natural_resources.mp3</sound>
+</w>
+<w idx="5" name="resources">
+<jp>資源</jp>
+<exp>【名】資源</exp>
+<sound>tech2v17idx05_resources.mp3</sound>
+</w>
+<w idx="6" name="reuse">
+<jp>再利用</jp>
+<exp>【名】再利用</exp>
+<sound>tech2v17idx06_reuse.mp3</sound>
+</w>
+<w idx="7" name="forest">
+<jp>森林</jp>
+<exp>【名】森林</exp>
+<sound>tech2v17idx07_forest.mp3</sound>
+</w>
+<w idx="8" name="ocean">
+<jp>大洋</jp>
+<exp>【名】大洋</exp>
+<sound>tech2v17idx08_ocean.mp3</sound>
+</w>
+<w idx="9" name="rain forest">
+<jp>雨林</jp>
+<exp>【名】雨林</exp>
+<sound>tech2v17idx09_rain_forest.mp3</sound>
+</w>
+<w idx="10" name="tropical forest">
+<jp>熱帯林</jp>
+<exp>【名】熱帯林</exp>
+<sound>tech2v17idx10_tropical_forest.mp3</sound>
+</w>
+<w idx="11" name="detergent">
+<jp>洗剤</jp>
+<exp>【名】洗剤</exp>
+<sound>tech2v17idx11_detergent.mp3</sound>
+</w>
+<w idx="12" name="energy source">
+<jp>エネルギー源</jp>
+<exp>【名】エネルギー源</exp>
+<sound>tech2v17idx12_energy_source.mp3</sound>
+</w>
+<w idx="13" name="flood">
+<jp>洪水</jp>
+<exp>【名】洪水</exp>
+<sound>tech2v17idx13_flood.mp3</sound>
+</w>
+<w idx="14" name="fuel">
+<jp>燃料</jp>
+<exp>【名】燃料</exp>
+<sound>tech2v17idx14_fuel.mp3</sound>
+</w>
+<w idx="15" name="garbage">
+<jp>生ごみ</jp>
+<exp>【名】生ごみ、不要なデータ</exp>
+<sound>tech2v17idx15_garbage.mp3</sound>
+</w>
+<w idx="16" name="natural gas">
+<jp>天然ガス</jp>
+<exp>【名】天然ガス</exp>
+<sound>tech2v17idx16_natural_gas.mp3</sound>
+</w>
+<w idx="17" name="recycle">
+<jp>再循環</jp>
+<exp>【名】再循環</exp>
+<sound>tech2v17idx17_recycle.mp3</sound>
+</w>
+<w idx="18" name="soil">
+<jp>土壌</jp>
+<exp>【名】土壌</exp>
+<sound>tech2v17idx18_soil.mp3</sound>
+</w>
+<w idx="19" name="solar cell">
+<jp>太陽電池</jp>
+<exp>【名】太陽電池</exp>
+<sound>tech2v17idx19_solar_cell.mp3</sound>
+</w>
+<w idx="20" name="volcano">
+<jp>火山</jp>
+<exp>【名】火山</exp>
+<sound>tech2v17idx20_volcano.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. air</p>
+<p>2. atmosphere</p>
+<p>3. atmospheric pressure</p>
+<p>4. natural resources</p>
+<p>5. resources</p>
+<p>6. reuse</p>
+<p>7. forest</p>
+<p>8. ocean</p>
+<p>9. rain forest</p>
+<p>10. tropical forest</p>
+<p>11. detergent</p>
+<p>12. energy source</p>
+<p>13. flood</p>
+<p>14. fuel</p>
+<p>15. garbage</p>
+<p>16. natural gas</p>
+<p>17. recycle</p>
+<p>18. soil</p>
+<p>19. solar cell</p>
+<p>20. volcano</p>
+</contents>
+</unit>

@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="58">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅲ 科学基礎,図形</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">図形に関連する語句です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="circumference">
+<jp>円周</jp>
+<exp>【名】円周</exp>
+<sound>tech2v58idx01_circumference.mp3</sound>
+</w>
+<w idx="2" name="cone">
+<jp>円錐（えんすい）</jp>
+<exp>【名】円錐（えんすい）</exp>
+<sound>tech2v58idx02_cone.mp3</sound>
+</w>
+<w idx="3" name="cylinder">
+<jp>円柱</jp>
+<exp>【名】円柱</exp>
+<sound>tech2v58idx03_cylinder.mp3</sound>
+</w>
+<w idx="4" name="ellipse">
+<jp>楕円</jp>
+<exp>【名】楕円</exp>
+<sound>tech2v58idx04_ellipse.mp3</sound>
+</w>
+<w idx="5" name="semicircle">
+<jp>半円</jp>
+<exp>【名】半円</exp>
+<sound>tech2v58idx05_semicircle.mp3</sound>
+</w>
+<w idx="6" name="equilateral triangle">
+<jp>正三角形</jp>
+<exp>【名】正三角形</exp>
+<sound>tech2v58idx06_equilateral_triangle.mp3</sound>
+</w>
+<w idx="7" name="triangle">
+<jp>三角形</jp>
+<exp>【名】三角形</exp>
+<sound>tech2v58idx07_triangle.mp3</sound>
+</w>
+<w idx="8" name="triangular">
+<jp>三角の</jp>
+<exp>【形】三角の</exp>
+<sound>tech2v58idx08_triangular.mp3</sound>
+</w>
+<w idx="9" name="rectangle">
+<jp>長方形</jp>
+<exp>【名】長方形</exp>
+<sound>tech2v58idx09_rectangle.mp3</sound>
+</w>
+<w idx="10" name="square">
+<jp>正方形</jp>
+<exp>【名】正方形、二乗</exp>
+<sound>tech2v58idx10_square.mp3</sound>
+</w>
+<w idx="11" name="angle">
+<jp>角度</jp>
+<exp>【名】角度</exp>
+<sound>tech2v58idx11_angle.mp3</sound>
+</w>
+<w idx="12" name="arc">
+<jp>弧</jp>
+<exp>【名】弧</exp>
+<sound>tech2v58idx12_arc.mp3</sound>
+</w>
+<w idx="13" name="cube">
+<jp>立方体</jp>
+<exp>【名】立方体</exp>
+<sound>tech2v58idx13_cube.mp3</sound>
+</w>
+<w idx="14" name="curve">
+<jp>曲線</jp>
+<exp>【名】曲線</exp>
+<sound>tech2v58idx14_curve.mp3</sound>
+</w>
+<w idx="15" name="figure">
+<jp>図</jp>
+<exp>【名】図、数字</exp>
+<sound>tech2v58idx15_figure.mp3</sound>
+</w>
+<w idx="16" name="hexagon">
+<jp>六角形</jp>
+<exp>【名】六角形</exp>
+<sound>tech2v58idx16_hexagon.mp3</sound>
+</w>
+<w idx="17" name="pentagon">
+<jp>五角形</jp>
+<exp>【名】五角形</exp>
+<sound>tech2v58idx17_pentagon.mp3</sound>
+</w>
+<w idx="18" name="pyramid">
+<jp>角錐（かくすい）</jp>
+<exp>【名】角錐（かくすい）</exp>
+<sound>tech2v58idx18_pyramid.mp3</sound>
+</w>
+<w idx="19" name="regular pentagon">
+<jp>正五角形</jp>
+<exp>【名】正五角形</exp>
+<sound>tech2v58idx19_regular_pentagon.mp3</sound>
+</w>
+<w idx="20" name="right-angled">
+<jp>直角の</jp>
+<exp>【形】直角の</exp>
+<sound>tech2v58idx20_right-angled.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. circumference</p>
+<p>2. cone</p>
+<p>3. cylinder</p>
+<p>4. ellipse</p>
+<p>5. semicircle</p>
+<p>6. equilateral triangle</p>
+<p>7. triangle</p>
+<p>8. triangular</p>
+<p>9. rectangle</p>
+<p>10. square</p>
+<p>11. angle</p>
+<p>12. arc</p>
+<p>13. cube</p>
+<p>14. curve</p>
+<p>15. figure</p>
+<p>16. hexagon</p>
+<p>17. pentagon</p>
+<p>18. pyramid</p>
+<p>19. regular pentagon</p>
+<p>20. right-angled</p>
+</contents>
+</unit>

@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 基礎コース -->
+
+<unit idx="11">
+
+<introduction>
+<title>大気汚染</title>
+<read>&lt;font size="16" color="#000000"&gt;
+（学習のポイント）               
+&lt;/font&gt;
+&lt;font size="16" color="#0000FF"&gt;
+結果の不定詞／過去分詞／form
+&lt;/font&gt;
+&lt;br&gt;
+&lt;font size="16" color="#000000"&gt;
+大気汚染､環境の話題です｡前から後ろに流れていくのが英文の作り方の原則です｡不定詞の用法にはそれを助ける「結果」の表し方があります。「…を生じる」という動詞の意味をもつ form を学びます。
+&lt;/font&gt;</read>
+</introduction>
+
+
+<notes>
+<w idx="1" name="air pollution">
+<jp>大気汚染</jp>
+<sound>tech2b11idx01_air_pollution.mp3</sound>
+</w>
+<w idx="2" name="environmental concerns">
+<jp>環境問題</jp>
+<sound>tech2b11idx02_environmental_concerns.mp3</sound>
+</w>
+<w idx="3" name="thermal power plant">
+<jp>火力発電所</jp>
+<sound>tech2b11idx03_thermal_power_plant.mp3</sound>
+</w>
+<w idx="4" name="petroleum">
+<jp>石油</jp>
+<sound>tech2b11idx04_petroleum.mp3</sound>
+</w>
+<w idx="5" name="fossil fuel">
+<jp>化石燃料</jp>
+<sound>tech2b11idx05_fossil_fuel.mp3</sound>
+</w>
+<w idx="6" name="sulfur">
+<jp>硫黄</jp>
+<sound>tech2b11idx06_sulfur.mp3</sound>
+</w>
+<w idx="7" name="oxygen">
+<jp>酸素</jp>
+<sound>tech2b11idx07_oxygen.mp3</sound>
+</w>
+<w idx="8" name="react">
+<jp>反応し</jp>
+<sound>tech2b11idx08_react.mp3</sound>
+</w>
+<w idx="9" name="harmful">
+<jp>有害な</jp>
+<sound>tech2b11idx09_harmful.mp3</sound>
+</w>
+<w idx="10" name="exhaust">
+<jp>排ガス</jp>
+<sound>tech2b11idx10_exhaust.mp3</sound>
+</w>
+</notes>
+
+
+<!-- Step1、Topic&Vocaburary -->
+<contents type="tech2bStep1">
+<p>　<w idx="1">大気汚染</w>は解決すべき<w idx="2">環境問題</w>のひとつである。<w idx="3">火力発電所</w>では<w idx="4">石油</w>などの<w idx="5">化石燃料</w>を使っている。石油に含まれる<w idx="6">硫黄</w>が<w idx="7">酸素</w>と<w idx="8">反応し</w>て人体に<w idx="9">有害な</w>硫黄酸化物を生じる。これを取り除くために、火力発電所には<w idx="10">排ガス</w>脱硫装置が設置されている。また、自動車の排ガスによる窒素酸化物（NOx）、浮遊粒子状物質に対する厳しい法規制が進められている。</p>
+</contents>
+
+
+<!-- Step2、Writing1 -->
+<contents type="tech2bStep2">
+<instruction1>次の日本文から、幹センを抜き出そう。</instruction1>
+<instruction2>[先輩]ボタンを押して、先輩が書いた英文とあなたの英文を比べてみよう。</instruction2>
+<sentence>
+<ph idx="1">石油に含まれる</ph>
+<ph idx="2" miki="true">硫黄が</ph>
+<ph idx="3" miki="true">酸素と反応して</ph>
+<ph idx="4">人体に有害な</ph>
+<ph idx="5" miki="true">硫黄酸化物を</ph>
+<ph idx="6" miki="true">生じる。</ph>
+</sentence>
+<mikisentence>
+<ph idx="1" type="S">硫黄が</ph>
+<ph idx="2">酸素と</ph>
+<ph idx="3" type="V">反応して</ph>
+<ph idx="4">硫黄酸化物を生じる。</ph>
+</mikisentence>
+<hint text="">
+<ph idx="1">sulfur</ph>
+<ph idx="2">oxygen</ph>
+<ph idx="3">sulfur oxides</ph>
+<ph idx="4">react</ph>
+<ph idx="5">with</ph>
+</hint>
+<senior answer="C">Sulfur <sel cd="A">reacts</sel> <sel cd="B">with</sel> oxygen and <sel cd="C">makes</sel> <sel cd="D">sulfur oxides</sel>.</senior>
+<teach>Sulfur reacts with oxygen to form sulfur oxides.</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　いよいよ &lt;font color="#0000FF"&gt;to不定詞&lt;/font&gt;の本格的な登場です。 to に動詞の原形を続ければ&lt;font color="#0000FF"&gt;不定詞（infinitive）&lt;/font&gt;です。英文法書には、&lt;font color="#0000FF"&gt;名詞的用法&lt;/font&gt;（ユニット３ ... enables us to write and erase ... 、ユニット４ ... allows the organic EL device to be ... の不定詞はこの用法なので補語になれました）、&lt;font color="#0000FF"&gt;形容詞的用法&lt;/font&gt;、そして&lt;font color="#0000FF"&gt;副詞的用法&lt;/font&gt;と分類して書いてあります。英語を道具として使うのですから、まずは使い方さえわかればよいのです。&lt;br&gt;
+&lt;br&gt;
+　使いがいがあるのは、副詞的用法です。中でも&lt;font color="#0000FF"&gt;「結果」を表す用法&lt;/font&gt;が便利です。この幹センにあてはめると、「硫黄が酸素と反応して、その結果、硫黄酸化物を生じる」です。「その結果、…を生じる」には、to form という不定詞を使ってください。&lt;b&gt;「結果」を表す不定詞の副詞的用法では、日本語の語順で英文に訳せます&lt;/b&gt;。 form はこれまで「形」という名詞として使ってきた人が多いでしょう。「（化学反応で物質）を生じる」という動詞の意味も覚えましょう。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　make にはいろいろな意味があるので、読み手は「どの意味の make なのかな？」と考えなくてはいけません。理系の英文だからあえて間違いとします。&lt;b&gt;読み手が迷わないような動詞「ぴったんこ動詞」を使うのが理系のライティングです&lt;/b&gt;。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step3、Writing2 -->
+<contents type="tech2bStep3">
+<hint text="">
+<ph idx="1">contain</ph>
+<ph idx="2">petroleum</ph>
+<ph idx="3">harmful</ph>
+<ph idx="4">human body</ph>
+</hint>
+</contents>
+
+
+<!-- Step4、Comparisons -->
+<contents type="tech2bStep4">
+<senior answer="6">Sulfur containing in oil reacts with oxygen to form sulfur oxides harmful to the human body.</senior>
+<teach>
+&lt;font size="20" color="#000000"&gt;
+Sulfur 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+contained in petroleum 
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+reacts with oxygen to form sulfur oxides 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+harmful to the human body
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+.
+&lt;/font&gt;
+</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　「人体に有害な」は &lt;font color="#FF0000"&gt;harmful to the human body&lt;/font&gt; です。これを形容詞句（主語と動詞はなくともひとかたまりを句と呼びます）として sulfur oxides の前に置くことはできません。 harmful だけであれば前に置くことができます。そこで、後から sulfur oxides にかかるようにします。&lt;b&gt;形容詞を名詞の後に置く表現を覚えましょう&lt;/b&gt;。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　先輩の英文では、containing が間違いです。 -ing を使うと、「Sulfur が石油に含んでいる」という意味不明の文になってしまいます。「含まれる」ので contained にしてください。 oil は「油一般」を指します。「石油」なら petroleum に限定してください。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step5、Exercisse -->
+<contents type="tech2bStep5" size="5">
+<instruction1>このユニットで登場した表現と、新しい表現を練習しよう。</instruction1>
+<question no="1" type="I">
+<textTrans>ウイルスを含んだ瓶のひとつが盗まれていた。</textTrans>
+<text>One of the bottles <sel cd="A" answer="2"></sel> the virus had been stolen.</text>
+<sel cd="A" idx="1">including</sel>
+<sel cd="A" idx="2">containing</sel>
+<sel cd="A" idx="3">having</sel>
+<hint>
+<sound>tech2b11s5Q01.mp3</sound>
+</hint>
+<point>　ウイルスを瓶の「内容として」含んでいるというときには contain を使います。 include は構成要素、つまり全体の一部として含むことを意味します。例えば、Seven were killed, including the guard. 守衛を含んで７人が殺された。</point>
+</question>
+
+<question no="2" type="I">
+<textTrans>ミルクにはビタミンも含まれている。</textTrans>
+<text>Milk also <sel cd="A" answer="3"></sel> vitamins.</text>
+<sel cd="A" idx="1">has</sel>
+<sel cd="A" idx="2">includes</sel>
+<sel cd="A" idx="3">contains</sel>
+<hint>
+<sound>tech2b11s5Q02.mp3</sound>
+</hint>
+<point>　ビタミンをミルクの「成分として」含有しているので contain を選んでください。「含有量」は content です。</point>
+</question>
+
+<question no="3" type="R">
+<textTrans>アルブミンは17のヒスチジン残基を有している。</textTrans>
+<text>Albumin <sel cd="A" answer="3"></sel> 17 histidine residues.</text>
+<sel cd="A" idx="1">has</sel>
+<sel cd="A" idx="2">includes</sel>
+<sel cd="A" idx="3">contains</sel>
+<hint>
+<sound>tech2b11s5Q03.mp3</sound>
+</hint>
+<point>　ヒスチジン残基をアルブミンの「成分として」含有しているのでここも contain を使います。</point>
+</question>
+
+<question no="4" type="R">
+<textTrans>代数計算には足し算、引き算、掛け算、そして割り算がある。</textTrans>
+<text>Arithmetical operations <sel cd="A" answer="3"></sel> addition, subtraction, multiplication, and division.</text>
+<sel cd="A" idx="1">contain</sel>
+<sel cd="A" idx="2">include</sel>
+<sel cd="A" idx="3">are</sel>
+<hint>
+<sound>tech2b11s5Q04.mp3</sound>
+</hint>
+<point>　代数計算は、加減乗除の４つですべてなので、are を使います。</point>
+</question>
+
+<question no="5" type="R">
+<textTrans>水素は酸素と反応して水になる。</textTrans>
+<text>Hydrogen reacts <sel cd="A" answer="3"></sel> oxygen to <sel cd="B" answer="2"></sel> water.</text>
+<sel cd="A" idx="1">to</sel>
+<sel cd="A" idx="2">of</sel>
+<sel cd="A" idx="3">with</sel>
+<sel cd="B" idx="1">make</sel>
+<sel cd="B" idx="2">form</sel>
+<sel cd="B" idx="3">become</sel>
+<hint>
+<sound>tech2b11s5Q05.mp3</sound>
+</hint>
+<point>　「…と反応する」は react with ... 、化学反応によって物質が生じるときには form を使ってください。</point>
+</question>
+</contents>
+
+
+<contents type="phrase">
+<p><ph idx="1">Sulfur contained in petroleum reacts with oxygen to form sulfur oxides harmful to the human body.</ph></p>
+<p></p>
+<p><ph idx="2">1. One of the bottles containing the virus had been stolen.</ph></p>
+<p><ph idx="3">2. Milk also contains vitamins.</ph></p>
+<p><ph idx="4">3. Albumin contains 17 histidine residues.</ph></p>
+<p><ph idx="5">4. Arithmetical operations are addition, subtraction, multiplication, and division.</ph></p>
+<p><ph idx="6">5. Hydrogen reacts with oxygen to form water.</ph></p>
+</contents>
+
+<contents type="translation">
+<p><ph idx="1">石油に含まれる硫黄が酸素と反応して人体に有害な硫黄酸化物を生じる。</ph></p>
+<p></p>
+<p><ph idx="2">1. ウイルスを含んだビンのひとつが盗まれていた。</ph></p>
+<p><ph idx="3">2. ミルクにはビタミンも含まれている。</ph></p>
+<p><ph idx="4">3. アルブミンは17のヒスチジン残基を有している。</ph></p>
+<p><ph idx="5">4. 代数計算には足し算、引き算、掛け算、そして割り算がある。</ph></p>
+<p><ph idx="6">5. 水素は酸素と反応して水になる。</ph></p>
+</contents>
+
+</unit>

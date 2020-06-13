@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（イラスト演習） -->
+
+<unit idx="02">
+
+<!-- タイトル -->
+<title>Ⅳ イラスト演習,元素記号２</title>
+
+<!-- 問題 -->
+<question no="1" size="3">
+<sel cd="1" w="1"></sel>
+<sel cd="2" w="2"></sel>
+<sel cd="3" w="21"></sel>
+</question>
+<question no="2" size="3">
+<sel cd="1" w="3"></sel>
+<sel cd="2" w="4"></sel>
+<sel cd="3" w="22"></sel>
+</question>
+<question no="3" size="3">
+<sel cd="1" w="5"></sel>
+<sel cd="2" w="6"></sel>
+<sel cd="3" w="23"></sel>
+</question>
+<question no="4" size="3">
+<sel cd="1" w="7"></sel>
+<sel cd="2" w="8"></sel>
+<sel cd="3" w="24"></sel>
+</question>
+<question no="5" size="3">
+<sel cd="1" w="9"></sel>
+<sel cd="2" w="10"></sel>
+<sel cd="3" w="25"></sel>
+</question>
+<question no="6" size="3">
+<sel cd="1" w="11"></sel>
+<sel cd="2" w="12"></sel>
+<sel cd="3" w="26"></sel>
+</question>
+<question no="7" size="3">
+<sel cd="1" w="13"></sel>
+<sel cd="2" w="14"></sel>
+<sel cd="3" w="27"></sel>
+</question>
+<question no="8" size="3">
+<sel cd="1" w="15"></sel>
+<sel cd="2" w="16"></sel>
+<sel cd="3" w="28"></sel>
+</question>
+<question no="9" size="3">
+<sel cd="1" w="17"></sel>
+<sel cd="2" w="18"></sel>
+<sel cd="3" w="29"></sel>
+</question>
+<question no="10" size="3">
+<sel cd="1" w="19"></sel>
+<sel cd="2" w="20"></sel>
+<sel cd="3" w="30"></sel>
+</question>
+
+<notes>
+<w idx="1" name="titanium" list="true">
+<jp>チタン</jp>
+<exp>チタン</exp>
+<sound>tech2vi02idx01_titanium.mp3</sound>
+<image>titanium.swf</image>
+</w>
+<w idx="2" name="chromium" list="true">
+<jp>クロム</jp>
+<exp>クロム</exp>
+<sound>tech2vi02idx02_chromium.mp3</sound>
+<image>chromium.swf</image>
+</w>
+<w idx="3" name="manganese" list="true">
+<jp>マンガン</jp>
+<exp>マンガン</exp>
+<sound>tech2vi02idx03_manganese.mp3</sound>
+<image>manganese.swf</image>
+</w>
+<w idx="4" name="iron" list="true">
+<jp>鉄</jp>
+<exp>鉄</exp>
+<sound>tech2vi02idx04_iron.mp3</sound>
+<image>iron.swf</image>
+</w>
+<w idx="5" name="cobalt" list="true">
+<jp>コバルト</jp>
+<exp>コバルト</exp>
+<sound>tech2vi02idx05_cobalt.mp3</sound>
+<image>cobalt.swf</image>
+</w>
+<w idx="6" name="nickel" list="true">
+<jp>ニッケル</jp>
+<exp>ニッケル</exp>
+<sound>tech2vi02idx06_nickel.mp3</sound>
+<image>nickel.swf</image>
+</w>
+<w idx="7" name="copper" list="true">
+<jp>銅</jp>
+<exp>銅</exp>
+<sound>tech2vi02idx07_copper.mp3</sound>
+<image>copper.swf</image>
+</w>
+<w idx="8" name="zinc" list="true">
+<jp>亜鉛</jp>
+<exp>亜鉛</exp>
+<sound>tech2vi02idx08_zinc.mp3</sound>
+<image>zinc.swf</image>
+</w>
+<w idx="9" name="germanium" list="true">
+<jp>ゲルマニウム</jp>
+<exp>ゲルマニウム</exp>
+<sound>tech2vi02idx09_germanium.mp3</sound>
+<image>germanium.swf</image>
+</w>
+<w idx="10" name="arsenic" list="true">
+<jp>ヒ素</jp>
+<exp>ヒ素</exp>
+<sound>tech2vi02idx10_arsenic.mp3</sound>
+<image>arsenic.swf</image>
+</w>
+<w idx="11" name="bromine" list="true">
+<jp>臭素</jp>
+<exp>臭素</exp>
+<sound>tech2vi02idx11_bromine.mp3</sound>
+<image>bromine.swf</image>
+</w>
+<w idx="12" name="silver" list="true">
+<jp>銀</jp>
+<exp>銀</exp>
+<sound>tech2vi02idx12_silver.mp3</sound>
+<image>silver.swf</image>
+</w>
+<w idx="13" name="tin" list="true">
+<jp>錫</jp>
+<exp>錫</exp>
+<sound>tech2vi02idx13_tin.mp3</sound>
+<image>tin.swf</image>
+</w>
+<w idx="14" name="iodine" list="true">
+<jp>ヨウ素</jp>
+<exp>ヨウ素</exp>
+<sound>tech2vi02idx14_iodine.mp3</sound>
+<image>iodine.swf</image>
+</w>
+<w idx="15" name="barium" list="true">
+<jp>バリウム</jp>
+<exp>バリウム</exp>
+<sound>tech2vi02idx15_barium.mp3</sound>
+<image>barium.swf</image>
+</w>
+<w idx="16" name="platinum" list="true">
+<jp>白金</jp>
+<exp>白金</exp>
+<sound>tech2vi02idx16_platinum.mp3</sound>
+<image>platinum.swf</image>
+</w>
+<w idx="17" name="gold" list="true">
+<jp>金</jp>
+<exp>金</exp>
+<sound>tech2vi02idx17_gold.mp3</sound>
+<image>gold.swf</image>
+</w>
+<w idx="18" name="mercury" list="true">
+<jp>水銀</jp>
+<exp>水銀</exp>
+<sound>tech2vi02idx18_mercury.mp3</sound>
+<image>mercury.swf</image>
+</w>
+<w idx="19" name="lead" list="true">
+<jp>鉛</jp>
+<exp>鉛</exp>
+<sound>tech2vi02idx19_lead.mp3</sound>
+<image>lead.swf</image>
+</w>
+<w idx="20" name="uranium" list="true">
+<jp>ウラン</jp>
+<exp>ウラン</exp>
+<sound>tech2vi02idx20_uranium.mp3</sound>
+<image>uranium.swf</image>
+</w>
+<w idx="21" name="chlorine" list="false">
+<jp>塩素</jp>
+<exp></exp>
+<sound>tech2vi02idx21_chlorine.mp3</sound>
+<image>chlorine.swf</image>
+</w>
+<w idx="22" name="magnesium" list="false">
+<jp>マグネシウム</jp>
+<exp></exp>
+<sound>tech2vi02idx22_magnesium.mp3</sound>
+<image>magnesium.swf</image>
+</w>
+<w idx="23" name="potassium" list="false">
+<jp>カリウム</jp>
+<exp></exp>
+<sound>tech2vi02idx23_potassium.mp3</sound>
+<image>potassium.swf</image>
+</w>
+<w idx="24" name="boron" list="false">
+<jp>ホウ素</jp>
+<exp></exp>
+<sound>tech2vi02idx24_boron.mp3</sound>
+<image>boron.swf</image>
+</w>
+<w idx="25" name="helium" list="false">
+<jp>ヘリウム</jp>
+<exp></exp>
+<sound>tech2vi02idx25_helium.mp3</sound>
+<image>helium.swf</image>
+</w>
+<w idx="26" name="beryllium" list="false">
+<jp>ベリリウム</jp>
+<exp></exp>
+<sound>tech2vi02idx26_beryllium.mp3</sound>
+<image>beryllium.swf</image>
+</w>
+<w idx="27" name="lithium" list="false">
+<jp>リチウム</jp>
+<exp></exp>
+<sound>tech2vi02idx27_lithium.mp3</sound>
+<image>lithium.swf</image>
+</w>
+<w idx="28" name="phosphorus" list="false">
+<jp>リン</jp>
+<exp></exp>
+<sound>tech2vi02idx28_phosphorus.mp3</sound>
+<image>phosphorus.swf</image>
+</w>
+<w idx="29" name="sulfur" list="false">
+<jp>硫黄</jp>
+<exp></exp>
+<sound>tech2vi02idx29_sulfur.mp3</sound>
+<image>sulfur.swf</image>
+</w>
+<w idx="30" name="sodium" list="false">
+<jp>ナトリウム</jp>
+<exp></exp>
+<sound>tech2vi02idx30_sodium.mp3</sound>
+<image>sodium.swf</image>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. titanium</p>
+<p>2. chromium</p>
+<p>3. manganese</p>
+<p>4. iron</p>
+<p>5. cobalt</p>
+<p>6. nickel</p>
+<p>7. copper</p>
+<p>8. zinc</p>
+<p>9. germanium</p>
+<p>10. arsenic</p>
+<p>11. bromine</p>
+<p>12. silver</p>
+<p>13. tin</p>
+<p>14. iodine</p>
+<p>15. barium</p>
+<p>16. platinum</p>
+<p>17. gold</p>
+<p>18. mercury</p>
+<p>19. lead</p>
+<p>20. uranium</p>
+</contents>
+</unit>

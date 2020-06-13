@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="53">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅲ 科学基礎,科学基礎12</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">科学全般に共通する基礎語彙力を身につけます。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="standard">
+<jp>標準</jp>
+<exp>【名】標準</exp>
+<sound>tech2v53idx01_standard.mp3</sound>
+</w>
+<w idx="2" name="laboratory">
+<jp>実験室</jp>
+<exp>【名】実験室</exp>
+<sound>tech2v53idx02_laboratory.mp3</sound>
+</w>
+<w idx="3" name="calculation">
+<jp>計算</jp>
+<exp>【名】計算</exp>
+<sound>tech2v53idx03_calculation.mp3</sound>
+</w>
+<w idx="4" name="compression">
+<jp>圧縮</jp>
+<exp>【名】圧縮</exp>
+<sound>tech2v53idx04_compression.mp3</sound>
+</w>
+<w idx="5" name="development">
+<jp>開発</jp>
+<exp>【名】開発、現像</exp>
+<sound>tech2v53idx05_development.mp3</sound>
+</w>
+<w idx="6" name="core">
+<jp>核</jp>
+<exp>【名】核、芯、コア</exp>
+<sound>tech2v53idx06_core.mp3</sound>
+</w>
+<w idx="7" name="beam">
+<jp>光線</jp>
+<exp>【名】光線、光束、ビーム、梁（はり）</exp>
+<sound>tech2v53idx07_beam.mp3</sound>
+</w>
+<w idx="8" name="contrast">
+<jp>対比</jp>
+<exp>【名】対比、コントラスト</exp>
+<sound>tech2v53idx08_contrast.mp3</sound>
+</w>
+<w idx="9" name="odor">
+<jp>臭気</jp>
+<exp>【名】臭気</exp>
+<sound>tech2v53idx09_odor.mp3</sound>
+</w>
+<w idx="10" name="discovery">
+<jp>発見</jp>
+<exp>【名】発見</exp>
+<sound>tech2v53idx10_discovery.mp3</sound>
+</w>
+<w idx="11" name="solution">
+<jp>解決</jp>
+<exp>【名】解決、溶液</exp>
+<sound>tech2v53idx11_solution.mp3</sound>
+</w>
+<w idx="12" name="interface">
+<jp>界面</jp>
+<exp>【名】界面、インターフェース、窓口</exp>
+<sound>tech2v53idx12_interface.mp3</sound>
+</w>
+<w idx="13" name="mineral">
+<jp>鉱物</jp>
+<exp>【名】鉱物、無機物　【形】無機の</exp>
+<sound>tech2v53idx13_mineral.mp3</sound>
+</w>
+<w idx="14" name="transmission">
+<jp>伝送</jp>
+<exp>【名】伝送、送電、送信</exp>
+<sound>tech2v53idx14_transmission.mp3</sound>
+</w>
+<w idx="15" name="flow">
+<jp>流れ</jp>
+<exp>【名】流れ　【動】流れる</exp>
+<sound>tech2v53idx15_flow.mp3</sound>
+</w>
+<w idx="16" name="multiple">
+<jp>倍数</jp>
+<exp>【名】倍数　【形】多端子の、複合の</exp>
+<sound>tech2v53idx16_multiple.mp3</sound>
+</w>
+<w idx="17" name="chain">
+<jp>連鎖</jp>
+<exp>【名】連鎖</exp>
+<sound>tech2v53idx17_chain.mp3</sound>
+</w>
+<w idx="18" name="signal">
+<jp>信号</jp>
+<exp>【名】信号</exp>
+<sound>tech2v53idx18_signal.mp3</sound>
+</w>
+<w idx="19" name="illustration">
+<jp>図解</jp>
+<exp>【名】図解</exp>
+<sound>tech2v53idx19_illustration.mp3</sound>
+</w>
+<w idx="20" name="diagram">
+<jp>略図</jp>
+<exp>【名】略図、線図</exp>
+<sound>tech2v53idx20_diagram.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. standard</p>
+<p>2. laboratory</p>
+<p>3. calculation</p>
+<p>4. compression</p>
+<p>5. development</p>
+<p>6. core</p>
+<p>7. beam</p>
+<p>8. contrast</p>
+<p>9. odor</p>
+<p>10. discovery</p>
+<p>11. solution</p>
+<p>12. interface</p>
+<p>13. mineral</p>
+<p>14. transmission</p>
+<p>15. flow</p>
+<p>16. multiple</p>
+<p>17. chain</p>
+<p>18. signal</p>
+<p>19. illustration</p>
+<p>20. diagram</p>
+</contents>
+</unit>

@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="60">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅲ 科学基礎,道具・工具</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">道具・工具の名前を覚えましょう。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="bolt">
+<jp>ボルト</jp>
+<exp>【名】ボルト</exp>
+<sound>tech2v60idx01_bolt.mp3</sound>
+</w>
+<w idx="2" name="nut">
+<jp>ナット</jp>
+<exp>【名】ナット</exp>
+<sound>tech2v60idx02_nut.mp3</sound>
+</w>
+<w idx="3" name="washer">
+<jp>ワッシャ</jp>
+<exp>【名】ワッシャ</exp>
+<sound>tech2v60idx03_washer.mp3</sound>
+</w>
+<w idx="4" name="nail">
+<jp>釘</jp>
+<exp>【名】釘</exp>
+<sound>tech2v60idx04_nail.mp3</sound>
+</w>
+<w idx="5" name="screw">
+<jp>ねじ</jp>
+<exp>【名】ねじ</exp>
+<sound>tech2v60idx05_screw.mp3</sound>
+</w>
+<w idx="6" name="ruler">
+<jp>定規、ルーラ</jp>
+<exp>【名】定規、ルーラ</exp>
+<sound>tech2v60idx06_ruler.mp3</sound>
+</w>
+<w idx="7" name="scale">
+<jp>目盛り</jp>
+<exp>【名】目盛り、縮尺、定規</exp>
+<sound>tech2v60idx07_scale.mp3</sound>
+</w>
+<w idx="8" name="vernier calipers">
+<jp>ノギス</jp>
+<exp>【名】ノギス</exp>
+<sound>tech2v60idx08_vernier_calipers.mp3</sound>
+</w>
+<w idx="9" name="drill">
+<jp>きり</jp>
+<exp>【名】きり　【動】穴をあける</exp>
+<sound>tech2v60idx09_drill.mp3</sound>
+</w>
+<w idx="10" name="file">
+<jp>やすり</jp>
+<exp>【名】やすり</exp>
+<sound>tech2v60idx10_file.mp3</sound>
+</w>
+<w idx="11" name="hex wrench">
+<jp>六角レンチ</jp>
+<exp>【名】六角レンチ</exp>
+<sound>tech2v60idx11_hex_wrench.mp3</sound>
+</w>
+<w idx="12" name="jack">
+<jp>ジャッキ</jp>
+<exp>【名】ジャッキ</exp>
+<sound>tech2v60idx12_jack.mp3</sound>
+</w>
+<w idx="13" name="ladder">
+<jp>はしご</jp>
+<exp>【名】はしご</exp>
+<sound>tech2v60idx13_ladder.mp3</sound>
+</w>
+<w idx="14" name="lathe">
+<jp>旋盤</jp>
+<exp>【名】旋盤</exp>
+<sound>tech2v60idx14_lathe.mp3</sound>
+</w>
+<w idx="15" name="pliers">
+<jp>やっとこ</jp>
+<exp>【名】やっとこ、プライヤ</exp>
+<sound>tech2v60idx15_pliers.mp3</sound>
+</w>
+<w idx="16" name="screwdriver">
+<jp>ねじ回し</jp>
+<exp>【名】ねじ回し、ドライバー</exp>
+<sound>tech2v60idx16_screwdriver.mp3</sound>
+</w>
+<w idx="17" name="solder">
+<jp>はんだ</jp>
+<exp>【名】はんだ</exp>
+<sound>tech2v60idx17_solder.mp3</sound>
+</w>
+<w idx="18" name="tool">
+<jp>工具</jp>
+<exp>【名】工具、道具</exp>
+<sound>tech2v60idx18_tool.mp3</sound>
+</w>
+<w idx="19" name="vise">
+<jp>万力</jp>
+<exp>【名】万力</exp>
+<sound>tech2v60idx19_vise.mp3</sound>
+</w>
+<w idx="20" name="workbench">
+<jp>作業台</jp>
+<exp>【名】作業台</exp>
+<sound>tech2v60idx20_workbench.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. bolt</p>
+<p>2. nut</p>
+<p>3. washer</p>
+<p>4. nail</p>
+<p>5. screw</p>
+<p>6. ruler</p>
+<p>7. scale</p>
+<p>8. vernier calipers</p>
+<p>9. drill</p>
+<p>10. file</p>
+<p>11. hex wrench</p>
+<p>12. jack</p>
+<p>13. ladder</p>
+<p>14. lathe</p>
+<p>15. pliers</p>
+<p>16. screwdriver</p>
+<p>17. solder</p>
+<p>18. tool</p>
+<p>19. vise</p>
+<p>20. workbench</p>
+</contents>
+</unit>

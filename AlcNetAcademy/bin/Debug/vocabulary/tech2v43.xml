@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="43">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅲ 科学基礎,科学基礎２</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">科学全般に共通する基礎語彙力を身につけます。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="degree">
+<jp>度</jp>
+<exp>【名】度</exp>
+<sound>tech2v43idx01_degree.mp3</sound>
+</w>
+<w idx="2" name="heat">
+<jp>熱</jp>
+<exp>【名】熱</exp>
+<sound>tech2v43idx02_heat.mp3</sound>
+</w>
+<w idx="3" name="reaction">
+<jp>反応</jp>
+<exp>【名】反応、反作用</exp>
+<sound>tech2v43idx03_reaction.mp3</sound>
+</w>
+<w idx="4" name="change">
+<jp>変化</jp>
+<exp>【名】変化　【動】変える、取り替える</exp>
+<sound>tech2v43idx04_change.mp3</sound>
+</w>
+<w idx="5" name="humidity">
+<jp>湿度</jp>
+<exp>【名】湿度</exp>
+<sound>tech2v43idx05_humidity.mp3</sound>
+</w>
+<w idx="6" name="density">
+<jp>密度</jp>
+<exp>【名】密度、濃度</exp>
+<sound>tech2v43idx06_density.mp3</sound>
+</w>
+<w idx="7" name="drag">
+<jp>抗力</jp>
+<exp>【名】抗力、抵抗　【動】引きずる</exp>
+<sound>tech2v43idx07_drag.mp3</sound>
+</w>
+<w idx="8" name="temperature">
+<jp>温度</jp>
+<exp>【名】温度</exp>
+<sound>tech2v43idx08_temperature.mp3</sound>
+</w>
+<w idx="9" name="direction">
+<jp>方向</jp>
+<exp>【名】方向</exp>
+<sound>tech2v43idx09_direction.mp3</sound>
+</w>
+<w idx="10" name="absolute temperature">
+<jp>絶対温度</jp>
+<exp>【名】絶対温度</exp>
+<sound>tech2v43idx10_absolute_temperature.mp3</sound>
+</w>
+<w idx="11" name="average">
+<jp>平均</jp>
+<exp>【名】平均　【動】平均する</exp>
+<sound>tech2v43idx11_average.mp3</sound>
+</w>
+<w idx="12" name="research">
+<jp>研究</jp>
+<exp>【名】研究　【動】研究する</exp>
+<sound>tech2v43idx12_research.mp3</sound>
+</w>
+<w idx="13" name="relation">
+<jp>関係</jp>
+<exp>【名】関係</exp>
+<sound>tech2v43idx13_relation.mp3</sound>
+</w>
+<w idx="14" name="object">
+<jp>対象</jp>
+<exp>【名】対象、物体、目的</exp>
+<sound>tech2v43idx14_object.mp3</sound>
+</w>
+<w idx="15" name="subject">
+<jp>主題</jp>
+<exp>【名】主題</exp>
+<sound>tech2v43idx15_subject.mp3</sound>
+</w>
+<w idx="16" name="structure">
+<jp>構造</jp>
+<exp>【名】構造、構造物、組織</exp>
+<sound>tech2v43idx16_structure.mp3</sound>
+</w>
+<w idx="17" name="location">
+<jp>場所</jp>
+<exp>【名】場所</exp>
+<sound>tech2v43idx17_location.mp3</sound>
+</w>
+<w idx="18" name="notice">
+<jp>注記</jp>
+<exp>【名】注記、警告　【動】知らせる</exp>
+<sound>tech2v43idx18_notice.mp3</sound>
+</w>
+<w idx="19" name="factor">
+<jp>要因</jp>
+<exp>【名】要因、係数</exp>
+<sound>tech2v43idx19_factor.mp3</sound>
+</w>
+<w idx="20" name="organization">
+<jp>組織</jp>
+<exp>【名】組織、構成</exp>
+<sound>tech2v43idx20_organization.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. degree</p>
+<p>2. heat</p>
+<p>3. reaction</p>
+<p>4. change</p>
+<p>5. humidity</p>
+<p>6. density</p>
+<p>7. drag</p>
+<p>8. temperature</p>
+<p>9. direction</p>
+<p>10. absolute temperature</p>
+<p>11. average</p>
+<p>12. research</p>
+<p>13. relation</p>
+<p>14. object</p>
+<p>15. subject</p>
+<p>16. structure</p>
+<p>17. location</p>
+<p>18. notice</p>
+<p>19. factor</p>
+<p>20. organization</p>
+</contents>
+</unit>

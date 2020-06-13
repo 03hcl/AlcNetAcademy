@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="10">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅰ 専門分野別,電気３</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">電気の分野でよく使われる語句です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="ammeter">
+<jp>電流計</jp>
+<exp>【名】電流計</exp>
+<sound>tech2v10idx01_ammeter.mp3</sound>
+</w>
+<w idx="2" name="voltmeter">
+<jp>電圧計</jp>
+<exp>【名】電圧計</exp>
+<sound>tech2v10idx02_voltmeter.mp3</sound>
+</w>
+<w idx="3" name="power switch">
+<jp>電源スイッチ</jp>
+<exp>【名】電源スイッチ</exp>
+<sound>tech2v10idx03_power_switch.mp3</sound>
+</w>
+<w idx="4" name="antenna">
+<jp>アンテナ</jp>
+<exp>【名】アンテナ</exp>
+<sound>tech2v10idx04_antenna.mp3</sound>
+</w>
+<w idx="5" name="coil">
+<jp>コイル</jp>
+<exp>【名】コイル</exp>
+<sound>tech2v10idx05_coil.mp3</sound>
+</w>
+<w idx="6" name="electric field">
+<jp>電界</jp>
+<exp>【名】電界</exp>
+<sound>tech2v10idx06_electric_field.mp3</sound>
+</w>
+<w idx="7" name="electromagnetic wave">
+<jp>電磁波</jp>
+<exp>【名】電磁波</exp>
+<sound>tech2v10idx07_electromagnetic_wave.mp3</sound>
+</w>
+<w idx="8" name="gain">
+<jp>利得</jp>
+<exp>【名】利得、ゲイン</exp>
+<sound>tech2v10idx08_gain.mp3</sound>
+</w>
+<w idx="9" name="impedance">
+<jp>インピーダンス</jp>
+<exp>【名】インピーダンス</exp>
+<sound>tech2v10idx09_impedance.mp3</sound>
+</w>
+<w idx="10" name="magnet">
+<jp>磁石</jp>
+<exp>【名】磁石</exp>
+<sound>tech2v10idx10_magnet.mp3</sound>
+</w>
+<w idx="11" name="magnetic field">
+<jp>磁場</jp>
+<exp>【名】磁場</exp>
+<sound>tech2v10idx11_magnetic_field.mp3</sound>
+</w>
+<w idx="12" name="microwave">
+<jp>マイクロ波</jp>
+<exp>【名】マイクロ波</exp>
+<sound>tech2v10idx12_microwave.mp3</sound>
+</w>
+<w idx="13" name="noise">
+<jp>ノイズ</jp>
+<exp>【名】ノイズ</exp>
+<sound>tech2v10idx13_noise.mp3</sound>
+</w>
+<w idx="14" name="nuclear power generation">
+<jp>原子力発電</jp>
+<exp>【名】原子力発電</exp>
+<sound>tech2v10idx14_nuclear_power_generation.mp3</sound>
+</w>
+<w idx="15" name="outlet">
+<jp>出口</jp>
+<exp>【名】出口、コンセント</exp>
+<sound>tech2v10idx15_outlet.mp3</sound>
+</w>
+<w idx="16" name="probe">
+<jp>探針</jp>
+<exp>【名】探針</exp>
+<sound>tech2v10idx16_probe.mp3</sound>
+</w>
+<w idx="17" name="resonance">
+<jp>共振</jp>
+<exp>【名】共振、共鳴</exp>
+<sound>tech2v10idx17_resonance.mp3</sound>
+</w>
+<w idx="18" name="spark">
+<jp>火花</jp>
+<exp>【名】火花、スパーク</exp>
+<sound>tech2v10idx18_spark.mp3</sound>
+</w>
+<w idx="19" name="switchboard">
+<jp>配電盤</jp>
+<exp>【名】配電盤</exp>
+<sound>tech2v10idx19_switchboard.mp3</sound>
+</w>
+<w idx="20" name="wireless">
+<jp>無線の</jp>
+<exp>【形】無線の</exp>
+<sound>tech2v10idx20_wireless.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. ammeter</p>
+<p>2. voltmeter</p>
+<p>3. power switch</p>
+<p>4. antenna</p>
+<p>5. coil</p>
+<p>6. electric field</p>
+<p>7. electromagnetic wave</p>
+<p>8. gain</p>
+<p>9. impedance</p>
+<p>10. magnet</p>
+<p>11. magnetic field</p>
+<p>12. microwave</p>
+<p>13. noise</p>
+<p>14. nuclear power generation</p>
+<p>15. outlet</p>
+<p>16. probe</p>
+<p>17. resonance</p>
+<p>18. spark</p>
+<p>19. witchboard</p>
+<p>20. wireless</p>
+</contents>
+</unit>

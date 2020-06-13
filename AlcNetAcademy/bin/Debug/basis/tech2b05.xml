@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 基礎コース -->
+
+<unit idx="05">
+
+<introduction>
+<title>人工臓器・人工組織</title>
+<read>&lt;font size="16" color="#000000"&gt;
+（学習のポイント）                 
+&lt;/font&gt;
+&lt;font size="16" color="#0000FF"&gt;
+コロン／following／satisfy
+&lt;/font&gt;
+&lt;br&gt;
+&lt;font size="16" color="#000000"&gt;
+これからますます盛んになるバイオテクノロジーの話題です。コロンを使って概略そして詳細項目を並べる表現を学習します。『大から詳へコロンだ』が勘どころ表現です。
+&lt;/font&gt;</read>
+</introduction>
+
+
+<notes>
+<w idx="1" name="artificial organ">
+<jp>人工臓器</jp>
+<sound>tech2b05idx01_artificial_organ.mp3</sound>
+</w>
+<w idx="2" name="respiration">
+<jp>呼吸</jp>
+<sound>tech2b05idx02_respiration.mp3</sound>
+</w>
+<w idx="3" name="dialysis">
+<jp>透析</jp>
+<sound>tech2b05idx03_dialysis.mp3</sound>
+</w>
+<w idx="4" name="pacemaker">
+<jp>ペースメーカー</jp>
+<sound>tech2b05idx04_pacemaker.mp3</sound>
+</w>
+<w idx="5" name="requirement">
+<jp>要件</jp>
+<sound>tech2b05idx05_requirement.mp3</sound>
+</w>
+<w idx="6" name="semi-permanently">
+<jp>半永久的に</jp>
+<sound>tech2b05idx06_semi-permanently.mp3</sound>
+</w>
+<w idx="7" name="blood vessel">
+<jp>血管</jp>
+<sound>tech2b05idx07_blood_vessel.mp3</sound>
+</w>
+<w idx="8" name="crystalline lens">
+<jp>水晶体</jp>
+<sound>tech2b05idx08_crystalline_lens.mp3</sound>
+</w>
+<w idx="9" name="tissue">
+<jp>組織</jp>
+<sound>tech2b05idx09_tissue.mp3</sound>
+</w>
+</notes>
+
+
+<!-- Step1、Topic&Vocaburary -->
+<contents type="tech2bStep1">
+<p>　<w idx="1">人工臓器</w>には外付け型と埋め込み型があり、外付け型では人工<w idx="2">呼吸</w>器や人工<w idx="3">透析</w>器、埋め込み型では<w idx="4">ペースメーカー</w>などが現在用いられている。人工臓器の<w idx="5">要件</w>は次の２点である。元の臓器と代替できること、そして<w idx="6">半永久的に</w>使えることである。また、臓器ではなく人工<w idx="7">血管</w>、目に用いる人工<w idx="8">水晶体</w>など、<w idx="9">組織</w>での代替物も開発されている。</p>
+</contents>
+
+
+<!-- Step2、Writing1 -->
+<contents type="tech2bStep2">
+<instruction1>第１文がそのまま幹センです。どの部分を主語にするか選んでみよう。</instruction1>
+<instruction2>[先輩]ボタンを押して、先輩が書いた英文とあなたの英文を比べてみよう。</instruction2>
+<sentence>
+<ph idx="1" miki="true">人工臓器の</ph>
+<ph idx="2" miki="true">要件は</ph>
+<ph idx="3" miki="true">次の２点</ph>
+<ph idx="4" miki="true">である。</ph>
+<ph idx="5">元の臓器と代替できること、そして半永久的に使えることである。</ph>
+</sentence>
+<mikisentence>
+<ph idx="1">人工臓器の要件は次の２点である。
+（あなたの選んだ主語で英文を作ってみよう）</ph>
+</mikisentence>
+<hint text="">
+<ph idx="1">artificial organs</ph>
+<ph idx="2">requirement</ph>
+</hint>
+<senior answer="C"><sel cd="A">Requirements of artificial organs</sel> <sel cd="B">are</sel> the <sel cd="C">next</sel> <sel cd="D">two items</sel>.</senior>
+<teach>Artificial organs must satisfy the following two requirements.</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　日本文を次のように書き直す（リライトする）と、より技術英語らしい英文を書くことができます。&lt;br&gt;
+　　&lt;b&gt;「人工臓器は次の２つの必要条件を満たしていなければならない」&lt;/b&gt;&lt;br&gt;
+&lt;font color="#FF0000"&gt;satisfy&lt;/font&gt;（満たす）と &lt;font color="#FF0000"&gt;requirement&lt;/font&gt;（必要条件）というビューティペア（？）を知っていればそれを見せびらかすことができるのです。先生のような英文を書けるようになると、時代劇風にいえば、「お主やるのぉ」となります。頑張りましょう。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　「次の…」という言葉が「次に述べる…」「以下の…」という意味のときには next ではなく &lt;font color="#FF0000"&gt;the following ...&lt;/font&gt; を使ってください。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step3、Writing2 -->
+<contents type="tech2bStep3">
+<hint text="（第２文を第１文と関連させて完成させよう）">
+<ph idx="1">original organs</ph>
+<ph idx="2">semi-permanently</ph>
+</hint>
+</contents>
+
+
+<!-- Step4、Comparisons -->
+<contents type="tech2bStep4">
+<senior answer="7,8">Artificial organs must satisfy the following two requirements: to replace with the original organs and to be used semi-permanently.</senior>
+<teach>
+&lt;font size="20" color="#000000"&gt;
+Artificial organs must satisfy the following two requirements
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+: they must be interchangeable with the original organs and they must be usable semi-permanently
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+.
+&lt;/font&gt;
+</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　日本文では句読点を気軽に使っています。句点（。）は文章が終わるとき、読点（、）は読みやすいように適当に打ちます。英文でもカンマ（ , ）とピリオド（ . ）を使います。英文はそれなりのルールに従ってカンマを入れます。日本文のように気軽には使えません。さて、ここでは、まさか自分では使わないだろうと思っていたコロンを使います。「コンロなら使えるのに…」とか言わないでください。&lt;br&gt;
+&lt;br&gt;
+　&lt;b&gt;コロンは詳細を並べるときに使います&lt;/b&gt;。この例文の場合は、「要件は次の２点である」とまず大まかに力強く言い切ります。次に、コロンを挟んで、詳細に項目を並べていきます。&lt;font color="#0000FF"&gt;&lt;b&gt;『大から詳へ転ん（コロン）だ』&lt;/b&gt;&lt;/font&gt;と覚えましょう（意味はもちろんありません）。３回復唱してください。&lt;br&gt;
+&lt;br&gt;
+　理系の英文では、requirements と複数形で用いることが多く、３つの意味があります。「必要条件」「必須条件」「要求事項」のいずれかをあてはめると意味がはっきりつかめます。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　「…ことである」というので、不定詞の名詞的用法と考えたのでしょう。 &lt;font color="#FF0000"&gt;replace ● with ▲&lt;/font&gt; で「●の代わりに▲を使う」です。ですから、replace with the original organs では「元の臓器を使う」になってしまい意味が通じません。 with が余分です。コロンに続く部分は不定詞などを使わずに、きちんとした節の形で書くようにしてください。そしてパラパラ（並列構造）をそろえてください。技術英語のルールです。ここでは、人工臓器を主語（they）にしたふたつの節を並べます。ここもユニット４で習った「動詞able」の形をした形容詞が大活躍します。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step5、Exercisse -->
+<contents type="tech2bStep5" size="5">
+<instruction1>このユニットで登場した表現と、関連する表現を練習しよう。新しい表現も身につけよう。</instruction1>
+<question no="1" type="R">
+<textTrans>結果が必要条件に一致する場合、次の処理が実行される。</textTrans>
+<text>If the result <sel cd="A" answer="3"></sel> the requirements, the next process is executed.</text>
+<sel cd="A" idx="1">corresponds</sel>
+<sel cd="A" idx="2">accords</sel>
+<sel cd="A" idx="3">satisfies</sel>
+<hint>
+<sound>tech2b05s5Q01.mp3</sound>
+</hint>
+<point>　requirements で必要条件、「必要条件を満たす」には、satisfy、meet、fulfill のどれかを使います。</point>
+</question>
+
+<question no="2" type="I">
+<textTrans>私はその調査での彼女の進展に満足だった。</textTrans>
+<text>I was satisfied <sel cd="A" answer="3"></sel> her progress in the research.</text>
+<sel cd="A" idx="1">of</sel>
+<sel cd="A" idx="2">on</sel>
+<sel cd="A" idx="3">with</sel>
+<hint>
+<sound>tech2b05s5Q02.mp3</sound>
+</hint>
+<point>　be satisfied with モノ・コト の形で、「モノ・コトに満足する」です。</point>
+</question>
+
+<question no="3" type="R">
+<textTrans>従来の抵抗器は新しいトランジスタに置き換わる。</textTrans>
+<text>Conventional resistors are replaced <sel cd="A" answer="1"></sel> a new transistor.</text>
+<sel cd="A" idx="1">with</sel>
+<sel cd="A" idx="2">for</sel>
+<hint>
+<sound>tech2b05s5Q03.mp3</sound>
+</hint>
+<point>　replace A with B で「A を B に置き換える」です。受け身になっても with はそのままです。</point>
+</question>
+
+<question no="4" type="I">
+<textTrans>彼女はこれまで３つの国を訪れた。フランス、イギリス、そしてスペインである。</textTrans>
+<text>She has been to three countries <sel cd="A" answer="2"></sel> France, England, and Spain.</text>
+<sel cd="A" idx="1">;</sel>
+<sel cd="A" idx="2">:</sel>
+<sel cd="A" idx="3">.</sel>
+<hint>
+<sound>tech2b05s5Q04.mp3</sound>
+</hint>
+<point>　コロンは、大まかな three countries を詳細に France, England, and Spain と説明するのに使います。コロンが「 : 」、セミコロンが「 ; 」です。</point>
+</question>
+
+<question no="5" type="R">
+<textTrans>この装置には交流電源を必要とする。</textTrans>
+<text>This device <sel cd="A" answer="2"></sel> a.c. power.</text>
+<sel cd="A" idx="1">needs</sel>
+<sel cd="A" idx="2">requires</sel>
+<sel cd="A" idx="3">takes</sel>
+<hint>
+<sound>tech2b05s5Q05.mp3</sound>
+</hint>
+<point>　理系の文では need から脱却して require を使ってください。</point>
+</question>
+</contents>
+
+
+<contents type="phrase">
+<p><ph idx="1">Artificial organs must satisfy the following two requirements: they must be interchangeable with the original organs and they must be usable semi-permanently.</ph></p>
+<p></p>
+
+<p><ph idx="2">1. If the result satisfies the requirements, the next process is executed.</ph></p>
+<p><ph idx="3">2. I was satisfied with her progress in the research.</ph></p>
+<p><ph idx="4">3. Conventional resistors are replaced with a new transistor.</ph></p>
+<p><ph idx="5">4. She has been to three countries: France, England, and Spain.</ph></p>
+<p><ph idx="6">5. This device requires a.c. power.</ph></p>
+</contents>
+
+<contents type="translation">
+<p><ph idx="1">人工臓器の要件は次の２点である。元の臓器と代替できること、そして半永久的に使えることである。</ph></p>
+<p></p>
+
+<p><ph idx="2">1. 結果が必要条件に一致する場合、次の処理が実行される。</ph></p>
+<p><ph idx="3">2. 私はその調査での彼女の進展に満足だった。</ph></p>
+<p><ph idx="4">3. 従来の抵抗器は新しいトランジスタに置き換わる。</ph></p>
+<p><ph idx="5">4. 彼女はこれまで３つの国を訪れた。フランス、イギリス、そしてスペインである。</ph></p>
+<p><ph idx="6">5. この装置には交流電源を必要とする。</ph></p>
+</contents>
+
+</unit>

@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="59">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅲ 科学基礎,単位</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">様々な単位を音とつづりでしっかりと覚えましょう。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="centimeter">
+<jp>センチメートル</jp>
+<exp>【名】センチメートル</exp>
+<sound>tech2v59idx01_centimeter.mp3</sound>
+</w>
+<w idx="2" name="cubic meter">
+<jp>立方メートル</jp>
+<exp>【名】立方メートル</exp>
+<sound>tech2v59idx02_cubic_meter.mp3</sound>
+</w>
+<w idx="3" name="inch">
+<jp>インチ</jp>
+<exp>【名】インチ</exp>
+<sound>tech2v59idx03_inch.mp3</sound>
+</w>
+<w idx="4" name="meter">
+<jp>メートル</jp>
+<exp>【名】メートル</exp>
+<sound>tech2v59idx04_meter.mp3</sound>
+</w>
+<w idx="5" name="micrometer">
+<jp>マイクロメートル</jp>
+<exp>【名】マイクロメートル</exp>
+<sound>tech2v59idx05_micrometer.mp3</sound>
+</w>
+<w idx="6" name="micron">
+<jp>ミクロン</jp>
+<exp>【名】ミクロン</exp>
+<sound>tech2v59idx06_micron.mp3</sound>
+</w>
+<w idx="7" name="mile">
+<jp>マイル</jp>
+<exp>【名】マイル</exp>
+<sound>tech2v59idx07_mile.mp3</sound>
+</w>
+<w idx="8" name="millimeter">
+<jp>ミリメートル</jp>
+<exp>【名】ミリメートル</exp>
+<sound>tech2v59idx08_millimeter.mp3</sound>
+</w>
+<w idx="9" name="nanometer">
+<jp>ナノメートル</jp>
+<exp>【名】ナノメートル</exp>
+<sound>tech2v59idx09_nanometer.mp3</sound>
+</w>
+<w idx="10" name="square meters">
+<jp>平方メートル</jp>
+<exp>【名】平方メートル</exp>
+<sound>tech2v59idx10_square_meters.mp3</sound>
+</w>
+<w idx="11" name="billion">
+<jp>10億</jp>
+<exp>【名】10億　【形】10億の</exp>
+<sound>tech2v59idx11_billion.mp3</sound>
+</w>
+<w idx="12" name="femto">
+<jp>1000兆分の１（接頭辞）</jp>
+<exp>【名】1000兆分の１（接頭辞）</exp>
+<sound>tech2v59idx12_femto.mp3</sound>
+</w>
+<w idx="13" name="million">
+<jp>100万</jp>
+<exp>【名】100万　【形】100万の</exp>
+<sound>tech2v59idx13_million.mp3</sound>
+</w>
+<w idx="14" name="trillion">
+<jp>１兆</jp>
+<exp>【名】１兆　【形】１兆の</exp>
+<sound>tech2v59idx14_trillion.mp3</sound>
+</w>
+<w idx="15" name="centigrade">
+<jp>摂氏目盛</jp>
+<exp>【名】摂氏目盛　【形】摂氏の</exp>
+<sound>tech2v59idx15_centigrade.mp3</sound>
+</w>
+<w idx="16" name="hertz">
+<jp>ヘルツ</jp>
+<exp>【名】ヘルツ</exp>
+<sound>tech2v59idx16_hertz.mp3</sound>
+</w>
+<w idx="17" name="horsepower">
+<jp>馬力</jp>
+<exp>【名】馬力</exp>
+<sound>tech2v59idx17_horsepower.mp3</sound>
+</w>
+<w idx="18" name="light year">
+<jp>光年</jp>
+<exp>【名】光年</exp>
+<sound>tech2v59idx18_light_year.mp3</sound>
+</w>
+<w idx="19" name="percent">
+<jp>パーセント</jp>
+<exp>【名】パーセント</exp>
+<sound>tech2v59idx19_percent.mp3</sound>
+</w>
+<w idx="20" name="second">
+<jp>秒</jp>
+<exp>【名】秒</exp>
+<sound>tech2v59idx20_second.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. centimeter</p>
+<p>2. cubic meter</p>
+<p>3. inch</p>
+<p>4. meter</p>
+<p>5. micrometer</p>
+<p>6. micron</p>
+<p>7. mile</p>
+<p>8. millimeter</p>
+<p>9. nanometer</p>
+<p>10. square meters</p>
+<p>11. billion</p>
+<p>12. femto</p>
+<p>13. million</p>
+<p>14. trillion</p>
+<p>15. centigrade</p>
+<p>16. hertz</p>
+<p>17. horsepower</p>
+<p>18. light year</p>
+<p>19. percent</p>
+<p>20. second</p>
+</contents>
+</unit>

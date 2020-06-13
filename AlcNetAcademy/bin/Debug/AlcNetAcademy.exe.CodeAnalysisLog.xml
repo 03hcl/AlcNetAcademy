@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio\2017\community\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="15.0">
+ <Targets>
+  <Target Name="E:\OneDrive\_Archives\Visual Studio 2015 Projects\AlcNetAcademy\AlcNetAcademy\bin\Debug\AlcNetAcademy.exe">
+   <Modules>
+    <Module Name="alcnetacademy.exe">
+     <Namespaces>
+      <Namespace Name="Kntaco.AlcNetAcademy">
+       <Types>
+        <Type Name="Program" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="AvoidExcessiveClassCoupling" Category="Microsoft.Maintainability" CheckId="CA1506" Status="Active" Created="2018-01-26 06:24:37Z" FixCategory="Breaking">
+           <Issue Name="Type" Certainty="75" Level="Warning">'Program' は異なる名前空間 17 の異なる型 81 と結合されています。クラス結合度を下げるには、このクラスのメソッドの書き換え、またはリファクターを行うか、あるいは強く結合されている一方のいくつかの型にクラスのメソッドの一部を移動することを考慮します。クラス結合度が 95 より大きい場合は保守容易性が悪いことを、クラス結合度が 95 から 80 の場合は中程度の保守容易性であることを、クラス結合度が 80 より小さい場合は保守容易性が良いことを示します。</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name="#SaveBasis(Kntaco.AlcNetAcademy.TeachingMaterialDirectory,System.Int64,System.Boolean)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="AvoidExcessiveClassCoupling" Category="Microsoft.Maintainability" CheckId="CA1506" Status="Active" Created="2018-01-26 06:24:37Z" FixCategory="Breaking">
+             <Issue Name="Method" Certainty="90" Level="Error" Path="E:\OneDrive\_Archives\Visual Studio 2015 Projects\AlcNetAcademy\AlcNetAcademy" File="Program.cs" Line="357">'Program.SaveBasis(TeachingMaterialDirectory, long, bool)' は異なる名前空間 15 の異なる型 46 と結合されています。クラス結合度を下げるには、メソッドの書き換え、またはリファクターを行うか、あるいは強く結合されているどちらか一方のクラスにメソッドを移動することを考慮します。クラス結合度が 40 より大きい場合は保守容易性が悪いことを、クラス結合度が 40 から 30 の場合は中程度の保守容易性であることを、クラス結合度が 30 より小さい場合は保守容易性が良いことを示します。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#SaveIllustration(Kntaco.AlcNetAcademy.TeachingMaterialDirectory,System.Int64,System.Boolean,System.Boolean)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="AvoidExcessiveClassCoupling" Category="Microsoft.Maintainability" CheckId="CA1506" Status="Active" Created="2018-01-26 06:24:37Z" FixCategory="Breaking">
+             <Issue Name="Method" Certainty="90" Level="Error" Path="E:\OneDrive\_Archives\Visual Studio 2015 Projects\AlcNetAcademy\AlcNetAcademy" File="Program.cs" Line="467">'Program.SaveIllustration(TeachingMaterialDirectory, long, bool, bool)' は異なる名前空間 14 の異なる型 40 と結合されています。クラス結合度を下げるには、メソッドの書き換え、またはリファクターを行うか、あるいは強く結合されているどちらか一方のクラスにメソッドを移動することを考慮します。クラス結合度が 40 より大きい場合は保守容易性が悪いことを、クラス結合度が 40 から 30 の場合は中程度の保守容易性であることを、クラス結合度が 30 より小さい場合は保守容易性が良いことを示します。</Issue>
+            </Message>
+            <Message TypeName="スコープを失う前にオブジェクトを破棄" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2018-01-26 06:24:37Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="E:\OneDrive\_Archives\Visual Studio 2015 Projects\AlcNetAcademy\AlcNetAcademy" File="Program.cs" Line="506">メソッド 'Program.SaveIllustration(TeachingMaterialDirectory, long, bool, bool)' で、オブジェクト 'new HttpClient()' が破棄されない例外パスがあります。オブジェクト 'new HttpClient()' への参照がすべてスコープ外になる前に、このオブジェクトの System.IDisposable.Dispose を呼び出してください。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#SaveTest(Kntaco.AlcNetAcademy.TeachingMaterialDirectory,System.Int64,System.Boolean)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="AvoidExcessiveClassCoupling" Category="Microsoft.Maintainability" CheckId="CA1506" Status="Active" Created="2018-01-26 06:24:37Z" FixCategory="Breaking">
+             <Issue Name="Method" Certainty="90" Level="Error" Path="E:\OneDrive\_Archives\Visual Studio 2015 Projects\AlcNetAcademy\AlcNetAcademy" File="Program.cs" Line="566">'Program.SaveTest(TeachingMaterialDirectory, long, bool)' は異なる名前空間 13 の異なる型 40 と結合されています。クラス結合度を下げるには、メソッドの書き換え、またはリファクターを行うか、あるいは強く結合されているどちらか一方のクラスにメソッドを移動することを考慮します。クラス結合度が 40 より大きい場合は保守容易性が悪いことを、クラス結合度が 40 から 30 の場合は中程度の保守容易性であることを、クラス結合度が 30 より小さい場合は保守容易性が良いことを示します。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="TeachingMaterialDirectory" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#ReadXmls()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotNestGenericTypesInMemberSignatures" Category="Microsoft.Design" CheckId="CA1006" Status="Active" Created="2018-01-26 06:24:37Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="CriticalError">'TeachingMaterialDirectory.ReadXmls()' がジェネリック型 'IEnumerable&lt;Task&lt;string&gt;&gt;' を入れ子にしないデザインを考慮してください。</Issue>
+            </Message>
+            <Message TypeName="スコープを失う前にオブジェクトを破棄" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2018-01-26 06:24:37Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="E:\OneDrive\_Archives\Visual Studio 2015 Projects\AlcNetAcademy\AlcNetAcademy" File="TeachingMaterialDirectory.cs" Line="55">メソッド 'TeachingMaterialDirectory.ReadXmls()' で、オブジェクト 'new HttpClient()' が破棄されない例外パスがあります。オブジェクト 'new HttpClient()' への参照がすべてスコープ外になる前に、このオブジェクトの System.IDisposable.Dispose を呼び出してください。</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+      <Namespace Name="Kntaco.AlcNetAcademy.Unit">
+       <Types>
+        <Type Name="SeniorSelectionText" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="MarkISerializableTypesWithSerializable" Category="Microsoft.Usage" CheckId="CA2237" Status="Active" Created="2018-01-26 06:24:37Z" FixCategory="NonBreaking">
+           <Issue Certainty="75" Level="Warning">[Serializable] を 'SeniorSelectionText' に追加します。この型が ISerializable を実装するためです。</Issue>
+          </Message>
+         </Messages>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="AvoidExcessiveClassCoupling" Category="Microsoft.Maintainability" CheckId="CA1506">
+   <Name>クラス結合度を大きくしすぎないでください。</Name>
+   <Description>大きなクラス結合度を使用する型やメソッドはメインテナンスが困難になる場合があります。</Description>
+   <Resolution Name="Method">{0} は異なる名前空間 {2} の異なる型 {1} と結合されています。クラス結合度を下げるには、メソッドの書き換え、またはリファクターを行うか、あるいは強く結合されているどちらか一方のクラスにメソッドを移動することを考慮します。クラス結合度が {3} より大きい場合は保守容易性が悪いことを、クラス結合度が {3} から {4} の場合は中程度の保守容易性であることを、クラス結合度が {4} より小さい場合は保守容易性が良いことを示します。</Resolution>
+   <Resolution Name="Type">{0} は異なる名前空間 {2} の異なる型 {1} と結合されています。クラス結合度を下げるには、このクラスのメソッドの書き換え、またはリファクターを行うか、あるいは強く結合されている一方のいくつかの型にクラスのメソッドの一部を移動することを考慮します。クラス結合度が {3} より大きい場合は保守容易性が悪いことを、クラス結合度が {3} から {4} の場合は中程度の保守容易性であることを、クラス結合度が {4} より小さい場合は保守容易性が良いことを示します。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/bb397994.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="90">Warning</MessageLevel>
+   <File Name="maintainabilityrules.dll" Version="15.0.0.0" />
+  </Rule>
+  <Rule TypeName="DoNotNestGenericTypesInMemberSignatures" Category="Microsoft.Design" CheckId="CA1006">
+   <Name>ジェネリック型をメンバー シグネチャ内で入れ子にしません</Name>
+   <Description>型引数として別のジェネリック型を伴うジェネリック型が、ユーザーによってインスタンス化されなければならない API を使用しないでください。構文が複雑すぎます。</Description>
+   <Resolution Name="Default">{0} がジェネリック型 {1} を入れ子にしないデザインを考慮してください。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182144.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="designrules.dll" Version="15.0.0.0" />
+  </Rule>
+  <Rule TypeName="MarkISerializableTypesWithSerializable" Category="Microsoft.Usage" CheckId="CA2237">
+   <Name>ISerializable 型を SerializableAttribute に設定します</Name>
+   <Description>Serializable 属性を指定することで、ランタイムに型のシリアル化が可能であることを認識させ、System.Runtime.Serialization.ISerializable インターフェイスが、型のシリアル化をカスタマイズすることを可能にします。</Description>
+   <Resolution Name="Default">[Serializable] を {0} に追加します。この型が ISerializable を実装するためです。</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182350.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="usagerules.dll" Version="15.0.0.0" />
+  </Rule>
+  <Rule TypeName="スコープを失う前にオブジェクトを破棄" Category="Microsoft.Reliability" CheckId="CA2000">
+   <Name>スコープを失う前にオブジェクトを破棄</Name>
+   <Description>破棄可能なオブジェクトは、自身へのすべての参照がスコープ外になる前に明示的に破棄されなかった場合、ガベージ コレクターがそのオブジェクトのファイナライザーを実行した際に不特定の時点で破棄されます。ただし例外的なイベントが起こってオブジェクトのファイナライザーの実行が妨げられる場合もあるため、オブジェクトの破棄は明示的に行ってください。</Description>
+   <Resolution Name="ExceptionEdge">メソッド {0} で、オブジェクト {1} が破棄されない例外パスがあります。オブジェクト {1} への参照がすべてスコープ外になる前に、このオブジェクトの System.IDisposable.Dispose を呼び出してください。</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182289.aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="15.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">カテゴリ</String>
+  <String Key="Certainty">確実性</String>
+  <String Key="CollapseAll">すべて折りたたむ</String>
+  <String Key="CheckId">ID の確認</String>
+  <String Key="Error">エラー</String>
+  <String Key="Errors">エラー</String>
+  <String Key="ExpandAll">すべて展開</String>
+  <String Key="Help">ヘルプ</String>
+  <String Key="Line">行</String>
+  <String Key="Messages">メッセージ</String>
+  <String Key="LocationNotStoredInPdb">[場所は Pdb に格納されていません]</String>
+  <String Key="Project">プロジェクト</String>
+  <String Key="Resolution">解像度</String>
+  <String Key="Rule">ルール</String>
+  <String Key="RuleFile">規則ファイル</String>
+  <String Key="RuleDescription">規則の説明</String>
+  <String Key="Source">ソース</String>
+  <String Key="Status">状態</String>
+  <String Key="Target">ターゲット</String>
+  <String Key="Warning">警告</String>
+  <String Key="Warnings">警告</String>
+  <String Key="ReportTitle">コード分析レポート</String>
+ </Localized>
+</FxCopReport>

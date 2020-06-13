@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="30">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅱ 動詞・形容詞ほか,動詞９</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">技術英語でよく使われる動詞です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="swallow">
+<jp>飲み込む</jp>
+<exp>【動】飲み込む</exp>
+<sound>tech2v30idx01_swallow.mp3</sound>
+</w>
+<w idx="2" name="distribute">
+<jp>配電する</jp>
+<exp>【動】配電する、分配する、分散する</exp>
+<sound>tech2v30idx02_distribute.mp3</sound>
+</w>
+<w idx="3" name="destroy">
+<jp>破壊する</jp>
+<exp>【動】破壊する</exp>
+<sound>tech2v30idx03_destroy.mp3</sound>
+</w>
+<w idx="4" name="explode">
+<jp>爆発する</jp>
+<exp>【動】爆発する</exp>
+<sound>tech2v30idx04_explode.mp3</sound>
+</w>
+<w idx="5" name="situate">
+<jp>場所を定める</jp>
+<exp>【動】場所を定める、置く</exp>
+<sound>tech2v30idx05_situate.mp3</sound>
+</w>
+<w idx="6" name="release">
+<jp>はずす</jp>
+<exp>【動】はずす、解除する</exp>
+<sound>tech2v30idx06_release.mp3</sound>
+</w>
+<w idx="7" name="oscillate">
+<jp>発振する</jp>
+<exp>【動】発振する</exp>
+<sound>tech2v30idx07_oscillate.mp3</sound>
+</w>
+<w idx="8" name="burst">
+<jp>破裂する</jp>
+<exp>【動】破裂する</exp>
+<sound>tech2v30idx08_burst.mp3</sound>
+</w>
+<w idx="9" name="number">
+<jp>番号を付ける</jp>
+<exp>【動】番号を付ける</exp>
+<sound>tech2v30idx09_number.mp3</sound>
+</w>
+<w idx="10" name="reflect">
+<jp>反射する</jp>
+<exp>【動】反射する</exp>
+<sound>tech2v30idx10_reflect.mp3</sound>
+</w>
+<w idx="11" name="attract">
+<jp>引きつける</jp>
+<exp>【動】引きつける</exp>
+<sound>tech2v30idx11_attract.mp3</sound>
+</w>
+<w idx="12" name="stretch">
+<jp>引き伸ばす</jp>
+<exp>【動】引き伸ばす</exp>
+<sound>tech2v30idx12_stretch.mp3</sound>
+</w>
+<w idx="13" name="soak">
+<jp>浸す</jp>
+<exp>【動】浸す</exp>
+<sound>tech2v30idx13_soak.mp3</sound>
+</w>
+<w idx="14" name="scratch">
+<jp>引っかく</jp>
+<exp>【動】引っかく</exp>
+<sound>tech2v30idx14_scratch.mp3</sound>
+</w>
+<w idx="15" name="upset">
+<jp>ひっくり返す</jp>
+<exp>【動】ひっくり返す</exp>
+<sound>tech2v30idx15_upset.mp3</sound>
+</w>
+<w idx="16" name="deny">
+<jp>否定する</jp>
+<exp>【動】否定する</exp>
+<sound>tech2v30idx16_deny.mp3</sound>
+</w>
+<w idx="17" name="indicate">
+<jp>表示する</jp>
+<exp>【動】表示する</exp>
+<sound>tech2v30idx17_indicate.mp3</sound>
+</w>
+<w idx="18" name="spread">
+<jp>広げる</jp>
+<exp>【動】広げる</exp>
+<sound>tech2v30idx18_spread.mp3</sound>
+</w>
+<w idx="19" name="upgrade">
+<jp>品質改善する</jp>
+<exp>【動】品質改善する</exp>
+<sound>tech2v30idx19_upgrade.mp3</sound>
+</w>
+<w idx="20" name="attach">
+<jp>付着する</jp>
+<exp>【動】付着する、取り付ける</exp>
+<sound>tech2v30idx20_attach.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. swallow</p>
+<p>2. distribute</p>
+<p>3. destroy</p>
+<p>4. explode</p>
+<p>5. situate</p>
+<p>6. release</p>
+<p>7. oscillate</p>
+<p>8. burst</p>
+<p>9. number</p>
+<p>10. reflect</p>
+<p>11. attract</p>
+<p>12. stretch</p>
+<p>13. soak</p>
+<p>14. scratch</p>
+<p>15. upset</p>
+<p>16. deny</p>
+<p>17. indicate</p>
+<p>18. spread</p>
+<p>19. upgrade</p>
+<p>20. attach</p>
+</contents>
+</unit>

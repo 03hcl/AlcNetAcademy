@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（イラスト演習） -->
+
+<unit idx="04">
+
+<!-- タイトル -->
+<title>Ⅳ イラスト演習,単位１・数字・式</title>
+
+<!-- 問題 -->
+<question no="1" size="3">
+<sel cd="1" w="1"></sel>
+<sel cd="2" w="21"></sel>
+<sel cd="3" w="2"></sel>
+</question>
+<question no="2" size="3">
+<sel cd="1" w="3"></sel>
+<sel cd="2" w="4"></sel>
+<sel cd="3" w="5"></sel>
+</question>
+<question no="3" size="3">
+<sel cd="1" w="6"></sel>
+<sel cd="2" w="7"></sel>
+<sel cd="3" w="22"></sel>
+</question>
+<question no="4" size="3">
+<sel cd="1" w="23"></sel>
+<sel cd="2" w="8"></sel>
+<sel cd="3" w="24"></sel>
+</question>
+<question no="5" size="3">
+<sel cd="1" w="9"></sel>
+<sel cd="2" w="25"></sel>
+<sel cd="3" w="26"></sel>
+</question>
+<question no="6" size="3">
+<sel cd="1" w="10"></sel>
+<sel cd="2" w="11"></sel>
+<sel cd="3" w="12"></sel>
+</question>
+<question no="7" size="2">
+<sel cd="1" w="13"></sel>
+<sel cd="2" w="14"></sel>
+</question>
+<question no="8" size="3">
+<sel cd="1" w="15"></sel>
+<sel cd="2" w="16"></sel>
+<sel cd="3" w="27"></sel>
+</question>
+<question no="9" size="2">
+<sel cd="1" w="17"></sel>
+<sel cd="2" w="28"></sel>
+</question>
+<question no="10" size="3">
+<sel cd="1" w="18"></sel>
+<sel cd="2" w="19"></sel>
+<sel cd="3" w="20"></sel>
+</question>
+
+<notes>
+<w idx="1" name="methane" list="true">
+<jp>メタン</jp>
+<exp>メタン</exp>
+<sound>tech2vi04idx01_methane.mp3</sound>
+<image>methane.swf</image>
+</w>
+<w idx="2" name="sodium chloride" list="true">
+<jp>塩化ナトリウム</jp>
+<exp>塩化ナトリウム</exp>
+<sound>tech2vi04idx02_sodium_chloride.mp3</sound>
+<image>sodium_chloride.swf</image>
+</w>
+<w idx="3" name="carbon dioxide" list="true">
+<jp>二酸化炭素</jp>
+<exp>二酸化炭素</exp>
+<sound>tech2vi04idx03_carbon_dioxide.mp3</sound>
+<image>carbon_dioxide.swf</image>
+</w>
+<w idx="4" name="carbon monoxide" list="true">
+<jp>一酸化炭素</jp>
+<exp>一酸化炭素</exp>
+<sound>tech2vi04idx04_carbon_monoxide.mp3</sound>
+<image>carbon_monoxide.swf</image>
+</w>
+<w idx="5" name="nitrogen dioxide" list="true">
+<jp>二酸化窒素</jp>
+<exp>二酸化窒素</exp>
+<sound>tech2vi04idx05_nitrogen_dioxide.mp3</sound>
+<image>nitrogen_dioxide.swf</image>
+</w>
+<w idx="6" name="one-half" list="true">
+<jp>２分の１</jp>
+<exp>２分の１</exp>
+<sound>tech2vi04idx06_one-half.mp3</sound>
+<image>one-half.swf</image>
+</w>
+<w idx="7" name="one-third" list="true">
+<jp>３分の１</jp>
+<exp>３分の１</exp>
+<sound>tech2vi04idx07_one-third.mp3</sound>
+<image>one-third.swf</image>
+</w>
+<w idx="8" name="two-thirds" list="true">
+<jp>３分の２</jp>
+<exp>３分の２</exp>
+<sound>tech2vi04idx08_two-thirds.mp3</sound>
+<image>two-thirds.swf</image>
+</w>
+<w idx="9" name="one over a" list="true">
+<jp>a分の１</jp>
+<exp>a分の１</exp>
+<sound>tech2vi04idx09_one_over_a.mp3</sound>
+<image>one_over_a.swf</image>
+</w>
+<w idx="10" name="x squared" list="true">
+<jp>Xの２乗</jp>
+<exp>Xの２乗</exp>
+<sound>tech2vi04idx10_x_squared.mp3</sound>
+<image>x_squared.swf</image>
+</w>
+<w idx="11" name="x cubed" list="true">
+<jp>Xの３乗</jp>
+<exp>Xの３乗</exp>
+<sound>tech2vi04idx11_x_cubed.mp3</sound>
+<image>x_cubed.swf</image>
+</w>
+<w idx="12" name="x to the fourth power" list="true">
+<jp>Xの４乗</jp>
+<exp>Xの４乗</exp>
+<sound>tech2vi04idx12_x_to_the_fourth_power.mp3</sound>
+<image>x_to_the_fourth_power.swf</image>
+</w>
+<w idx="13" name="the square root of x" list="true">
+<jp>Xの平方根</jp>
+<exp>Xの平方根</exp>
+<sound>tech2vi04idx13_the_square_root_of_x.mp3</sound>
+<image>the_square_root_of_x.swf</image>
+</w>
+<w idx="14" name="the cube root of x" list="true">
+<jp>Xの立方根</jp>
+<exp>Xの立方根</exp>
+<sound>tech2vi04idx14_the_cube_root_of_x.mp3</sound>
+<image>the_cube_root_of_x.swf</image>
+</w>
+<w idx="15" name="two nanometers" list="true">
+<jp>２ナノメートル</jp>
+<exp>２ナノメートル</exp>
+<sound>tech2vi04idx15_two_nanometers.mp3</sound>
+<image>two_nanometers.swf</image>
+</w>
+<w idx="16" name="two micrometers" list="true">
+<jp>２ミクロン</jp>
+<exp>２ミクロン</exp>
+<sound>tech2vi04idx16_two_micrometers.mp3</sound>
+<image>two_micrometers.swf</image>
+</w>
+<w idx="17" name="three cubic centimeters" list="true">
+<jp>３立方センチメートル</jp>
+<exp>３立方センチメートル</exp>
+<sound>tech2vi04idx17_three_cubic_centimeters.mp3</sound>
+<image>three_cubic_centimeters.swf</image>
+</w>
+<w idx="18" name="two nanoseconds" list="true">
+<jp>２ナノ秒</jp>
+<exp>２ナノ秒</exp>
+<sound>tech2vi04idx18_two_nanoseconds.mp3</sound>
+<image>two_nanoseconds.swf</image>
+</w>
+<w idx="19" name="two microseconds" list="true">
+<jp>２マイクロ秒</jp>
+<exp>２マイクロ秒</exp>
+<sound>tech2vi04idx19_two_microseconds.mp3</sound>
+<image>two_microseconds.swf</image>
+</w>
+<w idx="20" name="two picoseconds" list="true">
+<jp>２ピコ秒</jp>
+<exp>２ピコ秒</exp>
+<sound>tech2vi04idx20_two_picoseconds.mp3</sound>
+<image>two_picoseconds.swf</image>
+</w>
+<w idx="21" name="water" list="false">
+<jp>水</jp>
+<exp></exp>
+<sound>tech2vi04idx21_water.mp3</sound>
+<image>water.swf</image>
+</w>
+<w idx="22" name="one-fourth" list="false">
+<jp>４分の１</jp>
+<exp></exp>
+<sound>tech2vi04idx22_one-fourth.mp3</sound>
+<image>one-fourth.swf</image>
+</w>
+<w idx="23" name="two and one-third" list="false">
+<jp>２価３分の１</jp>
+<exp></exp>
+<sound>tech2vi04idx23_two_and_one-third.mp3</sound>
+<image>two_and_one-third.swf</image>
+</w>
+<w idx="24" name="two-thirtieths" list="false">
+<jp>30分の２</jp>
+<exp></exp>
+<sound>tech2vi04idx24_two-thirtieths.mp3</sound>
+<image>two-thirtieths.swf</image>
+</w>
+<w idx="25" name="a over b" list="false">
+<jp>b分のa</jp>
+<exp></exp>
+<sound>tech2vi04idx25_a_over_b.mp3</sound>
+<image>a_over_b.swf</image>
+</w>
+<w idx="26" name="b over a" list="false">
+<jp>a分のb</jp>
+<exp></exp>
+<sound>tech2vi04idx26_b_over_a.mp3</sound>
+<image>b_over_a.swf</image>
+</w>
+<w idx="27" name="two millimeters" list="false">
+<jp>２ミリメートル</jp>
+<exp></exp>
+<sound>tech2vi04idx27_two_millimeters.mp3</sound>
+<image>two_millimeters.swf</image>
+</w>
+<w idx="28" name="three square centimeters" list="false">
+<jp>３平方センチメートル</jp>
+<exp></exp>
+<sound>tech2vi04idx28_three_square_centimeters.mp3</sound>
+<image>three_square_centimeters.swf</image>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. methane</p>
+<p>2. sodium chloride</p>
+<p>3. carbon dioxide</p>
+<p>4. carbon monoxide</p>
+<p>5. nitrogen dioxide</p>
+<p>6. one-half</p>
+<p>7. one-third</p>
+<p>8. two-thirds</p>
+<p>9. one over a</p>
+<p>10. x squared</p>
+<p>11. x cubed</p>
+<p>12. x to the fourth power</p>
+<p>13. the square root of x</p>
+<p>14. the cube root of x</p>
+<p>15. two nanometers</p>
+<p>16. two micrometers</p>
+<p>17. three cubic centimeters</p>
+<p>18. two nanoseconds</p>
+<p>19. two microseconds</p>
+<p>20. two picoseconds</p>
+</contents>
+</unit>

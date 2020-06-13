@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（イラスト演習） -->
+
+<unit idx="08">
+
+<!-- タイトル -->
+<title>Ⅳ イラスト演習,一般３</title>
+
+<!-- 問題 -->
+<question no="1" size="3">
+<sel cd="1" w="1"></sel>
+<sel cd="2" w="2"></sel>
+<sel cd="3" w="3"></sel>
+</question>
+<question no="2" size="3">
+<sel cd="1" w="4"></sel>
+<sel cd="2" w="5"></sel>
+<sel cd="3" w="6"></sel>
+</question>
+<question no="3" size="3">
+<sel cd="1" w="7"></sel>
+<sel cd="2" w="21"></sel>
+<sel cd="3" w="8"></sel>
+</question>
+<question no="4" size="3">
+<sel cd="1" w="22"></sel>
+<sel cd="2" w="23"></sel>
+<sel cd="3" w="24"></sel>
+</question>
+<question no="5" size="3">
+<sel cd="1" w="9"></sel>
+<sel cd="2" w="10"></sel>
+<sel cd="3" w="11"></sel>
+</question>
+<question no="6" size="3">
+<sel cd="1" w="12"></sel>
+<sel cd="2" w="13"></sel>
+<sel cd="3" w="14"></sel>
+</question>
+<question no="7" size="3">
+<sel cd="1" w="15"></sel>
+<sel cd="2" w="25"></sel>
+<sel cd="3" w="26"></sel>
+</question>
+<question no="8" size="3">
+<sel cd="1" w="16"></sel>
+<sel cd="2" w="17"></sel>
+<sel cd="3" w="18"></sel>
+</question>
+<question no="9" size="3">
+<sel cd="1" w="27"></sel>
+<sel cd="2" w="19"></sel>
+<sel cd="3" w="20"></sel>
+</question>
+<question no="10" size="3">
+<sel cd="1" w="28"></sel>
+<sel cd="2" w="29"></sel>
+<sel cd="3" w="30"></sel>
+</question>
+
+<notes>
+<w idx="1" name="circle" list="true">
+<jp>円</jp>
+<exp>円</exp>
+<sound>tech2vi08idx01_circle.mp3</sound>
+<image>circle.swf</image>
+</w>
+<w idx="2" name="semicircle" list="true">
+<jp>半円</jp>
+<exp>半円</exp>
+<sound>tech2vi08idx02_semicircle.mp3</sound>
+<image>semicircle.swf</image>
+</w>
+<w idx="3" name="ellipse" list="true">
+<jp>楕円</jp>
+<exp>楕円</exp>
+<sound>tech2vi08idx03_ellipse.mp3</sound>
+<image>ellipse.swf</image>
+</w>
+<w idx="4" name="ladder" list="true">
+<jp>はしご</jp>
+<exp>はしご</exp>
+<sound>tech2vi08idx04_ladder.mp3</sound>
+<image>ladder.swf</image>
+</w>
+<w idx="5" name="radar" list="true">
+<jp>レーダ</jp>
+<exp>レーダ</exp>
+<sound>tech2vi08idx05_radar.mp3</sound>
+<image>radar.swf</image>
+</w>
+<w idx="6" name="laser" list="true">
+<jp>レーザ</jp>
+<exp>レーザ</exp>
+<sound>tech2vi08idx06_laser.mp3</sound>
+<image>laser.swf</image>
+</w>
+<w idx="7" name="bearing" list="true">
+<jp>ベアリング</jp>
+<exp>ベアリング</exp>
+<sound>tech2vi08idx07_bearing.mp3</sound>
+<image>bearing.swf</image>
+</w>
+<w idx="8" name="helical gear" list="true">
+<jp>はすば歯車</jp>
+<exp>はすば歯車</exp>
+<sound>tech2vi08idx08_helical_gear.mp3</sound>
+<image>helical_gear.swf</image>
+</w>
+<w idx="9" name="octagon" list="true">
+<jp>八角形</jp>
+<exp>八角形</exp>
+<sound>tech2vi08idx09_octagon.mp3</sound>
+<image>octagon.swf</image>
+</w>
+<w idx="10" name="pentagon" list="true">
+<jp>五角形</jp>
+<exp>五角形</exp>
+<sound>tech2vi08idx10_pentagon.mp3</sound>
+<image>pentagon.swf</image>
+</w>
+<w idx="11" name="hexagon" list="true">
+<jp>六角形</jp>
+<exp>六角形</exp>
+<sound>tech2vi08idx11_hexagon.mp3</sound>
+<image>hexagon.swf</image>
+</w>
+<w idx="12" name="quadrangle" list="true">
+<jp>四角形</jp>
+<exp>四角形</exp>
+<sound>tech2vi08idx12_quadrangle.mp3</sound>
+<image>quadrangle.swf</image>
+</w>
+<w idx="13" name="heptagon" list="true">
+<jp>七角形</jp>
+<exp>七角形</exp>
+<sound>tech2vi08idx13_heptagon.mp3</sound>
+<image>heptagon.swf</image>
+</w>
+<w idx="14" name="enneagon" list="true">
+<jp>九角形</jp>
+<exp>九角形</exp>
+<sound>tech2vi08idx14_enneagon.mp3</sound>
+<image>enneagon.swf</image>
+</w>
+<w idx="15" name="automobile" list="true">
+<jp>自動車</jp>
+<exp>自動車</exp>
+<sound>tech2vi08idx15_automobile.mp3</sound>
+<image>automobile.swf</image>
+</w>
+<w idx="16" name="triangular pyramid" list="true">
+<jp>三角錐</jp>
+<exp>三角錐</exp>
+<sound>tech2vi08idx16_triangular_pyramid.mp3</sound>
+<image>triangular_pyramid.swf</image>
+</w>
+<w idx="17" name="triangular prism" list="true">
+<jp>三角柱</jp>
+<exp>三角柱</exp>
+<sound>tech2vi08idx17_triangular_prism.mp3</sound>
+<image>triangular_prism.swf</image>
+</w>
+<w idx="18" name="quadrangular pyramid" list="true">
+<jp>四角錐</jp>
+<exp>四角錐</exp>
+<sound>tech2vi08idx18_quadrangular_pyramid.mp3</sound>
+<image>quadrangular_pyramid.swf</image>
+</w>
+<w idx="19" name="integer" list="true">
+<jp>整数</jp>
+<exp>整数</exp>
+<sound>tech2vi08idx19_integer.mp3</sound>
+<image>integer.swf</image>
+</w>
+<w idx="20" name="fraction" list="true">
+<jp>分数</jp>
+<exp>分数</exp>
+<sound>tech2vi08idx20_fraction.mp3</sound>
+<image>fraction.swf</image>
+</w>
+<w idx="21" name="vise" list="false">
+<jp>万力</jp>
+<exp></exp>
+<sound>tech2vi08idx21_vise.mp3</sound>
+<image>vise.swf</image>
+</w>
+<w idx="22" name="ammeter" list="false">
+<jp>電流計</jp>
+<exp></exp>
+<sound>tech2vi08idx22_ammeter.mp3</sound>
+<image>ammeter.swf</image>
+</w>
+<w idx="23" name="voltmeter" list="false">
+<jp>電圧計</jp>
+<exp></exp>
+<sound>tech2vi08idx23_voltmeter.mp3</sound>
+<image>voltmeter.swf</image>
+</w>
+<w idx="24" name="tachometer" list="false">
+<jp>回転速度計</jp>
+<exp></exp>
+<sound>tech2vi08idx24_tachometer.mp3</sound>
+<image>tachometer.swf</image>
+</w>
+<w idx="25" name="motorcycle" list="false">
+<jp>オートバイ</jp>
+<exp></exp>
+<sound>tech2vi08idx25_motorcycle.mp3</sound>
+<image>motorcycle.swf</image>
+</w>
+<w idx="26" name="bicycle" list="false">
+<jp>自転車</jp>
+<exp></exp>
+<sound>tech2vi08idx26_bicycle.mp3</sound>
+<image>bicycle.swf</image>
+</w>
+<w idx="27" name="decimals" list="false">
+<jp>小数</jp>
+<exp></exp>
+<sound>tech2vi08idx27_decimals.mp3</sound>
+<image>decimals.swf</image>
+</w>
+<w idx="28" name="right triangle" list="false">
+<jp>直角三角形</jp>
+<exp></exp>
+<sound>tech2vi08idx28_right_triangle.mp3</sound>
+<image>right_triangle.swf</image>
+</w>
+<w idx="29" name="isosceles triangle" list="false">
+<jp>二等辺三角形</jp>
+<exp></exp>
+<sound>tech2vi08idx29_isosceles_triangle.mp3</sound>
+<image>isosceles_triangle.swf</image>
+</w>
+<w idx="30" name="equilateral triangle" list="false">
+<jp>正三角形</jp>
+<exp></exp>
+<sound>tech2vi08idx30_equilateral_triangle.mp3</sound>
+<image>equilateral_triangle.swf</image>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. circle</p>
+<p>2. semicircle</p>
+<p>3. ellipse</p>
+<p>4. ladder</p>
+<p>5. radar</p>
+<p>6. laser</p>
+<p>7. bearing</p>
+<p>8. helical gear</p>
+<p>9. octagon</p>
+<p>10. pentagon</p>
+<p>11. hexagon</p>
+<p>12. quadrangle</p>
+<p>13. heptagon</p>
+<p>14. enneagon</p>
+<p>15. automobile</p>
+<p>16. triangular pyramid</p>
+<p>17. triangular prism</p>
+<p>18. quadrangular pyramid</p>
+<p>19. integer</p>
+<p>20. fraction</p>
+</contents>
+</unit>

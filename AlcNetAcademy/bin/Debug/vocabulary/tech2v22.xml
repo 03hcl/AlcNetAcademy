@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="22">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅱ 動詞・形容詞ほか,動詞１</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">技術英語でよく使われる動詞です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="warm">
+<jp>暖める</jp>
+<exp>【動】暖める</exp>
+<sound>tech2v22idx01_warm.mp3</sound>
+</w>
+<w idx="2" name="agree">
+<jp>一致する</jp>
+<exp>【動】一致する</exp>
+<sound>tech2v22idx02_agree.mp3</sound>
+</w>
+<w idx="3" name="translate">
+<jp>翻訳する</jp>
+<exp>【動】翻訳する</exp>
+<sound>tech2v22idx03_translate.mp3</sound>
+</w>
+<w idx="4" name="dilute">
+<jp>希釈する</jp>
+<exp>【動】希釈する</exp>
+<sound>tech2v22idx04_dilute.mp3</sound>
+</w>
+<w idx="5" name="employ">
+<jp>（道具や手段を）用いる</jp>
+<exp>【動】（道具や手段を）用いる、採用する</exp>
+<sound>tech2v22idx05_employ.mp3</sound>
+</w>
+<w idx="6" name="utilize">
+<jp>（実用的に）利用する</jp>
+<exp>【動】（実用的に）利用する</exp>
+<sound>tech2v22idx06_utilize.mp3</sound>
+</w>
+<w idx="7" name="operate">
+<jp>操作する</jp>
+<exp>【動】操作する</exp>
+<sound>tech2v22idx07_operate.mp3</sound>
+</w>
+<w idx="8" name="gather">
+<jp>（１ヵ所に）集める</jp>
+<exp>【動】（１ヵ所に）集める</exp>
+<sound>tech2v22idx08_gather.mp3</sound>
+</w>
+<w idx="9" name="collect">
+<jp>（整理して）集める</jp>
+<exp>【動】（目的をもって整理して）集める</exp>
+<sound>tech2v22idx09_collect.mp3</sound>
+</w>
+<w idx="10" name="spray">
+<jp>吹き付ける</jp>
+<exp>【動】吹き付ける</exp>
+<sound>tech2v22idx10_spray.mp3</sound>
+</w>
+<w idx="11" name="lean">
+<jp>（立っているものを）傾ける</jp>
+<exp>【動】（立っているものを）傾ける</exp>
+<sound>tech2v22idx11_lean.mp3</sound>
+</w>
+<w idx="12" name="tilt">
+<jp>（端を持ち上げて）傾ける</jp>
+<exp>【動】（端を持ち上げて）傾ける</exp>
+<sound>tech2v22idx12_tilt.mp3</sound>
+</w>
+<w idx="13" name="cause">
+<jp>原因となる</jp>
+<exp>【動】原因となる</exp>
+<sound>tech2v22idx13_cause.mp3</sound>
+</w>
+<w idx="14" name="result">
+<jp>生じる</jp>
+<exp>【動】生じる</exp>
+<sound>tech2v22idx14_result.mp3</sound>
+</w>
+<w idx="15" name="blend">
+<jp>混合する</jp>
+<exp>【動】混合する</exp>
+<sound>tech2v22idx15_blend.mp3</sound>
+</w>
+<w idx="16" name="confuse">
+<jp>混同する</jp>
+<exp>【動】混同する、混乱させる</exp>
+<sound>tech2v22idx16_confuse.mp3</sound>
+</w>
+<w idx="17" name="dispose">
+<jp>処分する</jp>
+<exp>【動】処分する</exp>
+<sound>tech2v22idx17_dispose.mp3</sound>
+</w>
+<w idx="18" name="process">
+<jp>（データなどを）処理する</jp>
+<exp>【動】（データなどを）処理する、加工する</exp>
+<sound>tech2v22idx18_process.mp3</sound>
+</w>
+<w idx="19" name="corrode">
+<jp>腐食する</jp>
+<exp>【動】腐食する</exp>
+<sound>tech2v22idx19_corrode.mp3</sound>
+</w>
+<w idx="20" name="compete">
+<jp>競争する</jp>
+<exp>【動】競争する</exp>
+<sound>tech2v22idx20_compete.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. warm</p>
+<p>2. agree</p>
+<p>3. translate</p>
+<p>4. dilute</p>
+<p>5. employ</p>
+<p>6. utilize</p>
+<p>7. operate</p>
+<p>8. gather</p>
+<p>9. collect</p>
+<p>10. spray</p>
+<p>11. lean</p>
+<p>12. tilt</p>
+<p>13. cause</p>
+<p>14. result</p>
+<p>15. blend</p>
+<p>16. confuse</p>
+<p>17. dispose</p>
+<p>18. process</p>
+<p>19. corrode</p>
+<p>20. compete</p>
+</contents>
+</unit>

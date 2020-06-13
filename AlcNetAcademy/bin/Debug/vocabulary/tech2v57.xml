@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="57">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅲ 科学基礎,科学基礎16</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">自動車に関連する語句です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="automobile">
+<jp>自動車</jp>
+<exp>【名】自動車</exp>
+<sound>tech2v57idx01_automobile.mp3</sound>
+</w>
+<w idx="2" name="motorcycle">
+<jp>オートバイ</jp>
+<exp>【名】オートバイ</exp>
+<sound>tech2v57idx02_motorcycle.mp3</sound>
+</w>
+<w idx="3" name="truck">
+<jp>トラック</jp>
+<exp>【名】トラック</exp>
+<sound>tech2v57idx03_truck.mp3</sound>
+</w>
+<w idx="4" name="vehicle">
+<jp>車両</jp>
+<exp>【名】車両、乗り物</exp>
+<sound>tech2v57idx04_vehicle.mp3</sound>
+</w>
+<w idx="5" name="accelerator">
+<jp>アクセル</jp>
+<exp>【名】アクセル、加速装置</exp>
+<sound>tech2v57idx05_accelerator.mp3</sound>
+</w>
+<w idx="6" name="brake">
+<jp>ブレーキ</jp>
+<exp>【名】ブレーキ、制動装置</exp>
+<sound>tech2v57idx06_brake.mp3</sound>
+</w>
+<w idx="7" name="shaft">
+<jp>軸</jp>
+<exp>【名】軸</exp>
+<sound>tech2v57idx07_shaft.mp3</sound>
+</w>
+<w idx="8" name="steering wheel">
+<jp>（自動車の）ハンドル</jp>
+<exp>【名】（自動車の）ハンドル</exp>
+<sound>tech2v57idx08_steering_wheel.mp3</sound>
+</w>
+<w idx="9" name="tire">
+<jp>タイヤ</jp>
+<exp>【名】タイヤ</exp>
+<sound>tech2v57idx09_tire.mp3</sound>
+</w>
+<w idx="10" name="wheel">
+<jp>車輪</jp>
+<exp>【名】車輪</exp>
+<sound>tech2v57idx10_wheel.mp3</sound>
+</w>
+<w idx="11" name="diesel engine">
+<jp>ディーゼルエンジン</jp>
+<exp>【名】ディーゼルエンジン</exp>
+<sound>tech2v57idx11_diesel_engine.mp3</sound>
+</w>
+<w idx="12" name="four-stroke">
+<jp>４サイクルの</jp>
+<exp>【動】４サイクルの</exp>
+<sound>tech2v57idx12_four-stroke.mp3</sound>
+</w>
+<w idx="13" name="hybrid engine">
+<jp>ハイブリッドエンジン</jp>
+<exp>【名】ハイブリッドエンジン</exp>
+<sound>tech2v57idx13_hybrid_engine.mp3</sound>
+</w>
+<w idx="14" name="piston engine">
+<jp>ピストンエンジン</jp>
+<exp>【名】ピストンエンジン</exp>
+<sound>tech2v57idx14_piston_engine.mp3</sound>
+</w>
+<w idx="15" name="cooling water">
+<jp>冷却水</jp>
+<exp>【名】冷却水</exp>
+<sound>tech2v57idx15_cooling_water.mp3</sound>
+</w>
+<w idx="16" name="electric car">
+<jp>電気自動車</jp>
+<exp>【名】電気自動車</exp>
+<sound>tech2v57idx16_electric_car.mp3</sound>
+</w>
+<w idx="17" name="exhaust">
+<jp>排気ガス</jp>
+<exp>【名】排気ガス</exp>
+<sound>tech2v57idx17_exhaust.mp3</sound>
+</w>
+<w idx="18" name="four-wheel drive">
+<jp>四輪駆動</jp>
+<exp>【名】四輪駆動</exp>
+<sound>tech2v57idx18_four-wheel_drive.mp3</sound>
+</w>
+<w idx="19" name="mileage">
+<jp>燃費</jp>
+<exp>【名】燃費、走行距離</exp>
+<sound>tech2v57idx19_mileage.mp3</sound>
+</w>
+<w idx="20" name="gasoline">
+<jp>ガソリン</jp>
+<exp>【名】ガソリン</exp>
+<sound>tech2v57idx20_gasoline.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. automobile</p>
+<p>2. motorcycle</p>
+<p>3. truck</p>
+<p>4. vehicle</p>
+<p>5. accelerator</p>
+<p>6. brake</p>
+<p>7. shaft</p>
+<p>8. steering wheel</p>
+<p>9. tire</p>
+<p>10. wheel</p>
+<p>11. diesel engine</p>
+<p>12. four-stroke</p>
+<p>13. hybrid engine</p>
+<p>14. piston engine</p>
+<p>15. cooling water</p>
+<p>16. electric car</p>
+<p>17. exhaust</p>
+<p>18. four-wheel drive</p>
+<p>19. mileage</p>
+<p>20. gasoline</p>
+</contents>
+</unit>

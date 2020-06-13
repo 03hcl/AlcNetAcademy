@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="06">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅰ 専門分野別,化学２</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">化学の分野でよく使われる語句です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="acid">
+<jp>酸</jp>
+<exp>【名】酸</exp>
+<sound>tech2v06idx01_acid.mp3</sound>
+</w>
+<w idx="2" name="alkali">
+<jp>アルカリ</jp>
+<exp>【名】アルカリ</exp>
+<sound>tech2v06idx02_alkali.mp3</sound>
+</w>
+<w idx="3" name="amino acid">
+<jp>アミノ酸</jp>
+<exp>【名】アミノ酸</exp>
+<sound>tech2v06idx03_amino_acid.mp3</sound>
+</w>
+<w idx="4" name="amorphous substance">
+<jp>アモルファス物質</jp>
+<exp>【名】アモルファス物質</exp>
+<sound>tech2v06idx04_amorphous_substance.mp3</sound>
+</w>
+<w idx="5" name="ash">
+<jp>灰</jp>
+<exp>【名】灰</exp>
+<sound>tech2v06idx05_ash.mp3</sound>
+</w>
+<w idx="6" name="atomic weight">
+<jp>原子量</jp>
+<exp>【名】原子量</exp>
+<sound>tech2v06idx06_atomic_weight.mp3</sound>
+</w>
+<w idx="7" name="boiling point">
+<jp>沸点</jp>
+<exp>【名】沸点</exp>
+<sound>tech2v06idx07_boiling_point.mp3</sound>
+</w>
+<w idx="8" name="combustion">
+<jp>燃焼</jp>
+<exp>【名】燃焼</exp>
+<sound>tech2v06idx08_combustion.mp3</sound>
+</w>
+<w idx="9" name="compound">
+<jp>化合物</jp>
+<exp>【名】化合物</exp>
+<sound>tech2v06idx09_compound.mp3</sound>
+</w>
+<w idx="10" name="corrosion">
+<jp>腐食</jp>
+<exp>【名】腐食</exp>
+<sound>tech2v06idx10_corrosion.mp3</sound>
+</w>
+<w idx="11" name="crystal">
+<jp>結晶</jp>
+<exp>【名】結晶</exp>
+<sound>tech2v06idx11_crystal.mp3</sound>
+</w>
+<w idx="12" name="dissolve">
+<jp>溶かす</jp>
+<exp>【動】溶かす</exp>
+<sound>tech2v06idx12_dissolve.mp3</sound>
+</w>
+<w idx="13" name="evaporation">
+<jp>蒸発</jp>
+<exp>【名】蒸発、気化</exp>
+<sound>tech2v06idx13_evaporation.mp3</sound>
+</w>
+<w idx="14" name="foam">
+<jp>泡</jp>
+<exp>【名】泡</exp>
+<sound>tech2v06idx14_foam.mp3</sound>
+</w>
+<w idx="15" name="gas molecule">
+<jp>気体分子</jp>
+<exp>【名】気体分子</exp>
+<sound>tech2v06idx15_gas_molecule.mp3</sound>
+</w>
+<w idx="16" name="gel">
+<jp>ゲル</jp>
+<exp>【名】ゲル</exp>
+<sound>tech2v06idx16_gel.mp3</sound>
+</w>
+<w idx="17" name="ion">
+<jp>イオン</jp>
+<exp>【名】イオン</exp>
+<sound>tech2v06idx17_ion.mp3</sound>
+</w>
+<w idx="18" name="nonmetal">
+<jp>非金属</jp>
+<exp>【名】非金属</exp>
+<sound>tech2v06idx18_nonmetal.mp3</sound>
+</w>
+<w idx="19" name="oxidation">
+<jp>酸化</jp>
+<exp>【名】酸化</exp>
+<sound>tech2v06idx19_oxidation.mp3</sound>
+</w>
+<w idx="20" name="oxygen">
+<jp>酸素</jp>
+<exp>【名】酸素</exp>
+<sound>tech2v06idx20_oxygen.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. acid</p>
+<p>2. alkali</p>
+<p>3. amino acid</p>
+<p>4. amorphous substance</p>
+<p>5. ash</p>
+<p>6. atomic weight</p>
+<p>7. boiling point</p>
+<p>8. combustion</p>
+<p>9. compound</p>
+<p>10. corrosion</p>
+<p>11. crystal</p>
+<p>12. dissolve</p>
+<p>13. evaporation</p>
+<p>14. foam</p>
+<p>15. gas molecule</p>
+<p>16. gel</p>
+<p>17. ion</p>
+<p>18. nonmetal</p>
+<p>19. oxidation</p>
+<p>20. oxygen</p>
+</contents>
+</unit>

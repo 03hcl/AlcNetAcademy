@@ -1,0 +1,534 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 中間テスト／修了テスト -->
+<unit idx="01">
+
+<title>中間テスト</title>
+
+<!-- セクション１ -->
+<part no="1" type="tech2-1">
+
+<question no="1" answer="2">
+<text>This equipment is fully guaranteed against manufacturing defects.</text>
+<selTrans cd="1">この装置に製造上の欠陥が発見された場合は直ちに修理します。</selTrans>
+<selTrans cd="2">この装置は製造上の欠陥に対して完全に保証されています。</selTrans>
+<selTrans cd="3">この装置には欠陥に対して製造後1年間の保証が付いています。</selTrans>
+<selTrans cd="4">この装置は製造上完璧であることを保証します。</selTrans>
+<comment>幹セン This equipment is guaranteed.
+動詞にかかる副詞 fully の「十分に、完全に」だけわかれば、正解２にたどり着けます。１は「直ちに」で×、３は「１年間の」で×、４は defects「欠陥」の訳が抜けているので×です。</comment>
+</question>
+
+<question no="2" answer="3">
+<text>A program is a set of instructions that tells a computer what to do.</text>
+<selTrans cd="1">コンピュータとは、プログラムで何ができるか指示できる一組の機器である。</selTrans>
+<selTrans cd="2">取扱説明書に従ってプログラムを組めば、コンピュータは作動する。</selTrans>
+<selTrans cd="3">プログラムとは、コンピュータに何をするか指示する一連の命令である。</selTrans>
+<selTrans cd="4">プログラムのインストールの仕方によって、コンピュータの作動の仕方が変わる。</selTrans>
+<comment>幹セン A program is a set of instructions.
+a set of ... は、「ひとそろい」の意味です。すると、正解は１か３。次に、「機器」の instrument と、「命令」の instruction との区別ができれば、３の正解にたどり着けます。</comment>
+</question>
+
+<question no="3" answer="1">
+<text>This chapter contains the key points for introducing automated inspection.</text>
+<selTrans cd="1">この章には自動検査法を導入するためのキーポイントが記載してある。</selTrans>
+<selTrans cd="2">この章を導入することによってキーポイントがはっきりする。</selTrans>
+<selTrans cd="3">自動検査法のキーポイントを紹介する内容は重要である。</selTrans>
+<selTrans cd="4">この章の自動検査法はキーポイントを紹介する内容となっている。</selTrans>
+<comment>幹セン This chapter contains the key points.
+「この章は key points を含んでいる」。これだけで１の正解にたどり着けます。 inspection は、検査法です。</comment>
+</question>
+
+<question no="4" answer="4">
+<text>Weather satellites have greatly improved the accuracy of weather forecasting.</text>
+<selTrans cd="1">衛星放送によりいつでも天気予報が得られるようになった。</selTrans>
+<selTrans cd="2">天気予報が的確かどうかは、気象衛星の機能によって決まる。</selTrans>
+<selTrans cd="3">衛星を使った通信網が大いに進歩したので、詳しい天気予報が得られるようになった。</selTrans>
+<selTrans cd="4">気象衛星のおかげで、天気予報の正確さが大いに向上した。</selTrans>
+<comment>幹セン Weather satellites have improved the accuracy.
+「気象衛星は精度を上げた」。現在完了形なので、「現在も向上している」という意味。形容詞 accurate（正確な）の名詞形が accuracy。これで、正解は４。</comment>
+</question>
+
+<question no="5" answer="3">
+<text>Optical fiber cable has several advantages over copper cable.</text>
+<selTrans cd="1">光ファイバーケーブルは銅ケーブルにいくらかの改良を加えることにより開発される。</selTrans>
+<selTrans cd="2">最適な光ファイバーケーブルを使用することにより、銅ケーブルの必要がなくなる。</selTrans>
+<selTrans cd="3">光ファイバーケーブルには、銅ケーブルと比べていくつかの利点がある。</selTrans>
+<selTrans cd="4">最適なファイバーケーブルの開発のために、銅ケーブルの利点と比較しなくてはならない。</selTrans>
+<comment>幹セン Optical fiber cable has advantages.
+「光ファイバーケーブルには利点がある」。 optical（光の）と optimal（最適な）との区別がつくなら、３の正解に到達します。 over ... は advantage に続いていて、「…と比べて」の意味。</comment>
+</question>
+
+<question no="6" answer="4">
+<text>This IC can be easily reprogrammed for another use.</text>
+<selTrans cd="1">これは使用法を変更すると簡単に別のプログラムに変えられる。</selTrans>
+<selTrans cd="2">このICは他のプログラムもすぐに作り直せるようにできている。</selTrans>
+<selTrans cd="3">これは他にも簡単に使用できるようにプログラムされたICである。</selTrans>
+<selTrans cd="4">このICは別の用途に用いられるよう容易にプログラムを作り直すことができる。</selTrans>
+<comment>幹セン This IC can be reprogrammed for another use.
+「このICはもうひとつ別の用途のために、プログラムを作り直すことができる」というわけで、正解は４です。</comment>
+</question>
+
+<question no="7" answer="4">
+<text>The cross-section of the beam is I-shaped.</text>
+<selTrans cd="1">その光束の交わるところにできるのは I 型である。</selTrans>
+<selTrans cd="2">その光線が横切る部分は I 型が映し出される。</selTrans>
+<selTrans cd="3">その梁（はり）が交わるところに I 型材を用いる。</selTrans>
+<selTrans cd="4">その梁の断面は I 型である。</selTrans>
+<comment>幹セン The cross-section is I-shaped.
+「断面は I 型である」。これだけで、４が正解になります。断面積は cross-sectional area といいます。 beam は光線の意味がよく知られていますが、建築用語として梁（はり）の意味もあるので注意しましょう。</comment>
+</question>
+
+</part>
+
+
+<!-- セクション２ -->
+<part no="2" type="tech2-2">
+
+<question no="1" answer="3">
+<text>positive</text>
+<selTrans cd="1">負の</selTrans>
+<selTrans cd="2">電源の</selTrans>
+<selTrans cd="3">正の</selTrans>
+<comment>負の: negative  電源の: power</comment>
+</question>
+
+<question no="2" answer="2">
+<text>contrast</text>
+<selTrans cd="1">比重</selTrans>
+<selTrans cd="2">対比</selTrans>
+<selTrans cd="3">明るさ</selTrans>
+<comment>比重: specific gravity  明るさ: brightness</comment>
+</question>
+
+<question no="3" answer="1">
+<text>rewrite</text>
+<selTrans cd="1">書き直す</selTrans>
+<selTrans cd="2">返品する</selTrans>
+<selTrans cd="3">反転する</selTrans>
+<comment>返品する: return  反転する: inverse</comment>
+</question>
+
+<question no="4" answer="2">
+<text>research</text>
+<selTrans cd="1">改善</selTrans>
+<selTrans cd="2">研究</selTrans>
+<selTrans cd="3">発表</selTrans>
+<comment>改善: improvement  発表: announcement</comment>
+</question>
+
+<question no="5" answer="1">
+<text>sphere</text>
+<selTrans cd="1">球</selTrans>
+<selTrans cd="2">半円</selTrans>
+<selTrans cd="3">楕円</selTrans>
+<comment>半円: semicircle  楕円: ellipse</comment>
+</question>
+
+<question no="6" answer="1">
+<text>wavelength</text>
+<selTrans cd="1">波長</selTrans>
+<selTrans cd="2">周波</selTrans>
+<selTrans cd="3">音波</selTrans>
+<comment>周波: frequency  音波: sound wave</comment>
+</question>
+
+<question no="7" answer="3">
+<text>carbon</text>
+<selTrans cd="1">窒素</selTrans>
+<selTrans cd="2">水素</selTrans>
+<selTrans cd="3">炭素</selTrans>
+<comment>窒素: nitrogen  水素: hydrogen</comment>
+</question>
+
+<question no="8" answer="1">
+<text>navigate</text>
+<selTrans cd="1">操縦する</selTrans>
+<selTrans cd="2">運転席</selTrans>
+<selTrans cd="3">海図</selTrans>
+<comment>運転席（自動車の）: driver's sheet  海図: chart</comment>
+</question>
+
+<question no="9" answer="3">
+<text>volume</text>
+<selTrans cd="1">拡大</selTrans>
+<selTrans cd="2">回転</selTrans>
+<selTrans cd="3">容積</selTrans>
+<comment>拡大: magnification  回転: revolution、rotation</comment>
+</question>
+
+<question no="10" answer="3">
+<text>relative</text>
+<selTrans cd="1">離れた</selTrans>
+<selTrans cd="2">引力の</selTrans>
+<selTrans cd="3">相対の</selTrans>
+<comment>離れた: distant  引力の: gravitational</comment>
+</question>
+
+<question no="11" answer="3">
+<text>adjust</text>
+<selTrans cd="1">点検する</selTrans>
+<selTrans cd="2">調査する</selTrans>
+<selTrans cd="3">調整する</selTrans>
+<comment>点検する: inspect  調査する（学術的に）: research</comment>
+</question>
+
+<question no="12" answer="2">
+<text>reactor</text>
+<selTrans cd="1">反応</selTrans>
+<selTrans cd="2">原子炉</selTrans>
+<selTrans cd="3">反応物質</selTrans>
+<comment>反応: reaction  反応物質: reactant</comment>
+</question>
+
+<question no="13" answer="1">
+<text>compound</text>
+<selTrans cd="1">化合物</selTrans>
+<selTrans cd="2">化学物質</selTrans>
+<selTrans cd="3">研磨機</selTrans>
+<comment>化学物質: chemicals  研磨機: grinder</comment>
+</question>
+
+<question no="14" answer="3">
+<text>external</text>
+<selTrans cd="1">中央の</selTrans>
+<selTrans cd="2">本質的な</selTrans>
+<selTrans cd="3">外面の</selTrans>
+<comment>中央の: central  本質的な: essential</comment>
+</question>
+
+<question no="15" answer="2">
+<text>calculation</text>
+<selTrans cd="1">循環</selTrans>
+<selTrans cd="2">計算</selTrans>
+<selTrans cd="3">分配</selTrans>
+<comment>循環: circulation  分配: distribution</comment>
+</question>
+
+</part>
+
+<!-- セクション３ -->
+<part no="3" type="tech2-3">
+
+<question no="1" answer="3">
+<text>Nitrogen oxide helps <blank></blank></text>
+<textTrans>酸化窒素は大気中にオゾンを生成する助けとなる。</textTrans>
+<comment>キーワードは「一酸化窒素」。これで３につながりますが、キーワードだけではつながりが弱いところです。 help to do で「…することを助ける、…する助けになる」という意味になります。文法や意味の把握に自信がなかったら、わかる問題から先に確定させましょう。</comment>
+</question>
+
+<question no="2" answer="2">
+<text>Air has considerable power <blank></blank></text>
+<textTrans>空気は圧縮するとかなりの力を有している。</textTrans>
+<comment>キーワードは「空気」「力」。これで２につながります。４も迷うかもしれませんが、文法が成り立ちません。</comment>
+</question>
+
+<question no="3" answer="1">
+<text>Lasers are devices <blank></blank></text>
+<textTrans>レーザーは光を増幅して光束を作る装置である。</textTrans>
+<comment>キーワードは「レーザー」「装置」。これで１につながります。</comment>
+</question>
+
+<question no="4" answer="5">
+<text>Disk brakes work <blank></blank></text>
+<textTrans>ディスクブレーキは油圧力と摩擦を使って動作する。</textTrans>
+<comment>キーワードは「ディスクブレーキ」。これなら５とつながります。</comment>
+</question>
+
+<question no="5" answer="4">
+<text>Springs exert more force <blank></blank></text>
+<textTrans>ばねは伸ばせば伸ばすほどより力を出す。</textTrans>
+<comment>キーワードは「ばね」、「力」。これで４につながります。４はキーワードだけ考えると(b) Air has considerable power にもつながるのではと迷うかもしれませんが、the more と(e)の more force が連動していることに気づけば、(e)につながることがわかります。</comment>
+
+</question>
+
+<sel cd="1">that amplify light and produce beams of light.</sel>
+<sel cd="2">when it is compressed.</sel>
+<sel cd="3">to form ozone in the atmosphere.</sel>
+<sel cd="4">the more they are stretched.</sel>
+<sel cd="5">by using hydraulic power and friction.</sel>
+
+<point>　問題の指示に、後半の「１から５は１回しか使えません」とあります。ですから、ひとつ間違えると、当然もうひとつも間違えます。逆に、できる問題からやっていけば、難しそうな他の問題も正解に近づきます。この問題は、キーワードの分析と構文の分析というふたつの視点から考えることで、より正確に答えることができます。まずはキーワードでつないでいくのがコツです。大いに理系の知識を動員してください。
+　後半のキーワードは、
+　　1. 「増幅する」「光」「生み出す」「光線」
+　　2. 「圧縮される」
+　　3. 「生成する」「オゾン」「大気中」
+　　4. 「もっとたくさん」「伸ばされる」
+　　5. 「油圧 [水圧] 」「摩擦」</point>
+
+</part>
+
+<!-- セクション４ -->
+<part no="4" type="tech2-4">
+
+<question no="1" answer="1">
+<text>The boat is made of <blank></blank> 22,000 recycled aluminum cans.</text>
+<textTrans>そのボートは22,000個以上の再生アルミ缶でできている。</textTrans>
+<comment>前置詞 of の後にカッコです。しかも、be made of ... はおなじみの「…で作られている」です。カッコの後は、「22,000個のリサイクルアルミ缶」となっています。ここは１を入れると、「22,000個を超える」となります。２、３、４では意味が通じません。５の「効率の良い」も入りそうですが、これは他の文にぴったり入ります。</comment>
+</question>
+
+<question no="2" answer="3">
+<text>A number of new technologies are <blank></blank> applied to agriculture in Japan.</text>
+<textTrans>日本では、新しい技術の多くが農業に応用されている。</textTrans>
+<comment>are と applied に挟まれています。ここは、３が入ると受け身の進行形になってすんなりいきます。後の選択肢は品詞として入るのは無理です。</comment>
+</question>
+
+<question no="3" answer="2">
+<text>Some popular Internet sites can be <blank></blank>.</text>
+<textTrans>いくつかの人気のあるインターネットサイトにアクセスできる。</textTrans>
+<comment>can be の後のカッコです。受け身を完成させるしかないので、意味がわからなくても正解がわかります。２が正解です。</comment>
+</question>
+
+<question no="4" answer="5">
+<text>The electrolyte is an <blank></blank> electron conductor.</text>
+<textTrans>電解液は効率の良い電子導体である。</textTrans>
+<comment>an に続くカッコで、カッコの後ろにさらに名詞があります。ここは母音で始まる名詞または形容詞のはずです。自ずと５になります。</comment>
+</question>
+
+<question no="5" answer="4">
+<text>To release the lock, <blank></blank> the lever in the reverse direction.</text>
+<textTrans>錠を外すために、レバーを反対方向にずらしなさい。</textTrans>
+<comment>ここまでくると、残りは４です。でも、順番どおりに解いていく必要はありません。 To release the lock のところは不定詞の副詞的用法（目的）です。文を完成するには、命令形しかありません。そこで、原形の動詞として slide を選択します。</comment>
+</question>
+
+<sel cd="1">over</sel>
+<sel cd="2">accessed</sel>
+<sel cd="3">being</sel>
+<sel cd="4">slide</sel>
+<sel cd="5">efficient</sel>
+
+<point>　セクションⅢに続いて、「１から５は１回しか使えません」とあります。この問題では、ひとつずつカッコに入れていってみます。そして、「品詞（動詞、副詞、形容詞、前置詞、名詞程度がわかれば大丈夫）としてここには入るのは変だ！」または「文の意味が変だ！」と判断しながらふるい落としていくのがコツです。
+　それでは、まず選択肢の品詞分けをします。
+　　1. over は前置詞「…を超えて」
+　　2. accessed は動詞 access「近づく」の過去分詞
+　　3. being は動詞 be の現在分詞
+　　4. slide は動詞 slide「すべらせる」または名詞 slide「すべること」
+　　5. efficient は形容詞で「効率のよい」
+これらのすべてがわからなくても問題を解けますからご心配なく。</point>
+
+</part>
+
+<!-- セクション５ -->
+<part no="5" type="tech2-5">
+
+<question no="1" answer="1">
+<text>A balloon filled with hydrogen will <blank></blank> because hydrogen is lighter than air.</text>
+<textTrans>水素は空気より軽いので、水素で満たされた気球は上昇する。</textTrans>
+<sel cd="1">rise</sel>
+<sel cd="2">fall</sel>
+<sel cd="3">burn</sel>
+<comment>because があるので複文です。従属節の意味は「水素は空気より軽いので」です。主節は、filled with hydrogen が a balloon を後ろから修飾しています。「水素で満たされた風船は」となりますから、rise（上がる）、fall（下がる）、burn（燃える）の中から rise を選びます。</comment>
+</question>
+
+<question no="2" answer="1">
+<text>At room temperature, all metals, except mercury, are <blank></blank>.</text>
+<textTrans>常温では、水銀以外の全ての金属は固体である。</textTrans>
+<sel cd="1">solid</sel>
+<sel cd="2">liquid</sel>
+<sel cd="3">gaseous</sel>
+<comment>except mercury とは「水銀を除いて」という意味です。幹センは、All metals are (solid, liquid, gaseous）. こうなると、英語の力よりも一般常識問題です。「常温では」とありますから、固体 solid を選びます。</comment>
+</question>
+
+<question no="3" answer="3">
+<text>Success depends <blank></blank> the condition of the machines.</text>
+<textTrans>成功は機械の状態次第である。</textTrans>
+<sel cd="1">up</sel>
+<sel cd="2">in</sel>
+<sel cd="3">on</sel>
+<comment>これは熟語の問題です。 depend on ... 「…次第である」。学校英語では、「…に頼る」と訳していました。</comment>
+</question>
+
+<question no="4" answer="3">
+<text>A <blank></blank> is used to measure air temperature.</text>
+<textTrans>温度計は空気の温度を測るために用いられる。</textTrans>
+<sel cd="1">voltmeter</sel>
+<sel cd="2">barometer</sel>
+<sel cd="3">thermometer</sel>
+<comment>選択肢はすべて計器の名前です。順に電圧計、気圧計、温度計です。 barometer、thermometer のアクセントは両方とも o の位置にあります。後ろに「気温を測る」とありますから thermometer を選びます。</comment>
+</question>
+
+<question no="5" answer="2">
+<text>Docks are built so <blank></blank> ships can be loaded, unloaded, or repaired.</text>
+<textTrans>ドック（船渠）は船に荷物の積み下ろしをしたり、あるいは船の修理をしたりするために建造される。</textTrans>
+<sel cd="1">which</sel>
+<sel cd="2">that</sel>
+<sel cd="3">as</sel>
+<comment>ここは文法問題です。内容がわからなくても、「... so that ● can ▲」のパターンで、「●が▲できるように」　という意味になります。32個のユニットには登場していません。ぜひ、辞書で that をざっと（？）調べてみてください。</comment>
+</question>
+
+</part>
+
+<!-- セクション６ -->
+<part no="6" type="tech2-6">
+
+<question no="1" answer="8">
+<text>Particles in the substance are <blank></blank> with the aid of a microscope.</text>
+<textTrans>その物質の粒子は顕微鏡で……。</textTrans>
+<comment>are と with に挟まれています。受け身ではなさそうですし、選択肢にも過去分詞がありません。ここは、名詞または形容詞。 visible（見ることができる）にたどり着きます。 with the aid of ... で「…の助けを借りて」。</comment>
+</question>
+
+<question no="2" answer="4">
+<text>One property of heat is to change <blank></blank> into gas.</text>
+<textTrans>……を気体に変えるのも熱の特性のひとつである。</textTrans>
+<comment>change ● into gas、しかも熱の話なので、名詞から選んで、liquid（液体）が正解です。</comment>
+</question>
+
+<question no="3" answer="9">
+<text>Current is a flow of <blank></blank> through a material.</text>
+<textTrans>物質の中を……が流れて電流が生じる。</textTrans>
+<comment>of の後のカッコです。「of をというのが基本」を思い出してください。 of には目的格「を」、同格「という」、所有格「の」、そして主格「が」と４つの意味があります。ここは主格です。文中に電流とありますから「電子が流れる」となります。 electrons を選びます。</comment>
+</question>
+
+<question no="4" answer="2">
+<text>A helium atom weighs four times as <blank></blank> as a hydrogen atom.</text>
+<textTrans>ヘリウム原子は水素原子の４倍の重さがある。</textTrans>
+<comment>ここは、as と as に挟まれていますから、形容詞または副詞です。原子の重さの程度を表しているので、many ではなく much です。</comment>
+</question>
+
+<question no="5" answer="6">
+<text><blank></blank> is one way of joining pieces of metal together.</text>
+<textTrans>……は金属片を接合するひとつの方法である。</textTrans>
+<comment>主語には「金属接合法」を１語でいいます。 welding は weld の動名詞です。</comment>
+</question>
+
+<sel cd="1">waves</sel>
+<sel cd="2">much</sel>
+<sel cd="3">atmosphere</sel>
+<sel cd="4">liquid</sel>
+<sel cd="5">possible</sel>
+<sel cd="6">welding</sel>
+<sel cd="7">many</sel>
+<sel cd="8">visible</sel>
+<sel cd="9">electrons</sel>
+<sel cd="10">forming</sel>
+
+<point>　10個の選択肢から、５個選ぶ問題です。構文、選択肢の品詞、そして意味から正解を導き出します。選択肢を品詞で分類しておきましょう。
+　　名詞： waves (波)、atmosphere（大気）、liquid（液体）、electrons（電子）
+　　形容詞： much、possible、many、visible
+　　動詞： welding、forming
+　　副詞： much</point>
+
+</part>
+
+<!-- セクション７ -->
+<part no="7" type="tech2-7">
+<question no="1" answer="3">
+<text>持ち運べる</text>
+<sel cd="1">carriage</sel>
+<sel cd="2">shipment</sel>
+<sel cd="3">portable</sel>
+<comment>carriage: 往復台  shipment: 船積み</comment>
+</question>
+
+<question no="2" answer="1">
+<text>磨く</text>
+<sel cd="1">polish</sel>
+<sel cd="2">square</sel>
+<sel cd="3">acute</sel>
+<comment>square: 正方形、２乗する  acute: 鋭角の</comment>
+</question>
+
+<question no="3" answer="3">
+<text>往復運動</text>
+<sel cd="1">movement</sel>
+<sel cd="2">forward</sel>
+<sel cd="3">stroke</sel>
+<comment>movement: 運動  forward: 前方へ</comment>
+</question>
+
+<question no="4" answer="2">
+<text>焦点の</text>
+<sel cd="1">lens</sel>
+<sel cd="2">focal</sel>
+<sel cd="3">visible</sel>
+<comment>lens: レンズ  visible: 可視の</comment>
+</question>
+
+<question no="5" answer="1">
+<text>釘</text>
+<sel cd="1">nail</sel>
+<sel cd="2">nut</sel>
+<sel cd="3">screw</sel>
+<comment>nut: ナット  screw: ねじ</comment>
+</question>
+
+<question no="6" answer="1">
+<text>集積回路</text>
+<sel cd="1">IC</sel>
+<sel cd="2">CPU</sel>
+<sel cd="3">PC</sel>
+<comment>CPU: 中央処理装置  PC: パソコン</comment>
+</question>
+
+<question no="7" answer="1">
+<text>間接の</text>
+<sel cd="1">indirect</sel>
+<sel cd="2">adhesive</sel>
+<sel cd="3">unusual</sel>
+<comment>adhesive: 接着剤  unusual: 異常な</comment>
+</question>
+
+<question no="8" answer="2">
+<text>反射</text>
+<sel cd="1">inflation</sel>
+<sel cd="2">reflection</sel>
+<sel cd="3">competition</sel>
+<comment>inflation: 膨張  competition: 競争</comment>
+</question>
+
+<question no="9" answer="3">
+<text>大気</text>
+<sel cd="1">circumstance</sel>
+<sel cd="2">hemisphere</sel>
+<sel cd="3">atmosphere</sel>
+<comment>circumstance: 状況  hemisphere: 半球</comment>
+</question>
+
+<question no="10" answer="1">
+<text>加える</text>
+<sel cd="1">add</sel>
+<sel cd="2">multiply</sel>
+<sel cd="3">subtract</sel>
+<comment>multiply: 乗じる  subtract:  引く</comment>
+</question>
+
+<question no="11" answer="1">
+<text>保護する</text>
+<sel cd="1">protect</sel>
+<sel cd="2">attach</sel>
+<sel cd="3">attract</sel>
+<comment>attach: 取り付ける  attract: 引きつける</comment>
+</question>
+
+<question no="12" answer="3">
+<text>結晶</text>
+<sel cd="1">scope</sel>
+<sel cd="2">mirror</sel>
+<sel cd="3">crystal</sel>
+<comment>scope: 視野  mirror: 鏡</comment>
+</question>
+
+<question no="13" answer="3">
+<text>分割する</text>
+<sel cd="1">depart</sel>
+<sel cd="2">burn</sel>
+<sel cd="3">divide</sel>
+<comment>depart: 出発する  burn: 燃える、燃やす</comment>
+</question>
+
+<question no="14" answer="2">
+<text>出口</text>
+<sel cd="1">nozzle</sel>
+<sel cd="2">outlet</sel>
+<sel cd="3">passage</sel>
+<comment>nozzle: ノズル  passage: 通路、通過</comment>
+</question>
+
+<question no="15" answer="3">
+<text>粒子</text>
+<sel cd="1">molecule</sel>
+<sel cd="2">atom</sel>
+<sel cd="3">particle</sel>
+<comment>molecule: 分子  atom: 原子</comment>
+</question>
+</part>
+
+</unit>

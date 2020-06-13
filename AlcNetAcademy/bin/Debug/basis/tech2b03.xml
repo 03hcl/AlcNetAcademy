@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 基礎コース -->
+
+<unit idx="03">
+
+<introduction>
+<title>フラッシュメモリ</title>
+<read>&lt;font size="16" color="#000000"&gt;
+（学習のポイント）                 
+&lt;/font&gt;
+&lt;font size="16" color="#0000FF"&gt;
+SVOC／enable／パラレリズム
+&lt;/font&gt;
+&lt;br&gt;
+&lt;font size="16" color="#000000"&gt;
+デジタルカメラなど、日常生活のいろいろなところで使われている半導体メモリを扱います。英語らしい文を演出する動詞、enable を使います。長い日本文を、英語らしい簡潔な単文で表す練習です。
+&lt;/font&gt;</read>
+</introduction>
+
+
+<notes>
+<w idx="1" name="storage">
+<jp>記憶装置</jp>
+<sound>tech2b03idx01_storage.mp3</sound>
+</w>
+<w idx="2" name="floppy disk">
+<jp>フロッピーディスク</jp>
+<sound>tech2b03idx02_floppy_disk.mp3</sound>
+</w>
+<w idx="3" name="semiconductor">
+<jp>半導体</jp>
+<sound>tech2b03idx03_semiconductor.mp3</sound>
+</w>
+<w idx="4" name="flash memory">
+<jp>フラッシュメモリ</jp>
+<sound>tech2b03idx04_flash_memory.mp3</sound>
+</w>
+<w idx="5" name="electric power">
+<jp>電力</jp>
+<sound>tech2b03idx05_electric_power.mp3</sound>
+</w>
+<w idx="6" name="portable information device">
+<jp>携帯情報機器</jp>
+<sound>tech2b03idx06_portable_information_device.mp3</sound>
+</w>
+</notes>
+
+
+<!-- Step1、Topic&Vocaburary -->
+<contents type="tech2bStep1">
+<p>　<w idx="1">記憶装置</w>には磁気を利用した<w idx="2">フロッピーディスク</w>や、光と磁気を利用した MD、MO などがある。<w idx="3">半導体</w>を使った記憶装置の中で注目されているのは<w idx="4">フラッシュメモリ</w>である。フラッシュメモリを使うとデータの書き込みや消去が何度でもできるのはもちろん、データの保存に<w idx="5">電力</w>が必要ないという特徴がある。携帯性が高く、デジタルカメラなどの<w idx="6">携帯情報機器</w>での利用が広がっている。</p>
+<p></p>
+<p>MD: Mini Disk、MO: Magneto Optical disk</p>
+</contents>
+
+
+<!-- Step2、Writing1 -->
+<contents type="tech2bStep2">
+<instruction1>「フラッシュメモリを使うと」を主語にして幹センを抜き出そう。</instruction1>
+<instruction2>[先輩]ボタンを押して、先輩が書いた英文とあなたの英文を比べてみよう。</instruction2>
+<sentence>
+<ph idx="1" miki="true">フラッシュメモリを使うと</ph>
+<ph idx="2" miki="true">データの書き込みや消去が</ph>
+<ph idx="3">何度でも</ph>
+<ph idx="4" miki="true">できる。</ph>
+</sentence>
+<mikisentence>
+<ph idx="1" type="S">フラッシュメモリ</ph>
+<ph idx="2">を使うとデータの書き込みや消去が</ph>
+<ph idx="3" type="V">できる。</ph>
+</mikisentence>
+<hint text="">
+<ph idx="1">flash memory</ph>
+<ph idx="2">write</ph>
+<ph idx="3">data</ph>
+</hint>
+<senior answer="B,D"><sel cd="A">Flash memory</sel> <sel cd="B">can</sel> <sel cd="C">write</sel> and <sel cd="D">delete</sel> data.</senior>
+<teach>Flash memory enables us to write and erase data.</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　主語を何にしよう？「書き込みや消去ができる」の「が」から「書き込みや消去」を主語にしようとすると、「フラッシュメモリを使うと」は When we use flash memory, となります。英文が長くなりそうです。考え直して、ここはぜひとも「フラッシュメモリを使うと」を主語にして頑張らないといけません。課題文での話の中心は「私たち」ではなくて「フラッシュメモリ」だからです。&lt;br&gt;
+&lt;br&gt;
+　「できる」となると、can や possible を使いたくなりますが、ちょっと待ってください。便利な動詞があります。 &lt;font color="#FF0000"&gt;enable&lt;/font&gt; です。&lt;br&gt;
+　　&lt;b&gt;● enable us to do ... &lt;/b&gt;&lt;br&gt;
+という形にすると、&lt;b&gt;「●によって（●を使うと）、私たちは to do（不定詞）できる」&lt;/b&gt;という内容を表現できます。意味の上では us が to do の主語になっている（We write and erase data.）ので、文型は &lt;font color="#0000FF"&gt;SVOC&lt;/font&gt; です。&lt;br&gt;
+&lt;br&gt;
+　便利な動詞（これからは&lt;font color="#0000FF"&gt;&lt;b&gt;『ぴったんこ動詞』&lt;/b&gt;&lt;/font&gt;と呼ぶことにしましょう）をコツコツと身につけていきましょう。なんといっても動詞は英文のホームラン王なのです。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;&lt;font color="#FF0000"&gt;先輩へ&lt;/font&gt;：&lt;/b&gt;&lt;br&gt;
+　フラッシュメモリは媒体です。フラッシュメモリがデータを書いたり消したりするのではありませんから write and delete data の主語にするのは間違いです。また、記録されていたものを除く、すなわち「消去する」というときには、delete ではなく erase を使います。消しゴムも黒板ふきも eraser といいます。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step3、Writing2 -->
+<contents type="tech2bStep3">
+<hint text="（ここにはヒントがありません）">
+</hint>
+</contents>
+
+
+<!-- Step4、Comparisons -->
+<contents type="tech2bStep4">
+<senior answer="6">Flash memory enables us to write and erase data again.</senior>
+<teach>
+&lt;font size="20" color="#000000"&gt;
+Flash memory enables us to write and erase data 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+repeatedly
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+.
+&lt;/font&gt;
+</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+&lt;b&gt;&lt;font color="#FF0000"&gt;先輩へ&lt;/font&gt;：&lt;/b&gt;&lt;br&gt;
+　again は「もう一度」というニュアンスになります。「何度でも」は repeatedly という副詞がぴったりです。 &lt;b&gt;again and again と３語で書くよりも、１語で済む repeatedly を使います&lt;/b&gt;。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+　「フラッシュメモリを使うとデータの書き込みや消去が何度でもできる」を次のようにすると、&lt;br&gt;
+　　Flash memory enables us to write data and erase repeatedly.&lt;br&gt;
+内容から考えて data の位置が間違いです。「データの」は「書き込みや消去」両方にかかりますし、「何度でもできる」というのは「書き込みや消去」が何度でもできるのです。 and の前後をきれいに並べることにこだわってください。 &lt;b&gt;and の前後では、つりあいが重要です。同じ語数にしたり、同じ品詞を並べたりという工夫をしてください&lt;/b&gt;。 and の前後をできるだけきれいに並べたら安堵（and？）してください。何しろしょっちゅう登場するので、and の並列構造（parallelism）を&lt;font color="#0000FF"&gt;&lt;b&gt;『パラパラ』&lt;/b&gt;&lt;/font&gt;と名付けます。「パラパラ」ときたら、きれいに並べる parallelism（パラレリズム）の and をすぐに思い出してください。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step5、Exercisse -->
+<contents type="tech2bStep5" size="5">
+<instruction1>このユニットで登場した表現と、関連する表現を練習しよう。間違えやすい表現に気をつけよう。</instruction1>
+<question no="1" type="R">
+<textTrans>車椅子によって身体に障害のある人も動き回ることができる。</textTrans>
+<text>A wheelchair <sel cd="A" answer="3"></sel> a disabled person <sel cd="B" answer="1"></sel> move about.</text>
+<sel cd="A" idx="1">can</sel>
+<sel cd="A" idx="2">is able to</sel>
+<sel cd="A" idx="3">enables</sel>
+<sel cd="B" idx="1">to</sel>
+<sel cd="B" idx="2">for</sel>
+<sel cd="B" idx="3">by</sel>
+<hint>
+<sound>tech2b03s5Q01.mp3</sound>
+</hint>
+<point>　モノ enable 人 to do の第５文型です。モノによって人は～できる。</point>
+</question>
+
+<question no="2" type="I">
+<textTrans>彼の回復によって研究を続けることができた。</textTrans>
+<text>His recovery enabled him <sel cd="A" answer="1"></sel> pursue his study.</text>
+<sel cd="A" idx="1">to</sel>
+<sel cd="A" idx="2">for</sel>
+<sel cd="A" idx="3">by</sel>
+<hint>
+<sound>tech2b03s5Q02.mp3</sound>
+</hint>
+<point>　コト enable 人 to do の第５文型です。コトによって人は～できる。</point>
+</question>
+
+<question no="3" type="I">
+<textTrans>ペンキを塗り替えたことで、家がより魅力的に見えるようになった。</textTrans>
+<text>New paint on the house <sel cd="A" answer="2"></sel> it look more attractive.</text>
+<sel cd="A" idx="1">enabled</sel>
+<sel cd="A" idx="2">made</sel>
+<sel cd="A" idx="3">kept</sel>
+<hint>
+<sound>tech2b03s5Q03.mp3</sound>
+</hint>
+<point>　ここは enable の構文ではありません。 it の後が不定詞ではなく動詞の原形になっているところに注意してください。</point>
+</question>
+
+<question no="4" type="R">
+<textTrans>必要のないステートメントがそのプログラムから削除された。</textTrans>
+<text>Unnecessary statements were <sel cd="A" answer="1"></sel> from the program.</text>
+<sel cd="A" idx="1">deleted</sel>
+<sel cd="A" idx="2">removed</sel>
+<sel cd="A" idx="3">kept</sel>
+<hint>
+<sound>tech2b03s5Q04.mp3</sound>
+</hint>
+<point>　文や文章を削除するときには delete を使います。「（消しゴムで）消す」というニュアンスが erase です。</point>
+</question>
+
+<question no="5" type="R">
+<textTrans>この式を何度も使いなさい。</textTrans>
+<text>Use this equation <sel cd="A" answer="3"></sel> .</text>
+<sel cd="A" idx="1">again</sel>
+<sel cd="A" idx="2">again and again</sel>
+<sel cd="A" idx="3">repeatedly</sel>
+<hint>
+<sound>tech2b03s5Q05.mp3</sound>
+</hint>
+<point>　同じコトを繰り返して言ったり、行ったりするのが repeat です。 again and again も一般的な英語では間違いではありません。理系の英語では１語で済む repeatedly を選びます。</point>
+</question>
+</contents>
+
+
+<contents type="phrase">
+<p><ph idx="1">Flash memory enables us to write and erase data repeatedly.</ph></p>
+<p></p>
+<p><ph idx="2">1. A wheelchair enables a disabled person to move about.</ph></p>
+<p><ph idx="3">2. His recovery enabled him to pursue his study.</ph></p>
+<p><ph idx="4">3. New paint on the house made it look more attractive.</ph></p>
+<p><ph idx="5">4. Unnecessary statements were deleted from the program.</ph></p>
+<p><ph idx="6">5. Use this equation repeatedly.</ph></p>
+</contents>
+
+<contents type="translation">
+<p><ph idx="1">フラッシュメモリを使うとデータの書き込みや消去が何度でもできる。</ph></p>
+<p></p>
+<p><ph idx="2">1. 車椅子によって身体に障害のある人も動き回ることができる。</ph></p>
+<p><ph idx="3">2. 彼の回復によって研究を続けることができた。</ph></p>
+<p><ph idx="4">3. ペンキを塗り替えたことで、家がより魅力的に見えるようになった。</ph></p>
+<p><ph idx="5">4. 必要のないステートメントがそのプログラムから削除された。</ph></p>
+<p><ph idx="6">5. この式を何度も使いなさい。</ph></p>
+</contents>
+
+
+
+
+</unit>

@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="02">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅰ 専門分野別,数学２</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">数学でよく使われる語句です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="column">
+<jp>列</jp>
+<exp>【名】列</exp>
+<sound>tech2v02idx01_column.mp3</sound>
+</w>
+<w idx="2" name="row">
+<jp>行</jp>
+<exp>【名】行</exp>
+<sound>tech2v02idx02_row.mp3</sound>
+</w>
+<w idx="3" name="condition">
+<jp>条件</jp>
+<exp>【名】条件</exp>
+<sound>tech2v02idx03_condition.mp3</sound>
+</w>
+<w idx="4" name="constant">
+<jp>定数</jp>
+<exp>【名】定数</exp>
+<sound>tech2v02idx04_constant.mp3</sound>
+</w>
+<w idx="5" name="proportional">
+<jp>比例の</jp>
+<exp>【形】比例の</exp>
+<sound>tech2v02idx05_proportional.mp3</sound>
+</w>
+<w idx="6" name="ratio">
+<jp>比</jp>
+<exp>【名】比</exp>
+<sound>tech2v02idx06_ratio.mp3</sound>
+</w>
+<w idx="7" name="absolute value">
+<jp>絶対値</jp>
+<exp>【名】絶対値</exp>
+<sound>tech2v02idx07_absolute_value.mp3</sound>
+</w>
+<w idx="8" name="algorithm">
+<jp>アルゴリズム</jp>
+<exp>【名】アルゴリズム</exp>
+<sound>tech2v02idx08_algorithm.mp3</sound>
+</w>
+<w idx="9" name="approximately">
+<jp>約</jp>
+<exp>【副】約</exp>
+<sound>tech2v02idx09_approximately.mp3</sound>
+</w>
+<w idx="10" name="coefficient">
+<jp>係数</jp>
+<exp>【名】係数</exp>
+<sound>tech2v02idx10_coefficient.mp3</sound>
+</w>
+<w idx="11" name="variable">
+<jp>変数</jp>
+<exp>【名】変数</exp>
+<sound>tech2v02idx11_variable.mp3</sound>
+</w>
+<w idx="12" name="equation">
+<jp>方程式</jp>
+<exp>【名】方程式</exp>
+<sound>tech2v02idx12_equation.mp3</sound>
+</w>
+<w idx="13" name="formula">
+<jp>公式</jp>
+<exp>【名】公式</exp>
+<sound>tech2v02idx13_formula.mp3</sound>
+</w>
+<w idx="14" name="function">
+<jp>関数</jp>
+<exp>【名】関数</exp>
+<sound>tech2v02idx14_function.mp3</sound>
+</w>
+<w idx="15" name="proof">
+<jp>証明</jp>
+<exp>【名】証明</exp>
+<sound>tech2v02idx15_proof.mp3</sound>
+</w>
+<w idx="16" name="random">
+<jp>無作為の</jp>
+<exp>【形】無作為の、確率的な</exp>
+<sound>tech2v02idx16_random.mp3</sound>
+</w>
+<w idx="17" name="round">
+<jp>四捨五入する</jp>
+<exp>【動】四捨五入する、丸める　【形】丸い</exp>
+<sound>tech2v02idx17_round.mp3</sound>
+</w>
+<w idx="18" name="slope">
+<jp>傾斜</jp>
+<exp>【名】傾斜、勾配　【動】傾斜する</exp>
+<sound>tech2v02idx18_slope.mp3</sound>
+</w>
+<w idx="19" name="vector">
+<jp>ベクトル</jp>
+<exp>【名】ベクトル</exp>
+<sound>tech2v02idx19_vector.mp3</sound>
+</w>
+<w idx="20" name="coordinates">
+<jp>座標</jp>
+<exp>【名】座標</exp>
+<sound>tech2v02idx20_coordinates.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. column</p>
+<p>2. row</p>
+<p>3. condition</p>
+<p>4. constant</p>
+<p>5. proportional</p>
+<p>6. ratio</p>
+<p>7. absolute value</p>
+<p>8. algorithm</p>
+<p>9. approximately</p>
+<p>10. coefficient</p>
+<p>11. variable</p>
+<p>12. equation</p>
+<p>13. formula</p>
+<p>14. function</p>
+<p>15. proof</p>
+<p>16. random</p>
+<p>17. round</p>
+<p>18. slope</p>
+<p>19. vector</p>
+<p>20. coordinates</p>
+</contents>
+</unit>

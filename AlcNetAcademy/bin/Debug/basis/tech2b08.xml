@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 基礎コース -->
+
+<unit idx="08">
+
+<introduction>
+<title>（表現）マニュアルの英語</title>
+<read>&lt;font size="16" color="#000000"&gt;
+（学習のポイント）                   
+&lt;/font&gt;
+&lt;font size="16" color="#0000FF"&gt;
+命令形／remove／before
+&lt;/font&gt;
+&lt;br&gt;
+&lt;font size="16" color="#000000"&gt;
+マニュアルの役目を考えれば、マニュアル英文の作り方が分かるはずです。簡潔にかつ正確に書くこと。左から右へと、英文の語順そのままに作業を進めることができるのが、よいマニュアルです。
+&lt;/font&gt;</read>
+</introduction>
+
+
+<notes>
+<w idx="1" name="cartridge">
+<jp>カートリッジ</jp>
+<sound>tech2b08idx01_cartridge.mp3</sound>
+</w>
+<w idx="2" name="printer">
+<jp>プリンタ</jp>
+<sound>tech2b08idx02_printer.mp3</sound>
+</w>
+<w idx="3" name="tab">
+<jp>タブ</jp>
+<sound>tech2b08idx03_tab.mp3</sound>
+</w>
+<w idx="4" name="arrow">
+<jp>矢印</jp>
+<sound>tech2b08idx04_arrow.mp3</sound>
+</w>
+<w idx="5" name="protective cap">
+<jp>保護キャップ</jp>
+<sound>tech2b08idx05_protective_cap.mp3</sound>
+</w>
+<w idx="6" name="button">
+<jp>ボタン</jp>
+<sound>tech2b08idx06_button.mp3</sound>
+</w>
+</notes>
+
+
+<!-- Step1、Topic&Vocaburary -->
+<contents type="tech2bStep1">
+<p>インク<w idx="1">カートリッジ</w>を取り付けるには</p>
+<p></p>
+<p>　１．<w idx="2">プリンタ</w>の電源がオンになっていることを</p>
+<p>　　　確認し、カートリッジカバーを開きます。</p>
+<p>　２．インクカートリッジの<w idx="3">タブ</w>を<w idx="4">矢印</w>の方向に</p>
+<p>　　　押しながら引き上げます。</p>
+<p>　３．新しいインクカートリッジをプラスチック袋</p>
+<p>　　　から取り出し、<w idx="5">保護キャップ</w>を取り外します。</p>
+<p>　４．インクカートリッジを取り付けます。</p>
+<p>　５．カートリッジカバーを閉じて、プリンタの</p>
+<p>　　　カートリッジ<w idx="6">ボタン</w>を押します。</p>
+</contents>
+
+
+<!-- Step2、Writing1 -->
+<contents type="tech2bStep2">
+<instruction1>マニュアルは操作の順に書きます。日本文の前半から、動詞と目的語を選んでみよう。</instruction1>
+<instruction2>[先輩」ボタンを押して、先輩が書いた英文とあなたの英文を比べてみよう。</instruction2>
+<sentence>
+<ph idx="1" miki="true">インクカートリッジを</ph>
+<ph idx="2" miki="true">プラスチック袋から</ph>
+<ph idx="3" miki="true">取り出し、</ph>
+<ph idx="4">保護キャップを取り外します。</ph>
+</sentence>
+<mikisentence>
+<ph idx="1" type="O">インクカートリッジを</ph>
+<ph idx="2">プラスチック袋から</ph>
+<ph idx="3" type="V">取り出してください。</ph>
+</mikisentence>
+<hint text="">
+<ph idx="1">take</ph>
+<ph idx="2">ink cartridge</ph>
+<ph idx="3">plastic bag</ph>
+</hint>
+<senior answer="A"><sel cd="A">Please</sel> <sel cd="B">take</sel> <sel cd="C">the ink cartridge</sel> <sel cd="D">from the plastic bag</sel>.</senior>
+<teach>Take the ink cartridge out of the plastic bag.</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　装置などの使い方を、順序よくそして正確に記述してあることが、マニュアルには要求されます。&lt;b&gt;マニュアルの表現には普通、命令文を使います&lt;/b&gt;。命令文というと、「命令」という日本語訳のせいで、何か強制されているような印象をもってしまいますが、そうとは限りません。&lt;br&gt;
+&lt;br&gt;
+　命令文の主語はもちろん You です。&lt;br&gt;
+　　You take the ink cartridge out of the plastic bag.&lt;br&gt;
+いちいちこう書かれているマニュアルでは、読んでいる私たち（you）はイライラしてしまうでしょう。文頭から操作を指示してほしいのです。 You を省略してもらった方がすっきりします。それで、命令文が都合がよいのです。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　丁寧にしようとして please をいちいちつけるのは困りものです。また、 You had better ... とかを絶対に使わないことです。なぜなら脅しになってしまうからです。 had better ... の意味は「…した方がいいよ、しないと大変なことになるよ」です。 take ... from という書き方は、口語では問題ありませんが理系の英文では out of ... を使ってください。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step3、Writing2 -->
+<contents type="tech2bStep3">
+<hint text="">
+<ph idx="1">protective cap</ph>
+</hint>
+</contents>
+
+
+<!-- Step4、Comparisons -->
+<contents type="tech2bStep4">
+<senior answer="6">Take the ink cartridge out of the plastic bag, and then get rid of the protective cap.</senior>
+<teach>
+&lt;font size="20" color="#000000"&gt;
+Take the ink cartridge out of the plastic bag 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+before removing the protective cap
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+.
+&lt;/font&gt;
+</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　「取り外す」には、&lt;font color="#FF0000"&gt;remove&lt;/font&gt; がぴったんこです。「高校時代に熟語（get rid of）をせっかく覚えたんだから使わせてよ」という気持ちはわかりますが、だめなんです。&lt;b&gt;３語を１語で言えるのですから、迷わず remove です&lt;/b&gt;。「こうも書ける、ああも書ける」というのは理系の英文の世界にはありません。&lt;b&gt;だれにも書けるわかりやすい英文を書くべきなのです&lt;/b&gt;。&lt;br&gt;
+　and then では芸がありません。こんなときに絶妙に登場する前置詞が &lt;b&gt;before&lt;/b&gt; です。これを使うと、before doing ですっきりです。日本文の意味がそのまま英文で左から右へ流れます。爽快な英文でしょ？そうかい？&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step5、Exercisse -->
+<contents type="tech2bStep5" size="5">
+<instruction1>このユニットで登場した表現を練習しよう。</instruction1>
+<question no="1" type="R">
+<textTrans>フロッピーディスクは通常ドライブから抜いておく。</textTrans>
+<text>Floppy disks are commonly <sel cd="A" answer="2"></sel> from their drives.</text>
+<sel cd="A" idx="1">taken out</sel>
+<sel cd="A" idx="2">removed</sel>
+<sel cd="A" idx="3">kept</sel>
+<hint>
+<sound>tech2b08s5Q01.mp3</sound>
+</hint>
+<point>　remove には「取り出す」「取り外す」「除去する」の意味があります。 take out は口語です。</point>
+</question>
+
+<question no="2" type="R">
+<textTrans>酸化物層を表面から除去した。</textTrans>
+<text>An oxide layer was <sel cd="A" answer="2"></sel> from the surface.</text>
+<sel cd="A" idx="1">taken out</sel>
+<sel cd="A" idx="2">removed</sel>
+<sel cd="A" idx="3">put off</sel>
+<hint>
+<sound>tech2b08s5Q02.mp3</sound>
+</hint>
+<point>　take out は口語で使いますが、take ... out of という形で使いますので、ここには入りません。「表面」「界面」はそれぞれ surface、interface です。 put off は「延期する」でこれまた口語です。</point>
+</question>
+
+<question no="3" type="I">
+<textTrans>あの役人を解任する必要がある。</textTrans>
+<text>That officer must be <sel cd="A" answer="2"></sel> from his position.</text>
+<sel cd="A" idx="1">taken out</sel>
+<sel cd="A" idx="2">removed</sel>
+<sel cd="A" idx="3">fired</sel>
+<hint>
+<sound>tech2b08s5Q03.mp3</sound>
+</hint>
+<point>　「地位から取り外される」ことを「解任される」といいます。 be fired だと「解雇される」になりますので、「解任」とは違います。</point>
+</question>
+
+<question no="4" type="R">
+<textTrans>こうした珍しい鳥は特別な法律によって守られる。</textTrans>
+<text>These rare birds are protected <sel cd="A" answer="2"></sel> special laws.</text>
+<sel cd="A" idx="1">from</sel>
+<sel cd="A" idx="2">by</sel>
+<sel cd="A" idx="3">on</sel>
+<hint>
+<sound>tech2b08s5Q04.mp3</sound>
+</hint>
+<point>　保護するのが protect、攻撃から守るのが defend、見張るのが guard です。 Special laws protect these rare birds. から these rare birds を主語にして受け身になっています。</point>
+</question>
+
+<question no="5" type="R">
+<textTrans>私たちは敵から身を守らなければいけない。</textTrans>
+<text>We must protect ourselves <sel cd="A" answer="3"></sel> the enemy.</text>
+<sel cd="A" idx="1">to</sel>
+<sel cd="A" idx="2">out of</sel>
+<sel cd="A" idx="3">against</sel>
+<hint>
+<sound>tech2b08s5Q05.mp3</sound>
+</hint>
+<point>　「A を B から守る」は、protect A against B または protect A from B といいます。この日本文であれば protect の代わりに defend も使えます。</point>
+</question>
+</contents>
+
+
+<contents type="phrase">
+<p><ph idx="1">Take the ink cartridge out of the plastic bag before removing the protective cap.</ph></p>
+<p></p>
+<p><ph idx="2">1. Floppy disks are commonly removed from their drives.</ph></p>
+<p><ph idx="3">2. An oxide layer was removed from the surface.</ph></p>
+<p><ph idx="4">3. That officer must be removed from his position.</ph></p>
+<p><ph idx="5">4. These rare birds are protected by special laws.</ph></p>
+<p><ph idx="6">5. We must protect ourselves against the enemy.</ph></p>
+</contents>
+
+<contents type="translation">
+<p><ph idx="1">インクカートリッジをプラスチック袋から取り出し、保護キャップを取り外します。</ph></p>
+<p></p>
+<p><ph idx="2">1. フロッピーディスクは通常ドライブから抜いておく。</ph></p>
+<p><ph idx="3">2. 酸化物層を表面から除去した。</ph></p>
+<p><ph idx="4">3. あの役人を解任する必要がある。</ph></p>
+<p><ph idx="5">4. こうした珍しい鳥は特別な法律によって守られる。</ph></p>
+<p><ph idx="6">5. 私たちは敵から身を守らなければいけない。</ph></p>
+</contents>
+
+</unit>

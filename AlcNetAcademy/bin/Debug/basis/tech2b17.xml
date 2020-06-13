@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 基礎コース -->
+
+<unit idx="17">
+
+<introduction>
+<title>電気を通すプラスチック</title>
+<read>&lt;font size="16" color="#000000"&gt;
+（学習のポイント）           
+&lt;/font&gt;
+&lt;font size="16" color="#0000FF"&gt;
+受け身／classify／according to
+&lt;/font&gt;
+&lt;br&gt;
+&lt;font size="16" color="#000000"&gt;
+物質の性質はさまざまに変化します。一般に絶縁体と思われているプラスチックも電気を通すことが発見されました。理系でよく使われる classify を使った受け身の表現を学習します。
+&lt;/font&gt;</read>
+</introduction>
+
+
+<notes>
+<w idx="1" name="petrochemical industry">
+<jp>石油化学工業</jp>
+<sound>tech2b17idx01_petrochemical_industry.mp3</sound>
+</w>
+<w idx="2" name="thermoplastic">
+<jp>熱可塑性</jp>
+<sound>tech2b17idx02_thermoplastic.mp3</sound>
+</w>
+<w idx="3" name="thermosetting">
+<jp>熱硬化性</jp>
+<sound>tech2b17idx03_thermosetting.mp3</sound>
+</w>
+<w idx="4" name="heat">
+<jp>加熱する</jp>
+<sound>tech2b17idx04_heat.mp3</sound>
+</w>
+<w idx="5" name="melt">
+<jp>溶融する</jp>
+<sound>tech2b17idx05_melt.mp3</sound>
+</w>
+<w idx="6" name="insulator">
+<jp>絶縁体</jp>
+<sound>tech2b17idx06_insulator.mp3</sound>
+</w>
+<w idx="7" name="impurity">
+<jp>不純物</jp>
+<sound>tech2b17idx07_impurity.mp3</sound>
+</w>
+<w idx="8" name="electroconductivity">
+<jp>導電性</jp>
+<sound>tech2b17idx08_electroconductivity.mp3</sound>
+</w>
+<w idx="9" name="chemist">
+<jp>化学者</jp>
+<sound>tech2b17idx09_chemist.mp3</sound>
+</w>
+<w idx="10" name="Nobel prize">
+<jp>ノーベル賞</jp>
+<sound>tech2b17idx10_Nobel_prize.mp3</sound>
+</w>
+</notes>
+
+
+<!-- Step1、Topic&Vocaburary -->
+<contents type="tech2bStep1">
+<p>　プラスチックの利用は<w idx="1">石油化学工業</w>の発展とともに広がった。プラスチックは、加熱による形の変化に従って、<w idx="2">熱可塑性</w>ポリマーと<w idx="3">熱硬化性</w>ポリマーとに大別される。前者は<w idx="4">加熱する</w>と<w idx="5">溶融する</w>のに対して、後者は加熱しても溶融しない。またプラスチックは通常、電気を通さない<w idx="6">絶縁体</w>である。<w idx="7">不純物</w>を加え改質することで<w idx="8">導電性</w>をもつことを発見した日本人<w idx="9">化学者</w>、白川英樹氏は<w idx="10">ノーベル賞</w>を受賞した。</p>
+</contents>
+
+
+<!-- Step2、Writing1 -->
+<contents type="tech2bStep2">
+<instruction1>次の日本文から、幹センを抜き出そう。</instruction1>
+<instruction2>[先輩]ボタンを押して、先輩が書いた英文とあなたの英文を比べてみよう。</instruction2>
+<sentence>
+<ph idx="1" miki="true">プラスチックは、</ph>
+<ph idx="2">加熱による</ph>
+<ph idx="3">形の変化に従って、</ph>
+<ph idx="4" miki="true">熱可塑性ポリマーと</ph>
+<ph idx="5" miki="true">熱硬化性ポリマーとに</ph>
+<ph idx="6" miki="true">大別される。</ph>
+</sentence>
+<mikisentence>
+<ph idx="1" type="S">プラスチックは、</ph>
+<ph idx="2">熱可塑性ポリマーと熱硬化性ポリマーとに</ph>
+<ph idx="3" type="V">大別される。</ph>
+</mikisentence>
+<hint text="">
+<ph idx="1">plastics</ph>
+<ph idx="2">classify</ph>
+<ph idx="3">thermoplastic polymer</ph>
+<ph idx="4">thermosetting polymer</ph>
+</hint>
+<senior answer="B"><sel cd="A">Plastics</sel> <sel cd="B">are classified</sel> <sel cd="C">thermoplastic and thermosetting</sel> <sel cd="D">polymers</sel>. </senior>
+<teach>Plastics are classified into thermoplastic and thermosetting polymers.</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　これまた受け身です。「～を●と▲とに分類する」というのは理系の文章によく登場します。なんらかの基準に従ってモノ・コトを分けて考えることが多いからです。まず、「私たち」を主語にすると、&lt;br&gt;
+　We classify ... into ● and ▲.&lt;br&gt;
+となります。 classify は into を伴います。次に、「We」よりも「...」の方が話の中心ですから、「 ... 」を主語に据えます。どうでもよい by us は姿を消します。&lt;br&gt;
+　... &lt;b&gt;is classified into ● and ▲.&lt;/b&gt;&lt;br&gt;
+「熱可塑性」「熱硬化性」は高分子の分野での専門用語です。 &lt;font color="#FF0000"&gt;thermoplastic、thermosetting&lt;/font&gt; は形容詞です。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　into がありません。&lt;b&gt;「私たち」を主語にして受け身を変身させたときに意味が通じなければ受け身のどこかが不完全なのです&lt;/b&gt;。受け身を書いたら、英文チェックのために変身させる習慣をつけましょう。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step3、Writing2 -->
+<contents type="tech2bStep3">
+<hint text="">
+<ph idx="1">change</ph>
+<ph idx="2">shape</ph>
+</hint>
+</contents>
+
+
+<!-- Step4、Comparisons -->
+<contents type="tech2bStep4">
+<senior answer="6">Plastics are classified into thermoplastic and thermosetting polymers by thermal change in shape.</senior>
+<teach>
+&lt;font size="20" color="#000000"&gt;
+Plastics are classified into thermoplastic and thermosetting polymers 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+according to the change in shape when heated
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+.
+&lt;/font&gt;
+</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　文末の &lt;font color="#FF0000"&gt;when heated&lt;/font&gt; というのはまさにプロ級の英語です。省略しないで書くと、when plastics are heated です。しかしながら、この場合のように&lt;b&gt;主語が主節と同じで、しかも受け身なら、主語（plastics）とbe動詞（are）を省略できる&lt;/b&gt;というルールがあります。これに当てはまるので、when heated となります。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　分類するにはなんらかの基準が必要です。そのときには、「…によって」ではあいまいですから&lt;b&gt;「…に従って」と日本語でも表すようにしましょう&lt;/b&gt;。ということで、by ... ではなくて、&lt;font color="#FF0000"&gt;according to ...&lt;/font&gt; を使います。 According to today's newspaper で「今日の新聞によれば」という使い方を習ってきましたが、理系の文章にはこの意味ではあまり登場しません。「…に従って」を覚えましょう。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step5、Exercisse -->
+<contents type="tech2bStep5" size="5">
+<instruction1>このユニットで登場した表現と、関連する表現を練習しよう。</instruction1>
+<question no="1" type="R">
+<textTrans>微分方程式は２種に大別される。</textTrans>
+<text>Differential equations are classified <sel cd="A" answer="3"></sel> two types.</text>
+<sel cd="A" idx="1">for</sel>
+<sel cd="A" idx="2">to</sel>
+<sel cd="A" idx="3">into</sel>
+<hint>
+<sound>tech2b17s5Q01.mp3</sound>
+</hint>
+<point>　classify A into B「A を B に分類する」の受け身です。difference「差」の形容詞形が differential「微分の」です。微分の定義式には「差」が入っています。</point>
+</question>
+
+<question no="2" type="I">
+<textTrans>この本の見出し語は分類されている。</textTrans>
+<text>The entries in this book are <sel cd="A" answer="2"></sel> .</text>
+<sel cd="A" idx="1">divided</sel>
+<sel cd="A" idx="2">grouped</sel>
+<hint>
+<sound>tech2b17s5Q02.mp3</sound>
+</hint>
+<point>　「分類する」に対して、柔らかい表現では group、categorize を使います。 classify も使えますが、硬い表現です。</point>
+</question>
+
+<question no="3" type="R">
+<textTrans>アナログ電圧計は３種に大別される。</textTrans>
+<text>Analog voltmeters fall <sel cd="A" answer="1"></sel> three categories.</text>
+<sel cd="A" idx="1">into</sel>
+<sel cd="A" idx="2">to</sel>
+<sel cd="A" idx="3">with</sel>
+<hint>
+<sound>tech2b17s5Q03.mp3</sound>
+</hint>
+<point>　fall into ... categories「…種（類）に分類される」と受け身の意味を含んでいます。ここの categories は名詞 category の複数形です。</point>
+</question>
+
+<question no="4" type="R">
+<textTrans>増幅器は周波数によって分類される。</textTrans>
+<text>Amplifiers are classified according <sel cd="A" answer="2"></sel> frequency.</text>
+<sel cd="A" idx="1">in</sel>
+<sel cd="A" idx="2">to</sel>
+<sel cd="A" idx="3">into</sel>
+<hint>
+<sound>tech2b17s5Q04.mp3</sound>
+</hint>
+<point>　整理して分類するには基準が必要です。「…によって分類する」の「によって」のところは according to ... または by ... で表します。</point>
+</question>
+
+<question no="5" type="I">
+<textTrans>料理の本どおりにすべてできます。</textTrans>
+<text>You can do everything <sel cd="A" answer="2"></sel> the cookbook.</text>
+<sel cd="A" idx="1">by</sel>
+<sel cd="A" idx="2">according to</sel>
+<sel cd="A" idx="3">through</sel>
+<hint>
+<sound>tech2b17s5Q05.mp3</sound>
+</hint>
+<point>　according to ... には「…に従って」「…のとおりに」という意味もあります。</point>
+</question>
+</contents>
+
+
+<contents type="phrase">
+<p><ph idx="1">Plastics are classified into thermoplastic and thermosetting polymers according to the change in shape when heated.</ph></p>
+<p></p>
+<p><ph idx="2">1. Differential equations are classified into two types.</ph></p>
+<p><ph idx="3">2. The entries in this book are grouped.</ph></p>
+<p><ph idx="4">3. Analog voltmeters fall into three categories.</ph></p>
+<p><ph idx="5">4. Amplifiers are classified according to frequency.</ph></p>
+<p><ph idx="6">5. You can do everything according to the cookbook.</ph></p>
+</contents>
+
+<contents type="translation">
+<p><ph idx="1">プラスチックは、加熱による形の変化に従って、熱可塑性ポリマーと熱硬化性ポリマーとに大別される。</ph></p>
+<p></p>
+<p><ph idx="2">1. 微分方程式は２種に大別される。</ph></p>
+<p><ph idx="3">2. この本の見出し語は分類されている。</ph></p>
+<p><ph idx="4">3. アナログ電圧計は３種に大別される。</ph></p>
+<p><ph idx="5">4. 増幅器は周波数によって分類される。</ph></p>
+<p><ph idx="6">5. 料理の本どおりにすべてできます。</ph></p>
+</contents>
+
+</unit>

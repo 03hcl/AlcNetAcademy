@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 基礎コース -->
+
+<unit idx="18">
+
+<introduction>
+<title>遺伝子による治療</title>
+<read>&lt;font size="16" color="#000000"&gt;
+（学習のポイント）               
+&lt;/font&gt;
+&lt;font size="16" color="#0000FF"&gt;
+現在分詞／inject／treat
+&lt;/font&gt;
+&lt;br&gt;
+&lt;font size="16" color="#000000"&gt;
+バイオテクノロジーはこれからの医療を大きく変えていきます。遺伝子治療もそのひとつです。このユニットでは、動詞に　-ing をつけた現在分詞を利用した表現を学習します。
+&lt;/font&gt;</read>
+</introduction>
+
+
+<notes>
+<w idx="1" name="incurable disease">
+<jp>難病</jp>
+<sound>tech2b18idx01_incurable_disease.mp3</sound>
+</w>
+<w idx="2" name="gene">
+<jp>遺伝子</jp>
+<sound>tech2b18idx02_gene.mp3</sound>
+</w>
+<w idx="3" name="gene therapy">
+<jp>遺伝子治療</jp>
+<sound>tech2b18idx03_gene_therapy.mp3</sound>
+</w>
+<w idx="4" name="cancer cell">
+<jp>ガン細胞</jp>
+<sound>tech2b18idx04_cancer_cell.mp3</sound>
+</w>
+<w idx="5" name="attack">
+<jp>攻撃</jp>
+<sound>tech2b18idx05_attack.mp3</sound>
+</w>
+<w idx="6" name="immunocyte">
+<jp>免疫細胞</jp>
+<sound>tech2b18idx06_immunocyte.mp3</sound>
+</w>
+<w idx="7" name="activate">
+<jp>活性化する</jp>
+<sound>tech2b18idx07_activate.mp3</sound>
+</w>
+</notes>
+
+
+<!-- Step1、Topic&Vocaburary -->
+<contents type="tech2bStep1">
+<p>　数年の間に<w idx="1">難病</w>の原因となる異常<w idx="2">遺伝子</w>が数多く発見され、<w idx="3">遺伝子治療</w>が難病治療の道を開くと期待されている。遺伝子治療は異常遺伝子に直接手を加えるわけではなく、正常な遺伝子を細胞に注入することで、結果として異常遺伝子の働きを止めるものである。例えば、ガンに対する遺伝子治療では、正常な遺伝子が注入され、<w idx="4">ガン細胞</w>を<w idx="5">攻撃</w>する<w idx="6">免疫細胞</w>を<w idx="7">活性化する</w>。</p>
+</contents>
+
+
+<!-- Step2、Writing1 -->
+<contents type="tech2bStep2">
+<instruction1>次の日本文から、幹センを抜き出そう。</instruction1>
+<instruction2>[先輩]ボタンを押して、先輩が書いた英文とあなたの英文を比べてみよう。</instruction2>
+<sentence>
+<ph idx="1">例えば、</ph>
+<ph idx="2">ガンに対する</ph>
+<ph idx="3">遺伝子治療では、</ph>
+<ph idx="4" miki="true">正常な遺伝子が</ph>
+<ph idx="5" miki="true">注入され、</ph>
+<ph idx="6" miki="true">ガン細胞を攻撃する免疫細胞を</ph>
+<ph idx="7" miki="true">活性化する。</ph>
+</sentence>
+<mikisentence>
+<ph idx="1" type="S">正常な遺伝子が</ph>
+<ph idx="2" type="V">注入され、</ph>
+<ph idx="3">ガン細胞を攻撃する免疫細胞を活性化する。</ph>
+</mikisentence>
+<hint text="">
+<ph idx="1">normal</ph>
+<ph idx="2">gene</ph>
+<ph idx="3">inject</ph>
+<ph idx="4">activate</ph>
+<ph idx="5">immunocytes</ph>
+<ph idx="6">attack</ph>
+<ph idx="7">cancer cell</ph>
+</hint>
+<senior answer="C"><sel cd="A">Normal genes</sel> are injected <sel cd="B">to activate</sel> <sel cd="C">imunocytes</sel> <sel cd="D">attacking</sel> cancer cells.</senior>
+<teach>Normal genes are injected to activate immunocytes attacking cancer cells.</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　この文は「正常な遺伝子が注入され、（その結果）ガン細胞を攻撃する免疫細胞を活性化する」というように考えます。「その結果」を補うと、不定詞のあの用法、そうです、ユニット11の&lt;font color="#0000FF"&gt;「結果」を表す副詞的用法&lt;/font&gt;が浮かびます（Sulfur reacts with oxygen to form sulfur oxides.）。&lt;br&gt;
+&lt;br&gt;
+　「免疫細胞」には「ガン細胞を攻撃する」がつながっているので、ここだけ英文にするとこうなります。&lt;br&gt;
+　　Immunocytes attack cancer cells.&lt;br&gt;
+こういうときには、「攻撃する」を -ing にして名詞の後ろからつなげることができます。このように名詞にかかる（名詞を修飾する）-ing を&lt;font color="#0000FF"&gt;現在分詞&lt;/font&gt;と呼びます。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　m をふたつ重ねてください。免疫学は immunology、そしてHIVは human immunodeficiency virus のことです。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step3、Writing2 -->
+<contents type="tech2bStep3">
+<hint text="">
+<ph idx="1">gene therapy</ph>
+</hint>
+</contents>
+
+
+<!-- Step4、Comparisons -->
+<contents type="tech2bStep4">
+<senior answer="7">For example gene therapies for cancer normal genes are injected to activate immunocytes attacking cancer cells.</senior>
+<teach>
+&lt;font size="20" color="#0000FF"&gt;
+For example, in gene therapies for treating cancer, 
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+normal genes are injected to activate immunocytes attacking cancer cells.
+&lt;/font&gt;
+</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　「…では」というときには、in や as for を使います。「ガンに対する遺伝子治療」は、gene therapies for cancer でも通じますが、cancer の前に treating という動名詞を入れることも多く見かけます。&lt;br&gt;
+&lt;br&gt;
+　treat は「取り扱う」「治療する」という動詞で、名詞は treatment です。 treatment には、「（化学的な）処理」と「（医学での）治療」というふたつの意味があります。理系の文章に登場する単語（word）はほとんどひとつの意味（meaning）で使われます。&lt;b&gt;ワンワード、ワンミーニングが原則です&lt;/b&gt;。でも、話題にする分野によって少々意味が違うことがあります。この treatment もその例です。他にも、&lt;br&gt;
+　　&lt;b&gt;&lt;font color="#FF0000"&gt;solution&lt;/font&gt;	化学なら「溶液」、数学なら「解」&lt;/b&gt;&lt;br&gt;
+　　&lt;b&gt;&lt;font color="#FF0000"&gt;analysis&lt;/font&gt;	化学なら「分析」、物理なら「解析」&lt;/b&gt;&lt;br&gt;
+　　&lt;b&gt;&lt;font color="#FF0000"&gt;cell&lt;/font&gt;		化学なら「電池」、生物なら「細胞」&lt;/b&gt;&lt;br&gt;
+　　&lt;b&gt;&lt;font color="#FF0000"&gt;treatment&lt;/font&gt;	化学なら「処理」、医学なら「治療」&lt;/b&gt;&lt;br&gt;
+もちろん、全部サクッと覚えてください。サクッと（sact）です。上の４つの単語から頭文字をとりました。これを頼りにして覚えましょう。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　肝心な in が抜けています。それだけではありません。カンマも２箇所抜けています。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step5、Exercisse -->
+<contents type="tech2bStep5" size="5">
+<instruction1>このユニットで登場した表現、関連する表現、さらに新しい表現を練習しよう。</instruction1>
+<question no="1" type="R">
+<textTrans>その患者はガンの治療を受けた。</textTrans>
+<text>The patient was treated <sel cd="A" answer="3"></sel> cancer.</text>
+<sel cd="A" idx="1">on</sel>
+<sel cd="A" idx="2">by</sel>
+<sel cd="A" idx="3">for</sel>
+<hint>
+<sound>tech2b18s5Q01.mp3</sound>
+</hint>
+<point>　「お医者さん treat 患者さん for 病気」というパターンがあります。ここでは「患者」を主語にして受け身にした文です。 treat には try to cure、try to heal の意味があります。</point>
+</question>
+
+<question no="2" type="R">
+<textTrans>細菌感染は抗菌剤で治療できる。</textTrans>
+<text>Bacterial infection can be treated <sel cd="A" answer="1"></sel> antimicrobials.</text>
+<sel cd="A" idx="1">with</sel>
+<sel cd="A" idx="2">by</sel>
+<sel cd="A" idx="3">for</sel>
+<hint>
+<sound>tech2b18s5Q02.mp3</sound>
+</hint>
+<point>　「お医者さん treat 病気 with 薬」というパターンです。このパターンの「病気」を主語にして受け身にした文です。</point>
+</question>
+
+<question no="3" type="R">
+<textTrans>異種の腫瘍（しゅよう）細胞系が末期ガン患者に注入される。</textTrans>
+<text>Foreign tumor-cell lines are injected <sel cd="A" answer="3"></sel> terminal cancer patients.</text>
+<sel cd="A" idx="1">in</sel>
+<sel cd="A" idx="2">to</sel>
+<sel cd="A" idx="3">into</sel>
+<hint>
+<sound>tech2b18s5Q03.mp3</sound>
+</hint>
+<point>　「お医者さん inject 薬 into 患者さん」で「薬を患者さんへ注射する」になります。</point>
+</question>
+
+<question no="4" type="R">
+<textTrans>どんな薬剤溶液でも静脈注射はゆっくり行わなければならない。</textTrans>
+<text>Intravenous injection <sel cd="A" answer="3"></sel> any drug solution must be done slowly.</text>
+<sel cd="A" idx="1">on</sel>
+<sel cd="A" idx="2">with</sel>
+<sel cd="A" idx="3">of</sel>
+<hint>
+<sound>tech2b18s5Q04.mp3</sound>
+</hint>
+<point>　inject の名詞形が injection です。これで「注射」という意味です。ここの of は、「…を（目的格）」の意味です。
+　solution: 溶液</point>
+</question>
+
+<question no="5" type="R">
+<textTrans>心臓は体中に血液を循環させる。</textTrans>
+<text>The heart <sel cd="A" answer="3"></sel> blood throughout the body.</text>
+<sel cd="A" idx="1">turns</sel>
+<sel cd="A" idx="2">rotates</sel>
+<sel cd="A" idx="3">circulates</sel>
+<hint>
+<sound>tech2b18s5Q05.mp3</sound>
+</hint>
+<point>　circle で「円」、circulate で「循環させる、循環する」、circulation で「循環」「発行部数」の意味があります。 rotate は「軸の周りを回転する」、turn は一般的に「回る」です。</point>
+</question>
+</contents>
+
+<contents type="phrase">
+<p><ph idx="1">For example, in gene therapies for treating cancer, normal genes are injected to activate immunocytes attacking cancer cells.</ph></p>
+<p></p>
+<p><ph idx="2">1. The patient was treated for cancer.</ph></p>
+<p><ph idx="3">2. Bacterial infection can be treated with antimicrobials.</ph></p>
+<p><ph idx="4">3. Foreign tumor-cell lines are injected into terminal cancer patients.</ph></p>
+<p><ph idx="5">4. Intravenous injection of any drug solution must be done slowly.</ph></p>
+<p><ph idx="6">5. The heart circulates blood throughout the body.</ph></p>
+</contents>
+
+<contents type="translation">
+<p><ph idx="1">例えば、ガンに対する遺伝子治療では、正常な遺伝子が注入され、ガン細胞を攻撃する免疫細胞を活性化する。</ph></p>
+<p></p>
+<p><ph idx="2">1. その患者はガンの治療を受けた。</ph></p>
+<p><ph idx="3">2. 細菌感染は抗菌剤で治療できる。</ph></p>
+<p><ph idx="4">3. 異種の腫瘍（しゅよう）細胞系が末期ガン患者に注入される。</ph></p>
+<p><ph idx="5">4. どんな薬剤溶液でも静脈注射はゆっくり行わなければならない。</ph></p>
+<p><ph idx="6">5. 心臓は体中に血液を循環させる。</ph></p>
+</contents>
+
+</unit>

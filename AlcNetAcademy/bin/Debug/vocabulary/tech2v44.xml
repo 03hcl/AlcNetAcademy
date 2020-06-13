@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="44">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅲ 科学基礎,科学基礎３</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">科学全般に共通する基礎語彙力を身につけます。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="property">
+<jp>特性</jp>
+<exp>【名】特性、資産</exp>
+<sound>tech2v44idx01_property.mp3</sound>
+</w>
+<w idx="2" name="quantity">
+<jp>数量</jp>
+<exp>【名】数量、分量</exp>
+<sound>tech2v44idx02_quantity.mp3</sound>
+</w>
+<w idx="3" name="movement">
+<jp>動き</jp>
+<exp>【名】動き、移動</exp>
+<sound>tech2v44idx03_movement.mp3</sound>
+</w>
+<w idx="4" name="alarm">
+<jp>警報の鐘</jp>
+<exp>【名】警報の鐘</exp>
+<sound>tech2v44idx04_alarm.mp3</sound>
+</w>
+<w idx="5" name="arrow">
+<jp>矢印</jp>
+<exp>【名】矢印</exp>
+<sound>tech2v44idx05_arrow.mp3</sound>
+</w>
+<w idx="6" name="band">
+<jp>帯</jp>
+<exp>【名】帯</exp>
+<sound>tech2v44idx06_band.mp3</sound>
+</w>
+<w idx="7" name="component">
+<jp>構成要素</jp>
+<exp>【名】構成要素、部品、成分</exp>
+<sound>tech2v44idx07_component.mp3</sound>
+</w>
+<w idx="8" name="target">
+<jp>標的</jp>
+<exp>【名】標的</exp>
+<sound>tech2v44idx08_target.mp3</sound>
+</w>
+<w idx="9" name="examination">
+<jp>検査</jp>
+<exp>【名】検査、試験</exp>
+<sound>tech2v44idx09_examination.mp3</sound>
+</w>
+<w idx="10" name="determination">
+<jp>定量</jp>
+<exp>【名】定量、測定</exp>
+<sound>tech2v44idx10_determination.mp3</sound>
+</w>
+<w idx="11" name="mixture">
+<jp>混合物</jp>
+<exp>【名】混合物</exp>
+<sound>tech2v44idx11_mixture.mp3</sound>
+</w>
+<w idx="12" name="circumstances">
+<jp>状況</jp>
+<exp>【名】状況、事情</exp>
+<sound>tech2v44idx12_circumstances.mp3</sound>
+</w>
+<w idx="13" name="dot">
+<jp>ドット</jp>
+<exp>【名】ドット</exp>
+<sound>tech2v44idx13_dot.mp3</sound>
+</w>
+<w idx="14" name="experiment">
+<jp>実験</jp>
+<exp>【名】実験　【動】実験する</exp>
+<sound>tech2v44idx14_experiment.mp3</sound>
+</w>
+<w idx="15" name="trial">
+<jp>試み</jp>
+<exp>【名】試み</exp>
+<sound>tech2v44idx15_trial.mp3</sound>
+</w>
+<w idx="16" name="focus">
+<jp>焦点</jp>
+<exp>【名】焦点　【動】焦点に集める、集中する</exp>
+<sound>tech2v44idx16_focus.mp3</sound>
+</w>
+<w idx="17" name="amount">
+<jp>総量</jp>
+<exp>【名】総量、総額</exp>
+<sound>tech2v44idx17_amount.mp3</sound>
+</w>
+<w idx="18" name="loudness">
+<jp>音の大きさ</jp>
+<exp>【名】音の大きさ</exp>
+<sound>tech2v44idx18_loudness.mp3</sound>
+</w>
+<w idx="19" name="content">
+<jp>含有量</jp>
+<exp>【名】含有量、内容</exp>
+<sound>tech2v44idx19_content.mp3</sound>
+</w>
+<w idx="20" name="magnitude">
+<jp>（数量的な）大きさ</jp>
+<exp>【名】（数量的な）大きさ、マグニチュード（Ｍ）</exp>
+<sound>tech2v44idx20_magnitude.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. property</p>
+<p>2. quantity</p>
+<p>3. movement</p>
+<p>4. alarm</p>
+<p>5. arrow</p>
+<p>6. band</p>
+<p>7. component</p>
+<p>8. target</p>
+<p>9. examination</p>
+<p>10. determination</p>
+<p>11. mixture</p>
+<p>12. circumstances</p>
+<p>13. dot</p>
+<p>14. experiment</p>
+<p>15. trial</p>
+<p>16. focus</p>
+<p>17. amount</p>
+<p>18. loudness</p>
+<p>19. content</p>
+<p>20. magnitude</p>
+</contents>
+</unit>

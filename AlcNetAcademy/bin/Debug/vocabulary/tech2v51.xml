@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="51">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅲ 科学基礎,科学基礎10</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">科学全般に共通する基礎語彙力を身につけます。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="manufacturer">
+<jp>製造業者</jp>
+<exp>【名】製造業者</exp>
+<sound>tech2v51idx01_manufacturer.mp3</sound>
+</w>
+<w idx="2" name="expert">
+<jp>専門家</jp>
+<exp>【名】専門家　【形】熟練した</exp>
+<sound>tech2v51idx02_expert.mp3</sound>
+</w>
+<w idx="3" name="inventor">
+<jp>発明者</jp>
+<exp>【名】発明者</exp>
+<sound>tech2v51idx03_inventor.mp3</sound>
+</w>
+<w idx="4" name="maintenance">
+<jp>保守</jp>
+<exp>【名】保守、維持管理</exp>
+<sound>tech2v51idx04_maintenance.mp3</sound>
+</w>
+<w idx="5" name="company">
+<jp>会社</jp>
+<exp>【名】会社</exp>
+<sound>tech2v51idx05_company.mp3</sound>
+</w>
+<w idx="6" name="price">
+<jp>価格</jp>
+<exp>【名】価格</exp>
+<sound>tech2v51idx06_price.mp3</sound>
+</w>
+<w idx="7" name="industry">
+<jp>工業</jp>
+<exp>【名】工業、産業、業界</exp>
+<sound>tech2v51idx07_industry.mp3</sound>
+</w>
+<w idx="8" name="shipment">
+<jp>出荷</jp>
+<exp>【名】出荷、船積、積み込み</exp>
+<sound>tech2v51idx08_shipment.mp3</sound>
+</w>
+<w idx="9" name="goods">
+<jp>商品</jp>
+<exp>【名】商品</exp>
+<sound>tech2v51idx09_goods.mp3</sound>
+</w>
+<w idx="10" name="manufacturing defect">
+<jp>製造上の欠陥</jp>
+<exp>【名】製造上の欠陥</exp>
+<sound>tech2v51idx10_manufacturing_defect.mp3</sound>
+</w>
+<w idx="11" name="product">
+<jp>製品</jp>
+<exp>【名】製品、積</exp>
+<sound>tech2v51idx11_product.mp3</sound>
+</w>
+<w idx="12" name="presentation">
+<jp>プレゼンテーション</jp>
+<exp>【名】プレゼンテーション、紹介、発表</exp>
+<sound>tech2v51idx12_presentation.mp3</sound>
+</w>
+<w idx="13" name="profit">
+<jp>利益</jp>
+<exp>【名】利益</exp>
+<sound>tech2v51idx13_profit.mp3</sound>
+</w>
+<w idx="14" name="quality">
+<jp>品質</jp>
+<exp>【名】品質、質</exp>
+<sound>tech2v51idx14_quality.mp3</sound>
+</w>
+<w idx="15" name="precaution">
+<jp>予防措置</jp>
+<exp>【名】予防措置、注意</exp>
+<sound>tech2v51idx15_precaution.mp3</sound>
+</w>
+<w idx="16" name="project">
+<jp>企画</jp>
+<exp>【名】企画、事業　【動】投影する</exp>
+<sound>tech2v51idx16_project.mp3</sound>
+</w>
+<w idx="17" name="cost">
+<jp>費用</jp>
+<exp>【名】費用　【動】費用がかかる</exp>
+<sound>tech2v51idx17_cost.mp3</sound>
+</w>
+<w idx="18" name="raw material">
+<jp>素材</jp>
+<exp>【名】素材、原料</exp>
+<sound>tech2v51idx18_raw_material.mp3</sound>
+</w>
+<w idx="19" name="manual">
+<jp>取扱説明書</jp>
+<exp>【名】取扱説明書　【形】手動の</exp>
+<sound>tech2v51idx19_manual.mp3</sound>
+</w>
+<w idx="20" name="specification">
+<jp>仕様書</jp>
+<exp>【名】仕様書、特徴</exp>
+<sound>tech2v51idx20_specification.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. manufacturer</p>
+<p>2. expert</p>
+<p>3. inventor</p>
+<p>4. maintenance</p>
+<p>5. company</p>
+<p>6. price</p>
+<p>7. industry</p>
+<p>8. shipment</p>
+<p>9. goods</p>
+<p>10. manufacturing defect</p>
+<p>11. product</p>
+<p>12. presentation</p>
+<p>13. profit</p>
+<p>14. quality</p>
+<p>15. precaution</p>
+<p>16. project</p>
+<p>17. cost</p>
+<p>18. raw material</p>
+<p>19. manual</p>
+<p>20. specification</p>
+</contents>
+</unit>

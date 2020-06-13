@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="36">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅱ 動詞・形容詞ほか,形容詞５</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">技術英語でよく使われる形容詞です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="rust-resistant">
+<jp>錆び止めの</jp>
+<exp>【形】錆び止めの</exp>
+<sound>tech2v36idx01_rust-resistant.mp3</sound>
+</w>
+<w idx="2" name="various">
+<jp>さまざまな</jp>
+<exp>【形】さまざまな</exp>
+<sound>tech2v36idx02_various.mp3</sound>
+</w>
+<w idx="3" name="magnetic">
+<jp>磁性の</jp>
+<exp>【形】磁性の</exp>
+<sound>tech2v36idx03_magnetic.mp3</sound>
+</w>
+<w idx="4" name="automatic">
+<jp>自動的な</jp>
+<exp>【形】自動的な</exp>
+<sound>tech2v36idx04_automatic.mp3</sound>
+</w>
+<w idx="5" name="available">
+<jp>使用可能な</jp>
+<exp>【形】使用可能な</exp>
+<sound>tech2v36idx05_available.mp3</sound>
+</w>
+<w idx="6" name="focal">
+<jp>焦点の</jp>
+<exp>【形】焦点の</exp>
+<sound>tech2v36idx06_focal.mp3</sound>
+</w>
+<w idx="7" name="linear">
+<jp>線形の</jp>
+<exp>【形】線形の</exp>
+<sound>tech2v36idx07_linear.mp3</sound>
+</w>
+<w idx="8" name="solar">
+<jp>太陽の</jp>
+<exp>【形】太陽の</exp>
+<sound>tech2v36idx08_solar.mp3</sound>
+</w>
+<w idx="9" name="central">
+<jp>中央の</jp>
+<exp>【形】中央の</exp>
+<sound>tech2v36idx09_central.mp3</sound>
+</w>
+<w idx="10" name="long-term">
+<jp>長期の</jp>
+<exp>【形】長期の</exp>
+<sound>tech2v36idx10_long-term.mp3</sound>
+</w>
+<w idx="11" name="upright">
+<jp>直立の</jp>
+<exp>【形】直立の</exp>
+<sound>tech2v36idx11_upright.mp3</sound>
+</w>
+<w idx="12" name="appropriate">
+<jp>適切な</jp>
+<exp>【形】適切な</exp>
+<sound>tech2v36idx12_appropriate.mp3</sound>
+</w>
+<w idx="13" name="electric">
+<jp>電気の</jp>
+<exp>【形】電気の</exp>
+<sound>tech2v36idx13_electric.mp3</sound>
+</w>
+<w idx="14" name="opposite">
+<jp>反対の</jp>
+<exp>【形】反対の</exp>
+<sound>tech2v36idx14_opposite.mp3</sound>
+</w>
+<w idx="15" name="equal">
+<jp>等しい</jp>
+<exp>【形】等しい</exp>
+<sound>tech2v36idx15_equal.mp3</sound>
+</w>
+<w idx="16" name="physical">
+<jp>物理的な</jp>
+<exp>【形】物理的な</exp>
+<sound>tech2v36idx16_physical.mp3</sound>
+</w>
+<w idx="17" name="visible">
+<jp>目に見える</jp>
+<exp>【形】目に見える</exp>
+<sound>tech2v36idx17_visible.mp3</sound>
+</w>
+<w idx="18" name="outermost">
+<jp>最も外側の</jp>
+<exp>【形】最も外側の、一番後方の</exp>
+<sound>tech2v36idx18_outermost.mp3</sound>
+</w>
+<w idx="19" name="unique">
+<jp>唯一の</jp>
+<exp>【形】唯一の</exp>
+<sound>tech2v36idx19_unique.mp3</sound>
+</w>
+<w idx="20" name="dirty">
+<jp>汚れた</jp>
+<exp>【形】汚れた</exp>
+<sound>tech2v36idx20_dirty.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. rust-resistant</p>
+<p>2. various</p>
+<p>3. magnetic</p>
+<p>4. automatic</p>
+<p>5. available</p>
+<p>6. focal</p>
+<p>7. linear</p>
+<p>8. solar</p>
+<p>9. central</p>
+<p>10. long-term</p>
+<p>11. upright</p>
+<p>12. appropriate</p>
+<p>13. electric</p>
+<p>14. opposite</p>
+<p>15. equal</p>
+<p>16. physical</p>
+<p>17. visible</p>
+<p>18. outermost</p>
+<p>19. unique</p>
+<p>20. dirty</p>
+</contents>
+</unit>

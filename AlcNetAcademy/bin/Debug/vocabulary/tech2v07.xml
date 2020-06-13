@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="07">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅰ 専門分野別,化学３</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">化学の分野でよく使われる語句です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="rust">
+<jp>さび</jp>
+<exp>【名】さび</exp>
+<sound>tech2v07idx01_rust.mp3</sound>
+</w>
+<w idx="2" name="acrylic resin">
+<jp>アクリル樹脂</jp>
+<exp>【名】アクリル樹脂</exp>
+<sound>tech2v07idx02_acrylic_resin.mp3</sound>
+</w>
+<w idx="3" name="ceramics">
+<jp>セラミックス</jp>
+<exp>【名】セラミックス</exp>
+<sound>tech2v07idx03_ceramics.mp3</sound>
+</w>
+<w idx="4" name="chitosan">
+<jp>キトサン</jp>
+<exp>【名】キトサン</exp>
+<sound>tech2v07idx04_chitosan.mp3</sound>
+</w>
+<w idx="5" name="methane">
+<jp>メタン</jp>
+<exp>【名】メタン</exp>
+<sound>tech2v07idx05_methane.mp3</sound>
+</w>
+<w idx="6" name="polyester">
+<jp>ポリエステル</jp>
+<exp>【名】ポリエステル</exp>
+<sound>tech2v07idx06_polyester.mp3</sound>
+</w>
+<w idx="7" name="polyethylene">
+<jp>ポリエチレン</jp>
+<exp>【名】ポリエチレン</exp>
+<sound>tech2v07idx07_polyethylene.mp3</sound>
+</w>
+<w idx="8" name="stainless steel">
+<jp>ステンレス鋼</jp>
+<exp>【名】ステンレス鋼</exp>
+<sound>tech2v07idx08_stainless_steel.mp3</sound>
+</w>
+<w idx="9" name="sulfur">
+<jp>硫黄</jp>
+<exp>【名】硫黄</exp>
+<sound>tech2v07idx09_sulfur.mp3</sound>
+</w>
+<w idx="10" name="trichloroethylene">
+<jp>トリクロロエチレン</jp>
+<exp>【名】トリクロロエチレン</exp>
+<sound>tech2v07idx10_trichloroethylene.mp3</sound>
+</w>
+<w idx="11" name="alcohol">
+<jp>アルコール</jp>
+<exp>【名】アルコール</exp>
+<sound>tech2v07idx11_alcohol.mp3</sound>
+</w>
+<w idx="12" name="carbon dioxide">
+<jp>二酸化炭素</jp>
+<exp>【名】二酸化炭素</exp>
+<sound>tech2v07idx12_carbon_dioxide.mp3</sound>
+</w>
+<w idx="13" name="chemical energy">
+<jp>化学的エネルギー</jp>
+<exp>【名】化学的エネルギー</exp>
+<sound>tech2v07idx13_chemical_energy.mp3</sound>
+</w>
+<w idx="14" name="dryness">
+<jp>乾燥</jp>
+<exp>【名】乾燥</exp>
+<sound>tech2v07idx14_dryness.mp3</sound>
+</w>
+<w idx="15" name="epoxy resin">
+<jp>エポキシ樹脂</jp>
+<exp>【名】エポキシ樹脂</exp>
+<sound>tech2v07idx15_epoxy_resin.mp3</sound>
+</w>
+<w idx="16" name="ignition">
+<jp>点火</jp>
+<exp>【名】点火、点火装置</exp>
+<sound>tech2v07idx16_ignition.mp3</sound>
+</w>
+<w idx="17" name="moisture">
+<jp>湿気</jp>
+<exp>【名】湿気、水分</exp>
+<sound>tech2v07idx17_moisture.mp3</sound>
+</w>
+<w idx="18" name="nitrogen oxide">
+<jp>窒素酸化物</jp>
+<exp>【名】窒素酸化物</exp>
+<sound>tech2v07idx18_nitrogen_oxide.mp3</sound>
+</w>
+<w idx="19" name="solvent">
+<jp>溶剤</jp>
+<exp>【名】溶剤、溶媒</exp>
+<sound>tech2v07idx19_solvent.mp3</sound>
+</w>
+<w idx="20" name="soot">
+<jp>すす</jp>
+<exp>【名】すす</exp>
+<sound>tech2v07idx20_soot.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. rust</p>
+<p>2. acrylic resin</p>
+<p>3. ceramics</p>
+<p>4. chitosan</p>
+<p>5. methane</p>
+<p>6. polyester</p>
+<p>7. polyethylene</p>
+<p>8. stainless steel</p>
+<p>9. sulfur</p>
+<p>10. trichloroethylene</p>
+<p>11. alcohol</p>
+<p>12. carbon dioxide</p>
+<p>13. chemical energy</p>
+<p>14. dryness</p>
+<p>15. epoxy resin</p>
+<p>16. ignition</p>
+<p>17. moisture</p>
+<p>18. nitrogen oxide</p>
+<p>19. solvent</p>
+<p>20. soot</p>
+</contents>
+</unit>

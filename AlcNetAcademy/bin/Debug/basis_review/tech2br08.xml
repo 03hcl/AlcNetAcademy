@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 レビュークイズ -->
+
+<unit idx="08" size="24">
+
+<question no="29" type="R">
+<text>The longer the incubation time of a computer virus, the more difficult the virus is to detect.</text>
+<textTrans>潜伏期間が長いコンピュータウイルスはそれだけ発見しにくい。</textTrans>
+<hint no="1">incubation time,computer,virus,detect</hint>
+<hint no="2">incubation time,computer,virus,detect,long,difficult,more,of</hint>
+<sound>tech2b29s4m2.mp3</sound>
+<reference>Unit29の課題文</reference>
+</question>
+
+<question no="29" type="I">
+<text>The pH did not change during incubation.</text>
+<textTrans>pHは培養中に変化しなかった。</textTrans>
+<hint no="1">pH,incubation</hint>
+<hint no="2">pH,incubation,change,during</hint>
+<sound>tech2b29s5Q01.mp3</sound>
+<reference>Unit29のStep5</reference>
+</question>
+
+<question no="29" type="I">
+<text>The patient was infected with malaria.</text>
+<textTrans>患者はマラリアに感染した。</textTrans>
+<hint no="1">patient,malaria</hint>
+<hint no="2">patient,malaria,infect,with</hint>
+<sound>tech2b29s5Q02.mp3</sound>
+<reference>Unit29のStep5</reference>
+</question>
+
+<question no="29" type="I">
+<text>The expansion rate of iron is constant irrespective of temperature.</text>
+<textTrans>鉄の膨張率は温度によらず一定である。</textTrans>
+<hint no="1">expansion rate,iron,temperature,constant</hint>
+<hint no="2">expansion rate,iron,temperature,constant,irrespective,of</hint>
+<sound>tech2b29s5Q03.mp3</sound>
+<reference>Unit29のStep5</reference>
+</question>
+
+<question no="29" type="I">
+<text>Light passes through a prism.</text>
+<textTrans>光がプリズムを通る。</textTrans>
+<hint no="1">light,prism</hint>
+<hint no="2">light,prism,pass,through</hint>
+<sound>tech2b29s5Q04.mp3</sound>
+<reference>Unit29のStep5</reference>
+</question>
+
+<question no="29" type="I">
+<text>A rise in temperature caused the column of Hg to rise.</text>
+<textTrans>温度が上昇して、水銀柱が上がった。</textTrans>
+<hint no="1">rise,temperature,column,Hg</hint>
+<hint no="2">rise,temperature,column of Hg,cause,rise,in</hint>
+<sound>tech2b29s5Q05.mp3</sound>
+<reference>Unit29のStep5</reference>
+</question>
+
+<question no="30" type="R">
+<text>All users of W-CDMA systems utilize a broad frequency band, which is several hundred times wider than the current frequency band.</text>
+<textTrans>W-CDMAシステムのすべての利用者は、現在の周波数帯の数百倍にあたる広い周波数帯域を利用する。</textTrans>
+<hint no="1">user,W-CDMA system,frequency,band</hint>
+<hint no="2">user,W-CDMA system,frequency band,several hundred times,all,broad,wide,current,utilize,which,of</hint>
+<sound>tech2b30s4m2.mp3</sound>
+<reference>Unit30の課題文</reference>
+</question>
+
+<question no="30" type="I">
+<text>One revolution of the limit switch corresponds to one cycle of the press.</text>
+<textTrans>リミットスイッチの１回転は、プレスの１サイクルに相当する。</textTrans>
+<hint no="1">revolution,limit,switch,cycle,press</hint>
+<hint no="2">revolution,limit,switch,cycle,press,one,correspond to,of</hint>
+<sound>tech2b30s5Q01.mp3</sound>
+<reference>Unit30のStep5</reference>
+</question>
+
+<question no="30" type="I">
+<text>The file map functionally corresponds to a page map.</text>
+<textTrans>ファイルマップは機能的にはページマップに対応する。</textTrans>
+<hint no="1">file,page,map,functionally</hint>
+<hint no="2">file map,page map,functionally,correspond to</hint>
+<sound>tech2b30s5Q02.mp3</sound>
+<reference>Unit30のStep5</reference>
+</question>
+
+<question no="30" type="I">
+<text>All correspondence should be directed to ABC Company.</text>
+<textTrans>すべての通信はABC社宛にしてください。</textTrans>
+<hint no="1">correspondence,ABC Company</hint>
+<hint no="2">correspondence,ABC Company,all,direct,to</hint>
+<sound>tech2b30s5Q03.mp3</sound>
+<reference>Unit30のStep5</reference>
+</question>
+
+<question no="30" type="I">
+<text>Most substances are composed of two or more elements.</text>
+<textTrans>たいていの物質はふたつ以上の元素でできている。</textTrans>
+<hint no="1">substance,element</hint>
+<hint no="2">substance,element,most,two,more,compose of</hint>
+<sound>tech2b30s5Q04.mp3</sound>
+<reference>Unit30のStep5</reference>
+</question>
+
+<question no="30" type="I">
+<text>This plant has an area of 1 ha.</text>
+<textTrans>この工場の面積は１ヘクタールである。</textTrans>
+<hint no="1">plant,area,ha</hint>
+<hint no="2">plant,area,1 ha,have,of</hint>
+<sound>tech2b30s5Q05.mp3</sound>
+<reference>Unit30のStep5</reference>
+</question>
+
+<question no="31" type="R">
+<text>ITS relieves traffic jams, resulting in a reduction of carbon dioxide emissions by approximately 20%.</text>
+<textTrans>ITSにより交通渋滞が緩和され、その結果、二酸化炭素排出量が約20％削減されることになる。</textTrans>
+<hint no="1">ITS,traffic jam,reduction,carbon dioxide,approximately,emission</hint>
+<hint no="2">ITS,traffic jam,reduction,carbon dioxide,approximately,emission,20%,relieve,result in,of,by</hint>
+<sound>tech2b31s4m2.mp3</sound>
+<reference>Unit31の課題文</reference>
+</question>
+
+<question no="31" type="I">
+<text>The low activity results from a genetic abnormality.</text>
+<textTrans>その低い活性は遺伝的な異常の結果起こる。</textTrans>
+<hint no="1">activity,abnormality</hint>
+<hint no="2">activity,abnormality,low,genetic,result from</hint>
+<sound>tech2b31s5Q01.mp3</sound>
+<reference>Unit31のStep5</reference>
+</question>
+
+<question no="31" type="I">
+<text>The exposure of the copper foil to the atmosphere results in staining.</text>
+<textTrans>銅箔を大気にさらすと結果としてさびる。</textTrans>
+<hint no="1">exposure,copper foil,atmosphere</hint>
+<hint no="2">exposure,copper foil,atmosphere,result in,stain,of,to</hint>
+<sound>tech2b31s5Q02.mp3</sound>
+<reference>Unit31のStep5</reference>
+</question>
+
+<question no="31" type="I">
+<text>This operation results in the removal of a tumor.</text>
+<textTrans>この手術は腫瘍（しゅよう）を除去する結果になる。</textTrans>
+<hint no="1">operation,removal,tumor</hint>
+<hint no="2">operation,removal,tumor,result in,of</hint>
+<sound>tech2b31s5Q03.mp3</sound>
+<reference>Unit31のStep5</reference>
+</question>
+
+<question no="31" type="I">
+<text>As a result of the two wars, the direction of the current has been dramatically reversed.</text>
+<textTrans>ふたつの戦争の結果（のひとつとして）、流れの方向が劇的に反転した。</textTrans>
+<hint no="1">result,war,direction,current</hint>
+<hint no="2">result,war,direction,current,two,dramatically,reverse,as,of</hint>
+<sound>tech2b31s5Q04.mp3</sound>
+<reference>Unit31のStep5</reference>
+</question>
+
+<question no="31" type="I">
+<text>He was injured as the result of a boiler explosion.</text>
+<textTrans>彼は、ボイラーの爆発の結果（すべての結果として）、負傷した。</textTrans>
+<hint no="1">result,boiler,explosion</hint>
+<hint no="2">result,boiler,explosion,injure,as,of</hint>
+<sound>tech2b31s5Q05.mp3</sound>
+<reference>Unit31のStep5</reference>
+</question>
+
+<question no="32" type="R">
+<text>We are pleased to hear that the Model TK Sensor for which you placed an order will be used on trial in the U.S. Sensor System factory.</text>
+<textTrans>ご注文いただいたTK型センサーがUSセンサーシステム社の工場で試用される予定であると伺い、喜んでおります。</textTrans>
+<hint no="1">Model TK Sensor,trial,U.S. Sensor System,factory</hint>
+<hint no="2">Model TK Sensor,trial,U.S. Sensor System,factory,pleased,hear,place an order,use,for,which,on,in</hint>
+<sound>tech2b32s4m2.mp3</sound>
+<reference>Unit32の課題文</reference>
+</question>
+
+<question no="32" type="I">
+<text>Direct current is defined as current that flows in one direction.</text>
+<textTrans>直流とは、１方向に流れる電流と定義される。</textTrans>
+<hint no="1">direct current,current,direction</hint>
+<hint no="2">direct current,current,direction,one,define as,flow,in</hint>
+<sound>tech2b32s5Q01.mp3</sound>
+<reference>Unit32のStep5</reference>
+</question>
+
+<question no="32" type="I">
+<text>This company consists of three major divisions.</text>
+<textTrans>この会社は大きな３部門から成る。</textTrans>
+<hint no="1">company,division,major</hint>
+<hint no="2">company,division,major,three,consist of</hint>
+<sound>tech2b32s5Q02.mp3</sound>
+<reference>Unit32のStep5</reference>
+</question>
+
+<question no="32" type="I">
+<text>Pieces of iron flew in all directions.</text>
+<textTrans>鉄の破片が四方八方に飛び散った。</textTrans>
+<hint no="1">piece,iron,direction</hint>
+<hint no="2">piece,iron,direction,all,fly,of,in</hint>
+<sound>tech2b32s5Q03.mp3</sound>
+<reference>Unit32のStep5</reference>
+</question>
+
+<question no="32" type="I">
+<text>Place A parallel to B.</text>
+<textTrans>A を B と平行に置いてください。</textTrans>
+<hint no="1">parallel</hint>
+<hint no="2">parallel,place,to</hint>
+<sound>tech2b32s5Q04.mp3</sound>
+<reference>Unit32のStep5</reference>
+</question>
+
+<question no="32" type="I">
+<text>Production was reduced by 10%.</text>
+<textTrans>生産量を10％だけ減らした。</textTrans>
+<hint no="1">production</hint>
+<hint no="2">production,10%,reduce,by</hint>
+<sound>tech2b32s5Q05.mp3</sound>
+<reference>Unit32のStep5</reference>
+</question>
+
+</unit>

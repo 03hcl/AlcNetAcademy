@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="25">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅱ 動詞・形容詞ほか,動詞４</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">技術英語でよく使われる動詞です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="apply">
+<jp>応用する</jp>
+<exp>【動】応用する、あてはまる</exp>
+<sound>tech2v25idx01_apply.mp3</sound>
+</w>
+<w idx="2" name="happen">
+<jp>起こる</jp>
+<exp>【動】起こる</exp>
+<sound>tech2v25idx02_happen.mp3</sound>
+</w>
+<w idx="3" name="push">
+<jp>押す</jp>
+<exp>【動】押す</exp>
+<sound>tech2v25idx03_push.mp3</sound>
+</w>
+<w idx="4" name="improve">
+<jp>改善する</jp>
+<exp>【動】改善する、高める、向上させる</exp>
+<sound>tech2v25idx04_improve.mp3</sound>
+</w>
+<w idx="5" name="rotate">
+<jp>回転する</jp>
+<exp>【動】回転する</exp>
+<sound>tech2v25idx05_rotate.mp3</sound>
+</w>
+<w idx="6" name="regain">
+<jp>回復する</jp>
+<exp>【動】回復する</exp>
+<sound>tech2v25idx06_regain.mp3</sound>
+</w>
+<w idx="7" name="suffer">
+<jp>（害を）受ける</jp>
+<exp>【動】（害を）受ける</exp>
+<sound>tech2v25idx07_suffer.mp3</sound>
+</w>
+<w idx="8" name="count">
+<jp>数える</jp>
+<exp>【動】数える</exp>
+<sound>tech2v25idx08_count.mp3</sound>
+</w>
+<w idx="9" name="accelerate">
+<jp>加速する</jp>
+<exp>【動】加速する</exp>
+<sound>tech2v25idx09_accelerate.mp3</sound>
+</w>
+<w idx="10" name="overheat">
+<jp>過熱する</jp>
+<exp>【動】過熱する</exp>
+<sound>tech2v25idx10_overheat.mp3</sound>
+</w>
+<w idx="11" name="enable">
+<jp>可能にする</jp>
+<exp>【動】可能にする</exp>
+<sound>tech2v25idx11_enable.mp3</sound>
+</w>
+<w idx="12" name="consist of">
+<jp>（…から）成り立つ</jp>
+<exp>【動】（…から）成り立つ</exp>
+<sound>tech2v25idx12_consist_of.mp3</sound>
+</w>
+<w idx="13" name="watch">
+<jp>監視する</jp>
+<exp>【動】監視する</exp>
+<sound>tech2v25idx13_watch.mp3</sound>
+</w>
+<w idx="14" name="complete">
+<jp>完成する</jp>
+<exp>【動】完成する</exp>
+<sound>tech2v25idx14_complete.mp3</sound>
+</w>
+<w idx="15" name="manage">
+<jp>管理する</jp>
+<exp>【動】管理する</exp>
+<sound>tech2v25idx15_manage.mp3</sound>
+</w>
+<w idx="16" name="absorb">
+<jp>吸収する</jp>
+<exp>【動】吸収する</exp>
+<sound>tech2v25idx16_absorb.mp3</sound>
+</w>
+<w idx="17" name="reinforce">
+<jp>強化する</jp>
+<exp>【動】強化する</exp>
+<sound>tech2v25idx17_reinforce.mp3</sound>
+</w>
+<w idx="18" name="cooperate">
+<jp>協力する</jp>
+<exp>【動】協力する</exp>
+<sound>tech2v25idx18_cooperate.mp3</sound>
+</w>
+<w idx="19" name="fuse">
+<jp>融合する</jp>
+<exp>【動】融合する</exp>
+<sound>tech2v25idx19_fuse.mp3</sound>
+</w>
+<w idx="20" name="spoil">
+<jp>腐らせる</jp>
+<exp>【動】腐らせる</exp>
+<sound>tech2v25idx20_spoil.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. apply</p>
+<p>2. happen</p>
+<p>3. push</p>
+<p>4. improve</p>
+<p>5. rotate</p>
+<p>6. regain</p>
+<p>7. suffer</p>
+<p>8. count</p>
+<p>9. accelerate</p>
+<p>10. overheat</p>
+<p>11. enable</p>
+<p>12. consist of</p>
+<p>13. watch</p>
+<p>14. complete</p>
+<p>15. manage</p>
+<p>16. absorb</p>
+<p>17. reinforce</p>
+<p>18. cooperate</p>
+<p>19. fuse</p>
+<p>20. spoil</p>
+</contents>
+</unit>

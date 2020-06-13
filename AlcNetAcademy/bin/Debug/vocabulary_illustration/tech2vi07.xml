@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（イラスト演習） -->
+
+<unit idx="07">
+
+<!-- タイトル -->
+<title>Ⅳ イラスト演習,一般２</title>
+
+<!-- 問題 -->
+<question no="1" size="3">
+<sel cd="1" w="1"></sel>
+<sel cd="2" w="2"></sel>
+<sel cd="3" w="3"></sel>
+</question>
+<question no="2" size="3">
+<sel cd="1" w="4"></sel>
+<sel cd="2" w="5"></sel>
+<sel cd="3" w="21"></sel>
+</question>
+<question no="3" size="3">
+<sel cd="1" w="6"></sel>
+<sel cd="2" w="22"></sel>
+<sel cd="3" w="23"></sel>
+</question>
+<question no="4" size="3">
+<sel cd="1" w="7"></sel>
+<sel cd="2" w="8"></sel>
+<sel cd="3" w="9"></sel>
+</question>
+<question no="5" size="3">
+<sel cd="1" w="24"></sel>
+<sel cd="2" w="25"></sel>
+<sel cd="3" w="26"></sel>
+</question>
+<question no="6" size="3">
+<sel cd="1" w="10"></sel>
+<sel cd="2" w="27"></sel>
+<sel cd="3" w="11"></sel>
+</question>
+<question no="7" size="3">
+<sel cd="1" w="12"></sel>
+<sel cd="2" w="13"></sel>
+<sel cd="3" w="28"></sel>
+</question>
+<question no="8" size="3">
+<sel cd="1" w="14"></sel>
+<sel cd="2" w="29"></sel>
+<sel cd="3" w="15"></sel>
+</question>
+<question no="9" size="3">
+<sel cd="1" w="16"></sel>
+<sel cd="2" w="30"></sel>
+<sel cd="3" w="17"></sel>
+</question>
+<question no="10" size="3">
+<sel cd="1" w="18"></sel>
+<sel cd="2" w="19"></sel>
+<sel cd="3" w="20"></sel>
+</question>
+
+<notes>
+<w idx="1" name="drill" list="true">
+<jp>きり</jp>
+<exp>きり</exp>
+<sound>tech2vi07idx01_drill.mp3</sound>
+<image>drill.swf</image>
+</w>
+<w idx="2" name="file" list="true">
+<jp>やすり</jp>
+<exp>やすり</exp>
+<sound>tech2vi07idx02_file.mp3</sound>
+<image>file.swf</image>
+</w>
+<w idx="3" name="wrench" list="true">
+<jp>レンチ（スパナ）</jp>
+<exp>レンチ（スパナ）</exp>
+<sound>tech2vi07idx03_wrench.mp3</sound>
+<image>wrench.swf</image>
+</w>
+<w idx="4" name="lathe" list="true">
+<jp>旋盤</jp>
+<exp>旋盤</exp>
+<sound>tech2vi07idx04_lathe.mp3</sound>
+<image>lathe.swf</image>
+</w>
+<w idx="5" name="vise" list="true">
+<jp>万力</jp>
+<exp>万力</exp>
+<sound>tech2vi07idx05_vise.mp3</sound>
+<image>vise.swf</image>
+</w>
+<w idx="6" name="steering wheel" list="true">
+<jp>ハンドル</jp>
+<exp>ハンドル</exp>
+<sound>tech2vi07idx06_steering_wheel.mp3</sound>
+<image>steering_wheel.swf</image>
+</w>
+<w idx="7" name="microscope" list="true">
+<jp>顕微鏡</jp>
+<exp>顕微鏡</exp>
+<sound>tech2vi07idx07_microscope.mp3</sound>
+<image>microscope.swf</image>
+</w>
+<w idx="8" name="telescope" list="true">
+<jp>望遠鏡</jp>
+<exp>望遠鏡</exp>
+<sound>tech2vi07idx08_telescope.mp3</sound>
+<image>telescope.swf</image>
+</w>
+<w idx="9" name="binoculars" list="true">
+<jp>双眼鏡</jp>
+<exp>双眼鏡</exp>
+<sound>tech2vi07idx09_binoculars.mp3</sound>
+<image>binoculars.swf</image>
+</w>
+<w idx="10" name="lens" list="true">
+<jp>レンズ</jp>
+<exp>レンズ</exp>
+<sound>tech2vi07idx10_lens.mp3</sound>
+<image>lens.swf</image>
+</w>
+<w idx="11" name="prism" list="true">
+<jp>プリズム</jp>
+<exp>プリズム</exp>
+<sound>tech2vi07idx11_prism.mp3</sound>
+<image>prism.swf</image>
+</w>
+<w idx="12" name="rocket" list="true">
+<jp>ロケット</jp>
+<exp>ロケット</exp>
+<sound>tech2vi07idx12_rocket.mp3</sound>
+<image>rocket.swf</image>
+</w>
+<w idx="13" name="robot" list="true">
+<jp>ロボット</jp>
+<exp>ロボット</exp>
+<sound>tech2vi07idx13_robot.mp3</sound>
+<image>robot.swf</image>
+</w>
+<w idx="14" name="floppy disk" list="true">
+<jp>フロッピーディスク</jp>
+<exp>フロッピーディスク</exp>
+<sound>tech2vi07idx14_floppy_disk.mp3</sound>
+<image>floppy_disk.swf</image>
+</w>
+<w idx="15" name="magneto-optical disk" list="true">
+<jp>光磁気ディスク</jp>
+<exp>光磁気ディスク</exp>
+<sound>tech2vi07idx15_magneto-optical_disk.mp3</sound>
+<image>magneto-optical_disk.swf</image>
+</w>
+<w idx="16" name="cylinder" list="true">
+<jp>円柱</jp>
+<exp>円柱</exp>
+<sound>tech2vi07idx16_cylinder.mp3</sound>
+<image>cylinder.swf</image>
+</w>
+<w idx="17" name="helix" list="true">
+<jp>ら旋</jp>
+<exp>ら旋</exp>
+<sound>tech2vi07idx17_helix.mp3</sound>
+<image>helix.swf</image>
+</w>
+<w idx="18" name="ammeter" list="true">
+<jp>電流計</jp>
+<exp>電流計</exp>
+<sound>tech2vi07idx18_ammeter.mp3</sound>
+<image>ammeter.swf</image>
+</w>
+<w idx="19" name="voltmeter" list="true">
+<jp>電圧計</jp>
+<exp>電圧計</exp>
+<sound>tech2vi07idx19_voltmeter.mp3</sound>
+<image>voltmeter.swf</image>
+</w>
+<w idx="20" name="tachometer" list="true">
+<jp>回転速度計</jp>
+<exp>回転速度計</exp>
+<sound>tech2vi07idx20_tachometer.mp3</sound>
+<image>tachometer.swf</image>
+</w>
+<w idx="21" name="jack" list="false">
+<jp>ジャッキ</jp>
+<exp></exp>
+<sound>tech2vi07idx21_jack.mp3</sound>
+<image>jack.swf</image>
+</w>
+<w idx="22" name="wheel" list="false">
+<jp>車輪</jp>
+<exp></exp>
+<sound>tech2vi07idx22_wheel.mp3</sound>
+<image>wheel.swf</image>
+</w>
+<w idx="23" name="wheelchair" list="false">
+<jp>車椅子</jp>
+<exp></exp>
+<sound>tech2vi07idx23_wheelchair.mp3</sound>
+<image>wheelchair.swf</image>
+</w>
+<w idx="24" name="bolt" list="false">
+<jp>ボルト</jp>
+<exp></exp>
+<sound>tech2vi07idx24_bolt.mp3</sound>
+<image>bolt.swf</image>
+</w>
+<w idx="25" name="nut" list="false">
+<jp>ナット</jp>
+<exp></exp>
+<sound>tech2vi07idx25_nut.mp3</sound>
+<image>nut.swf</image>
+</w>
+<w idx="26" name="washer" list="false">
+<jp>ワッシャ</jp>
+<exp></exp>
+<sound>tech2vi07idx26_washer.mp3</sound>
+<image>washer.swf</image>
+</w>
+<w idx="27" name="mirror" list="false">
+<jp>鏡</jp>
+<exp></exp>
+<sound>tech2vi07idx27_mirror.mp3</sound>
+<image>mirror.swf</image>
+</w>
+<w idx="28" name="racket" list="false">
+<jp>ラケット</jp>
+<exp></exp>
+<sound>tech2vi07idx28_racket.mp3</sound>
+<image>racket.swf</image>
+</w>
+<w idx="29" name="compact disk" list="false">
+<jp>コンパクトディスク</jp>
+<exp></exp>
+<sound>tech2vi07idx29_compact_disk.mp3</sound>
+<image>compact_disk.swf</image>
+</w>
+<w idx="30" name="cone" list="false">
+<jp>円柱</jp>
+<exp></exp>
+<sound>tech2vi07idx30_cone.mp3</sound>
+<image>cone.swf</image>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. drill</p>
+<p>2. file</p>
+<p>3. wrench</p>
+<p>4. lathe</p>
+<p>5. vise</p>
+<p>6. steering wheel</p>
+<p>7. microscope</p>
+<p>8. telescope</p>
+<p>9. binoculars</p>
+<p>10. lens</p>
+<p>11. prism</p>
+<p>12. rocket</p>
+<p>13. robot</p>
+<p>14. floppy disk</p>
+<p>15. magneto-optical disk</p>
+<p>16. cylinder</p>
+<p>17. helix</p>
+<p>18. ammeter</p>
+<p>19. voltmeter</p>
+<p>20. tachometer</p>
+</contents>
+</unit>

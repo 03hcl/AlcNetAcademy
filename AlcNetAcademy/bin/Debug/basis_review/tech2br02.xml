@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 レビュークイズ -->
+
+<unit idx="02" size="24">
+
+<question no="05" type="R">
+<text>Artificial organs must satisfy the following two requirements: they must be interchangeable with the original organs and they must be usable semi-permanently.</text>
+<textTrans>人工臓器の要件は次の２点である。元の臓器と代替できること、そして半永久的に使えることである。</textTrans>
+<hint no="1">artificial organ,interchangeable,usable,semi-permanently</hint>
+<hint no="2">artificial organ,interchangeable with,usable,semi-permanently,requirement,satisfy,following,two,original</hint>
+<sound>tech2b05s4m2.mp3</sound>
+<reference>Unit05の課題文</reference>
+</question>
+
+<question no="05" type="I">
+<text>If the result satisfies the requirements, the next process is executed.</text>
+<textTrans>結果が必要条件に一致する場合、次の処理が実行される。</textTrans>
+<hint no="1">result,requirement,process</hint>
+<hint no="2">result,requirement,process,satisfy,execute,next,if</hint>
+<sound>tech2b05s5Q01.mp3</sound>
+<reference>Unit05のStep5</reference>
+</question>
+
+<question no="05" type="I">
+<text>I was satisfied with her progress in the research.</text>
+<textTrans>私はその調査での彼女の進展に満足だった。</textTrans>
+<hint no="1">progress</hint>
+<hint no="2">progress,research,satisfy,in,with</hint>
+<sound>tech2b05s5Q02.mp3</sound>
+<reference>Unit05のStep5</reference>
+</question>
+
+<question no="05" type="I">
+<text>Conventional resistors are replaced with a new transistor.</text>
+<textTrans>従来の抵抗器は新しいトランジスタに置き換わる。</textTrans>
+<hint no="1">resistor,transistor,conventional</hint>
+<hint no="2">resistor,transistor,conventional,replace,new,with</hint>
+<sound>tech2b05s5Q03.mp3</sound>
+<reference>Unit05のStep5</reference>
+</question>
+
+<question no="05" type="I">
+<text>She has been to three countries: France, England, and Spain.</text>
+<textTrans>彼女はこれまで３つの国を訪れた。フランス、イギリス、そしてスペインである。</textTrans>
+<hint no="1">France,England,Spain</hint>
+<hint no="2">country,France,England,Spain,three,and,to</hint>
+<sound>tech2b05s5Q04.mp3</sound>
+<reference>Unit05のStep5</reference>
+</question>
+
+<question no="05" type="I">
+<text>This device requires a.c. power.</text>
+<textTrans>この装置には交流電源を必要とする。</textTrans>
+<hint no="1">a.c. power</hint>
+<hint no="2">a.c. power,device,require</hint>
+<sound>tech2b05s5Q05.mp3</sound>
+<reference>Unit05のStep5</reference>
+</question>
+
+<question no="06" type="R">
+<text>Microwave ovens acquire data on recipes over the Internet and refrigerators place orders for food automatically.</text>
+<textTrans>電子レンジはインターネットからレシピのデータを得て、冷蔵庫は食材を自動的に発注する。</textTrans>
+<hint no="1">microwave oven,recipe,refrigerator</hint>
+<hint no="2">microwave oven,recipe,refrigerator,data,Internet,food,order,acquire,place,automatically,on,over,and,for</hint>
+<sound>tech2b06s4m2.mp3</sound>
+<reference>Unit06の課題文</reference>
+</question>
+
+<question no="06" type="I">
+<text>I placed an order for a dictionary.</text>
+<textTrans>私は辞書を発注した。</textTrans>
+<hint no="1">dictionary</hint>
+<hint no="2">dictionary,order,place,for</hint>
+<sound>tech2b06s5Q01.mp3</sound>
+<reference>Unit06のStep5</reference>
+</question>
+
+<question no="06" type="I">
+<text>This manual shows how to operate the machine.</text>
+<textTrans>このマニュアルには機械の操作法が書いてある。</textTrans>
+<hint no="1">manual,operate</hint>
+<hint no="2">manual,operate,machine,show,how</hint>
+<sound>tech2b06s5Q02.mp3</sound>
+<reference>Unit06のStep5</reference>
+</question>
+
+<question no="06" type="I">
+<text>A transformer lowers or raises the voltage.</text>
+<textTrans>変圧器は電圧を下げたり上げたりする。</textTrans>
+<hint no="1">transformer,voltage</hint>
+<hint no="2">transformer,voltage,lower,raise</hint>
+<sound>tech2b06s5Q03.mp3</sound>
+<reference>Unit06のStep5</reference>
+</question>
+
+<question no="06" type="I">
+<text>A thermostat maintains the desired temperature.</text>
+<textTrans>サーモスタットは所定の温度を維持する。</textTrans>
+<hint no="1">thermostat,desire</hint>
+<hint no="2">thermostat,desire,temperature,maintain</hint>
+<sound>tech2b06s5Q04.mp3</sound>
+<reference>Unit06のStep5</reference>
+</question>
+
+<question no="06" type="I">
+<text>Draw a circle with a compass.</text>
+<textTrans>コンパスで円を描きなさい。</textTrans>
+<hint no="1">circle,compass</hint>
+<hint no="2">circle,compass,draw,with</hint>
+<sound>tech2b06s5Q05.mp3</sound>
+<reference>Unit06のStep5</reference>
+</question>
+
+<question no="07" type="R">
+<text>The newly developed hybrid cars exceeded a mileage of 30 km per liter of gasoline and greatly reduced pollutants in their exhaust.</text>
+<textTrans>最近開発されたハイブリッドカーは、走行距離がガソリン１リットル当たり30キロメートルを超え、排ガス中の汚染物質を大幅に削減した。</textTrans>
+<hint no="1">hybrid car,mileage,gasoline,pollutant,exhaust</hint>
+<hint no="2">hybrid car,mileage,km,liter,gasoline,pollutant,exhaust,develop,exceed,reduce,newly,per,greatly,of,in</hint>
+<sound>tech2b07s4m2.mp3</sound>
+<reference>Unit07の課題文</reference>
+</question>
+
+<question no="07" type="I">
+<text>The ABC system reduced costs.</text>
+<textTrans>ABCシステムは、コストを下げた。</textTrans>
+<hint no="1">ABC system,cost</hint>
+<hint no="2">ABC system,cost,reduce</hint>
+<sound>tech2b07s5Q01.mp3</sound>
+<reference>Unit07のStep5</reference>
+</question>
+
+<question no="07" type="I">
+<text>Power consumption is reduced by using this device.</text>
+<textTrans>電力消費がこのデバイスの利用によって減る。</textTrans>
+<hint no="1">power consumption</hint>
+<hint no="2">power consumption,device,reduce,use,by</hint>
+<sound>tech2b07s5Q02.mp3</sound>
+<reference>Unit07のStep5</reference>
+</question>
+
+<question no="07" type="I">
+<text>Iron oxides are reduced to iron with hydrogen.</text>
+<textTrans>鉄酸化物は水素で鉄に還元される。</textTrans>
+<hint no="1">iron,oxide,hydrogen</hint>
+<hint no="2">iron,oxide,hydrogen,reduce,with,to</hint>
+<sound>tech2b07s5Q03.mp3</sound>
+<reference>Unit07のStep5</reference>
+</question>
+
+<question no="07" type="I">
+<text>The output exceeds 2,000 units per day.</text>
+<textTrans>生産量は、日産2,000ユニットを超える。</textTrans>
+<hint no="1">output,per</hint>
+<hint no="2">output,per,unit,day,exceed,2,000</hint>
+<sound>tech2b07s5Q04.mp3</sound>
+<reference>Unit07のStep5</reference>
+</question>
+
+<question no="07" type="I">
+<text>Vehicles travel at a certain speed in a certain direction.</text>
+<textTrans>車はある速度で、ある方向に走る。</textTrans>
+<hint no="1">vehicle,speed,direction</hint>
+<hint no="2">vehicle,speed,direction,travel,certain,at,in</hint>
+<sound>tech2b07s5Q05.mp3</sound>
+<reference>Unit07のStep5</reference>
+</question>
+
+<question no="08" type="R">
+<text>Take the ink cartridge out of the plastic bag before removing the protective cap.</text>
+<textTrans>インクカートリッジをプラスチック袋から取り出し、保護キャップを取り外します。</textTrans>
+<hint no="1">ink cartridge,bag,cap,remove,protective</hint>
+<hint no="2">ink cartridge,bag,cap,remove,plastic,protective,out of,before,take</hint>
+<sound>tech2b08s4m2.mp3</sound>
+<reference>Unit08の課題文</reference>
+</question>
+
+<question no="08" type="I">
+<text>Floppy disks are commonly removed from their drives.</text>
+<textTrans>フロッピーディスクは通常ドライブから抜いておく。</textTrans>
+<hint no="1">floppy disk,commonly</hint>
+<hint no="2">floppy disk,drive,remove,commonly,from</hint>
+<sound>tech2b08s5Q01.mp3</sound>
+<reference>Unit08のStep5</reference>
+</question>
+
+<question no="08" type="I">
+<text>An oxide layer was removed from the surface.</text>
+<textTrans>酸化物層を表面から除去した。</textTrans>
+<hint no="1">oxide,layer</hint>
+<hint no="2">oxide,layer,surface,remove,from</hint>
+<sound>tech2b08s5Q02.mp3</sound>
+<reference>Unit08のStep5</reference>
+</question>
+
+<question no="08" type="I">
+<text>That officer must be removed from his position.</text>
+<textTrans>あの役人を解任する必要がある。</textTrans>
+<hint no="1">officer,position</hint>
+<hint no="2">officer,position,remove,from</hint>
+<sound>tech2b08s5Q03.mp3</sound>
+<reference>Unit08のStep5</reference>
+</question>
+
+<question no="08" type="I">
+<text>These rare birds are protected by special laws.</text>
+<textTrans>こうした珍しい鳥は特別な法律によって守られる。</textTrans>
+<hint no="1">law,rare</hint>
+<hint no="2">bird,law,protect,rare,special,by</hint>
+<sound>tech2b08s5Q04.mp3</sound>
+<reference>Unit08のStep5</reference>
+</question>
+
+<question no="08" type="I">
+<text>We must protect ourselves against the enemy.</text>
+<textTrans>私たちは敵から身を守らなければいけない。</textTrans>
+<hint no="1">ourselves,enemy</hint>
+<hint no="2">ourselves,enemy,protect,against</hint>
+<sound>tech2b08s5Q05.mp3</sound>
+<reference>Unit08のStep5</reference>
+</question>
+
+</unit>

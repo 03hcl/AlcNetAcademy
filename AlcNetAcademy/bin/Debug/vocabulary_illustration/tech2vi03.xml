@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（イラスト演習） -->
+
+<unit idx="03">
+
+<!-- タイトル -->
+<title>Ⅳ イラスト演習,ギリシャ文字</title>
+
+<!-- 問題 -->
+<question no="1" size="3">
+<sel cd="1" w="1"></sel>
+<sel cd="2" w="2"></sel>
+<sel cd="3" w="21"></sel>
+</question>
+<question no="2" size="3">
+<sel cd="1" w="3"></sel>
+<sel cd="2" w="4"></sel>
+<sel cd="3" w="5"></sel>
+</question>
+<question no="3" size="3">
+<sel cd="1" w="6"></sel>
+<sel cd="2" w="7"></sel>
+<sel cd="3" w="8"></sel>
+</question>
+<question no="4" size="3">
+<sel cd="1" w="9"></sel>
+<sel cd="2" w="10"></sel>
+<sel cd="3" w="22"></sel>
+</question>
+<question no="5" size="3">
+<sel cd="1" w="11"></sel>
+<sel cd="2" w="12"></sel>
+<sel cd="3" w="23"></sel>
+</question>
+<question no="6" size="3">
+<sel cd="1" w="13"></sel>
+<sel cd="2" w="14"></sel>
+<sel cd="3" w="15"></sel>
+</question>
+<question no="7" size="3">
+<sel cd="1" w="24"></sel>
+<sel cd="2" w="16"></sel>
+<sel cd="3" w="17"></sel>
+</question>
+<question no="8" size="3">
+<sel cd="1" w="25"></sel>
+<sel cd="2" w="18"></sel>
+<sel cd="3" w="19"></sel>
+</question>
+<question no="9" size="3">
+<sel cd="1" w="26"></sel>
+<sel cd="2" w="20"></sel>
+<sel cd="3" w="27"></sel>
+</question>
+<question no="10" size="3">
+<sel cd="1" w="28"></sel>
+<sel cd="2" w="29"></sel>
+<sel cd="3" w="30"></sel>
+</question>
+
+<notes>
+<w idx="1" name="alpha" list="true">
+<jp>アルファ</jp>
+<exp>アルファ</exp>
+<sound>tech2vi03idx01_alpha.mp3</sound>
+<image>alpha.swf</image>
+</w>
+<w idx="2" name="psi" list="true">
+<jp>プサイ</jp>
+<exp>プサイ</exp>
+<sound>tech2vi03idx02_psi.mp3</sound>
+<image>psi.swf</image>
+</w>
+<w idx="3" name="beta" list="true">
+<jp>ベータ</jp>
+<exp>ベータ</exp>
+<sound>tech2vi03idx03_beta.mp3</sound>
+<image>beta.swf</image>
+</w>
+<w idx="4" name="mu" list="true">
+<jp>ミュー</jp>
+<exp>ミュー</exp>
+<sound>tech2vi03idx04_mu.mp3</sound>
+<image>mu.swf</image>
+</w>
+<w idx="5" name="nu" list="true">
+<jp>ニュー</jp>
+<exp>ニュー</exp>
+<sound>tech2vi03idx05_nu.mp3</sound>
+<image>nu.swf</image>
+</w>
+<w idx="6" name="gamma" list="true">
+<jp>ガンマ</jp>
+<exp>ガンマ</exp>
+<sound>tech2vi03idx06_gamma.mp3</sound>
+<image>gamma.swf</image>
+</w>
+<w idx="7" name="delta" list="true">
+<jp>デルタ</jp>
+<exp>デルタ</exp>
+<sound>tech2vi03idx07_delta.mp3</sound>
+<image>delta.swf</image>
+</w>
+<w idx="8" name="epsilon" list="true">
+<jp>イプシロン</jp>
+<exp>イプシロン</exp>
+<sound>tech2vi03idx08_epsilon.mp3</sound>
+<image>epsilon.swf</image>
+</w>
+<w idx="9" name="zeta" list="true">
+<jp>ゼータ</jp>
+<exp>ゼータ</exp>
+<sound>tech2vi03idx09_zeta.mp3</sound>
+<image>zeta.swf</image>
+</w>
+<w idx="10" name="theta" list="true">
+<jp>シータ</jp>
+<exp>シータ</exp>
+<sound>tech2vi03idx10_theta.mp3</sound>
+<image>theta.swf</image>
+</w>
+<w idx="11" name="kappa" list="true">
+<jp>カッパ</jp>
+<exp>カッパ</exp>
+<sound>tech2vi03idx11_kappa.mp3</sound>
+<image>kappa.swf</image>
+</w>
+<w idx="12" name="lambda" list="true">
+<jp>ラムダ</jp>
+<exp>ラムダ</exp>
+<sound>tech2vi03idx12_lambda.mp3</sound>
+<image>lambda.swf</image>
+</w>
+<w idx="13" name="pi" list="true">
+<jp>パイ</jp>
+<exp>パイ</exp>
+<sound>tech2vi03idx13_pi.mp3</sound>
+<image>pi.swf</image>
+</w>
+<w idx="14" name="rho" list="true">
+<jp>ロー</jp>
+<exp>ロー</exp>
+<sound>tech2vi03idx14_rho.mp3</sound>
+<image>rho.swf</image>
+</w>
+<w idx="15" name="sigma" list="true">
+<jp>シグマ</jp>
+<exp>シグマ</exp>
+<sound>tech2vi03idx15_sigma.mp3</sound>
+<image>sigma.swf</image>
+</w>
+<w idx="16" name="omega" list="true">
+<jp>オメガ</jp>
+<exp>オメガ</exp>
+<sound>tech2vi03idx16_omega.mp3</sound>
+<image>omega.swf</image>
+</w>
+<w idx="17" name="eta" list="true">
+<jp>イータ</jp>
+<exp>イータ</exp>
+<sound>tech2vi03idx17_eta.mp3</sound>
+<image>eta.swf</image>
+</w>
+<w idx="18" name="tau" list="true">
+<jp>タウ</jp>
+<exp>タウ</exp>
+<sound>tech2vi03idx18_tau.mp3</sound>
+<image>tau.swf</image>
+</w>
+<w idx="19" name="phi" list="true">
+<jp>ファイ</jp>
+<exp>ファイ</exp>
+<sound>tech2vi03idx19_phi.mp3</sound>
+<image>phi.swf</image>
+</w>
+<w idx="20" name="chi" list="true">
+<jp>カイ</jp>
+<exp>カイ</exp>
+<sound>tech2vi03idx20_chi.mp3</sound>
+<image>chi.swf</image>
+</w>
+<w idx="21" name="theta" list="false">
+<jp>シータ</jp>
+<exp></exp>
+<sound>tech2vi03idx21_theta.mp3</sound>
+<image>theta.swf</image>
+</w>
+<w idx="22" name="lambda" list="false">
+<jp>ラムダ</jp>
+<exp></exp>
+<sound>tech2vi03idx22_lambda.mp3</sound>
+<image>lambda.swf</image>
+</w>
+<w idx="23" name="chi" list="false">
+<jp>カイ</jp>
+<exp></exp>
+<sound>tech2vi03idx23_chi.mp3</sound>
+<image>chi.swf</image>
+</w>
+<w idx="24" name="tau" list="false">
+<jp>タウ</jp>
+<exp></exp>
+<sound>tech2vi03idx24_tau.mp3</sound>
+<image>tau.swf</image>
+</w>
+<w idx="25" name="nu" list="false">
+<jp>ニュー</jp>
+<exp></exp>
+<sound>tech2vi03idx25_nu.mp3</sound>
+<image>nu.swf</image>
+</w>
+<w idx="26" name="sigma" list="false">
+<jp>シグマ</jp>
+<exp></exp>
+<sound>tech2vi03idx26_sigma.mp3</sound>
+<image>sigma.swf</image>
+</w>
+<w idx="27" name="mu" list="false">
+<jp>ミュー</jp>
+<exp></exp>
+<sound>tech2vi03idx27_mu.mp3</sound>
+<image>mu.swf</image>
+</w>
+<w idx="28" name="psi" list="false">
+<jp>プサイ</jp>
+<exp></exp>
+<sound>tech2vi03idx28_psi.mp3</sound>
+<image>psi.swf</image>
+</w>
+<w idx="29" name="gamma" list="false">
+<jp>ガンマ</jp>
+<exp></exp>
+<sound>tech2vi03idx29_gamma.mp3</sound>
+<image>gamma.swf</image>
+</w>
+<w idx="30" name="eta" list="false">
+<jp>イータ</jp>
+<exp></exp>
+<sound>tech2vi03idx30_eta.mp3</sound>
+<image>eta.swf</image>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. alpha</p>
+<p>2. psi</p>
+<p>3. beta</p>
+<p>4. mu</p>
+<p>5. nu</p>
+<p>6. gamma</p>
+<p>7. delta</p>
+<p>8. epsilon</p>
+<p>9. zeta</p>
+<p>10. theta</p>
+<p>11. kappa</p>
+<p>12. lambda</p>
+<p>13. pi</p>
+<p>14. rho</p>
+<p>15. sigma</p>
+<p>16. omega</p>
+<p>17. eta</p>
+<p>18. tau</p>
+<p>19. phi</p>
+<p>20. chi</p>
+</contents>
+</unit>

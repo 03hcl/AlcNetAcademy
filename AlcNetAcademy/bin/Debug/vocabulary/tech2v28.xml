@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="28">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅱ 動詞・形容詞ほか,動詞７</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">技術英語でよく使われる動詞です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="match">
+<jp>整合する</jp>
+<exp>【動】整合する、一致する、適合する</exp>
+<sound>tech2v28idx01_match.mp3</sound>
+</w>
+<w idx="2" name="draw">
+<jp>製図する</jp>
+<exp>【動】製図する、描く</exp>
+<sound>tech2v28idx02_draw.mp3</sound>
+</w>
+<w idx="3" name="refine">
+<jp>精製する</jp>
+<exp>【動】精製する</exp>
+<sound>tech2v28idx03_refine.mp3</sound>
+</w>
+<w idx="4" name="grow">
+<jp>成長する</jp>
+<exp>【動】成長する</exp>
+<sound>tech2v28idx04_grow.mp3</sound>
+</w>
+<w idx="5" name="connect">
+<jp>接続する</jp>
+<exp>【動】接続する</exp>
+<sound>tech2v28idx05_connect.mp3</sound>
+</w>
+<w idx="6" name="install">
+<jp>設置する</jp>
+<exp>【動】設置する</exp>
+<sound>tech2v28idx06_install.mp3</sound>
+</w>
+<w idx="7" name="explain">
+<jp>説明する</jp>
+<exp>【動】説明する</exp>
+<sound>tech2v28idx07_explain.mp3</sound>
+</w>
+<w idx="8" name="advance">
+<jp>前進する</jp>
+<exp>【動】前進する</exp>
+<sound>tech2v28idx08_advance.mp3</sound>
+</w>
+<w idx="9" name="insert">
+<jp>挿入する</jp>
+<exp>【動】挿入する</exp>
+<sound>tech2v28idx09_insert.mp3</sound>
+</w>
+<w idx="10" name="equip">
+<jp>装備する</jp>
+<exp>【動】装備する</exp>
+<sound>tech2v28idx10_equip.mp3</sound>
+</w>
+<w idx="11" name="organize">
+<jp>組織する</jp>
+<exp>【動】組織する</exp>
+<sound>tech2v28idx11_organize.mp3</sound>
+</w>
+<w idx="12" name="block">
+<jp>阻止する</jp>
+<exp>【動】阻止する</exp>
+<sound>tech2v28idx12_block.mp3</sound>
+</w>
+<w idx="13" name="pour">
+<jp>注ぐ</jp>
+<exp>【動】注ぐ</exp>
+<sound>tech2v28idx13_pour.mp3</sound>
+</w>
+<w idx="14" name="exist">
+<jp>存在する</jp>
+<exp>【動】存在する</exp>
+<sound>tech2v28idx14_exist.mp3</sound>
+</w>
+<w idx="15" name="damage">
+<jp>損傷を与える</jp>
+<exp>【動】損傷を与える</exp>
+<sound>tech2v28idx15_damage.mp3</sound>
+</w>
+<w idx="16" name="withstand">
+<jp>耐える</jp>
+<exp>【動】耐える</exp>
+<sound>tech2v28idx16_withstand.mp3</sound>
+</w>
+<w idx="17" name="cultivate">
+<jp>耕す</jp>
+<exp>【動】耕す、栽培する</exp>
+<sound>tech2v28idx17_cultivate.mp3</sound>
+</w>
+<w idx="18" name="knock">
+<jp>たたく</jp>
+<exp>【動】たたく</exp>
+<sound>tech2v28idx18_knock.mp3</sound>
+</w>
+<w idx="19" name="shorten">
+<jp>短縮する</jp>
+<exp>【動】短縮する</exp>
+<sound>tech2v28idx19_shorten.mp3</sound>
+</w>
+<w idx="20" name="approach">
+<jp>近づく</jp>
+<exp>【動】近づく</exp>
+<sound>tech2v28idx20_approach.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. match</p>
+<p>2. draw</p>
+<p>3. refine</p>
+<p>4. grow</p>
+<p>5. connect</p>
+<p>6. install</p>
+<p>7. explain</p>
+<p>8. advance</p>
+<p>9. insert</p>
+<p>10. equip</p>
+<p>11. organize</p>
+<p>12. block</p>
+<p>13. pour</p>
+<p>14. exist</p>
+<p>15. damage</p>
+<p>16. withstand</p>
+<p>17. cultivate</p>
+<p>18. knock</p>
+<p>19. shorten</p>
+<p>20. approach</p>
+</contents>
+</unit>

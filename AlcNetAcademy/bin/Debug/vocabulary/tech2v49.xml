@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="49">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅲ 科学基礎,科学基礎８</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">科学全般に共通する基礎語彙力を身につけます。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="infrared sensor">
+<jp>赤外線センサー</jp>
+<exp>【名】赤外線センサー</exp>
+<sound>tech2v49idx01_infrared_sensor.mp3</sound>
+</w>
+<w idx="2" name="loudspeaker">
+<jp>拡声器</jp>
+<exp>【名】拡声器</exp>
+<sound>tech2v49idx02_loudspeaker.mp3</sound>
+</w>
+<w idx="3" name="microphone">
+<jp>マイク</jp>
+<exp>【名】マイク、（ラジオなどの）送話器</exp>
+<sound>tech2v49idx03_microphone.mp3</sound>
+</w>
+<w idx="4" name="cassette">
+<jp>カセット</jp>
+<exp>【名】カセット</exp>
+<sound>tech2v49idx04_cassette.mp3</sound>
+</w>
+<w idx="5" name="thermostat">
+<jp>サーモスタット</jp>
+<exp>【名】サーモスタット、自動温度調節装置、恒温槽</exp>
+<sound>tech2v49idx05_thermostat.mp3</sound>
+</w>
+<w idx="6" name="shutter">
+<jp>シャッター</jp>
+<exp>【名】シャッター</exp>
+<sound>tech2v49idx06_shutter.mp3</sound>
+</w>
+<w idx="7" name="fire extinguisher">
+<jp>消火器</jp>
+<exp>【名】消火器</exp>
+<sound>tech2v49idx07_fire_extinguisher.mp3</sound>
+</w>
+<w idx="8" name="intake">
+<jp>取り入れ口</jp>
+<exp>【名】取り入れ口</exp>
+<sound>tech2v49idx08_intake.mp3</sound>
+</w>
+<w idx="9" name="arrangement">
+<jp>配置</jp>
+<exp>【名】配置、配列</exp>
+<sound>tech2v49idx09_arrangement.mp3</sound>
+</w>
+<w idx="10" name="radiator">
+<jp>放熱機</jp>
+<exp>【名】放熱機</exp>
+<sound>tech2v49idx10_radiator.mp3</sound>
+</w>
+<w idx="11" name="faucet">
+<jp>水栓</jp>
+<exp>【名】水栓、蛇口</exp>
+<sound>tech2v49idx11_faucet.mp3</sound>
+</w>
+<w idx="12" name="paste">
+<jp>練り物</jp>
+<exp>【名】練り物、糊、ペースト</exp>
+<sound>tech2v49idx12_paste.mp3</sound>
+</w>
+<w idx="13" name="facility">
+<jp>設備</jp>
+<exp>【名】設備</exp>
+<sound>tech2v49idx13_facility.mp3</sound>
+</w>
+<w idx="14" name="mold">
+<jp>鋳型</jp>
+<exp>【名】鋳型、金型、型</exp>
+<sound>tech2v49idx14_mold.mp3</sound>
+</w>
+<w idx="15" name="handle">
+<jp>取っ手</jp>
+<exp>【名】取っ手　【動】取り扱う、操作する</exp>
+<sound>tech2v49idx15_handle.mp3</sound>
+</w>
+<w idx="16" name="panel">
+<jp>パネル</jp>
+<exp>【名】パネル</exp>
+<sound>tech2v49idx16_panel.mp3</sound>
+</w>
+<w idx="17" name="technology">
+<jp>技術</jp>
+<exp>【名】技術、科学技術、技術学</exp>
+<sound>tech2v49idx17_technology.mp3</sound>
+</w>
+<w idx="18" name="factory">
+<jp>工場</jp>
+<exp>【名】工場</exp>
+<sound>tech2v49idx18_factory.mp3</sound>
+</w>
+<w idx="19" name="alert">
+<jp>警報</jp>
+<exp>【名】警報</exp>
+<sound>tech2v49idx19_alert.mp3</sound>
+</w>
+<w idx="20" name="workshop">
+<jp>仕事場</jp>
+<exp>【名】仕事場</exp>
+<sound>tech2v49idx20_workshop.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. infrared sensor</p>
+<p>2. loudspeaker</p>
+<p>3. microphone</p>
+<p>4. cassette</p>
+<p>5. thermostat</p>
+<p>6. shutter</p>
+<p>7. fire extinguisher</p>
+<p>8. intake</p>
+<p>9. arrangement</p>
+<p>10. radiator</p>
+<p>11. faucet</p>
+<p>12. paste</p>
+<p>13. facility</p>
+<p>14. mold</p>
+<p>15. handle</p>
+<p>16. panel</p>
+<p>17. technology</p>
+<p>18. factory</p>
+<p>19. alert</p>
+<p>20. workshop</p>
+</contents>
+</unit>

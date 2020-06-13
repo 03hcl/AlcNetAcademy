@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 基礎コース -->
+
+<unit idx="30">
+
+<introduction>
+<title>次世代携帯電話の通話方式</title>
+<read>&lt;font size="16" color="#000000"&gt;
+（学習のポイント）               
+&lt;/font&gt;
+&lt;font size="16" color="#0000FF"&gt;
+times 比較級 than／utilize
+&lt;/font&gt;
+&lt;br&gt;
+&lt;font size="16" color="#000000"&gt;
+10代後半から20代の携帯電話普及率は100％に近いでしょう。普及に伴い性能の向上も進んでいます。理系の英文はこれまで学んできたように動詞の選択が重要です。簡潔に、正確に、具体的に表現できる『ぴったんこ動詞』を選びましょう。
+&lt;/font&gt;</read>
+</introduction>
+
+
+<notes>
+<w idx="1" name="mark">
+<jp>符号</jp>
+<sound>tech2b30idx01_mark.mp3</sound>
+</w>
+<w idx="2" name="transmission">
+<jp>発信</jp>
+<sound>tech2b30idx02_transmission.mp3</sound>
+</w>
+<w idx="3" name="aural signal">
+<jp>音声信号</jp>
+<sound>tech2b30idx03_aural_signal.mp3</sound>
+</w>
+<w idx="4" name="multiplication">
+<jp>乗算</jp>
+<sound>tech2b30idx04_multiplication.mp3</sound>
+</w>
+<w idx="5" name="frequency">
+<jp>周波数</jp>
+<sound>tech2b30idx05_frequency.mp3</sound>
+</w>
+<w idx="6" name="utilize">
+<jp>利用する</jp>
+<sound>tech2b30idx06_utilize.mp3</sound>
+</w>
+<w idx="7" name="data communication">
+<jp>データ通信</jp>
+<sound>tech2b30idx07_data_communication.mp3</sound>
+</w>
+</notes>
+
+
+<!-- Step1、Topic&Vocaburary -->
+<contents type="tech2bStep1">
+<p>　CDMAは「<w idx="1">符号</w>分割多元接続」の略で、利用者がそれぞれ固有の符号をもち、複数の<w idx="2">発信</w>者の<w idx="3">音声信号</w>にその符号を<w idx="4">乗算</w>し、ひとつの<w idx="5">周波数</w>を使って音声信号を送受信する方式のことである。W-CDMAは、この方式を採用した新たな規格である。W-CDMAシステムのすべての利用者は、現在の周波数帯の数百倍にあたる広い周波数帯を<w idx="6">利用する</w>。これによって、高品質な通話だけでなく、動画などの高速<w idx="7">データ通信</w>も可能になる。</p>
+<p></p>
+<p>W-CDMA : Wideband Code Division Multiple Access</p>
+</contents>
+
+
+<!-- Step2、Writing1 -->
+<contents type="tech2bStep2">
+<instruction1>次の日本文から幹セン（S・V・O）を抜き出そう。</instruction1>
+<instruction2>[先輩]ボタンを押して、先輩が書いた英文とあなたの英文を比べてみよう。</instruction2>
+<sentence>
+<ph idx="1">W-CDMAシステムの</ph>
+<ph idx="2" miki="true">すべての利用者は、</ph>
+<ph idx="3">現在の周波数帯の数百倍にあたる</ph>
+<ph idx="4" miki="true">広い周波数帯域を</ph>
+<ph idx="5" miki="true">利用する。</ph>
+</sentence>
+<mikisentence>
+<ph idx="1" type="S">すべての利用者は、</ph>
+<ph idx="2" type="O">広い周波数帯域を</ph>
+<ph idx="3" type="V">利用する。</ph>
+</mikisentence>
+<hint text="">
+<ph idx="1">users</ph>
+<ph idx="2">broad</ph>
+<ph idx="3">frequency</ph>
+<ph idx="4">band</ph>
+</hint>
+<senior answer="B"><sel cd="A">All users</sel> <sel cd="B">use</sel> <sel cd="C">a</sel> <sel cd="D">broad frequency band</sel>.</senior>
+<teach>All users utilize a broad frequency band.</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　波の３要素は周波数、振幅、そして周期です。それぞれ &lt;font color="#FF0000"&gt;frequency&lt;/font&gt;、&lt;font color="#FF0000"&gt;amplitude&lt;/font&gt;、&lt;font color="#FF0000"&gt;period&lt;/font&gt; です。こうして単語を増やしていくと、それぞれの単語を忘れにくくなるのでお勧めします。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　use を「間違いだ」と言い切るのも大根不作、いや間違い、大胆不敵ですが、あえて理系の英文では道具や試薬を使うときは use、施設やシステムを利用するときには &lt;font color="#FF0000"&gt;utilize&lt;/font&gt; がぴったんこ動詞です。ここでは「周波数帯域」というシステムを利用するので、utilize がいいでしょう。ちなみに電気、ガス、水道といった利用設備を &lt;font color="#FF0000"&gt;utility&lt;/font&gt; といいます。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step3、Writing2 -->
+<contents type="tech2bStep3">
+<hint text="">
+<ph idx="1">W-CDMA system</ph>
+<ph idx="2">corresponding to</ph>
+<ph idx="3">several</ph>
+<ph idx="4">hundred</ph>
+<ph idx="5">current</ph>
+</hint>
+</contents>
+
+
+<!-- Step4、Comparisons -->
+<contents type="tech2bStep4">
+<senior answer="2">All users of W-CDMA systems utilize a broad frequency band, which is several hundreds times wider than the current frequency band.</senior>
+<teach>
+&lt;font size="20" color="#000000"&gt;
+All users 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+of W-CDMA systems 
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+utilize a broad frequency band
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+, which is several hundred times wider than the current frequency band
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+.
+&lt;/font&gt;
+</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　「A は B の●倍」の登場です。この倍数表現のたびに私はどぎまぎしてしまいます。「どうするんだっけ？　原級（as ... as）でも比較級（-er）でも表現できたんだったよなあ」と近くにある英語の参考書に手が伸びます。いつもうろ覚えに終わっています。そこで、次のパターンだけを懸命に覚えることにしました。複雑ではないからです。&lt;br&gt;
+　　&lt;font color="#FF0000"&gt;&lt;b&gt;A is ● times 比較級 than B&lt;/b&gt;&lt;/font&gt;&lt;br&gt;
+&lt;br&gt;
+　「数百倍」というのは大変困ります。この「数」が２～９のどの辺りなんだと問い詰めたくなります。その通りです。理系の文章では、こういうあいまいな表現を避けます。みなさんは、具体的な数字を示すように心がけましょう。そのまま訳す場合は &lt;font color="#FF0000"&gt;several&lt;/font&gt; を使います。手元の辞書によれば、several は「普通３ないし５から６くらい」とあります。&lt;br&gt;
+&lt;br&gt;
+　「現在の」は &lt;font color="#FF0000"&gt;current&lt;/font&gt; で、「これまでの」「従来の」だと &lt;font color="#FF0000"&gt;conventional&lt;/font&gt;、「新しい」が &lt;font color="#FF0000"&gt;new&lt;/font&gt; または &lt;font color="#FF0000"&gt;novel&lt;/font&gt; です。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　several だから hundred を複数形にしたのでしょう。 hundred を辞書で引くと、形容詞「百の」と名詞「百」があります。「数百倍」のときには「数百」は「倍（times）」を修飾する形容詞です。ですから s はつけません。例えば、600キロメートルの旅なら、six hundred km journey となります。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step5、Exercisse -->
+<contents type="tech2bStep5" size="5">
+<instruction1>このユニットで登場した表現に関連する表現、新しい表現を練習しよう。</instruction1>
+<question no="1" type="R">
+<textTrans>リミットスイッチの１回転は、プレスの１サイクルに相当する。</textTrans>
+<text>One revolution of the limit switch corresponds <sel cd="A" answer="3"></sel> one cycle of the press.</text>
+<sel cd="A" idx="1">in</sel>
+<sel cd="A" idx="2">with</sel>
+<sel cd="A" idx="3">to</sel>
+<hint>
+<sound>tech2b30s5Q01.mp3</sound>
+</hint>
+<point>　「…に相当する」は correspond to ... です。</point>
+</question>
+
+<question no="2" type="R">
+<textTrans>ファイルマップは機能的にはページマップに対応する。</textTrans>
+<text>The file map <sel cd="A" answer="3"></sel> corresponds <sel cd="B" answer="3"></sel> a page map.</text>
+<sel cd="A" idx="1">function</sel>
+<sel cd="A" idx="2">functional</sel>
+<sel cd="A" idx="3">functionally</sel>
+<sel cd="B" idx="1">in</sel>
+<sel cd="B" idx="2">with</sel>
+<sel cd="B" idx="3">to</sel>
+<hint>
+<sound>tech2b30s5Q02.mp3</sound>
+</hint>
+<point>　「機能的には」は副詞ですので functionally を選んでください。 function は「機能」で名詞、functional は「機能の」で形容詞です。「…に対応する」は correspond to ... です。</point>
+</question>
+
+<question no="3" type="R">
+<textTrans>すべての通信はABC社宛にしてください。</textTrans>
+<text>All <sel cd="A" answer="2"></sel> should be directed to ABC Company.</text>
+<sel cd="A" idx="1">correspondences</sel>
+<sel cd="A" idx="2">correspondence</sel>
+<hint>
+<sound>tech2b30s5Q03.mp3</sound>
+</hint>
+<point>　correspondence は、手紙、電報、ファクスなどの「通信文書」という意味で使う場合、不可算名詞の扱いです。複数形では使いません。</point>
+</question>
+
+<question no="4" type="R">
+<textTrans>たいていの物質はふたつ以上の元素でできている。</textTrans>
+<text>Most substances are composed <sel cd="A" answer="1"></sel> two or more elements.</text>
+<sel cd="A" idx="1">of</sel>
+<sel cd="A" idx="2">from</sel>
+<sel cd="A" idx="3">in</sel>
+<hint>
+<sound>tech2b30s5Q04.mp3</sound>
+</hint>
+<point>　be composed of ... ＝ consist of ... で「…でできている」「…から成る」。</point>
+</question>
+
+<question no="5" type="R">
+<textTrans>この工場の面積は１ヘクタールである。</textTrans>
+<text>This plant has an area <sel cd="A" answer="2"></sel> 1 ha.</text>
+<sel cd="A" idx="1">in</sel>
+<sel cd="A" idx="2">of</sel>
+<sel cd="A" idx="3">for</sel>
+<hint>
+<sound>tech2b30s5Q05.mp3</sound>
+</hint>
+<point>　この of は「…という（同格）」という意味の of です。ユニット７の「of をというのが訳し方」を思い出してください。 an area of ● ha で、「●ヘクタールという面積」を表すことができます。</point>
+</question>
+</contents>
+
+
+<contents type="phrase">
+<p><ph idx="1">All users of W-CDMA systems utilize a broad frequency band, which is several hundred times wider than the current frequency band.</ph></p>
+<p></p>
+<p><ph idx="2">1. One revolution of the limit switch corresponds to one cycle of the press.</ph></p>
+<p><ph idx="3">2. The file map functionally corresponds to a page map.</ph></p>
+<p><ph idx="4">3. All correspondence should be directed to ABC Company.</ph></p>
+<p><ph idx="5">4. Most substances are composed of two or more elements.</ph></p>
+<p><ph idx="6">5. This plant has an area of 1 ha.</ph></p>
+</contents>
+
+<contents type="translation">
+<p><ph idx="1">W-CDMAシステムのすべての利用者は、現在の周波数帯の数百倍にあたる広い周波数帯域を利用する。</ph></p>
+<p></p>
+<p><ph idx="2">1. リミットスイッチの１回転は、プレスの１サイクルに相当する。</ph></p>
+<p><ph idx="3">2. ファイルマップは機能的にはページマップに対応する。</ph></p>
+<p><ph idx="4">3. すべての通信はABC社宛にしてください。</ph></p>
+<p><ph idx="5">4. たいていの物質はふたつ以上の元素でできている。</ph></p>
+<p><ph idx="6">5. この工場の面積は１ヘクタールである。</ph></p>
+</contents>
+
+
+</unit>

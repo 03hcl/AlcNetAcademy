@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（イラスト演習） -->
+
+<unit idx="09">
+
+<!-- タイトル -->
+<title>Ⅳ イラスト演習,一般４</title>
+
+<!-- 問題 -->
+<question no="1" size="3">
+<sel cd="1" w="21"></sel>
+<sel cd="2" w="22"></sel>
+<sel cd="3" w="23"></sel>
+</question>
+<question no="2" size="3">
+<sel cd="1" w="1"></sel>
+<sel cd="2" w="2"></sel>
+<sel cd="3" w="3"></sel>
+</question>
+<question no="3" size="3">
+<sel cd="1" w="4"></sel>
+<sel cd="2" w="5"></sel>
+<sel cd="3" w="6"></sel>
+</question>
+<question no="4" size="3">
+<sel cd="1" w="24"></sel>
+<sel cd="2" w="25"></sel>
+<sel cd="3" w="26"></sel>
+</question>
+<question no="5" size="3">
+<sel cd="1" w="7"></sel>
+<sel cd="2" w="8"></sel>
+<sel cd="3" w="9"></sel>
+</question>
+<question no="6" size="3">
+<sel cd="1" w="10"></sel>
+<sel cd="2" w="11"></sel>
+<sel cd="3" w="12"></sel>
+</question>
+<question no="7" size="2">
+<sel cd="1" w="13"></sel>
+<sel cd="2" w="14"></sel>
+</question>
+<question no="8" size="3">
+<sel cd="1" w="15"></sel>
+<sel cd="2" w="16"></sel>
+<sel cd="3" w="17"></sel>
+</question>
+<question no="9" size="3">
+<sel cd="1" w="18"></sel>
+<sel cd="2" w="19"></sel>
+<sel cd="3" w="20"></sel>
+</question>
+<question no="10" size="3">
+<sel cd="1" w="27"></sel>
+<sel cd="2" w="28"></sel>
+<sel cd="3" w="29"></sel>
+</question>
+
+<notes>
+<w idx="1" name="right triangle" list="true">
+<jp>直角三角形</jp>
+<exp>直角三角形</exp>
+<sound>tech2vi09idx01_right_triangle.mp3</sound>
+<image>right_triangle.swf</image>
+</w>
+<w idx="2" name="isosceles triangle" list="true">
+<jp>二等辺三角形</jp>
+<exp>二等辺三角形</exp>
+<sound>tech2vi09idx02_isosceles_triangle.mp3</sound>
+<image>isosceles_triangle.swf</image>
+</w>
+<w idx="3" name="equilateral triangle" list="true">
+<jp>正三角形</jp>
+<exp>正三角形</exp>
+<sound>tech2vi09idx03_equilateral_triangle.mp3</sound>
+<image>equilateral_triangle.swf</image>
+</w>
+<w idx="4" name="test tube" list="true">
+<jp>試験管</jp>
+<exp>試験管</exp>
+<sound>tech2vi09idx04_test_tube.mp3</sound>
+<image>test_tube.swf</image>
+</w>
+<w idx="5" name="beaker" list="true">
+<jp>ビーカ</jp>
+<exp>ビーカ</exp>
+<sound>tech2vi09idx05_beaker.mp3</sound>
+<image>beaker.swf</image>
+</w>
+<w idx="6" name="flask" list="true">
+<jp>フラスコ</jp>
+<exp>フラスコ</exp>
+<sound>tech2vi09idx06_flask.mp3</sound>
+<image>flask.swf</image>
+</w>
+<w idx="7" name="trapezoid" list="true">
+<jp>台形</jp>
+<exp>台形</exp>
+<sound>tech2vi09idx07_trapezoid.mp3</sound>
+<image>trapezoid.swf</image>
+</w>
+<w idx="8" name="parallelogram" list="true">
+<jp>平行四辺形</jp>
+<exp>平行四辺形</exp>
+<sound>tech2vi09idx08_parallelogram.mp3</sound>
+<image>parallelogram.swf</image>
+</w>
+<w idx="9" name="rhombus" list="true">
+<jp>ひし形の</jp>
+<exp>ひし形の</exp>
+<sound>tech2vi09idx09_rhombus.mp3</sound>
+<image>rhombus.swf</image>
+</w>
+<w idx="10" name="clockwise" list="true">
+<jp>時計回り</jp>
+<exp>時計回り</exp>
+<sound>tech2vi09idx10_clockwise.mp3</sound>
+<image>clockwise.swf</image>
+</w>
+<w idx="11" name="counterclockwise" list="true">
+<jp>逆時計回り</jp>
+<exp>逆時計回り</exp>
+<sound>tech2vi09idx11_counterclockwise.mp3</sound>
+<image>counterclockwise.swf</image>
+</w>
+<w idx="12" name="right-handed screw" list="true">
+<jp>右回しのねじ</jp>
+<exp>右回しのねじ</exp>
+<sound>tech2vi09idx12_right-handed_screw.mp3</sound>
+<image>right-handed_screw.swf</image>
+</w>
+<w idx="13" name="convex lens" list="true">
+<jp>凸レンズ</jp>
+<exp>凸レンズ</exp>
+<sound>tech2vi09idx13_convex_lens.mp3</sound>
+<image>convex_lens.swf</image>
+</w>
+<w idx="14" name="concave lens" list="true">
+<jp>凹レンズ</jp>
+<exp>凹レンズ</exp>
+<sound>tech2vi09idx14_concave_lens.mp3</sound>
+<image>concave_lens.swf</image>
+</w>
+<w idx="15" name="denominator" list="true">
+<jp>分母</jp>
+<exp>分母</exp>
+<sound>tech2vi09idx15_denominator.mp3</sound>
+<image>denominator.swf</image>
+</w>
+<w idx="16" name="numerator" list="true">
+<jp>分子</jp>
+<exp>分子</exp>
+<sound>tech2vi09idx16_numerator.mp3</sound>
+<image>numerator.swf</image>
+</w>
+<w idx="17" name="mixed fraction" list="true">
+<jp>帯分数</jp>
+<exp>帯分数</exp>
+<sound>tech2vi09idx17_mixed_fraction.mp3</sound>
+<image>mixed_fraction.swf</image>
+</w>
+<w idx="18" name="thermometer" list="true">
+<jp>温度計</jp>
+<exp>温度計</exp>
+<sound>tech2vi09idx18_thermometer.mp3</sound>
+<image>thermometer.swf</image>
+</w>
+<w idx="19" name="speedometer" list="true">
+<jp>速度計</jp>
+<exp>速度計</exp>
+<sound>tech2vi09idx19_speedometer.mp3</sound>
+<image>speedometer.swf</image>
+</w>
+<w idx="20" name="hydrometer" list="true">
+<jp>比重計</jp>
+<exp>比重計</exp>
+<sound>tech2vi09idx20_hydrometer.mp3</sound>
+<image>hydrometer.swf</image>
+</w>
+<w idx="21" name="escalator" list="false">
+<jp>エスカレータ</jp>
+<exp></exp>
+<sound>tech2vi09idx21_escalator.mp3</sound>
+<image>escalator.swf</image>
+</w>
+<w idx="22" name="elevator" list="false">
+<jp>エレベータ</jp>
+<exp></exp>
+<sound>tech2vi09idx22_elevator.mp3</sound>
+<image>elevator.swf</image>
+</w>
+<w idx="23" name="Everest" list="false">
+<jp>エベレスト</jp>
+<exp></exp>
+<sound>tech2vi09idx23_Everest.mp3</sound>
+<image>Everest.swf</image>
+</w>
+<w idx="24" name="binary" list="false">
+<jp>２進法の</jp>
+<exp></exp>
+<sound>tech2vi09idx24_binary.mp3</sound>
+<image>binary.swf</image>
+</w>
+<w idx="25" name="decimal" list="false">
+<jp>10進法の</jp>
+<exp></exp>
+<sound>tech2vi09idx25_decimal.mp3</sound>
+<image>decimal.swf</image>
+</w>
+<w idx="26" name="hexadecimal" list="false">
+<jp>16進法の</jp>
+<exp></exp>
+<sound>tech2vi09idx26_hexadecimal.mp3</sound>
+<image>hexadecimal.swf</image>
+</w>
+<w idx="27" name="Phillips screwdriver" list="false">
+<jp>プラスねじ回し</jp>
+<exp></exp>
+<sound>tech2vi09idx27_Phillips_screwdriver.mp3</sound>
+<image>Phillips_screwdriver.swf</image>
+</w>
+<w idx="28" name="flat head screwdriver" list="false">
+<jp>マイナスねじ回し</jp>
+<exp></exp>
+<sound>tech2vi09idx28_flat_head_screwdriver.mp3</sound>
+<image>flat_head_screwdriver.swf</image>
+</w>
+<w idx="29" name="hex wrench" list="false">
+<jp>六角レンチ</jp>
+<exp></exp>
+<sound>tech2vi09idx29_hex_wrench.mp3</sound>
+<image>hex_wrench.swf</image>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. right triangle</p>
+<p>2. isosceles triangle</p>
+<p>3. equilateral triangle</p>
+<p>4. test tube</p>
+<p>5. beaker</p>
+<p>6. flask</p>
+<p>7. trapezoid</p>
+<p>8. parallelogram</p>
+<p>9. rhombus</p>
+<p>10. clockwise</p>
+<p>11. counterclockwise</p>
+<p>12. right-handed screw</p>
+<p>13. convex lens</p>
+<p>14. concave lens</p>
+<p>15. denominator</p>
+<p>16. numerator</p>
+<p>17. mixed fraction</p>
+<p>18. thermometer</p>
+<p>19. speedometer</p>
+<p>20. hydrometer</p>
+</contents>
+</unit>

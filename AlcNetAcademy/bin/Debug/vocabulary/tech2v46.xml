@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="46">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅲ 科学基礎,科学基礎５</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">科学全般に共通する基礎語彙力を身につけます。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="hydrometer">
+<jp>比重計</jp>
+<exp>【名】比重計、浮きばかり</exp>
+<sound>tech2v46idx01_hydrometer.mp3</sound>
+</w>
+<w idx="2" name="thermometer">
+<jp>温度計</jp>
+<exp>【名】温度計</exp>
+<sound>tech2v46idx02_thermometer.mp3</sound>
+</w>
+<w idx="3" name="barometer">
+<jp>気圧計</jp>
+<exp>【名】気圧計</exp>
+<sound>tech2v46idx03_barometer.mp3</sound>
+</w>
+<w idx="4" name="speedometer">
+<jp>速度計</jp>
+<exp>【名】速度計</exp>
+<sound>tech2v46idx04_speedometer.mp3</sound>
+</w>
+<w idx="5" name="tachometer">
+<jp>回転速度計</jp>
+<exp>【名】回転速度計</exp>
+<sound>tech2v46idx05_tachometer.mp3</sound>
+</w>
+<w idx="6" name="precision measurement">
+<jp>精密測定</jp>
+<exp>【名】精密測定</exp>
+<sound>tech2v46idx06_precision_measurement.mp3</sound>
+</w>
+<w idx="7" name="survey">
+<jp>測量</jp>
+<exp>【名】測量　【動】調査する</exp>
+<sound>tech2v46idx07_survey.mp3</sound>
+</w>
+<w idx="8" name="altimeter">
+<jp>高度計</jp>
+<exp>【名】高度計</exp>
+<sound>tech2v46idx08_altimeter.mp3</sound>
+</w>
+<w idx="9" name="hygrometer">
+<jp>湿度計</jp>
+<exp>【名】湿度計</exp>
+<sound>tech2v46idx09_hygrometer.mp3</sound>
+</w>
+<w idx="10" name="radar">
+<jp>レーダ</jp>
+<exp>【名】レーダ</exp>
+<sound>tech2v46idx10_radar.mp3</sound>
+</w>
+<w idx="11" name="capacity">
+<jp>容量</jp>
+<exp>【名】容量</exp>
+<sound>tech2v46idx11_capacity.mp3</sound>
+</w>
+<w idx="12" name="gage">
+<jp>計器</jp>
+<exp>【名】計器、ゲージ</exp>
+<sound>tech2v46idx12_gage.mp3</sound>
+</w>
+<w idx="13" name="compass">
+<jp>コンパス</jp>
+<exp>【名】コンパス、羅針盤</exp>
+<sound>tech2v46idx13_compass.mp3</sound>
+</w>
+<w idx="14" name="distance">
+<jp>距離</jp>
+<exp>【名】距離</exp>
+<sound>tech2v46idx14_distance.mp3</sound>
+</w>
+<w idx="15" name="pitch">
+<jp>勾配</jp>
+<exp>【名】勾配、ピッチ</exp>
+<sound>tech2v46idx15_pitch.mp3</sound>
+</w>
+<w idx="16" name="ranging">
+<jp>測距</jp>
+<exp>【名】測距</exp>
+<sound>tech2v46idx16_ranging.mp3</sound>
+</w>
+<w idx="17" name="macrometer">
+<jp>測距儀</jp>
+<exp>【名】測距儀</exp>
+<sound>tech2v46idx17_macrometer.mp3</sound>
+</w>
+<w idx="18" name="microscope">
+<jp>顕微鏡</jp>
+<exp>【名】顕微鏡</exp>
+<sound>tech2v46idx18_microscope.mp3</sound>
+</w>
+<w idx="19" name="telescope">
+<jp>望遠鏡</jp>
+<exp>【名】望遠鏡</exp>
+<sound>tech2v46idx19_telescope.mp3</sound>
+</w>
+<w idx="20" name="indicator">
+<jp>表示器</jp>
+<exp>【名】表示器、指示薬</exp>
+<sound>tech2v46idx20_indicator.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. hydrometer</p>
+<p>2. thermometer</p>
+<p>3. barometer</p>
+<p>4. speedometer</p>
+<p>5. tachometer</p>
+<p>6. precision measurement</p>
+<p>7. survey</p>
+<p>8. altimeter</p>
+<p>9. hygrometer</p>
+<p>10. radar</p>
+<p>11. capacity</p>
+<p>12. gage</p>
+<p>13. compass</p>
+<p>14. distance</p>
+<p>15. pitch</p>
+<p>16. ranging</p>
+<p>17. macrometer</p>
+<p>18. microscope</p>
+<p>19. telescope</p>
+<p>20. indicator</p>
+</contents>
+</unit>

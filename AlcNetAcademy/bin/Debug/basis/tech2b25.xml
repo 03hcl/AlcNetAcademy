@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 基礎コース -->
+
+<unit idx="25">
+
+<introduction>
+<title>クリーンな電源：燃料電池</title>
+<read>&lt;font size="16" color="#000000"&gt;
+（学習のポイント）               
+&lt;/font&gt;
+&lt;font size="16" color="#0000FF"&gt;
+関係詞／which／convert
+&lt;/font&gt;
+&lt;br&gt;
+&lt;font size="16" color="#000000"&gt;
+化石燃料のような窒素酸化物を排出することのない燃料電池には大きな期待がかかっています。このユニットでは、関係詞 which を使った表現や、より正確に表現するための副詞、形容詞などの関係を学習します。
+&lt;/font&gt;</read>
+</introduction>
+
+
+<notes>
+<w idx="1" name="fuel cell">
+<jp>燃料電池</jp>
+<sound>tech2b25idx01_fuel_cell.mp3</sound>
+</w>
+<w idx="2" name="hydrogen">
+<jp>水素</jp>
+<sound>tech2b25idx02_hydrogen.mp3</sound>
+</w>
+<w idx="3" name="chemical energy">
+<jp>化学エネルギー</jp>
+<sound>tech2b25idx03_chemical_energy.mp3</sound>
+</w>
+<w idx="4" name="electrical energy">
+<jp>電気エネルギー</jp>
+<sound>tech2b25idx04_electrical_energy.mp3</sound>
+</w>
+<w idx="5" name="device">
+<jp>装置</jp>
+<sound>tech2b25idx05_device.mp3</sound>
+</w>
+<w idx="6" name="electrolysis">
+<jp>電気分解</jp>
+<sound>tech2b25idx06_electrolysis.mp3</sound>
+</w>
+<w idx="7" name="thermal power generation">
+<jp>火力発電</jp>
+<sound>tech2b25idx07_thermal_power_generation.mp3</sound>
+</w>
+<w idx="8" name="energy conversion">
+<jp>エネルギー変換</jp>
+<sound>tech2b25idx08_energy_conversion.mp3</sound>
+</w>
+<w idx="9" name="efficiency">
+<jp>効率</jp>
+<sound>tech2b25idx09_efficiency.mp3</sound>
+</w>
+<w idx="10" name="air pollution">
+<jp>大気汚染</jp>
+<sound>tech2b25idx10_air_pollution.mp3</sound>
+</w>
+</notes>
+
+
+<!-- Step1、Topic&Vocaburary -->
+<contents type="tech2bStep1">
+<p>　<w idx="1">燃料電池</w>は、<w idx="2">水素</w>と酸素を連続的に反応させて、<w idx="3">化学エネルギー</w>を<w idx="4">電気エネルギー</w>に直接変換する<w idx="5">装置</w>である。水の<w idx="6">電気分解</w>の逆反応を利用したもので、従来の<w idx="7">火力発電</w>に比べて<w idx="8">エネルギー変換</w>の<w idx="9">効率</w>が高い。またNOxやSOxが発生せず<w idx="10">大気汚染</w>を伴わないので、これからの電力源として期待されている。コストダウンと小型化が今後の課題である。</p>
+</contents>
+
+
+<!-- Step2、Writing1 -->
+<contents type="tech2bStep2">
+<instruction1>次の日本文から、幹センを抜き出そう。</instruction1>
+<instruction2>[先輩]ボタンを押して、先輩が書いた英文とあなたの英文を比べてみよう。</instruction2>
+<sentence>
+<ph idx="1" miki="true">燃料電池は、</ph>
+<ph idx="2">水素と酸素を</ph>
+<ph idx="3">連続的に反応させて、</ph>
+<ph idx="4" miki="true">化学エネルギーを電気エネルギーに</ph>
+<ph idx="5">直接</ph>
+<ph idx="6" miki="true">変換する</ph>
+<ph idx="7" miki="true">装置である。</ph>
+</sentence>
+<mikisentence>
+<ph idx="1" type="S">燃料電池は、</ph>
+<ph idx="2">化学エネルギーを電気エネルギーに変換する</ph>
+<ph idx="3" type="C">装置</ph>
+<ph idx="4" type="V">である。</ph>
+</mikisentence>
+<hint text="">
+<ph idx="1">A fuel cell</ph>
+<ph idx="2">device</ph>
+<ph idx="3">convert</ph>
+<ph idx="4">chemical energy</ph>
+<ph idx="5">electrical energy</ph>
+</hint>
+<senior answer="C">A fuel cell <sel cd="A">is</sel> <sel cd="B">a device</sel> which <sel cd="C">convert</sel> chemical energy <sel cd="D">into</sel> electrical energy.</senior>
+<teach>A fuel cell is a device which converts chemical energy into electrical energy.</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　ふたつの文にひとつの共通の言葉が入っていると、ふたつの文をつなげたくなります。このとき、この「共通語」のひとつを which に書き換えてつなげます。 ふたつの文が１文になって長くなります。 which はふたつの文の接着剤です。逆にいうと、関係詞の入っている文から必ずふたつの文を作ることができます。この文では、共通語は device です。&lt;br&gt;
+　A fuel cell is a device.&lt;br&gt;
+　A device converts chemical energy into electrical energy.&lt;br&gt;
+のふたつの文ができます。 which（device）は後の文で主語になっています。 &lt;b&gt;which を使ったら、必ずふたつの文にしてひとつずつ文が正しいことを確認してください&lt;/b&gt;。&lt;br&gt;
+　関係詞（relative）には which の他にも whose、that、what、where、when、how がありますが、理系の英文ではもっぱら which を使います。&lt;br&gt;
+　「変換する」には &lt;font color="#FF0000"&gt;convert ● into ▲&lt;/font&gt; を使います。 &lt;font color="#FF0000"&gt;divide ● into ▲&lt;/font&gt;（●を▲に分ける）、&lt;font color="#FF0000"&gt;classify ● into ▲&lt;/font&gt;（●を▲に分類する）も思い出しましょう。&lt;br&gt;
+　「装置」には、device、apparatus、equipment、instrument があり、大きさや装置の種類によって使い分けます。実験装置なら an experimental apparatus（または device）といいます。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　which がはさまっていても「&lt;font color="#0000FF"&gt;３単現&lt;/font&gt;」は永久に不滅です。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step3、Writing2 -->
+<contents type="tech2bStep3">
+<hint text="">
+<ph idx="1">directly</ph>
+<ph idx="2">continuous</ph>
+<ph idx="3">reaction</ph>
+<ph idx="4">hydrogen</ph>
+<ph idx="5">oxygen</ph>
+</hint>
+</contents>
+
+
+<!-- Step4、Comparisons -->
+<contents type="tech2bStep4">
+<senior answer="6">A fuel cell is a device which directly converts chemical energy into electrical energy by a continual reaction of hydrogen with oxygen.</senior>
+<teach>
+&lt;font size="20" color="#000000"&gt;
+A fuel cell is a device which 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+directly 
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+converts chemical energy into electrical energy 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+through a continuous reaction of hydrogen with oxygen
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+.
+&lt;/font&gt;
+</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　「連続的（休みなし）」には &lt;font color="#FF0000"&gt;continuous&lt;/font&gt; を使います。 &lt;font color="#FF0000"&gt;continual&lt;/font&gt; なら「断続的（休みも入るということ）」という意味になります。他に、&lt;font color="#FF0000"&gt;adsorption&lt;/font&gt; / &lt;font color="#FF0000"&gt;absorption&lt;/font&gt;（吸着／吸収）、&lt;font color="#FF0000"&gt;silicon&lt;/font&gt; / &lt;font color="#FF0000"&gt;silicone&lt;/font&gt;（ケイ素／シリコーン樹脂）、&lt;font color="#FF0000"&gt;intra-&lt;/font&gt; / &lt;font color="#FF0000"&gt;inter-&lt;/font&gt;（内／間）、&lt;font color="#FF0000"&gt;chromatography&lt;/font&gt; / &lt;font color="#FF0000"&gt;chromatograph&lt;/font&gt; / &lt;font color="#FF0000"&gt;chromatogram&lt;/font&gt;（クロマトグラフィーという手法／クロマトグラフという機器／クロマトグラムというチャート）などがあります。&lt;br&gt;
+　ストレス解消のために「英語なんて嫌いだ！」とここで叫んでおきましょう。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+　「水素と酸素を連続的に反応させて」は「水素と酸素との連続反応によって」とリライトします。&lt;br&gt;
+　　副詞（連続的に）⇔形容詞（連続の）&lt;br&gt;
+　　動詞（反応させて）⇔名詞（反応によって）&lt;br&gt;
+といった具合に&lt;b&gt;品詞を変えるのがリライトの極意です&lt;/b&gt;。&lt;br&gt;
+&lt;br&gt;
+　「反応によって」の「によって」は by でなく &lt;font color="#FF0000"&gt;through&lt;/font&gt; を使ってください。「反応を経て」という感じが出ます。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step5、Exercisse -->
+<contents type="tech2bStep5" size="5">
+<instruction1>このユニットで登場した表現、関連する表現、さらに新しい表現を練習しよう。</instruction1>
+<question no="1" type="R">
+<textTrans>燃料電池は化学反応から直接電気をつくる装置である。</textTrans>
+<text>A fuel cell is <sel cd="A" answer="2"></sel> which produces electricity directly from a chemical reaction.</text>
+<sel cd="A" idx="1">an apparatus</sel>
+<sel cd="A" idx="2">a device</sel>
+<sel cd="A" idx="3">an equipment</sel>
+<hint>
+<sound>tech2b25s5Q01.mp3</sound>
+</hint>
+<point>　device は、「（特別に考案された）装置」のことです。水素と酸素とから電気をつくろうと考案された装置が燃料電池です。</point>
+</question>
+
+<question no="2" type="R">
+<textTrans>燃料電池は化学エネルギーを電気エネルギーへ変換する装置である。</textTrans>
+<text>A fuel cell is a device <sel cd="A" answer="2"></sel> convert chemical energy <sel cd="B" answer="3"></sel> electrical energy.</text>
+<sel cd="A" idx="1">for</sel>
+<sel cd="A" idx="2">to</sel>
+<sel cd="A" idx="3">that</sel>
+<sel cd="B" idx="1">in</sel>
+<sel cd="B" idx="2">to</sel>
+<sel cd="B" idx="3">into</sel>
+<hint>
+<sound>tech2b25s5Q02.mp3</sound>
+</hint>
+<point>　convert が動詞の原形ですので、for と that は間違いです。 convert A into B で、「A を B に変換する」といいます。</point>
+</question>
+
+<question no="3" type="R">
+<textTrans>燃料電池は電力をつくる装置である。</textTrans>
+<text>A fuel cell is a device for <sel cd="A" answer="3"></sel> electrical power.</text>
+<sel cd="A" idx="1">forming</sel>
+<sel cd="A" idx="2">building</sel>
+<sel cd="A" idx="3">generating</sel>
+<hint>
+<sound>tech2b25s5Q03.mp3</sound>
+</hint>
+<point>　「（電気や熱を）発生させる」には generate がぴったんこです。</point>
+</question>
+
+<question no="4" type="R">
+<textTrans>燃料電池の寸法をものさしで測った。</textTrans>
+<text>The dimensions of the fuel cell were <sel cd="A" answer="1"></sel> with a ruler.</text>
+<sel cd="A" idx="1">measured</sel>
+<sel cd="A" idx="2">weighed</sel>
+<sel cd="A" idx="3">determined</sel>
+<hint>
+<sound>tech2b25s5Q04.mp3</sound>
+</hint>
+<point>　「（ものさしを使って寸法）を測る」ときには measure がぴったんこ動詞です。</point>
+</question>
+
+<question no="5" type="R">
+<textTrans>許容限界を超えた部品は交換すべきである。</textTrans>
+<text>Parts exceeding the allowable limit should be <sel cd="A" answer="2"></sel> .</text>
+<sel cd="A" idx="1">exchanged</sel>
+<sel cd="A" idx="2">replaced</sel>
+<hint>
+<sound>tech2b25s5Q05.mp3</sound>
+</hint>
+<point>　replace は「取り換える」、exchange は「交換し合う」です。</point>
+</question>
+</contents>
+
+
+<contents type="phrase">
+<p><ph idx="1">A fuel cell is a device which directly converts chemical energy into electrical energy through a continuous reaction of hydrogen with oxygen.</ph></p>
+<p></p>
+<p><ph idx="2">1. A fuel cell is a device which produces electricity directly from a chemical reaction.</ph></p>
+<p><ph idx="3">2. A fuel cell is a device to convert chemical energy into electrical energy.</ph></p>
+<p><ph idx="4">3. A fuel cell is a device for generating electrical power.</ph></p>
+<p><ph idx="5">4. The dimensions of the fuel cell were measured with a ruler.</ph></p>
+<p><ph idx="6">5. Parts exceeding the allowable limit should be replaced.</ph></p>
+</contents>
+
+<contents type="translation">
+<p><ph idx="1">燃料電池は、水素と酸素を連続的に反応させて、化学エネルギーを電気エネルギーに直接変換する装置である。</ph></p>
+<p></p>
+<p><ph idx="2">1. 燃料電池は化学反応から直接電気をつくる装置である。</ph></p>
+<p><ph idx="3">2. 燃料電池は化学エネルギーを電気エネルギーへ変換する装置である。</ph></p>
+<p><ph idx="4">3. 燃料電池は電力をつくる装置である。</ph></p>
+<p><ph idx="5">4. 燃料電池の寸法をものさしで測った。</ph></p>
+<p><ph idx="6">5. 許容限界を超えた部品は交換すべきである。</ph></p>
+</contents>
+
+
+</unit>

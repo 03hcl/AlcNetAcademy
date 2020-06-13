@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="31">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅱ 動詞・形容詞ほか,動詞10</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">技術英語でよく使われる動詞です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="shake">
+<jp>振る</jp>
+<exp>【動】振る</exp>
+<sound>tech2v31idx01_shake.mp3</sound>
+</w>
+<w idx="2" name="convert">
+<jp>変換する</jp>
+<exp>【動】変換する</exp>
+<sound>tech2v31idx02_convert.mp3</sound>
+</w>
+<w idx="3" name="jam">
+<jp>（詰まって）動かなくなる</jp>
+<exp>【動】（詰まって）動かなくなる、（通信などを）妨害する</exp>
+<sound>tech2v31idx03_jam.mp3</sound>
+</w>
+<w idx="4" name="emit">
+<jp>放出する</jp>
+<exp>【動】放出する</exp>
+<sound>tech2v31idx04_emit.mp3</sound>
+</w>
+<w idx="5" name="expand">
+<jp>膨張する</jp>
+<exp>【動】膨張する</exp>
+<sound>tech2v31idx05_expand.mp3</sound>
+</w>
+<w idx="6" name="protect">
+<jp>保護する</jp>
+<exp>【動】保護する</exp>
+<sound>tech2v31idx06_protect.mp3</sound>
+</w>
+<w idx="7" name="dig">
+<jp>掘る</jp>
+<exp>【動】掘る</exp>
+<sound>tech2v31idx07_dig.mp3</sound>
+</w>
+<w idx="8" name="bend">
+<jp>曲げる</jp>
+<exp>【動】曲げる</exp>
+<sound>tech2v31idx08_bend.mp3</sound>
+</w>
+<w idx="9" name="mix">
+<jp>混ぜる</jp>
+<exp>【動】混ぜる</exp>
+<sound>tech2v31idx09_mix.mp3</sound>
+</w>
+<w idx="10" name="fill">
+<jp>満たす</jp>
+<exp>【動】満たす</exp>
+<sound>tech2v31idx10_fill.mp3</sound>
+</w>
+<w idx="11" name="seal">
+<jp>密封する</jp>
+<exp>【動】密封する</exp>
+<sound>tech2v31idx11_seal.mp3</sound>
+</w>
+<w idx="12" name="violate">
+<jp>違反する</jp>
+<exp>【動】違反する</exp>
+<sound>tech2v31idx12_violate.mp3</sound>
+</w>
+<w idx="13" name="raise">
+<jp>持ち上げる</jp>
+<exp>【動】持ち上げる</exp>
+<sound>tech2v31idx13_raise.mp3</sound>
+</w>
+<w idx="14" name="leak">
+<jp>漏れる</jp>
+<exp>【動】漏れる</exp>
+<sound>tech2v31idx14_leak.mp3</sound>
+</w>
+<w idx="15" name="transport">
+<jp>輸送する</jp>
+<exp>【動】輸送する</exp>
+<sound>tech2v31idx15_transport.mp3</sound>
+</w>
+<w idx="16" name="loosen">
+<jp>緩める</jp>
+<exp>【動】緩める</exp>
+<sound>tech2v31idx16_loosen.mp3</sound>
+</w>
+<w idx="17" name="require">
+<jp>要求する</jp>
+<exp>【動】要求する</exp>
+<sound>tech2v31idx17_require.mp3</sound>
+</w>
+<w idx="18" name="predict">
+<jp>予測する</jp>
+<exp>【動】予測する</exp>
+<sound>tech2v31idx18_predict.mp3</sound>
+</w>
+<w idx="19" name="prevent">
+<jp>予防する</jp>
+<exp>【動】予防する</exp>
+<sound>tech2v31idx19_prevent.mp3</sound>
+</w>
+<w idx="20" name="cool">
+<jp>冷却する</jp>
+<exp>【動】冷却する</exp>
+<sound>tech2v31idx20_cool.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. shake</p>
+<p>2. convert</p>
+<p>3. jam</p>
+<p>4. emit</p>
+<p>5. expand</p>
+<p>6. protect</p>
+<p>7. dig</p>
+<p>8. bend</p>
+<p>9. mix</p>
+<p>10. fill</p>
+<p>11. seal</p>
+<p>12. violate</p>
+<p>13. raise</p>
+<p>14. leak</p>
+<p>15. transport</p>
+<p>16. loosen</p>
+<p>17. require</p>
+<p>18. predict</p>
+<p>19. prevent</p>
+<p>20. cool</p>
+</contents>
+</unit>

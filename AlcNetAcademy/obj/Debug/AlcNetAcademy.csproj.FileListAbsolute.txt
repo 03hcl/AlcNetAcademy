@@ -1,0 +1,23 @@
+Z:\Documents\Visual Studio 2017\Projects\AlcNetAcademy\AlcNetAcademy\bin\Debug\StyleCop.CSharp.dll
+Z:\Documents\Visual Studio 2017\Projects\AlcNetAcademy\AlcNetAcademy\bin\Debug\StyleCop.dll
+Z:\Documents\Visual Studio 2017\Projects\AlcNetAcademy\AlcNetAcademy\bin\Debug\AlcNetAcademy.exe.config
+Z:\Documents\Visual Studio 2017\Projects\AlcNetAcademy\AlcNetAcademy\bin\Debug\AlcNetAcademy.exe
+Z:\Documents\Visual Studio 2017\Projects\AlcNetAcademy\AlcNetAcademy\bin\Debug\AlcNetAcademy.pdb
+Z:\Documents\Visual Studio 2017\Projects\AlcNetAcademy\AlcNetAcademy\bin\Debug\AlcNetAcademy.exe.CodeAnalysisLog.xml
+Z:\Documents\Visual Studio 2017\Projects\AlcNetAcademy\AlcNetAcademy\bin\Debug\AlcNetAcademy.exe.lastcodeanalysissucceeded
+Z:\Documents\Visual Studio 2017\Projects\AlcNetAcademy\AlcNetAcademy\obj\Debug\AlcNetAcademy.exe
+Z:\Documents\Visual Studio 2017\Projects\AlcNetAcademy\AlcNetAcademy\obj\Debug\AlcNetAcademy.pdb
+Z:\Documents\Visual Studio 2017\Projects\AlcNetAcademy\AlcNetAcademy\obj\Debug\AlcNetAcademy.csprojResolveAssemblyReference.cache
+E:\OneDrive\_Archives\Visual Studio 2015 Projects\AlcNetAcademy\AlcNetAcademy\bin\Debug\AlcNetAcademy.exe.config
+E:\OneDrive\_Archives\Visual Studio 2015 Projects\AlcNetAcademy\AlcNetAcademy\bin\Debug\AlcNetAcademy.exe
+E:\OneDrive\_Archives\Visual Studio 2015 Projects\AlcNetAcademy\AlcNetAcademy\bin\Debug\AlcNetAcademy.pdb
+E:\OneDrive\_Archives\Visual Studio 2015 Projects\AlcNetAcademy\AlcNetAcademy\bin\Debug\AlcNetAcademy.exe.CodeAnalysisLog.xml
+E:\OneDrive\_Archives\Visual Studio 2015 Projects\AlcNetAcademy\AlcNetAcademy\bin\Debug\AlcNetAcademy.exe.lastcodeanalysissucceeded
+E:\OneDrive\_Archives\Visual Studio 2015 Projects\AlcNetAcademy\AlcNetAcademy\bin\Debug\StyleCop.CSharp.dll
+E:\OneDrive\_Archives\Visual Studio 2015 Projects\AlcNetAcademy\AlcNetAcademy\bin\Debug\StyleCop.dll
+E:\OneDrive\_Archives\Visual Studio 2015 Projects\AlcNetAcademy\AlcNetAcademy\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
+E:\OneDrive\_Archives\Visual Studio 2015 Projects\AlcNetAcademy\AlcNetAcademy\bin\Debug\Microsoft.Build.Utilities.v3.5.xml
+E:\OneDrive\_Archives\Visual Studio 2015 Projects\AlcNetAcademy\AlcNetAcademy\obj\Debug\AlcNetAcademy.csprojResolveAssemblyReference.cache
+E:\OneDrive\_Archives\Visual Studio 2015 Projects\AlcNetAcademy\AlcNetAcademy\obj\Debug\AlcNetAcademy.csproj.CoreCompileInputs.cache
+E:\OneDrive\_Archives\Visual Studio 2015 Projects\AlcNetAcademy\AlcNetAcademy\obj\Debug\AlcNetAcademy.exe
+E:\OneDrive\_Archives\Visual Studio 2015 Projects\AlcNetAcademy\AlcNetAcademy\obj\Debug\AlcNetAcademy.pdb

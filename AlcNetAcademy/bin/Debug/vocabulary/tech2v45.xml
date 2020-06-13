@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="45">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅲ 科学基礎,科学基礎４</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">科学全般に共通する基礎語彙力を身につけます。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="orbit">
+<jp>軌道</jp>
+<exp>【名】軌道</exp>
+<sound>tech2v45idx01_orbit.mp3</sound>
+</w>
+<w idx="2" name="filtration">
+<jp>ろ過</jp>
+<exp>【名】ろ過</exp>
+<sound>tech2v45idx02_filtration.mp3</sound>
+</w>
+<w idx="3" name="pole">
+<jp>極</jp>
+<exp>【名】極</exp>
+<sound>tech2v45idx03_pole.mp3</sound>
+</w>
+<w idx="4" name="altitude">
+<jp>高度</jp>
+<exp>【名】高度、海抜</exp>
+<sound>tech2v45idx04_altitude.mp3</sound>
+</w>
+<w idx="5" name="axis">
+<jp>軸</jp>
+<exp>【名】軸</exp>
+<sound>tech2v45idx05_axis.mp3</sound>
+</w>
+<w idx="6" name="period">
+<jp>周期</jp>
+<exp>【名】周期</exp>
+<sound>tech2v45idx06_period.mp3</sound>
+</w>
+<w idx="7" name="moment">
+<jp>瞬間</jp>
+<exp>【名】瞬間、モーメント</exp>
+<sound>tech2v45idx07_moment.mp3</sound>
+</w>
+<w idx="8" name="complex">
+<jp>複合体</jp>
+<exp>【名】複合体　【形】複雑な</exp>
+<sound>tech2v45idx08_complex.mp3</sound>
+</w>
+<w idx="9" name="function">
+<jp>機能</jp>
+<exp>【名】機能、関数　【動】機能する</exp>
+<sound>tech2v45idx09_function.mp3</sound>
+</w>
+<w idx="10" name="swing">
+<jp>揺れ</jp>
+<exp>【名】揺れ</exp>
+<sound>tech2v45idx10_swing.mp3</sound>
+</w>
+<w idx="11" name="branch">
+<jp>分岐</jp>
+<exp>【名】分岐、部門</exp>
+<sound>tech2v45idx11_branch.mp3</sound>
+</w>
+<w idx="12" name="combination">
+<jp>組み合わせ</jp>
+<exp>【名】組み合わせ</exp>
+<sound>tech2v45idx12_combination.mp3</sound>
+</w>
+<w idx="13" name="tendency">
+<jp>傾向</jp>
+<exp>【名】傾向</exp>
+<sound>tech2v45idx13_tendency.mp3</sound>
+</w>
+<w idx="14" name="range">
+<jp>範囲</jp>
+<exp>【名】範囲　【動】並べる</exp>
+<sound>tech2v45idx14_range.mp3</sound>
+</w>
+<w idx="15" name="comparison">
+<jp>比較</jp>
+<exp>【名】比較</exp>
+<sound>tech2v45idx15_comparison.mp3</sound>
+</w>
+<w idx="16" name="center">
+<jp>中心</jp>
+<exp>【名】中心</exp>
+<sound>tech2v45idx16_center.mp3</sound>
+</w>
+<w idx="17" name="section">
+<jp>断面</jp>
+<exp>【名】断面、区分</exp>
+<sound>tech2v45idx17_section.mp3</sound>
+</w>
+<w idx="18" name="medium">
+<jp>中間</jp>
+<exp>【名】中間、媒質、媒体</exp>
+<sound>tech2v45idx18_medium.mp3</sound>
+</w>
+<w idx="19" name="side">
+<jp>面、辺</jp>
+<exp>【名】面、辺</exp>
+<sound>tech2v45idx19_side.mp3</sound>
+</w>
+<w idx="20" name="portion">
+<jp>部分</jp>
+<exp>【名】部分</exp>
+<sound>tech2v45idx20_portion.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. orbit</p>
+<p>2. filtration</p>
+<p>3. pole</p>
+<p>4. altitude</p>
+<p>5. axis</p>
+<p>6. period</p>
+<p>7. moment</p>
+<p>8. complex</p>
+<p>9. function</p>
+<p>10. swing</p>
+<p>11. branch</p>
+<p>12. combination</p>
+<p>13. tendency</p>
+<p>14. range</p>
+<p>15. comparison</p>
+<p>16. center</p>
+<p>17. section</p>
+<p>18. medium</p>
+<p>19. side</p>
+<p>20. portion</p>
+</contents>
+</unit>

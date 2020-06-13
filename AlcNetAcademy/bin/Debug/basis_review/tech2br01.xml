@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 レビュークイズ -->
+
+<unit idx="01" size="24">
+
+<question no="01" type="R">
+<text>Linux attracts the attention of users because the distribution is free of charge and the source is open to the public.</text>
+<textTrans>Linuxは、配布が無料であることそしてソースが公開されていることから、ユーザーの注目を集めている。</textTrans>
+<hint no="1">Linux,attention,user,distribution,source</hint>
+<hint no="2">Linux,attention,user,distribution,source,charge,public,attract,because,free,open</hint>
+<sound>tech2b01s4m2.mp3</sound>
+<reference>Unit01の課題文</reference>
+</question>
+
+<question no="01" type="I">
+<text>A magnet attracts a piece of iron.</text>
+<textTrans>磁石は鉄片を引きつける。</textTrans>
+<hint no="1">magnet,iron</hint>
+<hint no="2">magnet,iron,piece,attract</hint>
+<sound>tech2b01s5Q01.mp3</sound>
+<reference>Unit01のStep5</reference>
+</question>
+
+<question no="01" type="I">
+<text>Their experimental results attracted the attention of the audience.</text>
+<textTrans>彼らの実験結果は聴衆の注目を集めた。</textTrans>
+<hint no="1">result,audience,experimental</hint>
+<hint no="2">result,attention,experimental,audience,attract,of</hint>
+<sound>tech2b01s5Q02.mp3</sound>
+<reference>Unit01のStep5</reference>
+</question>
+
+<question no="01" type="I">
+<text>The spray is charged and attracted to the grounded target.</text>
+<textTrans>スプレーは荷電され、接地されたターゲットに引き寄せられる。</textTrans>
+<hint no="1">spray,charge,grounded</hint>
+<hint no="2">spray,charge,grounded,target,attract</hint>
+<sound>tech2b01s5Q03.mp3</sound>
+<reference>Unit01のStep5</reference>
+</question>
+
+<question no="01" type="I">
+<text>The latest information is collected every Monday.</text>
+<textTrans>最新の情報は毎週月曜日に集められる。</textTrans>
+<hint no="1">information,latest</hint>
+<hint no="2">information,latest,collect,every,Monday</hint>
+<sound>tech2b01s5Q04.mp3</sound>
+<reference>Unit01のStep5</reference>
+</question>
+
+<question no="01" type="I">
+<text>The software is free of charge.</text>
+<textTrans>そのソフトウェアは無料です。</textTrans>
+<hint no="1">software</hint>
+<hint no="2">software,charge,free</hint>
+<sound>tech2b01s5Q05.mp3</sound>
+<reference>Unit01のStep5</reference>
+</question>
+
+<question no="02" type="R">
+<text>Internet telephony divides voice data into packets or small units for transmission.</text>
+<textTrans>インターネット電話は、送信のために音声情報をパケットすなわち細かいユニットに分割している。</textTrans>
+<hint no="1">Internet telephony,voice data,packet,unit</hint>
+<hint no="2">Internet telephony,voice data,packet,unit,transmission,divide,small,or,for</hint>
+<sound>tech2b02s4m2.mp3</sound>
+<reference>Unit02の課題文</reference>
+</question>
+
+<question no="02" type="I">
+<text>The university is divided into five faculties.</text>
+<textTrans>その大学は５つの学部に分けられている。</textTrans>
+<hint no="1">university,faculty</hint>
+<hint no="2">university,faculty,divide,five</hint>
+<sound>tech2b02s5Q01.mp3</sound>
+<reference>Unit02のStep5</reference>
+</question>
+
+<question no="02" type="I">
+<text>He divided the cake in two.</text>
+<textTrans>彼はケーキをふたつに分けた。</textTrans>
+<hint no="1">cake,divide</hint>
+<hint no="2">cake,divide,two,in</hint>
+<sound>tech2b02s5Q02.mp3</sound>
+<reference>Unit02のStep5</reference>
+</question>
+
+<question no="02" type="I">
+<text>An initial number is added to each number.</text>
+<textTrans>初期値がそれぞれの数に加算される。</textTrans>
+<hint no="1">number,initial</hint>
+<hint no="2">number,initial,add,each</hint>
+<sound>tech2b02s5Q03.mp3</sound>
+<reference>Unit02のStep5</reference>
+</question>
+
+<question no="02" type="I">
+<text>Subtract two from eight, and you get six.</text>
+<textTrans>８から２を引くと６になる。</textTrans>
+<hint no="1">two,eight,six</hint>
+<hint no="2">two,eight,six,subtract,get,from,and</hint>
+<sound>tech2b02s5Q04.mp3</sound>
+<reference>Unit02のStep5</reference>
+</question>
+
+<question no="02" type="I">
+<text>The force is evaluated by multiplying mass by acceleration.</text>
+<textTrans>力は質量に加速度を掛けて算出される。</textTrans>
+<hint no="1">force,mass,acceleration</hint>
+<hint no="2">force,mass,acceleration,evaluate,multiply,by</hint>
+<sound>tech2b02s5Q05.mp3</sound>
+<reference>Unit02のStep5</reference>
+</question>
+
+<question no="03" type="R">
+<text>Flash memory enables us to write and erase data repeatedly.</text>
+<textTrans>フラッシュメモリを使うとデータの書き込みや消去が何度でもできる。</textTrans>
+<hint no="1">flash memory,data,enable</hint>
+<hint no="2">flash memory,data,enable,write,erase,repeatedly</hint>
+<sound>tech2b03s4m2.mp3</sound>
+<reference>Unit03の課題文</reference>
+</question>
+
+<question no="03" type="I">
+<text>A wheelchair enables a disabled person to move about.</text>
+<textTrans>車椅子によって身体に障害のある人も動き回ることができる。</textTrans>
+<hint no="1">wheelchair,person,disabled</hint>
+<hint no="2">wheelchair,person,disabled,enable,move about</hint>
+<sound>tech2b03s5Q01.mp3</sound>
+<reference>Unit03のStep5</reference>
+</question>
+
+<question no="03" type="I">
+<text>His recovery enabled him to pursue his study.</text>
+<textTrans>彼の回復によって研究を続けることができた。</textTrans>
+<hint no="1">recovery,study,pursue</hint>
+<hint no="2">recovery,study,pursue,enable</hint>
+<sound>tech2b03s5Q02.mp3</sound>
+<reference>Unit03のStep5</reference>
+</question>
+
+<question no="03" type="I">
+<text>New paint on the house made it look more attractive.</text>
+<textTrans>ペンキを塗り替えたことで、家がより魅力的に見えるようになった。</textTrans>
+<hint no="1">paint,look,attractive</hint>
+<hint no="2">paint,look,attractive,house,make,new,more</hint>
+<sound>tech2b03s5Q03.mp3</sound>
+<reference>Unit03のStep5</reference>
+</question>
+
+<question no="03" type="I">
+<text>Unnecessary statements were deleted from the program.</text>
+<textTrans>必要のないステートメントがそのプログラムから削除された。</textTrans>
+<hint no="1">unnecessary</hint>
+<hint no="2">unnecessary,statement,program,delete</hint>
+<sound>tech2b03s5Q04.mp3</sound>
+<reference>Unit03のStep5</reference>
+</question>
+
+<question no="03" type="I">
+<text>Use this equation repeatedly.</text>
+<textTrans>この式を何度も使いなさい。</textTrans>
+<hint no="1">equation</hint>
+<hint no="2">equation,use,repeatedly</hint>
+<sound>tech2b03s5Q05.mp3</sound>
+<reference>Unit03のStep5</reference>
+</question>
+
+<question no="04" type="R">
+<text>Selecting appropriate organic dyes and polymers allows organic EL devices to be applicable to full-color and lightweight displays.</text>
+<textTrans>適切な有機色素と高分子材料を選ぶことによって、有機EL素子はフルカラー・軽量ディスプレイへの応用が可能である。</textTrans>
+<hint no="1">dye,polymer,EL,full-color,lightweight</hint>
+<hint no="2">dye,polymer,EL device,full-color,lightweight,display,select,allow,appropriate,organic,applicable</hint>
+<sound>tech2b04s4m2.mp3</sound>
+<reference>Unit04の課題文</reference>
+</question>
+
+<question no="04" type="I">
+<text>A dimensional analysis has been applied to many problems.</text>
+<textTrans>次元解析は多くの問題に適用されている。</textTrans>
+<hint no="1">dimensional analysis</hint>
+<hint no="2">dimensional analysis,problem,apply,many,to</hint>
+<sound>tech2b04s5Q01.mp3</sound>
+<reference>Unit04のStep5</reference>
+</question>
+
+<question no="04" type="I">
+<text>Your suggestion is not applicable to the problem.</text>
+<textTrans>あなたの提案はその問題に応用できない。</textTrans>
+<hint no="1">suggestion</hint>
+<hint no="2">suggestion,problem,applicable,to</hint>
+<sound>tech2b04s5Q02.mp3</sound>
+<reference>Unit04のStep5</reference>
+</question>
+
+<question no="04" type="I">
+<text>You may apply for this personally or by letter.</text>
+<textTrans>これについては直接または文書で申し込むことができます。</textTrans>
+<hint no="1">letter,personally</hint>
+<hint no="2">letter,personally,apply for,or,by</hint>
+<sound>tech2b04s5Q03.mp3</sound>
+<reference>Unit04のStep5</reference>
+</question>
+
+<question no="04" type="I">
+<text>A constant voltage was applied between the terminals.</text>
+<textTrans>一定の電圧を両端子間にかけた。</textTrans>
+<hint no="1">voltage,terminal,constant</hint>
+<hint no="2">voltage,terminal,constant,apply,between</hint>
+<sound>tech2b04s5Q04.mp3</sound>
+<reference>Unit04のStep5</reference>
+</question>
+
+<question no="04" type="I">
+<text>We apply ten coats of adhesive to the surface.</text>
+<textTrans>私たちは表面に接着剤を10回塗布する。</textTrans>
+<hint no="1">coat,adhesive,surface</hint>
+<hint no="2">coat,adhesive,surface,apply,ten,to</hint>
+<sound>tech2b04s5Q05.mp3</sound>
+<reference>Unit04のStep5</reference>
+</question>
+
+</unit>

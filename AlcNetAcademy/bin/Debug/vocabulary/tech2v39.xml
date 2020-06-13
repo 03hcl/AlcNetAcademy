@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="39">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅱ 動詞・形容詞ほか,類義語１</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">技術英語でよく使われる語句の中で、他の語句と間違えやすいものを集めました。意味の違いを辞書でよく調べて繰り返し練習しましょう。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="revolution">
+<jp>（１点を中心とした）回転</jp>
+<exp>【名】（１点を中心とした）回転、公転、回転運動</exp>
+<sound>tech2v39idx01_revolution.mp3</sound>
+</w>
+<w idx="2" name="spin">
+<jp>（軸を中心にした）回転</jp>
+<exp>【名】（軸を中心にした）回転、スピン、回転の速さ</exp>
+<sound>tech2v39idx02_spin.mp3</sound>
+</w>
+<w idx="3" name="decompose">
+<jp>分解する</jp>
+<exp>【動】分解する</exp>
+<sound>tech2v39idx03_decompose.mp3</sound>
+</w>
+<w idx="4" name="separate">
+<jp>分離する</jp>
+<exp>【動】分離する</exp>
+<sound>tech2v39idx04_separate.mp3</sound>
+</w>
+<w idx="5" name="classify">
+<jp>分類する</jp>
+<exp>【動】分類する</exp>
+<sound>tech2v39idx05_classify.mp3</sound>
+</w>
+<w idx="6" name="divide">
+<jp>分割する</jp>
+<exp>【動】分割する</exp>
+<sound>tech2v39idx06_divide.mp3</sound>
+</w>
+<w idx="7" name="grind">
+<jp>（刃物、ガラスなどを）磨く</jp>
+<exp>【動】（刃物、ガラスなどを）磨く</exp>
+<sound>tech2v39idx07_grind.mp3</sound>
+</w>
+<w idx="8" name="polish">
+<jp>（テーブルなどを）磨く</jp>
+<exp>【動】（テーブルなどを）磨く</exp>
+<sound>tech2v39idx08_polish.mp3</sound>
+</w>
+<w idx="9" name="principle">
+<jp>原理</jp>
+<exp>【名】原理</exp>
+<sound>tech2v39idx09_principle.mp3</sound>
+</w>
+<w idx="10" name="theory">
+<jp>理論</jp>
+<exp>【名】理論</exp>
+<sound>tech2v39idx10_theory.mp3</sound>
+</w>
+<w idx="11" name="fix">
+<jp>修理する（米・口語）</jp>
+<exp>【動】修理する（米・口語）</exp>
+<sound>tech2v39idx11_fix.mp3</sound>
+</w>
+<w idx="12" name="mend">
+<jp>（素人が）修理する</jp>
+<exp>【動】（素人が）修理する</exp>
+<sound>tech2v39idx12_mend.mp3</sound>
+</w>
+<w idx="13" name="modify">
+<jp>修正する</jp>
+<exp>【動】修正する</exp>
+<sound>tech2v39idx13_modify.mp3</sound>
+</w>
+<w idx="14" name="repair">
+<jp>（プロが）修理する</jp>
+<exp>【動】（プロが）修理する</exp>
+<sound>tech2v39idx14_repair.mp3</sound>
+</w>
+<w idx="15" name="provide">
+<jp>（必需品を十分に）供給する</jp>
+<exp>【動】（必需品を十分に）供給する</exp>
+<sound>tech2v39idx15_provide.mp3</sound>
+</w>
+<w idx="16" name="supply">
+<jp>（不足を補って）供給する</jp>
+<exp>【動】（不足を補って）供給する</exp>
+<sound>tech2v39idx16_supply.mp3</sound>
+</w>
+<w idx="17" name="form">
+<jp>形、形作る</jp>
+<exp>【名】形、形式　【動】形作る</exp>
+<sound>tech2v39idx17_form.mp3</sound>
+</w>
+<w idx="18" name="shape">
+<jp>輪郭の線</jp>
+<exp>【名】輪郭の線</exp>
+<sound>tech2v39idx18_shape.mp3</sound>
+</w>
+<w idx="19" name="means">
+<jp>手段</jp>
+<exp>【名】手段、方法</exp>
+<sound>tech2v39idx19_means.mp3</sound>
+</w>
+<w idx="20" name="method">
+<jp>手法</jp>
+<exp>【名】手法</exp>
+<sound>tech2v39idx20_method.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. revolution</p>
+<p>2. spin</p>
+<p>3. decompose</p>
+<p>4. separate</p>
+<p>5. classify</p>
+<p>6. divide</p>
+<p>7. grind</p>
+<p>8. polish</p>
+<p>9. principle</p>
+<p>10. theory</p>
+<p>11. fix</p>
+<p>12. mend</p>
+<p>13. modify</p>
+<p>14. repair</p>
+<p>15. provide</p>
+<p>16. supply</p>
+<p>17. form</p>
+<p>18. shape</p>
+<p>19. means</p>
+<p>20. method</p>
+</contents>
+</unit>

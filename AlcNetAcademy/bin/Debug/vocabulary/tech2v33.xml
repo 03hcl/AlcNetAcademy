@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="33">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅱ 動詞・形容詞ほか,形容詞２</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">技術英語でよく使われる形容詞です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="thin">
+<jp>薄い</jp>
+<exp>【形】薄い</exp>
+<sound>tech2v33idx01_thin.mp3</sound>
+</w>
+<w idx="2" name="hard">
+<jp>硬い</jp>
+<exp>【形】硬い</exp>
+<sound>tech2v33idx02_hard.mp3</sound>
+</w>
+<w idx="3" name="huge">
+<jp>巨大な</jp>
+<exp>【形】巨大な</exp>
+<sound>tech2v33idx03_huge.mp3</sound>
+</w>
+<w idx="4" name="heavy">
+<jp>重い</jp>
+<exp>【形】重い</exp>
+<sound>tech2v33idx04_heavy.mp3</sound>
+</w>
+<w idx="5" name="rough">
+<jp>粗い</jp>
+<exp>【形】粗い</exp>
+<sound>tech2v33idx05_rough.mp3</sound>
+</w>
+<w idx="6" name="flexible">
+<jp>しなやかな</jp>
+<exp>【形】しなやかな</exp>
+<sound>tech2v33idx06_flexible.mp3</sound>
+</w>
+<w idx="7" name="smooth">
+<jp>滑らかな</jp>
+<exp>【形】滑らかな</exp>
+<sound>tech2v33idx07_smooth.mp3</sound>
+</w>
+<w idx="8" name="narrow">
+<jp>狭い</jp>
+<exp>【形】狭い</exp>
+<sound>tech2v33idx08_narrow.mp3</sound>
+</w>
+<w idx="9" name="bulky">
+<jp>かさばった</jp>
+<exp>【形】かさばった</exp>
+<sound>tech2v33idx09_bulky.mp3</sound>
+</w>
+<w idx="10" name="compact">
+<jp>小型の</jp>
+<exp>【形】小型の、密集した</exp>
+<sound>tech2v33idx10_compact.mp3</sound>
+</w>
+<w idx="11" name="comfortable">
+<jp>心地よい</jp>
+<exp>【形】心地よい</exp>
+<sound>tech2v33idx11_comfortable.mp3</sound>
+</w>
+<w idx="12" name="pure">
+<jp>純粋な</jp>
+<exp>【形】純粋な</exp>
+<sound>tech2v33idx12_pure.mp3</sound>
+</w>
+<w idx="13" name="spiral">
+<jp>ら旋状の</jp>
+<exp>【形】ら旋状の</exp>
+<sound>tech2v33idx13_spiral.mp3</sound>
+</w>
+<w idx="14" name="broad">
+<jp>（面が）広い</jp>
+<exp>【形】（面が）広い</exp>
+<sound>tech2v33idx14_broad.mp3</sound>
+</w>
+<w idx="15" name="hollow">
+<jp>中空の</jp>
+<exp>【形】中空の</exp>
+<sound>tech2v33idx15_hollow.mp3</sound>
+</w>
+<w idx="16" name="fragile">
+<jp>もろい</jp>
+<exp>【形】もろい</exp>
+<sound>tech2v33idx16_fragile.mp3</sound>
+</w>
+<w idx="17" name="curved">
+<jp>曲線状の</jp>
+<exp>【形】曲線状の</exp>
+<sound>tech2v33idx17_curved.mp3</sound>
+</w>
+<w idx="18" name="bright">
+<jp>輝いた</jp>
+<exp>【形】輝いた、明るい</exp>
+<sound>tech2v33idx18_bright.mp3</sound>
+</w>
+<w idx="19" name="metallic">
+<jp>金属製の</jp>
+<exp>【形】金属製の</exp>
+<sound>tech2v33idx19_metallic.mp3</sound>
+</w>
+<w idx="20" name="wooden">
+<jp>木製の</jp>
+<exp>【形】木製の</exp>
+<sound>tech2v33idx20_wooden.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. thin</p>
+<p>2. hard</p>
+<p>3. huge</p>
+<p>4. heavy</p>
+<p>5. rough</p>
+<p>6. flexible</p>
+<p>7. smooth</p>
+<p>8. narrow</p>
+<p>9. bulky</p>
+<p>10. compact</p>
+<p>11. comfortable</p>
+<p>12. pure</p>
+<p>13. spiral</p>
+<p>14. broad</p>
+<p>15. hollow</p>
+<p>16. fragile</p>
+<p>17. curved</p>
+<p>18. bright</p>
+<p>19. metallic</p>
+<p>20. wooden</p>
+</contents>
+</unit>

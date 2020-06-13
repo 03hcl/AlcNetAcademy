@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 基礎コース -->
+
+<unit idx="31">
+
+<introduction>
+<title>快適な交通社会をめざすITS</title>
+<read>&lt;font size="16" color="#000000"&gt;
+（学習のポイント）             
+&lt;/font&gt;
+&lt;font size="16" color="#0000FF"&gt;
+分詞構文／reduce／result in
+&lt;/font&gt;
+&lt;br&gt;
+&lt;font size="16" color="#000000"&gt;
+道路の料金所などは交通渋滞の原因であり、排ガスの点からもよいことは何もありません。いろいろな技術を利用して車社会の問題解決を図ります。ここでは、「その結果、…」を簡潔に表現する方法を学習します。
+&lt;/font&gt;</read>
+</introduction>
+
+
+<notes>
+<w idx="1" name="multiplex broadcasting">
+<jp>多重放送</jp>
+<sound>tech2b31idx01_multiplex_broadcasting.mp3</sound>
+</w>
+<w idx="2" name="traffic jam">
+<jp>交通渋滞</jp>
+<sound>tech2b31idx02_traffic_jam.mp3</sound>
+</w>
+<w idx="3" name="carbon dioxide">
+<jp>二酸化炭素</jp>
+<sound>tech2b31idx03_carbon_dioxide.mp3</sound>
+</w>
+<w idx="4" name="emission">
+<jp>排出量</jp>
+<sound>tech2b31idx04_emission.mp3</sound>
+</w>
+<w idx="5" name="approximately">
+<jp>約</jp>
+<sound>tech2b31idx05_approximately.mp3</sound>
+</w>
+</notes>
+
+
+<!-- Step1、Topic&Vocaburary -->
+<contents type="tech2bStep1">
+<p>　最先端の情報通信技術を利用して効率性や安全性の向上、環境の改善などを実現し、よりよい交通社会を作り出そうというのが高度道路交通システム（ITS）である。日本ではFM<w idx="1">多重放送</w>や電波ビーコンを利用した道路交通情報通信システムの運営や、自動料金収受システムの試験運用などが行われている。ITSにより<w idx="2">交通渋滞</w>が緩和され、その結果、<w idx="3">二酸化炭素</w><w idx="4">排出量</w>が<w idx="5">約</w>20％削減されることになる。</p>
+<p></p>
+<p>ITS: Intelligent Transport System、FM: Frequency Modulation</p>
+</contents>
+
+
+<!-- Step2、Writing1 -->
+<contents type="tech2bStep2">
+<instruction1>「約20％」の部分を除いて幹センにします。前半部分から主語・動詞・目的語を選んでみよう。</instruction1>
+<instruction2>[先輩]ボタンを押して、先輩が書いた英文とあなたの英文を比べてみよう。</instruction2>
+<sentence>
+<ph idx="1" miki="true">ITSにより</ph>
+<ph idx="2" miki="true">交通渋滞が</ph>
+<ph idx="3" miki="true">緩和され、</ph>
+<ph idx="4" miki="true">その結果、</ph>
+<ph idx="5" miki="true">二酸化炭素排出量が</ph>
+<ph idx="6">約20％</ph>
+<ph idx="7" miki="true">削減されることになる。</ph>
+</sentence>
+<mikisentence>
+<ph idx="1" type="S">ITS</ph>
+<ph idx="2">により</ph>
+<ph idx="3" type="O">交通渋滞が</ph>
+<ph idx="4" type="V">緩和され、</ph>
+<ph idx="5">その結果、二酸化炭素排出量が削減されることになる。</ph>
+</mikisentence>
+<hint text="">
+<ph idx="1">relieve</ph>
+<ph idx="2">traffic jam</ph>
+<ph idx="3">reduction</ph>
+<ph idx="4">carbon dioxide</ph>
+<ph idx="5">emission</ph>
+</hint>
+<senior answer="A">ITS <sel cd="A">relaxes</sel> the <sel cd="B">traffic jams</sel> and <sel cd="C">carbon dioxide emissions</sel> will be <sel cd="D">reduced</sel>.</senior>
+<teach>ITS relieves traffic jams, resulting in a reduction of carbon dioxide emissions.</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　「緩和する」「削減する」は、それぞれ relieve、reduce &lt;b&gt;がぴったんこ動詞です&lt;/b&gt;。&lt;br&gt;
+「…その結果、～ことになる」というのがここのポイントです。話の中心である「ITS」を主語にします。「result in  名詞または動名詞」が便利です。&lt;br&gt;
+　　&lt;b&gt;&lt;font color="#FF0000"&gt;● result in ▲&lt;/font&gt;	●の結果、▲になる&lt;/b&gt;&lt;br&gt;
+ここでは、resulting すなわち、カンマ付きの -ing の初登場です。このパターンを&lt;font color="#0000FF"&gt;分詞構文&lt;/font&gt;と呼びます。文の左から右へそのまま進んで意味を成します。&lt;br&gt;
+&lt;br&gt;
+　ここでの分詞構文は、ユニット18にあった（ガン細胞を攻撃する免疫細胞：immunocyte attacking cancer cells）後から名詞を修飾する -ing とは別物です。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　「…、その結果、…」を表すには、... and ... では物足りません。&lt;br&gt;
+&lt;font color="#FF0000"&gt;..., resulting in ...&lt;/font&gt; をご愛用ください。 relax より &lt;font color="#FF0000"&gt;relieve&lt;/font&gt; の方が「渋滞を軽減させる」意味にぴったんこです。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step3、Writing2 -->
+<contents type="tech2bStep3">
+<hint text="">
+<ph idx="1">approximately 20%</ph>
+</hint>
+</contents>
+
+
+<!-- Step4、Comparisons -->
+<contents type="tech2bStep4">
+<senior answer="6">ITS relieves traffic jams, resulting in a reduction of carbon dioxide emissions in approximately 20%.</senior>
+<teach>
+&lt;font size="20" color="#000000"&gt;
+ITS relieves traffic jams, resulting in a reduction of carbon dioxide emissions 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+by approximately 20%
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+.
+&lt;/font&gt;
+</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　「20」と「%」はくっつけておいてください。「摂氏25度で」というときには、「at 25 ℃」と表記します。このときには数字と「℃」との間を半角（ワンスペース）分あけてください。数字と単位の間は半角分あけるのが普通です。 % は例外です。ついでに言うと、ピリオド（ . ）の後は半角ふたつ分あけてから次の文章を、カンマ（ , ）、コロン（ : ）、セミコロン（ ; ）の後はワンスペース分あけてから次の単語を続けてください。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　「20%」増えるとか減るとかいう場合、表し方は、「&lt;font color="#FF0000"&gt;by 20%&lt;/font&gt;」とします。「～の分だけ」というニュアンスです。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step5、Exercisse -->
+<contents type="tech2bStep5" size="5">
+<instruction1>このユニットで登場した表現と、関連する表現を練習しよう。</instruction1>
+<question no="1" type="R">
+<textTrans>その低い活性は遺伝的な異常の結果起こる。</textTrans>
+<text>The low activity results <sel cd="A" answer="2"></sel> a genetic abnormality.</text>
+<sel cd="A" idx="1">in</sel>
+<sel cd="A" idx="2">from</sel>
+<sel cd="A" idx="3">by</sel>
+<hint>
+<sound>tech2b31s5Q01.mp3</sound>
+</hint>
+<point>　result from ... で「…から生じる」となります。</point>
+</question>
+
+<question no="2" type="R">
+<textTrans>銅箔を大気にさらすと結果としてさびる。</textTrans>
+<text>The exposure of the copper foil to the atmosphere results <sel cd="A" answer="1"></sel> staining.</text>
+<sel cd="A" idx="1">in</sel>
+<sel cd="A" idx="2">from</sel>
+<sel cd="A" idx="3">by</sel>
+<hint>
+<sound>tech2b31s5Q02.mp3</sound>
+</hint>
+<point>　result in ... で「…という結果になる」となります。 result by ... という表現はありません。</point>
+</question>
+
+<question no="3" type="R">
+<textTrans>この手術は腫瘍（しゅよう）を除去する結果になる。</textTrans>
+<text>This operation results <sel cd="A" answer="1"></sel> the removal of a tumor.</text>
+<sel cd="A" idx="1">in</sel>
+<sel cd="A" idx="2">from</sel>
+<sel cd="A" idx="3">by</sel>
+<hint>
+<sound>tech2b31s5Q03.mp3</sound>
+</hint>
+<point>　result in ... には名詞（動名詞）が続きます。形容詞 resultant は「結果として生じた」という意味で理系の文でよく登場します。</point>
+</question>
+
+<question no="4" type="I">
+<textTrans>ふたつの戦争の結果（のひとつとして）、流れの方向が劇的に反転した。</textTrans>
+<text>As <sel cd="A" answer="1"></sel> result of the two wars, the direction of the current has been dramatically reversed.</text>
+<sel cd="A" idx="1">a</sel>
+<sel cd="A" idx="2">the</sel>
+<hint>
+<sound>tech2b31s5Q04.mp3</sound>
+</hint>
+<point>　as a result of ... で、「…の結果として（いくつかある結果のうちのひとつ）」。</point>
+</question>
+
+<question no="5" type="I">
+<textTrans>彼は、ボイラーの爆発の結果（すべての結果として）、負傷した。</textTrans>
+<text>He was injured as <sel cd="A" answer="2"></sel> result of a boiler explosion.</text>
+<sel cd="A" idx="1">a</sel>
+<sel cd="A" idx="2">the</sel>
+<hint>
+<sound>tech2b31s5Q05.mp3</sound>
+</hint>
+<point>　as the result of ... で、「…の結果として（それがすべての結果）」。</point>
+</question>
+</contents>
+
+
+<contents type="phrase">
+<p><ph idx="1">ITS relieves traffic jams, resulting in a reduction of carbon dioxide emissions by approximately 20%.</ph></p>
+<p></p>
+<p><ph idx="2">1. The low activity results from a genetic abnormality.</ph></p>
+<p><ph idx="3">2. The exposure of the copper foil to the atmosphere results in staining.</ph></p>
+<p><ph idx="4">3. This operation results in the removal of a tumor.</ph></p>
+<p><ph idx="5">4. As a result of the two wars, the direction of the current has been dramatically reversed.</ph></p>
+<p><ph idx="6">5. He was injured as the result of a boiler explosion.</ph></p>
+</contents>
+
+<contents type="translation">
+<p><ph idx="1">ITSにより交通渋滞が緩和され、その結果、二酸化炭素排出量が約20％削減されることになる。</ph></p>
+<p></p>
+<p><ph idx="2">1. その低い活性は遺伝的な異常の結果起こる。</ph></p>
+<p><ph idx="3">2. 銅箔を大気にさらすと結果としてさびる。</ph></p>
+<p><ph idx="4">3. この手術は腫瘍（しゅよう）を除去する結果になる。</ph></p>
+<p><ph idx="5">4. ふたつの戦争の結果（のひとつとして）、流れの方向が劇的に反転した。</ph></p>
+<p><ph idx="6">5. 彼は、ボイラーの爆発の結果（すべての結果として）、負傷した。</ph></p>
+</contents>
+
+
+</unit>

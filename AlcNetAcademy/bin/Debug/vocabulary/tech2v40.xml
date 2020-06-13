@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="40">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅱ 動詞・形容詞ほか,類義語２</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">技術英語でよく使われる語句の中で、他の語句と間違えやすいものを集めました。意味の違いを辞書でよく調べて繰り返し練習しましょう。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="contain">
+<jp>（成分として）含む</jp>
+<exp>【動】（成分として）含む</exp>
+<sound>tech2v40idx01_contain.mp3</sound>
+</w>
+<w idx="2" name="include">
+<jp>（構成要素として）含む</jp>
+<exp>【動】（構成要素として）含む</exp>
+<sound>tech2v40idx02_include.mp3</sound>
+</w>
+<w idx="3" name="detection">
+<jp>検出</jp>
+<exp>【名】検出、探知</exp>
+<sound>tech2v40idx03_detection.mp3</sound>
+</w>
+<w idx="4" name="measurement">
+<jp>測定</jp>
+<exp>【名】測定</exp>
+<sound>tech2v40idx04_measurement.mp3</sound>
+</w>
+<w idx="5" name="measure">
+<jp>測定する</jp>
+<exp>【動】測定する</exp>
+<sound>tech2v40idx05_measure.mp3</sound>
+</w>
+<w idx="6" name="observe">
+<jp>観察する</jp>
+<exp>【動】観察する</exp>
+<sound>tech2v40idx06_observe.mp3</sound>
+</w>
+<w idx="7" name="pipe">
+<jp>管、配管する</jp>
+<exp>【名】管、パイプ　【動】配管する</exp>
+<sound>tech2v40idx07_pipe.mp3</sound>
+</w>
+<w idx="8" name="tube">
+<jp>管（肉薄の）</jp>
+<exp>【名】管（肉薄の）</exp>
+<sound>tech2v40idx08_tube.mp3</sound>
+</w>
+<w idx="9" name="force">
+<jp>力、力の強さ</jp>
+<exp>【名】力、力の強さ　【動】強いる</exp>
+<sound>tech2v40idx09_force.mp3</sound>
+</w>
+<w idx="10" name="power">
+<jp>力、電力</jp>
+<exp>【名】力、電力、仕事率</exp>
+<sound>tech2v40idx10_power.mp3</sound>
+</w>
+<w idx="11" name="enlarge">
+<jp>（大きさ・量を）拡大する</jp>
+<exp>【動】（大きさ・量を）拡大する</exp>
+<sound>tech2v40idx11_enlarge.mp3</sound>
+</w>
+<w idx="12" name="magnify">
+<jp>（顕微鏡などで）拡大する</jp>
+<exp>【動】（顕微鏡などで）拡大する</exp>
+<sound>tech2v40idx12_magnify.mp3</sound>
+</w>
+<w idx="13" name="analyze">
+<jp>分析する</jp>
+<exp>【動】分析する、解析する</exp>
+<sound>tech2v40idx13_analyze.mp3</sound>
+</w>
+<w idx="14" name="detect">
+<jp>検出する</jp>
+<exp>【動】検出する</exp>
+<sound>tech2v40idx14_detect.mp3</sound>
+</w>
+<w idx="15" name="apparatus">
+<jp>装置</jp>
+<exp>【名】装置</exp>
+<sound>tech2v40idx15_apparatus.mp3</sound>
+</w>
+<w idx="16" name="equipment">
+<jp>機械設備</jp>
+<exp>【名】機械設備</exp>
+<sound>tech2v40idx16_equipment.mp3</sound>
+</w>
+<w idx="17" name="instrument">
+<jp>（精密度の高い）器具</jp>
+<exp>【名】（精密度の高い）器具</exp>
+<sound>tech2v40idx17_instrument.mp3</sound>
+</w>
+<w idx="18" name="rate">
+<jp>進度、比率</jp>
+<exp>【名】進度、比率、速度</exp>
+<sound>tech2v40idx18_rate.mp3</sound>
+</w>
+<w idx="19" name="speed">
+<jp>（方向に関係ない）速度</jp>
+<exp>【名】（方向に関係ない）速度</exp>
+<sound>tech2v40idx19_speed.mp3</sound>
+</w>
+<w idx="20" name="velocity">
+<jp>（方向が特定の）速度</jp>
+<exp>【名】（方向が特定の）速度</exp>
+<sound>tech2v40idx20_velocity.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. contain</p>
+<p>2. include</p>
+<p>3. detection</p>
+<p>4. measurement</p>
+<p>5. measure</p>
+<p>6. observe</p>
+<p>7. pipe</p>
+<p>8. tube</p>
+<p>9. force</p>
+<p>10. power</p>
+<p>11. enlarge</p>
+<p>12. magnify</p>
+<p>13. analyze</p>
+<p>14. detect</p>
+<p>15. apparatus</p>
+<p>16. equipment</p>
+<p>17. instrument</p>
+<p>18. rate</p>
+<p>19. speed</p>
+<p>20. velocity</p>
+</contents>
+</unit>

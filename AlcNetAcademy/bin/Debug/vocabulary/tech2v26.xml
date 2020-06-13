@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="26">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅱ 動詞・形容詞ほか,動詞５</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">技術英語でよく使われる動詞です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="refract">
+<jp>屈折する</jp>
+<exp>【動】屈折する</exp>
+<sound>tech2v26idx01_refract.mp3</sound>
+</w>
+<w idx="2" name="pump">
+<jp>くみ上げる</jp>
+<exp>【動】くみ上げる</exp>
+<sound>tech2v26idx02_pump.mp3</sound>
+</w>
+<w idx="3" name="combine">
+<jp>組み合わせる</jp>
+<exp>【動】組み合わせる、結合する</exp>
+<sound>tech2v26idx03_combine.mp3</sound>
+</w>
+<w idx="4" name="assemble">
+<jp>組み立てる</jp>
+<exp>【動】組み立てる、機械語に翻訳する</exp>
+<sound>tech2v26idx04_assemble.mp3</sound>
+</w>
+<w idx="5" name="construct">
+<jp>建設する</jp>
+<exp>【動】建設する、（部品などを）組み立てる</exp>
+<sound>tech2v26idx05_construct.mp3</sound>
+</w>
+<w idx="6" name="incline">
+<jp>傾向がある</jp>
+<exp>【動】傾向がある</exp>
+<sound>tech2v26idx06_incline.mp3</sound>
+</w>
+<w idx="7" name="continue">
+<jp>継続する</jp>
+<exp>【動】継続する</exp>
+<sound>tech2v26idx07_continue.mp3</sound>
+</w>
+<w idx="8" name="extinguish">
+<jp>消す</jp>
+<exp>【動】消す</exp>
+<sound>tech2v26idx08_extinguish.mp3</sound>
+</w>
+<w idx="9" name="determine">
+<jp>決定する</jp>
+<exp>【動】決定する</exp>
+<sound>tech2v26idx09_determine.mp3</sound>
+</w>
+<w idx="10" name="reduce">
+<jp>減少させる</jp>
+<exp>【動】減少させる、還元する</exp>
+<sound>tech2v26idx10_reduce.mp3</sound>
+</w>
+<w idx="11" name="fall">
+<jp>降下する</jp>
+<exp>【動】降下する</exp>
+<sound>tech2v26idx11_fall.mp3</sound>
+</w>
+<w idx="12" name="exchange">
+<jp>交換する</jp>
+<exp>【動】交換する、取り交わす</exp>
+<sound>tech2v26idx12_exchange.mp3</sound>
+</w>
+<w idx="13" name="compose">
+<jp>構成する</jp>
+<exp>【動】構成する、組み立てる</exp>
+<sound>tech2v26idx13_compose.mp3</sound>
+</w>
+<w idx="14" name="exceed">
+<jp>越える</jp>
+<exp>【動】越える</exp>
+<sound>tech2v26idx14_exceed.mp3</sound>
+</w>
+<w idx="15" name="freeze">
+<jp>凍る</jp>
+<exp>【動】凍る</exp>
+<sound>tech2v26idx15_freeze.mp3</sound>
+</w>
+<w idx="16" name="rub">
+<jp>こする</jp>
+<exp>【動】こする、磨く</exp>
+<sound>tech2v26idx16_rub.mp3</sound>
+</w>
+<w idx="17" name="lock">
+<jp>固定する</jp>
+<exp>【動】固定する</exp>
+<sound>tech2v26idx17_lock.mp3</sound>
+</w>
+<w idx="18" name="adopt">
+<jp>採用する</jp>
+<exp>【動】採用する</exp>
+<sound>tech2v26idx18_adopt.mp3</sound>
+</w>
+<w idx="19" name="search">
+<jp>探す</jp>
+<exp>【動】探す、探索する</exp>
+<sound>tech2v26idx19_search.mp3</sound>
+</w>
+<w idx="20" name="avoid">
+<jp>避ける</jp>
+<exp>【動】避ける、防ぐ</exp>
+<sound>tech2v26idx20_avoid.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. refract</p>
+<p>2. pump</p>
+<p>3. combine</p>
+<p>4. assemble</p>
+<p>5. construct</p>
+<p>6. incline</p>
+<p>7. continue</p>
+<p>8. extinguish</p>
+<p>9. determine</p>
+<p>10. reduce</p>
+<p>11. fall</p>
+<p>12. exchange</p>
+<p>13. compose</p>
+<p>14. exceed</p>
+<p>15. freeze</p>
+<p>16. rub</p>
+<p>17. lock</p>
+<p>18. adopt</p>
+<p>19. search</p>
+<p>20. avoid</p>
+</contents>
+</unit>

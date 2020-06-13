@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="42">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅲ 科学基礎,科学基礎１</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">科学全般に共通する基礎語彙力を身につけます。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="natural science">
+<jp>自然科学</jp>
+<exp>【名】自然科学</exp>
+<sound>tech2v42idx01_natural_science.mp3</sound>
+</w>
+<w idx="2" name="chemistry">
+<jp>化学</jp>
+<exp>【名】化学</exp>
+<sound>tech2v42idx02_chemistry.mp3</sound>
+</w>
+<w idx="3" name="mathematics">
+<jp>数学</jp>
+<exp>【名】数学</exp>
+<sound>tech2v42idx03_mathematics.mp3</sound>
+</w>
+<w idx="4" name="ecology">
+<jp>生態学</jp>
+<exp>【名】生態学</exp>
+<sound>tech2v42idx04_ecology.mp3</sound>
+</w>
+<w idx="5" name="biology">
+<jp>生物学</jp>
+<exp>【名】生物学</exp>
+<sound>tech2v42idx05_biology.mp3</sound>
+</w>
+<w idx="6" name="agriculture">
+<jp>農学</jp>
+<exp>【名】農学</exp>
+<sound>tech2v42idx06_agriculture.mp3</sound>
+</w>
+<w idx="7" name="physics">
+<jp>物理学</jp>
+<exp>【名】物理学</exp>
+<sound>tech2v42idx07_physics.mp3</sound>
+</w>
+<w idx="8" name="medicine">
+<jp>医学</jp>
+<exp>【名】医学</exp>
+<sound>tech2v42idx08_medicine.mp3</sound>
+</w>
+<w idx="9" name="geometry">
+<jp>幾何学</jp>
+<exp>【名】幾何学</exp>
+<sound>tech2v42idx09_geometry.mp3</sound>
+</w>
+<w idx="10" name="thermodynamics">
+<jp>熱力学</jp>
+<exp>【名】熱力学</exp>
+<sound>tech2v42idx10_thermodynamics.mp3</sound>
+</w>
+<w idx="11" name="mechanics">
+<jp>力学</jp>
+<exp>【名】力学</exp>
+<sound>tech2v42idx11_mechanics.mp3</sound>
+</w>
+<w idx="12" name="geography">
+<jp>地理学</jp>
+<exp>【名】地理学</exp>
+<sound>tech2v42idx12_geography.mp3</sound>
+</w>
+<w idx="13" name="geology">
+<jp>地質学</jp>
+<exp>【名】地質学</exp>
+<sound>tech2v42idx13_geology.mp3</sound>
+</w>
+<w idx="14" name="meteorology">
+<jp>気象学</jp>
+<exp>【名】気象学</exp>
+<sound>tech2v42idx14_meteorology.mp3</sound>
+</w>
+<w idx="15" name="optics">
+<jp>光学</jp>
+<exp>【名】光学</exp>
+<sound>tech2v42idx15_optics.mp3</sound>
+</w>
+<w idx="16" name="electronics">
+<jp>電子工学</jp>
+<exp>【名】電子工学</exp>
+<sound>tech2v42idx16_electronics.mp3</sound>
+</w>
+<w idx="17" name="fluid dynamics">
+<jp>流体力学</jp>
+<exp>【名】流体力学</exp>
+<sound>tech2v42idx17_fluid_dynamics.mp3</sound>
+</w>
+<w idx="18" name="quantum mechanics">
+<jp>量子力学</jp>
+<exp>【名】量子力学</exp>
+<sound>tech2v42idx18_quantum_mechanics.mp3</sound>
+</w>
+<w idx="19" name="mechanical engineering">
+<jp>機械工学</jp>
+<exp>【名】機械工学</exp>
+<sound>tech2v42idx19_mechanical_engineering.mp3</sound>
+</w>
+<w idx="20" name="electrical engineering">
+<jp>電気工学</jp>
+<exp>【名】電気工学</exp>
+<sound>tech2v42idx20_electrical_engineering.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. natural science</p>
+<p>2. chemistry</p>
+<p>3. mathematics</p>
+<p>4. ecology</p>
+<p>5. biology</p>
+<p>6. agriculture</p>
+<p>7. physics</p>
+<p>8. medicine</p>
+<p>9. geometry</p>
+<p>10. thermodynamics</p>
+<p>11. mechanics</p>
+<p>12. geography</p>
+<p>13. geology</p>
+<p>14. meteorology</p>
+<p>15. optics</p>
+<p>16. electronics</p>
+<p>17. fluid dynamics</p>
+<p>18. quantum mechanics</p>
+<p>19. mechanical engineering</p>
+<p>20. electrical engineering</p>
+</contents>
+</unit>

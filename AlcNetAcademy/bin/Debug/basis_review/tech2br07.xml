@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 レビュークイズ -->
+
+<unit idx="07" size="23">
+
+<question no="25" type="R">
+<text>A fuel cell is a device which directly converts chemical energy into electrical energy through a continuous reaction of hydrogen with oxygen.</text>
+<textTrans>燃料電池は、水素と酸素を連続的に反応させて、化学エネルギーを電気エネルギーに直接変換する装置である。</textTrans>
+<hint no="1">fuel cell,energy,chemical,electrical,reaction,hydrogen,oxygen</hint>
+<hint no="2">fuel cell,chemical energy,electrical energy,reaction,hydrogen,oxygen,device,directly,continuous,convert,into,through,of,with</hint>
+<sound>tech2b25s4m2.mp3</sound>
+<reference>Unit25の課題文</reference>
+</question>
+
+<question no="25" type="I">
+<text>A fuel cell is a device which produces electricity directly from a chemical reaction.</text>
+<textTrans>燃料電池は化学反応から直接電気をつくる装置である。</textTrans>
+<hint no="1">fuel cell,device,electricity,chemical,reaction</hint>
+<hint no="2">fuel cell,device,electricity,chemical reaction,produce,which,from</hint>
+<sound>tech2b25s5Q01.mp3</sound>
+<reference>Unit25のStep5</reference>
+</question>
+
+<question no="25" type="I">
+<text>A fuel cell is a device for generating electrical power.</text>
+<textTrans>燃料電池は電力をつくる装置である。</textTrans>
+<hint no="1">fuel cell,device,electrical,power</hint>
+<hint no="2">fuel cell,device,electrical power,generate,for</hint>
+<sound>tech2b25s5Q03.mp3</sound>
+<reference>Unit25のStep5</reference>
+</question>
+
+<question no="25" type="I">
+<text>The dimensions of the fuel cell were measured with a ruler.</text>
+<textTrans>燃料電池の寸法をものさしで測った。</textTrans>
+<hint no="1">dimension,fuel cell,ruler</hint>
+<hint no="2">dimension,fuel cell,ruler,measure,of,with</hint>
+<sound>tech2b25s5Q04.mp3</sound>
+<reference>Unit25のStep5</reference>
+</question>
+
+<question no="25" type="I">
+<text>Parts exceeding the allowable limit should be replaced.</text>
+<textTrans>許容限界を超えた部品は交換すべきである。</textTrans>
+<hint no="1">part,limit,allowable</hint>
+<hint no="2">part,limit,allowable,exceed,replace</hint>
+<sound>tech2b25s5Q05.mp3</sound>
+<reference>Unit25のStep5</reference>
+</question>
+
+<question no="26" type="R">
+<text>As research on the brain advances, the development of intelligent robots which move in response to environmental changes will rapidly accelerate.</text>
+<textTrans>脳の研究が進むにつれて、環境の変化に対応して行動する知能ロボットの開発が急速に加速するだろう。</textTrans>
+<hint no="1">research,brain,development,intelligent robot,rapidly,response,change,environmental</hint>
+<hint no="2">research,brain,development,intelligent robot,rapidly,response,change,environmental,accelerate,advance,move,as,on,of,which,in</hint>
+<sound>tech2b26s4m2.mp3</sound>
+<reference>Unit26の課題文</reference>
+</question>
+
+<question no="26" type="I">
+<text>Research on the brain will advance.</text>
+<textTrans>脳の研究が進む。</textTrans>
+<hint no="1">research,brain</hint>
+<hint no="2">research,brain,advance,on</hint>
+<sound>tech2b26s5Q01.mp3</sound>
+<reference>Unit26のStep5</reference>
+</question>
+
+<question no="26" type="I">
+<text>As the temperature rises, the viscosity of a liquid decreases.</text>
+<textTrans>温度が上がると、液体の粘度は減少する。</textTrans>
+<hint no="1">temperature,viscosity,liquid</hint>
+<hint no="2">temperature,viscosity,liquid,rise,decrease,of</hint>
+<sound>tech2b26s5Q02.mp3</sound>
+<reference>Unit26のStep5</reference>
+</question>
+
+<question no="26" type="I">
+<text>Detergent reduces the surface tension of water.</text>
+<textTrans>洗剤は水の界面張力を弱める。</textTrans>
+<hint no="1">detergent,surface,tension,water</hint>
+<hint no="2">detergent,surface tension,water,reduce,of</hint>
+<sound>tech2b26s5Q03.mp3</sound>
+<reference>Unit26のStep5</reference>
+</question>
+
+<question no="26" type="I">
+<text>The intensity of radioactivity diminishes as the distance from the source increases.</text>
+<textTrans>放射能の強度は、線源からの距離が増加すると弱まる。</textTrans>
+<hint no="1">intensity,radioactivity,distance,source</hint>
+<hint no="2">intensity,radioactivity,distance,source,diminish,increase,of,as,from</hint>
+<sound>tech2b26s5Q04.mp3</sound>
+<reference>Unit26のStep5</reference>
+</question>
+
+<question no="26" type="I">
+<text>Electron emission is observed at temperatures near 400 degrees centigrade.</text>
+<textTrans>電子の放出が400℃付近の温度で観察される。（℃の部分は読み方を文字で書いてみよう）</textTrans>
+<hint no="1">electron,emission,temperature,degree centigrade</hint>
+<hint no="2">electron,emission,temperature,degree centigrade,near,observe,at</hint>
+<sound>tech2b26s5Q05.mp3</sound>
+<reference>Unit26のStep5</reference>
+</question>
+
+<question no="27" type="R">
+<text>The cycle of rebuilt housing in Japan is approximately 30 years, which is much shorter than that in Europe and the United States.</text>
+<textTrans>日本では住宅の建て替えサイクルが約30年であり、欧米諸国に比べてずっと短い。</textTrans>
+<hint no="1">cycle,rebuilt housing,Japan,Europe and the United States</hint>
+<hint no="2">cycle,rebuilt housing,Japan,Europe and the United States,30 years,approximately,short,of,which,in</hint>
+<sound>tech2b27s4m2.mp3</sound>
+<reference>Unit27の課題文</reference>
+</question>
+
+<question no="27" type="I">
+<text>The company will not agree to purchase new machines.</text>
+<textTrans>会社は新しい機械の購入を受け入れないだろう。</textTrans>
+<hint no="1">company,machine,new</hint>
+<hint no="2">company,machine,new,agree,purchase,to</hint>
+<sound>tech2b27s5Q01.mp3</sound>
+<reference>Unit27のStep5</reference>
+</question>
+
+<question no="27" type="I">
+<text>I arrived in Los Angeles about a month ago.</text>
+<textTrans>私はおよそ１カ月前にロサンゼルスに着きました。</textTrans>
+<hint no="1">Los Angeles,month</hint>
+<hint no="2">Los Angeles,month,about,ago,arrive,in</hint>
+<sound>tech2b27s5Q02.mp3</sound>
+<reference>Unit27のStep5</reference>
+</question>
+
+<question no="27" type="I">
+<text>Secondary storage devices accept data from the processor.</text>
+<textTrans>補助記憶装置はプロセッサからデータを受け入れる。</textTrans>
+<hint no="1">storage,device,secondary,data,processor</hint>
+<hint no="2">secondary storage device,data,processor,accept,from</hint>
+<sound>tech2b27s5Q03.mp3</sound>
+<reference>Unit27のStep5</reference>
+</question>
+
+<question no="27" type="I">
+<text>Artificial respiration was of no avail.</text>
+<textTrans>人工呼吸は無効であった。</textTrans>
+<hint no="1">artificial respiration</hint>
+<hint no="2">artificial respiration,avail,no</hint>
+<sound>tech2b27s5Q04.mp3</sound>
+<reference>Unit27のStep5</reference>
+</question>
+
+<question no="27" type="I">
+<text>The concentration of calcium ranges from 1 to 4 g/l.</text>
+<textTrans>カルシウムの濃度は１～４g/l の範囲にある。</textTrans>
+<hint no="1">concentration,calcium,g/l</hint>
+<hint no="2">concentration,calcium,g/l,range,from,to</hint>
+<sound>tech2b27s5Q05.mp3</sound>
+<reference>Unit27のStep5</reference>
+</question>
+
+<question no="28" type="R">
+<text>Any manufacturer should consider designing more sturdy consumer electronic products.</text>
+<textTrans>どのメーカーも、より丈夫な家電製品の設計を考慮すべきである。</textTrans>
+<hint no="1">manufacturer,product,consumer,electronic,sturdy</hint>
+<hint no="2">manufacturer,consumer electronic product,sturdy,consider,more</hint>
+<sound>tech2b28s2m1.mp3</sound>
+<reference>Unit28の幹セン</reference>
+</question>
+
+<question no="28" type="I">
+<text>We are considering visiting Switzerland next year.</text>
+<textTrans>私たちは来年スイス訪問を検討しています。</textTrans>
+<hint no="1">Switzerland,year</hint>
+<hint no="2">Switzerland,next year,consider,visit</hint>
+<sound>tech2b28s5Q01.mp3</sound>
+<reference>Unit28のStep5</reference>
+</question>
+
+<question no="28" type="I">
+<text>We considered going to Rome.</text>
+<textTrans>私たちはローマに行くことを考えた。</textTrans>
+<hint no="1">Rome</hint>
+<hint no="2">Rome,consider,go,to</hint>
+<sound>tech2b28s5Q02.mp3</sound>
+<reference>Unit28のStep5</reference>
+</question>
+
+<question no="28" type="I">
+<text>You must give consideration to this problem.</text>
+<textTrans>あなたはこの問題を検討しなければいけない。</textTrans>
+<hint no="1">consideration,problem</hint>
+<hint no="2">consideration,problem,give,to</hint>
+<sound>tech2b28s5Q03.mp3</sound>
+<reference>Unit28のStep5</reference>
+</question>
+
+<question no="28" type="I">
+<text>Heat is transferred from one body to another in three ways.</text>
+<textTrans>熱は物体から物体へ３つの方式で伝えられる。</textTrans>
+<hint no="1">heat,body,another,way</hint>
+<hint no="2">heat,body,another,way,transfer,one,three,from,to,in</hint>
+<sound>tech2b28s5Q04.mp3</sound>
+<reference>Unit28のStep5</reference>
+</question>
+
+<question no="28" type="I">
+<text>The relationship between C and D is shown in Figure 3.</text>
+<textTrans>C と D との関係を図３に示す。</textTrans>
+<hint no="1">relationship,figure</hint>
+<hint no="2">relationship,Figure 3,show,between,in</hint>
+<sound>tech2b28s5Q05.mp3</sound>
+<reference>Unit28のStep5</reference>
+</question>
+
+</unit>

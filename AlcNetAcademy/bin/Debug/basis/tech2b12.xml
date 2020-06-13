@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 基礎コース -->
+
+<unit idx="12">
+
+<introduction>
+<title>音楽配信サービスと圧縮技術</title>
+<read>&lt;font size="16" color="#000000"&gt;
+（学習のポイント）         
+&lt;/font&gt;
+&lt;font size="16" color="#0000FF"&gt;
+目的の不定詞／形容詞／transmission
+&lt;/font&gt;
+&lt;br&gt;
+&lt;font size="16" color="#000000"&gt;
+インターネットを利用したデータ配信とそのための圧縮技術の話題です。目的を明確に表すのに便利な文頭の不定詞、さらに理系の英文でよく使われる「動詞 + ed」の過去分詞を形容詞として使う表現を学習します。
+&lt;/font&gt;</read>
+</introduction>
+
+
+<notes>
+<w idx="1" name="transmitting services">
+<jp>配信サービス</jp>
+<sound>tech2b12idx01_transmitting_services.mp3</sound>
+</w>
+<w idx="2" name="voice">
+<jp>音声</jp>
+<sound>tech2b12idx02_voice.mp3</sound>
+</w>
+<w idx="3" name="frequency">
+<jp>周波数</jp>
+<sound>tech2b12idx03_frequency.mp3</sound>
+</w>
+<w idx="4" name="circuit">
+<jp>回線</jp>
+<sound>tech2b12idx04_circuit.mp3</sound>
+</w>
+<w idx="5" name="large volumes of data">
+<jp>大量のデータ</jp>
+<sound>tech2b12idx05_large_volumes_of_data.mp3</sound>
+</w>
+<w idx="6" name="data compression technique">
+<jp>データの圧縮技術</jp>
+<sound>tech2b12idx06_data_compression_technique.mp3</sound>
+</w>
+<w idx="7" name="essential">
+<jp>欠かせない</jp>
+<sound>tech2b12idx07_essential.mp3</sound>
+</w>
+</notes>
+
+
+<!-- Step1、Topic&Vocaburary -->
+<contents type="tech2bStep1">
+<p>　インターネットを利用した音楽<w idx="1">配信サービス</w>は、MP3をはじめとする<w idx="2">音声</w>圧縮技術により飛躍的に普及した。MP3は人間の耳が聞き取れない<w idx="3">周波数</w>をカットすることでデータ容量をCDの約１／11にできる。インターネットの限られた<w idx="4">回線</w>で<w idx="5">大量のデータ</w>を送るには、<w idx="6">データの圧縮技術</w>が<w idx="7">欠かせない</w>。圧縮技術の進歩によって、映画などの動画をいつでも見たいときに配信できるコンテンツオンデマンドが実現される日は近い。</p>
+<p></p>
+<p>MP3: MPEG Audio Layer-3</p>
+</contents>
+
+
+<!-- Step2、Writing1 -->
+<contents type="tech2bStep2">
+<instruction1>次の日本文の中から、主語と述語を選んでみよう。</instruction1>
+<instruction2>[先輩]ボタンを押して、先輩が書いた英文とあなたの英文を比べてみよう。</instruction2>
+<sentence>
+<ph idx="1">インターネットの</ph>
+<ph idx="2">限られた回線で</ph>
+<ph idx="3">大量のデータを送るには、</ph>
+<ph idx="4" miki="true">データの圧縮技術が</ph>
+<ph idx="5" miki="true">欠かせない。</ph>
+</sentence>
+<mikisentence>
+<ph idx="1" type="S">データの圧縮技術が</ph>
+<ph idx="2" type="C">欠かせない。</ph>
+</mikisentence>
+<hint text="">
+<ph idx="1">data</ph>
+<ph idx="2">compression</ph>
+<ph idx="3">technique</ph>
+</hint>
+<senior answer="D">The <sel cd="A">compression</sel> <sel cd="B">technique</sel> <sel cd="C">of data</sel> is <sel cd="D">necesary</sel>.</senior>
+<teach>The data compression technique is essential.</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　●は▲にとって欠かせない（不可欠である）。ここでは「絶対に necessary」という意味なので essential という形容詞を使ってください。 necessary では「不可欠」には一歩及びません。なお、先輩が使っている necesary には s がひとつ足りません。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+　ユニット４の幹セン（The organic EL device is applicable to displays.）に続いて SVC の文型です。ここでも C の部分が形容詞になっています。&lt;br&gt;
+　形容詞は中学校、高校でたくさん習ってきました。 happy、angry、lucky などは感情表現に使います。感情を含めないようにする理系の英文ではこうした形容詞は出番がありません。 SVC の文型での C として使う形容詞には、effective（有効な）、efficient（効率が高い）、significant（重要な）、essential（不可欠な）などがあります。その他、「動詞able」型形容詞は別格でよく使います（applicable、interchangeable、available、portable、etc.）。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step3、Writing2 -->
+<contents type="tech2bStep3">
+<hint text="">
+<ph idx="1">Internet</ph>
+<ph idx="2">circuit</ph>
+<ph idx="3">limited</ph>
+<ph idx="4">through</ph>
+</hint>
+</contents>
+
+
+<!-- Step4、Comparisons -->
+<contents type="tech2bStep4">
+<senior answer="6">The data compression technique is essential for sending big data through a limited circuit over the Internet.</senior>
+<teach>
+&lt;font size="20" color="#0000FF"&gt;
+To transmit large volumes of data through a limited circuit over the Internet, 
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+the data compression technique is essential.
+&lt;/font&gt;
+</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　「大量のデータを送るには」のところを、「大量のデータを送るために」とリライトします。先生の英文のように &lt;b&gt;To transmit ... と文頭に不定詞を置くと、たいていは「目的」を表す不定詞の副詞的用法となります&lt;/b&gt;。さらに、&lt;font color="#FF0000"&gt;in order&lt;/font&gt; を不定詞の前につけると、明らかに読み手に「目的だぞ！」とサインを出したことになります。&lt;br&gt;
+&lt;br&gt;
+　「限られた回線」の &lt;font color="#FF0000"&gt;limited&lt;/font&gt; はもともと limit の過去分詞形です。でも多用されているので、すでに形容詞として辞書に登場しています。数量が限られている場合に使います。「止まる駅が限られた列車」といえば a limited express で「特急列車」というわけです。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　「（信号、情報）を送る」には &lt;font color="#FF0000"&gt;transmit&lt;/font&gt; が&lt;b&gt;「ぴったんこ動詞」&lt;/b&gt;です。「（郵便物、電報）を送る」には send を使います。&lt;br&gt;
+　「大量の」には &lt;font color="#FF0000"&gt;large volumes of&lt;/font&gt;  または &lt;font color="#FF0000"&gt;large amounts of&lt;/font&gt; を使います。 big data という表現は使いません。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step5、Exercisse -->
+<contents type="tech2bStep5" size="5">
+<instruction1>このユニットで登場した表現と、関連する表現、さらに新しい表現を練習しよう。</instruction1>
+<question no="1" type="R">
+<textTrans>太陽と地球との間の空間が熱輻射を伝える。</textTrans>
+<text>A space between the sun and the earth <sel cd="A" answer="1"></sel> heat radiation.</text>
+<sel cd="A" idx="1">transmits</sel>
+<sel cd="A" idx="2">transfers</sel>
+<sel cd="A" idx="3">emits</sel>
+<hint>
+<sound>tech2b12s5Q01.mp3</sound>
+</hint>
+<point>　「（光、熱など）を伝える」ときには transmit を使います。熱の伝わり方には、輻射
+（radiation）の他に、伝導（conduction）と対流（convection）があります。</point>
+</question>
+
+<question no="2" type="R">
+<textTrans>先端技術には巨額の投資が必要である。</textTrans>
+<text>Advanced <sel cd="A" answer="2"></sel> requires massive investment.</text>
+<sel cd="A" idx="1">technique</sel>
+<sel cd="A" idx="2">technology</sel>
+<hint>
+<sound>tech2b12s5Q02.mp3</sound>
+</hint>
+<point>　technique は「（具体的な）技法や手法」のことです。 technology は「（総合的な）技術」を指します。ですから、ここは technology になります。「科学技術」は science and technology といいます。</point>
+</question>
+
+<question no="3" type="R">
+<textTrans>糖尿病を治療する新しい手法が開発された。</textTrans>
+<text>A new <sel cd="A" answer="1"></sel> for treating diabetes has been developed.</text>
+<sel cd="A" idx="1">technique</sel>
+<sel cd="A" idx="2">technology</sel>
+<hint>
+<sound>tech2b12s5Q03.mp3</sound>
+</hint>
+<point>　ここは「手法」ですから technique です。 technique にはこの他に「技巧、テクニック」という意味もあります。例えば、a pianist's finger technique。</point>
+</question>
+
+<question no="4" type="R">
+<textTrans>その仕事には、適切な技術訓練が必要である。</textTrans>
+<text>The job requires proper <sel cd="A" answer="2"></sel> training.</text>
+<sel cd="A" idx="1">technological</sel>
+<sel cd="A" idx="2">technical</sel>
+<hint>
+<sound>tech2b12s5Q04.mp3</sound>
+</hint>
+<point>　主語が job ですから、technological では大げさです。 technical を使ってください。</point>
+</question>
+
+<question no="5" type="R">
+<textTrans>実験値は理論値に一致した。</textTrans>
+<text>The experimental values agreed <sel cd="A" answer="2"></sel> the theoretical values.</text>
+<sel cd="A" idx="1">to</sel>
+<sel cd="A" idx="2">with</sel>
+<sel cd="A" idx="3">for</sel>
+<hint>
+<sound>tech2b12s5Q05.mp3</sound>
+</hint>
+<point>　「●は▲に一致する」は、● agree with ▲ と表します。「よく一致する」と強めるには agree well with とします。</point>
+</question>
+</contents>
+
+<contents type="phrase">
+<p><ph idx="1">To transmit large volumes of data through a limited circuit over the Internet, the data compression technique is essential.</ph></p>
+<p></p>
+<p><ph idx="2">1. A space between the sun and the earth transmits heat radiation.</ph></p>
+<p><ph idx="3">2. Advanced technology requires massive investment.</ph></p>
+<p><ph idx="4">3. A new technique for treating diabetes has been developed.</ph></p>
+<p><ph idx="5">4. The job requires proper technical training.</ph></p>
+<p><ph idx="6">5. The experimental values agreed with the theoretical values.</ph></p>
+</contents>
+
+<contents type="translation">
+<p><ph idx="1">インターネットの限られた回線で大量のデータを送るには、データの圧縮技術が欠かせない。</ph></p>
+<p></p>
+<p><ph idx="2">1. 太陽と地球との間の空間が熱輻射を伝える。</ph></p>
+<p><ph idx="3">2. 先端技術には巨額の投資が必要である。</ph></p>
+<p><ph idx="4">3. 糖尿病を治療する新しい手法が開発された。</ph></p>
+<p><ph idx="5">4. その仕事には，適切な技術訓練が必要である。</ph></p>
+<p><ph idx="6">5. 実験値は理論値に一致した。</ph></p>
+</contents>
+
+
+</unit>

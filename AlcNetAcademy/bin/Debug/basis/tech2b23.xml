@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 基礎コース -->
+
+<unit idx="23">
+
+<introduction>
+<title>ナノサイズのカーボンチューブ</title>
+<read>&lt;font size="16" color="#000000"&gt;
+（学習のポイント）               
+&lt;/font&gt;
+&lt;font size="16" color="#0000FF"&gt;
+３単現／付帯状況／with
+&lt;/font&gt;
+&lt;br&gt;
+&lt;font size="16" color="#000000"&gt;
+10億分の１メートルを扱うナノテクノロジーが注目されています。これまでの常識を覆す微小世界の発見です。理系の表現の基本である具体的（concrete）で、簡潔な（concise）表現をめざします。
+&lt;/font&gt;</read>
+</introduction>
+
+
+<notes>
+<w idx="1" name="carbon">
+<jp>炭素</jp>
+<sound>tech2b23idx01_carbon.mp3</sound>
+</w>
+<w idx="2" name="diameter">
+<jp>直径</jp>
+<sound>tech2b23idx02_diameter.mp3</sound>
+</w>
+<w idx="3" name="nanometer">
+<jp>ナノメートル</jp>
+<sound>tech2b23idx03_nanometer.mp3</sound>
+</w>
+<w idx="4" name="micron">
+<jp>ミクロン</jp>
+<sound>tech2b23idx04_micron.mp3</sound>
+</w>
+<w idx="5" name="light">
+<jp>光</jp>
+<sound>tech2b23idx05_light.mp3</sound>
+</w>
+<w idx="6" name="wavelength">
+<jp>波長</jp>
+<sound>tech2b23idx06_wavelength.mp3</sound>
+</w>
+<w idx="7" name="helix">
+<jp>ら旋</jp>
+<sound>tech2b23idx07_helix.mp3</sound>
+</w>
+<w idx="8" name="conductor">
+<jp>導体</jp>
+<sound>tech2b23idx08_conductor.mp3</sound>
+</w>
+<w idx="9" name="semiconductor">
+<jp>半導体</jp>
+<sound>tech2b23idx09_semiconductor.mp3</sound>
+</w>
+<w idx="10" name="insulator">
+<jp>絶縁体</jp>
+<sound>tech2b23idx10_insulator.mp3</sound>
+</w>
+</notes>
+
+
+<!-- Step1、Topic&Vocaburary -->
+<contents type="tech2bStep1">
+<p>　網状につながった<w idx="1">炭素</w>が両端の閉じた微小なチューブをつくっている結晶体が、1991年に発見された。<w idx="2">直径</w>は１<w idx="3">ナノメートル</w>（nm）、長さが<w idx="4">ミクロン</w>（μm）レベルのこの物質は、カーボンナノチューブと名付けられた。カーボンナノチューブは<w idx="5">光</w>の<w idx="6">波長</w>より短く、円筒・<w idx="7">ら旋</w>の形状によって<w idx="8">導体</w>、<w idx="9">半導体</w>、さらには<w idx="10">絶縁体</w>にもなりうることから、未来の半導体素材として注目されている。</p>
+</contents>
+
+
+<!-- Step2、Writing1 -->
+<contents type="tech2bStep2">
+<instruction1>次の日本文から、幹センを抜き出そう。</instruction1>
+<instruction2>[先輩]ボタンを押して、先輩が書いた英文とあなたの英文を比べてみよう。</instruction2>
+<sentence>
+<ph idx="1" miki="true">網状につながった炭素が</ph>
+<ph idx="2">両端の閉じた</ph>
+<ph idx="3" miki="true">微小なチューブを</ph>
+<ph idx="4" miki="true">つくっている。</ph>
+</sentence>
+<mikisentence>
+<ph idx="1" type="S">網状につながった炭素が</ph>
+<ph idx="2" type="O">微小なチューブを</ph>
+<ph idx="3" type="V">つくっている。</ph>
+</mikisentence>
+<hint text="">
+<ph idx="1">network</ph>
+<ph idx="2">carbon</ph>
+<ph idx="3">tiny</ph>
+</hint>
+<senior answer="C"><sel cd="A">Connection of carbons</sel> <sel cd="B">like a network</sel> <sel cd="C">make</sel> <sel cd="D">a tiny tube</sel>.</senior>
+<teach>Carbons linked in a network form a tiny tube.</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　●が▲をつくる。こういうときに便利な動詞が &lt;font color="#FF0000"&gt;form&lt;/font&gt; です。そこで、「炭素が微小なチューブをつくっている」は以下のように英作文できます。&lt;br&gt;
+　　Carbons form a tiny tube.&lt;br&gt;
+&lt;br&gt;
+　「網状につながった炭素」を「網状に結合された炭素」のようにリライトします。このように&lt;b&gt;「…された」が名詞につくときには動詞の過去分詞形を用いて、名詞の前または後から修飾します&lt;/b&gt;。これまでにも、次のような例がありました。&lt;br&gt;
+　　ユニット７　「最近開発された」ハイブリッドカー&lt;br&gt;
+　　　&lt;b&gt;newly developed&lt;/b&gt; hybrid car&lt;br&gt;
+　　ユニット11　「石油に含まれる」硫黄&lt;br&gt;
+　　　sulfur &lt;b&gt;contained in petroleum&lt;/b&gt;&lt;br&gt;
+　　ユニット12　「限られた」回線&lt;br&gt;
+　　　&lt;b&gt;limited&lt;/b&gt; circuit&lt;br&gt;
+したがってここでは&lt;br&gt;
+　　carbons linked in a network&lt;br&gt;
+とします。炭素はふたつ以上つながるので、carbon は複数にします。&lt;br&gt;
+&lt;br&gt;
+　理科の実験で、試験管やメスシリンダーを使ったことがあると思います。それぞれ &lt;font color="#FF0000"&gt;test tube&lt;/font&gt;、&lt;font color="#FF0000"&gt;measuring cylinder&lt;/font&gt; といいます。 &lt;font color="#FF0000"&gt;cylinder&lt;/font&gt; はそれなりに太いのです。なお、オスシリンダーは存在しません。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　３単現の s がありません。また、make は多義であいまいですから、form を使ってください。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step3、Writing2 -->
+<contents type="tech2bStep3">
+<hint text="">
+<ph idx="1">end</ph>
+<ph idx="2">close</ph>
+</hint>
+</contents>
+
+
+<!-- Step4、Comparisons -->
+<contents type="tech2bStep4">
+<senior answer="7">Carbons linked in a network form a tiny tube, and ends are closed.</senior>
+<teach>
+&lt;font size="20" color="#000000"&gt;
+Carbons linked in a network form a tiny tube 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+with both ends closed
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+.
+&lt;/font&gt;
+</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　この「両端」は微小なチューブとわかっていますから、its ends、the ends、または both ends としてください。それから、なるべく重文を避けて、&lt;b&gt;簡潔（concise）な文にすることを理系の英文では心がけましょう&lt;/b&gt;。 and 以下を、tube を修飾する句にして、単文に変身させます。「両端の閉じたチューブ」、こういうときには、&lt;font color="#FF0000"&gt;with&lt;/font&gt; を使います。 with both ends closed となります。こういうのを文法では「&lt;font color="#0000FF"&gt;付帯状況&lt;/font&gt;」なんて呼んでいます。付け足すときに便利です。「チューブでね、そうそう両端は閉じていてね」というときに都合がよいのです。意味としてはもちろん、and both ends are closed なのですが、with を使った方が concise なのです。&lt;br&gt;
+　end には、「終わり」「目的」など、他の意味もあります。でも、理系の英文では「端」の意味で多用されます。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step5、Exercisse -->
+<contents type="tech2bStep5" size="5">
+<instruction1>新しい表現を練習しよう。</instruction1>
+<question no="1" type="R">
+<textTrans>潤滑油の定期的な注油がベアリングの過熱を防ぐ。</textTrans>
+<text>Regular lubrication <sel cd="A" answer="3"></sel> the bearings from overheating.</text>
+<sel cd="A" idx="1">protects</sel>
+<sel cd="A" idx="2">defends</sel>
+<sel cd="A" idx="3">prevents</sel>
+<hint>
+<sound>tech2b23s5Q01.mp3</sound>
+</hint>
+<point>　prevent ... from doing の形で「…が do するのを防ぐ」の意味になります。他の２語も似たように「守る」という意味ですが、この練習問題の「防ぐ」は「させない」という意味ですので、prevent を選びましょう。</point>
+</question>
+
+<question no="2" type="R">
+<textTrans>ワクチンは抗体の生産を速めることによって体を守る。</textTrans>
+<text>Vaccines <sel cd="A" answer="1"></sel> our bodies by speeding antibody production.</text>
+<sel cd="A" idx="1">defend</sel>
+<sel cd="A" idx="2">keep</sel>
+<hint>
+<sound>tech2b23s5Q02.mp3</sound>
+</hint>
+<point>　defend は「（攻撃に対抗して）守る」ときに使います。 keep は「保つ」です。</point>
+</question>
+
+<question no="3" type="R">
+<textTrans>このコンピュータは、前のコンピュータより４倍速く作動する。</textTrans>
+<text>This computer <sel cd="A" answer="2"></sel> four times as fast as the previous one.</text>
+<sel cd="A" idx="1">calculates</sel>
+<sel cd="A" idx="2">works</sel>
+<sel cd="A" idx="3">act</sel>
+<hint>
+<sound>tech2b23s5Q03.mp3</sound>
+</hint>
+<point>　「（機械が）動く」ときには work を使います。</point>
+</question>
+
+<question no="4" type="R">
+<textTrans>つぎの式は華氏を摂氏に変換するために使われる。</textTrans>
+<text>The following formula is used to <sel cd="A" answer="3"></sel> Fahrenheit temperatures to Celsius temperatures.</text>
+<sel cd="A" idx="1">modify</sel>
+<sel cd="A" idx="2">change</sel>
+<sel cd="A" idx="3">convert</sel>
+<hint>
+<sound>tech2b23s5Q04.mp3</sound>
+</hint>
+<point>　「（性質、値を）変換する」には convert がぴったんこです。 modify は「修正する」で、change は一般的に「変化させる」の意味です。</point>
+</question>
+
+<question no="5" type="R">
+<textTrans>この物質は機械的ショックに耐えることができない。</textTrans>
+<text>This material cannot <sel cd="A" answer="1"></sel> mechanical shock.</text>
+<sel cd="A" idx="1">endure</sel>
+<sel cd="A" idx="2">save</sel>
+<sel cd="A" idx="3">maintain</sel>
+<hint>
+<sound>tech2b23s5Q05.mp3</sound>
+</hint>
+<point>　「耐える」は endure を使います。 maintain は「維持する」です。</point>
+</question>
+</contents>
+
+
+<contents type="phrase">
+<p><ph idx="1">Carbons linked in a network form a tiny tube with both ends closed.</ph></p>
+<p></p>
+<p><ph idx="2">1. Regular lubrication prevents the bearings from overheating.</ph></p>
+<p><ph idx="3">2. Vaccines defend our bodies by speeding antibody production.</ph></p>
+<p><ph idx="4">3. This computer works four times as fast as the previous one.</ph></p>
+<p><ph idx="5">4. The following formula is used to convert Fahrenheit temperatures to Celsius temperatures.</ph></p>
+<p><ph idx="6">5. This material cannot endure mechanical shock.</ph></p>
+</contents>
+
+<contents type="translation">
+<p><ph idx="1">網状につながった炭素が両端の閉じた微小なチューブをつくっている。</ph></p>
+<p></p>
+<p><ph idx="2">1. 潤滑油の定期的な注油がベアリングの過熱を防ぐ。</ph></p>
+<p><ph idx="3">2. ワクチンは抗体の生産を速めることによって体を守る。</ph></p>
+<p><ph idx="4">3. このコンピュータは、前のコンピュータより４倍速く作動する。</ph></p>
+<p><ph idx="5">4. 次の式は華氏を摂氏に変換するために使われる。</ph></p>
+<p><ph idx="6">5. この物質は機械的ショックに耐えることができない。</ph></p>
+</contents>
+
+
+</unit>

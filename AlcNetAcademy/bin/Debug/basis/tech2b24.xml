@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 基礎コース -->
+
+<unit idx="24">
+
+<introduction>
+<title>（表現）表を参照する</title>
+<read>&lt;font size="16" color="#000000"&gt;
+（学習のポイント）               
+&lt;/font&gt;
+&lt;font size="16" color="#0000FF"&gt;
+表の説明／Table／by
+&lt;/font&gt;
+&lt;br&gt;
+&lt;font size="16" color="#000000"&gt;
+理系に必須の図表の「表」に関しての表現を学習します。図の Figure と共通するところもありますが、違いも覚えましょう。
+&lt;/font&gt;</read>
+</introduction>
+
+
+<notes>
+<w idx="1" name="area">
+<jp>地域</jp>
+<sound>tech2b24idx01_area.mp3</sound>
+</w>
+<w idx="2" name="energy consumption">
+<jp>エネルギー消費</jp>
+<sound>tech2b24idx02_energy_consumption.mp3</sound>
+</w>
+<w idx="3" name="outlook">
+<jp>見通し</jp>
+<sound>tech2b24idx03_outlook.mp3</sound>
+</w>
+<w idx="4" name="average">
+<jp>平均</jp>
+<sound>tech2b24idx04_average.mp3</sound>
+</w>
+<w idx="5" name="developed country">
+<jp>先進国</jp>
+<sound>tech2b24idx05_developed_country.mp3</sound>
+</w>
+<w idx="6" name="developing country">
+<jp>発展途上国</jp>
+<sound>tech2b24idx06_developing_country.mp3</sound>
+</w>
+<w idx="7" name="population growth">
+<jp>人口増加</jp>
+<sound>tech2b24idx07_population_growth.mp3</sound>
+</w>
+</notes>
+
+
+<!-- Step1、Topic&Vocaburary -->
+<contents type="tech2bStep1">
+<p>　世界の<w idx="1">地域</w>別<w idx="2">エネルギー消費</w>の<w idx="3">見通し</w>を表１に示した。1995年から2015年まで世界全体のエネルギー消費量はもっぱら増加する。世界全体の<w idx="4">平均</w>伸び率は22％である。北米をはじめとして<w idx="5">先進国</w>の伸び率は低いが、<w idx="6">発展途上国</w>の多いアジアやその他の地域では先進国より伸び率が高くなっている。これは、途上国を中心に<w idx="7">人口増加</w>が今後ますます進むからである。</p>
+</contents>
+
+
+<!-- Step2、Writing1 -->
+<contents type="tech2bStep2">
+<instruction1>次の日本文から、幹センを抜き出そう。</instruction1>
+<instruction2>[先輩]ボタンを押して、先輩が書いた英文とあなたの英文を比べてみよう。</instruction2>
+<sentence>
+<ph idx="1">世界の</ph>
+<ph idx="2">地域別</ph>
+<ph idx="3" miki="true">エネルギー消費の見通しを</ph>
+<ph idx="4" miki="true">表１に示した。</ph>
+</sentence>
+<mikisentence>
+<ph idx="1">エネルギー消費の</ph>
+<ph idx="2" type="S">見通し</ph>
+<ph idx="3">を表１に</ph>
+<ph idx="4" type="V">示した。</ph>
+</mikisentence>
+<hint text="">
+<ph idx="1">outlook</ph>
+<ph idx="2">energy consumption</ph>
+<ph idx="3">table</ph>
+</hint>
+<senior answer="C,D"><sel cd="A">The outlook</sel> <sel cd="B">for energy consumption</sel> <sel cd="C">was shown</sel> <sel cd="D">in table 1</sel>.</senior>
+<teach>The outlook for energy consumption is shown in Table 1.</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　表も図と並んで、理系の必須アイテムです。図の方が読み手の視覚に訴えることができるので効果的ですが、表は、図になりにくい条件をリストにしたり、数値の詳しいところを議論したりするのに向いています。&lt;br&gt;
+&lt;br&gt;
+　表も図と同様に、パターンは決まっています。&lt;br&gt;
+　　&lt;b&gt;&lt;font color="#FF0000"&gt;... is shown in Table 1.&lt;/font&gt;&lt;/b&gt;&lt;br&gt;
+いつもこれではつまらないという方には、次のような例もあります。&lt;br&gt;
+　　&lt;b&gt;&lt;font color="#FF0000"&gt;... is listed in Table 1.&lt;/font&gt;&lt;/b&gt;&lt;br&gt;
+　　&lt;b&gt;&lt;font color="#FF0000"&gt;... is summarized in Table 1.&lt;/font&gt;	（まとめてあるとき）&lt;/b&gt;&lt;br&gt;
+　　&lt;b&gt;&lt;font color="#FF0000"&gt;... is compared in Table 1.&lt;/font&gt;	（比較してあるとき）&lt;/b&gt;&lt;br&gt;
+でも、show が無難でshow（しょう）。&lt;br&gt;
+&lt;br&gt;
+　日本語では「…に示した」と過去形で書くこともありますが、&lt;b&gt;英語では必ず現在形にしてください&lt;/b&gt;。わたしは日本文でも、「示した」ではなく「示す」と意識して書くようにしています。 outlook は、「見通し」が望ましいか望ましくないかにかかわらず使うことができます。望ましいことを期待した「見通し」の場合には、&lt;font color="#FF0000"&gt;prospect&lt;/font&gt; を使うこともあります。 Figure 1 は文頭にないときには &lt;font color="#FF0000"&gt;Fig. 1&lt;/font&gt;（省略を示すピリオドと数字の間は半角あけてください）と略すこともできます。ただし、Table 1 を Tab. 1 と省略することはありません。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　Figure 1 も Table 1 も立派な固有名詞ですから、文中のどこにあっても大文字で始まります。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step3、Writing2 -->
+<contents type="tech2bStep3">
+<hint text="">
+<ph idx="1">area</ph>
+</hint>
+</contents>
+
+
+<!-- Step4、Comparisons -->
+<contents type="tech2bStep4">
+<senior answer="2">The outlook for energy consumption in the different area in the world is shown in Table 1.</senior>
+<teach>
+&lt;font size="20" color="#000000"&gt;
+The outlook for energy consumption 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+by different areas in the world 
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+is shown in Table 1.
+&lt;/font&gt;
+</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　「世界の地域別」、ここはなかなか思いつかないところです。 &lt;font color="#FF0000"&gt;by different areas in the world&lt;/font&gt; です。 different は various と同様に、「さまざま」の意味になります。後に続く名詞は必ず複数形にしてください。 &lt;b&gt;by が「…別」にあたります&lt;/b&gt;。「…ごとの」と考えれば、by ten minutes（10分ごとに）と同じ、by を使うのがわかるでしょう。&lt;br&gt;
+&lt;br&gt;
+　「主語に Table 1 をもってきて Table 1 shows the outlook for energy consumption by different areas in the world. としてもよいでしょう」とはいきません。表の内容に話の中心があるのなら、The outlook が主語になるべきなのです。英文は、先頭の言葉、先頭の文、そして先頭のパラグラフをとてもとても大事にするのです。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　different（various も同じです）に続く名詞は複数形にします。「地域別」「地域ごと」のところは in より by の方が「ごと」を表すには正確な表現です。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step5、Exercisse -->
+<contents type="tech2bStep5" size="5">
+<instruction1>新しい表現を練習しよう。</instruction1>
+<question no="1" type="R">
+<textTrans>定期点検は機械の寿命を延ばす。</textTrans>
+<text>Regular maintenance <sel cd="A" answer="3"></sel> the machine's life.</text>
+<sel cd="A" idx="1">stretches</sel>
+<sel cd="A" idx="2">lengthens</sel>
+<sel cd="A" idx="3">prolongs</sel>
+<hint>
+<sound>tech2b24s5Q01.mp3</sound>
+</hint>
+<point>　life には、理系の文では「寿命」のほかに、「生命」という意味が登場します。「（寿命）を延ばす」というときには、prolong または extend を使います。</point>
+</question>
+
+<question no="2" type="R">
+<textTrans>大気はさまざまな気体からできている。</textTrans>
+<text>The atmosphere <sel cd="A" answer="2"></sel> of various gases.</text>
+<sel cd="A" idx="1">composes</sel>
+<sel cd="A" idx="2">consists</sel>
+<sel cd="A" idx="3">forms</sel>
+<hint>
+<sound>tech2b24s5Q02.mp3</sound>
+</hint>
+<point>　「…からできている」「…から成る」は、consist of ... または be composed of ... で表します。</point>
+</question>
+
+<question no="3" type="R">
+<textTrans>白は黒よりも光を反射する。</textTrans>
+<text>White <sel cd="A" answer="2"></sel> more light than black.</text>
+<sel cd="A" idx="1">directs</sel>
+<sel cd="A" idx="2">reflects</sel>
+<hint>
+<sound>tech2b24s5Q03.mp3</sound>
+</hint>
+<point>　「（光、熱などを）反射する」には reflect がぴったんこです。</point>
+</question>
+
+<question no="4" type="R">
+<textTrans>品質が低下した。</textTrans>
+<text>The quality has <sel cd="A" answer="3"></sel>.</text>
+<sel cd="A" idx="1">lowered</sel>
+<sel cd="A" idx="2">dropped</sel>
+<sel cd="A" idx="3">deteriorated</sel>
+<hint>
+<sound>tech2b24s5Q04.mp3</sound>
+</hint>
+<point>　「劣化する」「悪化する」には deteriorate がぴったんこです。</point>
+</question>
+
+<question no="5" type="R">
+<textTrans>サイドブレーキをかけなさい。</textTrans>
+<text><sel cd="A" answer="3"></sel> the emergency brakes.</text>
+<sel cd="A" idx="1">Put</sel>
+<sel cd="A" idx="2">Place</sel>
+<sel cd="A" idx="3">Apply</sel>
+<hint>
+<sound>tech2b24s5Q05.mp3</sound>
+</hint>
+<point>「ブレーキをかける」という場合に技術英文では apply を使います。 そして brake は通常複数形で brakes と表現します。</point>
+</question>
+</contents>
+
+
+<contents type="phrase">
+<p><ph idx="1">The outlook for energy consumption by different areas in the world is shown in Table 1.</ph></p>
+<p></p>
+<p><ph idx="2">1. Regular maintenance prolongs the machine's life.</ph></p>
+<p><ph idx="3">2. The atmosphere consists of various gases.</ph></p>
+<p><ph idx="4">3. White reflects more light than black.</ph></p>
+<p><ph idx="5">4. The quality has deteriorated.</ph></p>
+<p><ph idx="6">5. Apply the emergency brakes.</ph></p>
+</contents>
+
+<contents type="translation">
+<p><ph idx="1">世界の地域別エネルギー消費の見通しを表１に示した。</ph></p>
+<p></p>
+<p><ph idx="2">1. 定期点検は機械の寿命を延ばす。</ph></p>
+<p><ph idx="3">2. 大気はさまざまな気体からできている。</ph></p>
+<p><ph idx="4">3. 白は黒よりも光を反射する。</ph></p>
+<p><ph idx="5">4. 品質が低下した。</ph></p>
+<p><ph idx="6">5. サイドブレーキをかけなさい。</ph></p>
+</contents>
+
+
+</unit>

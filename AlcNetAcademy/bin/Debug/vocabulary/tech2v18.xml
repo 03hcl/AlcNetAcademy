@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="18">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅰ 専門分野別,生物</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">生物の分野でよく使われる語句です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="cell">
+<jp>細胞</jp>
+<exp>【名】細胞、電池</exp>
+<sound>tech2v18idx01_cell.mp3</sound>
+</w>
+<w idx="2" name="cell division">
+<jp>細胞分裂</jp>
+<exp>【名】細胞分裂</exp>
+<sound>tech2v18idx02_cell_division.mp3</sound>
+</w>
+<w idx="3" name="cell membrane">
+<jp>細胞膜</jp>
+<exp>【名】細胞膜</exp>
+<sound>tech2v18idx03_cell_membrane.mp3</sound>
+</w>
+<w idx="4" name="nucleus">
+<jp>細胞核</jp>
+<exp>【名】細胞核</exp>
+<sound>tech2v18idx04_nucleus.mp3</sound>
+</w>
+<w idx="5" name="chloroplast">
+<jp>葉緑体</jp>
+<exp>【名】葉緑体</exp>
+<sound>tech2v18idx05_chloroplast.mp3</sound>
+</w>
+<w idx="6" name="photosynthesis">
+<jp>光合成</jp>
+<exp>【名】光合成</exp>
+<sound>tech2v18idx06_photosynthesis.mp3</sound>
+</w>
+<w idx="7" name="root">
+<jp>根</jp>
+<exp>【名】根</exp>
+<sound>tech2v18idx07_root.mp3</sound>
+</w>
+<w idx="8" name="bacteria">
+<jp>バクテリア</jp>
+<exp>【名】バクテリア</exp>
+<sound>tech2v18idx08_bacteria.mp3</sound>
+</w>
+<w idx="9" name="creature">
+<jp>生物</jp>
+<exp>【名】生物、動物</exp>
+<sound>tech2v18idx09_creature.mp3</sound>
+</w>
+<w idx="10" name="digestion">
+<jp>消化</jp>
+<exp>【名】消化</exp>
+<sound>tech2v18idx10_digestion.mp3</sound>
+</w>
+<w idx="11" name="enzyme">
+<jp>酵素</jp>
+<exp>【名】酵素</exp>
+<sound>tech2v18idx11_enzyme.mp3</sound>
+</w>
+<w idx="12" name="germ">
+<jp>細菌</jp>
+<exp>【名】細菌</exp>
+<sound>tech2v18idx12_germ.mp3</sound>
+</w>
+<w idx="13" name="insect">
+<jp>昆虫</jp>
+<exp>【名】昆虫</exp>
+<sound>tech2v18idx13_insect.mp3</sound>
+</w>
+<w idx="14" name="microbe">
+<jp>微生物</jp>
+<exp>【名】微生物</exp>
+<sound>tech2v18idx14_microbe.mp3</sound>
+</w>
+<w idx="15" name="mutation">
+<jp>突然変異</jp>
+<exp>【名】突然変異</exp>
+<sound>tech2v18idx15_mutation.mp3</sound>
+</w>
+<w idx="16" name="nucleic acid">
+<jp>核酸</jp>
+<exp>【名】核酸</exp>
+<sound>tech2v18idx16_nucleic_acid.mp3</sound>
+</w>
+<w idx="17" name="pheromone">
+<jp>フェロモン</jp>
+<exp>【名】フェロモン</exp>
+<sound>tech2v18idx17_pheromone.mp3</sound>
+</w>
+<w idx="18" name="respiration">
+<jp>呼吸</jp>
+<exp>【名】呼吸</exp>
+<sound>tech2v18idx18_respiration.mp3</sound>
+</w>
+<w idx="19" name="tissue">
+<jp>生体組織</jp>
+<exp>【名】生体組織</exp>
+<sound>tech2v18idx19_tissue.mp3</sound>
+</w>
+<w idx="20" name="vitamin">
+<jp>ビタミン</jp>
+<exp>【名】ビタミン</exp>
+<sound>tech2v18idx20_vitamin.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. cell</p>
+<p>2. cell division</p>
+<p>3. cell membrane</p>
+<p>4. nucleus</p>
+<p>5. chloroplast</p>
+<p>6. photosynthesis</p>
+<p>7. root</p>
+<p>8. bacteria</p>
+<p>9. creature</p>
+<p>10. digestion</p>
+<p>11. enzyme</p>
+<p>12. germ</p>
+<p>13. insect</p>
+<p>14. microbe</p>
+<p>15. mutation</p>
+<p>16. nucleic acid</p>
+<p>17. pheromone</p>
+<p>18. respiration</p>
+<p>19. tissue</p>
+<p>20. vitamin</p>
+</contents>
+</unit>

@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 基礎コース -->
+
+<unit idx="15">
+
+<introduction>
+<title>バイオレメディエーション</title>
+<read>&lt;font size="16" color="#000000"&gt;
+（学習のポイント）             
+&lt;/font&gt;
+&lt;font size="16" color="#0000FF"&gt;
+命名の受け身／call／eliminate
+&lt;/font&gt;
+&lt;br&gt;
+&lt;font size="16" color="#000000"&gt;
+環境回復に活躍する微生物の話題です。理系の英文では、名をつけたり、言葉を定義したりすることがよくあります。 We call him Golgo13.  目的語の him を主語にして、He is called Golgo13. これが基本です。
+&lt;/font&gt;</read>
+</introduction>
+
+
+<notes>
+<w idx="1" name="microbe">
+<jp>微生物</jp>
+<sound>tech2b15idx01_microbe.mp3</sound>
+</w>
+<w idx="2" name="environment">
+<jp>環境</jp>
+<sound>tech2b15idx02_environment.mp3</sound>
+</w>
+<w idx="3" name="technique">
+<jp>手法</jp>
+<sound>tech2b15idx03_technique.mp3</sound>
+</w>
+<w idx="4" name="bioremediation">
+<jp>バイオレメディエーション</jp>
+<sound>tech2b15idx04_bioremediation.mp3</sound>
+</w>
+<w idx="5" name="soil">
+<jp>土壌</jp>
+<sound>tech2b15idx05_soil.mp3</sound>
+</w>
+<w idx="6" name="nutrition">
+<jp>栄養分</jp>
+<sound>tech2b15idx06_nutrition.mp3</sound>
+</w>
+<w idx="7" name="groundwater">
+<jp>地下水</jp>
+<sound>tech2b15idx07_groundwater.mp3</sound>
+</w>
+<w idx="8" name="trichloroethylene">
+<jp>トリクロロエチレン</jp>
+<sound>tech2b15idx08_trichloroethylene.mp3</sound>
+</w>
+<w idx="9" name="elimination">
+<jp>除去</jp>
+<sound>tech2b15idx09_elimination.mp3</sound>
+</w>
+<w idx="10" name="safety">
+<jp>安全性</jp>
+<sound>tech2b15idx10_safety.mp3</sound>
+</w>
+</notes>
+
+
+<!-- Step1、Topic&Vocaburary -->
+<contents type="tech2bStep1">
+<p>　<w idx="1">微生物</w>を利用して<w idx="2">環境</w>からさまざまな汚染物質を取り除く<w idx="3">手法</w>を、<w idx="4">バイオレメディエーション</w>と呼ぶ。汚染<w idx="5">土壌</w>や汚染水に<w idx="6">栄養分</w>を与え、分解性微生物を増殖させて有害物質の分解を促進し、環境修復を行う方法である。現在、<w idx="7">地下水</w>を汚染している<w idx="8">トリクロロエチレン</w>の<w idx="9">除去</w>などに用いられている。投入する微生物の<w idx="10">安全性</w>を確保した上で、今後の環境浄化促進のために広く利用されることが期待されている。</p>
+</contents>
+
+
+<!-- Step2、Writing1 -->
+<contents type="tech2bStep2">
+<instruction1>次の日本文から、幹センを抜き出そう。</instruction1>
+<instruction2>[先輩]ボタンを押して、先輩が書いた英文とあなたの英文を比べてみよう。</instruction2>
+<sentence>
+<ph idx="1">微生物を利用して</ph>
+<ph idx="2">環境から</ph>
+<ph idx="3">さまざまな</ph>
+<ph idx="4">汚染物質を取り除く</ph>
+<ph idx="5" miki="true">手法を、</ph>
+<ph idx="6" miki="true">バイオレメディエーションと</ph>
+<ph idx="7" miki="true">呼ぶ。</ph>
+</sentence>
+<mikisentence>
+<ph idx="1" type="S">手法を</ph>
+<ph idx="2" type="C">バイオレメディエーションと</ph>
+<ph idx="3" type="V">呼ぶ。</ph>
+</mikisentence>
+<hint text="">
+<ph idx="1">bioremediation</ph>
+</hint>
+<senior answer="C"><sel cd="A">We call</sel> <sel cd="B">the technique</sel> <sel cd="C">as</sel> <sel cd="D">bioremediation</sel>.</senior>
+<teach>The technique is called bioremediation.</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　理系の文章では、言葉をきちんと定義して使います。この「定義」パターンは、次のようになります。&lt;br&gt;
+　　&lt;b&gt;&lt;font color="#FF0000"&gt;We define ● as ▲.&lt;/font&gt;　　●とは▲のことである、●を▲と定義する&lt;/b&gt;&lt;br&gt;
+さらに、科学技術の進歩により新しい言葉を造る必要に迫られます。この「造語」パターンは、こうなります。&lt;br&gt;
+　　&lt;b&gt;&lt;font color="#FF0000"&gt;We call ▲ ●.&lt;/font&gt;　　▲を●と呼ぶ&lt;/b&gt;&lt;br&gt;
+研究論文などでは、もっと堅く次のように書きます。&lt;br&gt;
+　　&lt;b&gt;&lt;font color="#FF0000"&gt;We refer to ▲ as ●.&lt;/font&gt;　　▲を●と呼ぶ&lt;/b&gt;&lt;br&gt;
+「定義」パターンと「造語」パターンは●と▲が逆の並びです。幹センは、「造語」パターンです。そこで、&lt;br&gt;
+　　&lt;b&gt;We call the technique bioremediation.&lt;/b&gt;&lt;br&gt;
+となります。 we より the technique のことが話の中心なので、The technique を文頭に出します。すると、受け身に変身するしかありません。主語に続けて be 動詞 + 過去分詞、bioremediation はそのままで、最後に by us をつけます。でも us には興味が薄いので、by us を取ってしまいます。これで受け身の出来上がりです。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　as が不要です。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step3、Writing2 -->
+<contents type="tech2bStep3">
+<hint text="">
+<ph idx="1">microorganism</ph>
+<ph idx="2">environment</ph>
+<ph idx="3">various</ph>
+<ph idx="4">pollutant</ph>
+<ph idx="5">eliminate</ph>
+</hint>
+</contents>
+
+
+<!-- Step4、Comparisons -->
+<contents type="tech2bStep4">
+<senior answer="2">The technique to eliminate various pollutant from the environments using microorganisms is called bioremediation.</senior>
+<teach>
+&lt;font size="20" color="#000000"&gt;
+The technique 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+to eliminate various pollutants from the environments using microorganisms 
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+is called bioremediation.
+&lt;/font&gt;
+</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　「さまざまな●●」には、various を使います。「さまざまな」ですから少なくともふたつ（●●）必要です。そこで、various の後の名詞は必ず複数形（ここでは pollutants）にしてください。先輩の英文の間違いはたったひとつの s です。それでも間違いです。&lt;br&gt;
+　　明日、びよういん（美容院）へ行きます。&lt;br&gt;
+　　明日、びょういん（病院）へ行きます。&lt;br&gt;
+「よ」と「ょ」の違いだけで日本文だって内容が変わってきます。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+　日本語ではμm をミクロンと発音してしまっています。「ミクロの世界」「ミクロ経済学」「ミクロネシア」なども同様で、英語の発音では micro- は全て「マイクロ―」です。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step5、Exercisse -->
+<contents type="tech2bStep5" size="5">
+<instruction1>このユニットで登場した表現、関連する表現、さらに新しい表現を練習しよう。</instruction1>
+<question no="1" type="R">
+<textTrans>微生物を使ってさまざまな環境汚染物質を取り除く分解技術をバイオ　　　　　　レメディエーションと呼ぶ。</textTrans>
+<text>The degradation technique using microorganisms to <sel cd="A" answer="2"></sel> various environmental pollutants is called bioremediation.</text>
+<sel cd="A" idx="1">remove</sel>
+<sel cd="A" idx="2">eliminate</sel>
+<hint>
+<sound>tech2b15s5Q01.mp3</sound>
+</hint>
+<point>　「(中から外へ)排除する」は eliminate。名詞形は elimination。 remediation は「改善」という意味です。</point>
+</question>
+
+<question no="2" type="R">
+<textTrans>このフィルターは空気中のゴミを90%除去できる。</textTrans>
+<text>This filter can <sel cd="A" answer="1"></sel> 90% of the dust from the air.</text>
+<sel cd="A" idx="1">remove</sel>
+<sel cd="A" idx="2">eliminate</sel>
+<hint>
+<sound>tech2b15s5Q02.mp3</sound>
+</hint>
+<point>　eliminate には「望ましくないモノを」というニュアンスが伴うので、ここでは除去することを単純に表す remove を選んでください。名詞形は removal です。</point>
+</question>
+
+<question no="3" type="R">
+<textTrans>世界で最も深刻な生態学上の問題は汚染である。</textTrans>
+<text>The world's most serious ecological <sel cd="A" answer="3"></sel> is pollution.</text>
+<sel cd="A" idx="1">matter</sel>
+<sel cd="A" idx="2">subject</sel>
+<sel cd="A" idx="3">problem</sel>
+<hint>
+<sound>tech2b15s5Q03.mp3</sound>
+</hint>
+<point>　「解決すべき難問」には problem を使います。 matter は「困ったこと」程度の意味です。</point>
+</question>
+
+<question no="4" type="R">
+<textTrans>密度は質量を体積で割ることによって算出される。</textTrans>
+<text>The density is <sel cd="A" answer="1"></sel> by dividing the mass by the volume.</text>
+<sel cd="A" idx="1">calculated</sel>
+<sel cd="A" idx="2">measured</sel>
+<hint>
+<sound>tech2b15s5Q04.mp3</sound>
+</hint>
+<point>　「計算して値を出す（算出する）」には calculate を使います。 calculate は従来難しい高度な数学を使って計算する場合に用いられてきましたが、現在では compute と同じように使用してもよいとされ、簡単な計算にも用いられるようになりました。</point>
+</question>
+
+<question no="5" type="R">
+<textTrans>塩が水に溶かされた。</textTrans>
+<text>Salt was <sel cd="A" answer="1"></sel> in water.</text>
+<sel cd="A" idx="1">dissolved</sel>
+<sel cd="A" idx="2">solved</sel>
+<sel cd="A" idx="3">analyzed</sel>
+<hint>
+<sound>tech2b15s5Q05.mp3</sound>
+</hint>
+<point>　「固体を液体に溶かす」ときには dissolve、「固体が溶融する」ときには melt。ここは、「塩を水に溶かす」ので dissolve を選びます。 solve にも「溶かす」という意味がありますが、実用として使われることはありませんので dissolve を覚えてください。</point>
+</question>
+</contents>
+
+
+<contents type="phrase">
+<p><ph idx="1">The technique to eliminate various pollutants from the environments using microorganisms is called bioremediation.</ph></p>
+<p></p>
+<p><ph idx="2">1. The degradation technique using microorganisms to eliminate various environmental pollutants is called bioremediation.</ph></p>
+<p><ph idx="3">2. This filter can remove 90% of the dust from the air.</ph></p>
+<p><ph idx="4">3. The world's most serious ecological problem is pollution.</ph></p>
+<p><ph idx="5">4. The density is calculated by dividing the mass by the volume.</ph></p>
+<p><ph idx="6">5. Salt was dissolved in water.</ph></p>
+</contents>
+
+<contents type="translation">
+<p><ph idx="1">微生物を利用して環境からさまざまな汚染物質を取り除く手法を、バイオレメディエーションと呼ぶ。</ph></p>
+<p></p>
+<p><ph idx="2">1. 微生物を使ってさまざまな環境汚染物質を取り除く分解技術をバイオレメディエーションと呼ぶ。</ph></p>
+<p><ph idx="3">2. このフィルターは空気中のゴミを90％除去できる。</ph></p>
+<p><ph idx="4">3. 世界で最も深刻な生態学上の問題は汚染である。</ph></p>
+<p><ph idx="5">4. 密度は質量を体積で割ることによって算出される。</ph></p>
+<p><ph idx="6">5. 塩が水に溶かされた。</ph></p>
+</contents>
+
+
+</unit>

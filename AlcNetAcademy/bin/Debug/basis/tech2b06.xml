@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 基礎コース -->
+
+<unit idx="06">
+
+<introduction>
+<title>家電製品のインターネット化</title>
+<read>&lt;font size="16" color="#000000"&gt;
+（学習のポイント）                   
+&lt;/font&gt;
+&lt;font size="16" color="#0000FF"&gt;
+重文／接続詞／acquire
+&lt;/font&gt;
+&lt;br&gt;
+&lt;font size="16" color="#000000"&gt;
+冷蔵庫などの家庭電化製品も、単独の製品ではなくネットワーク化されていきます。情報家電がこのユニットのテーマです。ここでは単文ではなく、接続詞 and を使った重文の表現を学習します。
+&lt;/font&gt;</read>
+</introduction>
+
+
+<notes>
+<w idx="1" name="consumer electronic products">
+<jp>電化製品</jp>
+<sound>tech2b06idx01_consumer_electronic_products.mp3</sound>
+</w>
+<w idx="2" name="processor">
+<jp>プロセッサ</jp>
+<sound>tech2b06idx02_processor.mp3</sound>
+</w>
+<w idx="3" name="server">
+<jp>サーバ</jp>
+<sound>tech2b06idx03_server.mp3</sound>
+</w>
+<w idx="4" name="refrigerator">
+<jp>冷蔵庫</jp>
+<sound>tech2b06idx04_refrigerator.mp3</sound>
+</w>
+<w idx="5" name="Internet">
+<jp>インターネット</jp>
+<sound>tech2b06idx05_Internet.mp3</sound>
+</w>
+<w idx="6" name="microwave oven">
+<jp>電子レンジ</jp>
+<sound>tech2b06idx06_microwave_oven.mp3</sound>
+</w>
+<w idx="7" name="recipe">
+<jp>レシピ</jp>
+<sound>tech2b06idx07_recipe.mp3</sound>
+</w>
+<w idx="8" name="automatically">
+<jp>自動的に</jp>
+<sound>tech2b06idx08_automatically.mp3</sound>
+</w>
+</notes>
+
+
+<!-- Step1、Topic&Vocaburary -->
+<contents type="tech2bStep1">
+<p>　家庭内の<w idx="1">電化製品</w>がマイクロ<w idx="2">プロセッサ</w>により制御され、さらにネットワーク化されて情報家電へと発展しつつある。家庭内には情報データを蓄積するホーム<w idx="3">サーバ</w>が置かれ、<w idx="4">冷蔵庫</w>などの白物家電へも<w idx="5">インターネット</w>への接続機能をもたせることがメーカーから提案されている。<w idx="6">電子レンジ</w>はインターネットから<w idx="7">レシピ</w>のデータを得て、冷蔵庫は食材を<w idx="8">自動的に</w>発注する。</p>
+</contents>
+
+
+<!-- Step2、Writing1 -->
+<contents type="tech2bStep2">
+<instruction1>次の日本文から、２つの幹セン（Ｓ・Ｖ・Ｏ）を抜き出そう。</instruction1>
+<instruction2>[先輩]ボタンを押して、先輩が書いた英文とあなたの英文を比べてみよう。</instruction2>
+<sentence>
+<ph idx="1" miki="true">電子レンジは</ph>
+<ph idx="2">インターネットから</ph>
+<ph idx="3">レシピの</ph>
+<ph idx="4" miki="true">データを</ph>
+<ph idx="5" miki="true">得て、</ph>
+<ph idx="6" miki="true">冷蔵庫は</ph>
+<ph idx="7" miki="true">食材を</ph>
+<ph idx="8">自動的に</ph>
+<ph idx="9" miki="true">発注する。</ph>
+</sentence>
+<mikisentence>
+<ph idx="1" type="S">電子レンジは</ph>
+<ph idx="2" type="O">データを</ph>
+<ph idx="3" type="V">得て、</ph>
+<ph idx="4" type="S">冷蔵庫は</ph>
+<ph idx="5" type="O">食材を</ph>
+<ph idx="6" type="V">発注する。</ph>
+</mikisentence>
+<hint text="">
+<ph idx="1">microwave oven</ph>
+<ph idx="2">data</ph>
+<ph idx="3">refrigerator</ph>
+<ph idx="4">food</ph>
+</hint>
+<senior answer="B,D"><sel cd="A">Microwave ovens</sel> <sel cd="B">get</sel> data and <sel cd="C">refrigerators</sel> <sel cd="D">request</sel> food.</senior>
+<teach>Microwave ovens acquire data and refrigerators place orders for food.</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　「電子レンジは…、冷蔵庫は…」という文と文との並列構造です。文と文との&lt;b&gt;パラパラ（並列構造）&lt;/b&gt;を表す and の登場です。こういう文を&lt;font color="#0000FF"&gt;重文&lt;/font&gt;と呼びます。ついでに&lt;font color="#0000FF"&gt;複文&lt;/font&gt;を説明します。 &lt;b&gt;because（なぜならば…）、when（…ときに）、since（…ので）という接続詞で結んだ文を複文といいます&lt;/b&gt;。理系の英文ではこの３つぐらいを知っていればまずは済みます。接続詞つきの方を&lt;font color="#0000FF"&gt;従属節&lt;/font&gt;（じゅうぞくぶしという民謡ではありませんので念のため）、接続詞つきでない方を&lt;font color="#0000FF"&gt;主節&lt;/font&gt;（しつこいながら、ぬしぶしではありません）と呼びます。こういう文法用語は覚えるのが苦痛でしょうが、知っておいて損はありません。単純な文なので&lt;font color="#0000FF"&gt;単文（simple sentence）、&lt;/font&gt;接続詞が入って複雑になった文なので&lt;font color="#0000FF"&gt;複文（complex sentence）、&lt;/font&gt;そして and でダブらせた文なので&lt;font color="#0000FF"&gt;重文（compound sentence）&lt;/font&gt;なのです。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　「データを得る」を、get data とするのは会話ならよいのですが、理系のライティングでは &lt;font color="#FF0000"&gt;acquire data&lt;/font&gt; です。 get にはいろいろな意味があるので、読み手がそれを考えなくて済むように acquire を使います。これなら「得る」という意味だけです。このように読み手に苦労をかけない文を書くことを心がけてください。たくさんの意味を作り出すことのできる、いや、作り出してしまう動詞、あるいは副詞や前置詞と組む動詞、例えば、&lt;b&gt;give、keep、take、bring などはできるかぎり使わないルールになっています&lt;/b&gt;。「…を注文（発注）する」は &lt;font color="#FF0000"&gt;place orders （または an order） for ...&lt;/font&gt; です。 request は「要求する」という意味で、「注文する」ではありません。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step3、Writing2 -->
+<contents type="tech2bStep3">
+<hint text="">
+<ph idx="1">Internet</ph>
+<ph idx="2">recipe</ph>
+<ph idx="3">automatically</ph>
+</hint>
+</contents>
+
+
+<!-- Step4、Comparisons -->
+<contents type="tech2bStep4">
+<senior answer="6,7">Microwave ovens acquire data of recipes from Internet and refrigerators place orders for food automatically.</senior>
+<teach>
+&lt;font size="20" color="#000000"&gt;
+Microwave ovens acquire data 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+on recipes over the Internet 
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+and refrigerators place orders for food 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+automatically
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+.
+&lt;/font&gt;
+</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　「インターネットから」は from the Internet でも間違いではありませんが、&lt;font color="#FF0000"&gt;over&lt;/font&gt;（または &lt;font color="#FF0000"&gt;on&lt;/font&gt;） &lt;font color="#FF0000"&gt;the Internet&lt;/font&gt; がよく使われます。 over は「…を通じて」という意味で使います。…に当たるのは手段・媒体を表す言葉です。電話であれば over the phone です。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　インターネットは、the つきの固有名詞、&lt;b&gt;the Internet&lt;/b&gt; です。「レシピのデータ」は「レシピについてのデータ」という意味ですから、on または about を使います。 data on recipes または data about recipes です。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step5、Exercisse -->
+<contents type="tech2bStep5" size="5">
+<instruction1>このユニットで登場した表現と、新しい表現を練習しよう。</instruction1>
+<question no="1" type="R">
+<textTrans>私は辞書を発注した。</textTrans>
+<text>I placed an order <sel cd="A" answer="3"></sel> a dictionary.</text>
+<sel cd="A" idx="1">in</sel>
+<sel cd="A" idx="2">of</sel>
+<sel cd="A" idx="3">for</sel>
+<hint>
+<sound>tech2b06s5Q01.mp3</sound>
+</hint>
+<point>　「モノを人（店）に注文する」は、place an order [orders] for モノ with 人（店）です。</point>
+</question>
+
+<question no="2" type="R">
+<textTrans>このマニュアルには機械の操作法が書いてある。</textTrans>
+<text>This manual <sel cd="A" answer="2"></sel> how to operate the machine.</text>
+<sel cd="A" idx="1">writes</sel>
+<sel cd="A" idx="2">shows</sel>
+<hint>
+<sound>tech2b06s5Q02.mp3</sound>
+</hint>
+<point>　「書いてある」にだまされて write を選ばないように。</point>
+</question>
+
+<question no="3" type="R">
+<textTrans>変圧器は電圧を下げたり上げたりする。</textTrans>
+<text>A transformer lowers or <sel cd="A" answer="2"></sel> the voltage.</text>
+<sel cd="A" idx="1">rises</sel>
+<sel cd="A" idx="2">raises</sel>
+<sel cd="A" idx="3">ups</sel>
+<hint>
+<sound>tech2b06s5Q03.mp3</sound>
+</hint>
+<point>　rise は「上がる」です。raise が「上げる」にぴったんこです。宙に持ち上げるときには lift を使います。 The temperature rose by 5 ℃. 気温が５℃上がった。</point>
+</question>
+
+<question no="4" type="R">
+<textTrans>サーモスタットは所定の温度を維持する。</textTrans>
+<text>A thermostat <sel cd="A" answer="1"></sel> the desired temperature.</text>
+<sel cd="A" idx="1">maintains</sel>
+<sel cd="A" idx="2">sustains</sel>
+<sel cd="A" idx="3">has</sel>
+<hint>
+<sound>tech2b06s5Q04.mp3</sound>
+</hint>
+<point>　maintain は「（状態・関係などを）維持する」という意味で幅広く使うことができます。maintain の名詞形は maintenance です。ここでは keep も使えます。 sustain は「（生命を）維持する」「（資金を提供して施設などを）維持する」という意味です。</point>
+</question>
+
+<question no="5" type="R">
+<textTrans>コンパスで円を描きなさい。</textTrans>
+<text><sel cd="A" answer="2"></sel> a circle with a compass.</text>
+<sel cd="A" idx="1">Write</sel>
+<sel cd="A" idx="2">Draw</sel>
+<sel cd="A" idx="3">Describe</sel>
+<hint>
+<sound>tech2b06s5Q05.mp3</sound>
+</hint>
+<point>　「（線で）絵を描く」「線を引く」には draw を使います。「絵の具で絵を描く」ときには paint です。write は「絵を描く」ではなく「文字を書く」です。 describe は「特徴を説明する」、「記述する」という意味です。</point>
+</question>
+</contents>
+
+<contents type="phrase">
+<p><ph idx="1">Microwave ovens acquire data on recipes over the Internet and refrigerators place orders for food automatically.</ph></p>
+<p></p>
+<p><ph idx="2">1. I placed an order for a dictionary.</ph></p>
+<p><ph idx="3">2. This manual shows how to operate the machine.</ph></p>
+<p><ph idx="4">3. A transformer lowers or raises the voltage.</ph></p>
+<p><ph idx="5">4. A thermostat maintains the desired temperature.</ph></p>
+<p><ph idx="6">5. Draw a circle with a compass.</ph></p>
+</contents>
+
+<contents type="translation">
+<p><ph idx="1">電子レンジはインターネットからレシピのデータを得て、冷蔵庫は食材を自動的に発注する。</ph></p>
+<p></p>
+<p><ph idx="2">1. 私は辞書を発注した。</ph></p>
+<p><ph idx="3">2. このマニュアルには機械の操作法が書いてある。</ph></p>
+<p><ph idx="4">3. 変圧器は電圧を下げたり上げたりする。</ph></p>
+<p><ph idx="5">4. サーモスタットは所定の温度を維持する。</ph></p>
+<p><ph idx="6">5. コンパスで円を描きなさい。</ph></p>
+</contents>
+
+</unit>

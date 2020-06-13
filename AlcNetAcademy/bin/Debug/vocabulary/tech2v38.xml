@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="38">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅱ 動詞・形容詞ほか,対義語２</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">技術英語でよく使われる対義語を集めました。ペアで覚えましょう。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="overall">
+<jp>全部の</jp>
+<exp>【形】全部の</exp>
+<sound>tech2v38idx01_overall.mp3</sound>
+</w>
+<w idx="2" name="partial">
+<jp>一部の</jp>
+<exp>【形】一部の</exp>
+<sound>tech2v38idx02_partial.mp3</sound>
+</w>
+<w idx="3" name="harmful">
+<jp>有害な</jp>
+<exp>【形】有害な</exp>
+<sound>tech2v38idx03_harmful.mp3</sound>
+</w>
+<w idx="4" name="harmless">
+<jp>無害な</jp>
+<exp>【形】無害な</exp>
+<sound>tech2v38idx04_harmless.mp3</sound>
+</w>
+<w idx="5" name="example">
+<jp>例</jp>
+<exp>【名】例</exp>
+<sound>tech2v38idx05_example.mp3</sound>
+</w>
+<w idx="6" name="exception">
+<jp>例外</jp>
+<exp>【名】例外</exp>
+<sound>tech2v38idx06_exception.mp3</sound>
+</w>
+<w idx="7" name="maximum">
+<jp>最大の</jp>
+<exp>【形】最大の</exp>
+<sound>tech2v38idx07_maximum.mp3</sound>
+</w>
+<w idx="8" name="minimum">
+<jp>最小の</jp>
+<exp>【形】最小の</exp>
+<sound>tech2v38idx08_minimum.mp3</sound>
+</w>
+<w idx="9" name="former">
+<jp>前者の</jp>
+<exp>【形】前者の</exp>
+<sound>tech2v38idx09_former.mp3</sound>
+</w>
+<w idx="10" name="latter">
+<jp>後者の</jp>
+<exp>【形】後者の</exp>
+<sound>tech2v38idx10_latter.mp3</sound>
+</w>
+<w idx="11" name="inorganic">
+<jp>無機の</jp>
+<exp>【形】無機の</exp>
+<sound>tech2v38idx11_inorganic.mp3</sound>
+</w>
+<w idx="12" name="organic">
+<jp>有機の</jp>
+<exp>【形】有機の</exp>
+<sound>tech2v38idx12_organic.mp3</sound>
+</w>
+<w idx="13" name="artificial">
+<jp>人工の</jp>
+<exp>【形】人工の</exp>
+<sound>tech2v38idx13_artificial.mp3</sound>
+</w>
+<w idx="14" name="natural">
+<jp>天然の</jp>
+<exp>【形】天然の</exp>
+<sound>tech2v38idx14_natural.mp3</sound>
+</w>
+<w idx="15" name="permanent">
+<jp>不変の</jp>
+<exp>【形】不変の</exp>
+<sound>tech2v38idx15_permanent.mp3</sound>
+</w>
+<w idx="16" name="temporary">
+<jp>一時の</jp>
+<exp>【形】一時の</exp>
+<sound>tech2v38idx16_temporary.mp3</sound>
+</w>
+<w idx="17" name="direct">
+<jp>直接の</jp>
+<exp>【形】直接の</exp>
+<sound>tech2v38idx17_direct.mp3</sound>
+</w>
+<w idx="18" name="indirect">
+<jp>間接の</jp>
+<exp>【形】間接の</exp>
+<sound>tech2v38idx18_indirect.mp3</sound>
+</w>
+<w idx="19" name="external">
+<jp>外部の</jp>
+<exp>【形】外部の</exp>
+<sound>tech2v38idx19_external.mp3</sound>
+</w>
+<w idx="20" name="internal">
+<jp>内部の</jp>
+<exp>【形】内部の</exp>
+<sound>tech2v38idx20_internal.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. overall</p>
+<p>2. partial</p>
+<p>3. harmful</p>
+<p>4. harmless</p>
+<p>5. example</p>
+<p>6. exception</p>
+<p>7. maximum</p>
+<p>8. minimum</p>
+<p>9. former</p>
+<p>10. latter</p>
+<p>11. inorganic</p>
+<p>12. organic</p>
+<p>13. artificial</p>
+<p>14. natural</p>
+<p>15. permanent</p>
+<p>16. temporary</p>
+<p>17. direct</p>
+<p>18. indirect</p>
+<p>19. external</p>
+<p>20. internal</p>
+</contents>
+</unit>

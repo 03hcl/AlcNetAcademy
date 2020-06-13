@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 レビュークイズ -->
+
+<unit idx="04" size="24">
+
+<question no="13" type="R">
+<text>ES cells possess the genetic potential to become any tissue and organ.</text>
+<textTrans>ES細胞は、どんな組織や臓器にもなる遺伝的可能性を秘めている。</textTrans>
+<hint no="1">ES cell,potential,tissue,organ,genetic</hint>
+<hint no="2">ES cell,potential,tissue,organ,genetic,any,possess,become</hint>
+<sound>tech2b13s4m2.mp3</sound>
+<reference>Unit13の課題文</reference>
+</question>
+
+<question no="13" type="I">
+<text>Load the camera with film.</text>
+<textTrans>カメラにフィルムを充填しなさい。</textTrans>
+<hint no="1">camera,film</hint>
+<hint no="2">camera,film,load,with</hint>
+<sound>tech2b13s5Q01.mp3</sound>
+<reference>Unit13のStep5</reference>
+</question>
+
+<question no="13" type="I">
+<text>Compare the costs.</text>
+<textTrans>コストを比較しなさい。</textTrans>
+<hint no="1">cost</hint>
+<hint no="2">cost,compare</hint>
+<sound>tech2b13s5Q02.mp3</sound>
+<reference>Unit13のStep5</reference>
+</question>
+
+<question no="13" type="I">
+<text>Adjust the apparatus before operating it.</text>
+<textTrans>装置を調整してから操作しなさい。</textTrans>
+<hint no="1">apparatus</hint>
+<hint no="2">apparatus,adjust,operate</hint>
+<sound>tech2b13s5Q03.mp3</sound>
+<reference>Unit13のStep5</reference>
+</question>
+
+<question no="13" type="I">
+<text>High temperatures soften metals.</text>
+<textTrans>高温になると金属が軟らかくなる。</textTrans>
+<hint no="1">temperature,metal</hint>
+<hint no="2">temperature,metal,soften,high</hint>
+<sound>tech2b13s5Q04.mp3</sound>
+<reference>Unit13のStep5</reference>
+</question>
+
+<question no="13" type="I">
+<text>Incorrect operation will damage the machines.</text>
+<textTrans>誤操作で装置がだめになる。</textTrans>
+<hint no="1">operation,machine</hint>
+<hint no="2">operation,machine,incorrect,damage</hint>
+<sound>tech2b13s5Q05.mp3</sound>
+<reference>Unit13のStep5</reference>
+</question>
+
+<question no="14" type="R">
+<text>DNA chips are fabricated in a regular sequence of DNA fragments on semiconductor chips.</text>
+<textTrans>DNAチップは半導体チップの上にDNAの断片を規則正しく並べてつくられる。</textTrans>
+<hint no="1">DNA chip,sequence,fragment</hint>
+<hint no="2">DNA chip,sequence,fragment,semiconductor chip,regular,fabricate,in,on</hint>
+<sound>tech2b14s4m2.mp3</sound>
+<reference>Unit14の課題文</reference>
+</question>
+
+<question no="14" type="I">
+<text>All experiments are performed at 25 degrees centigrade.</text>
+<textTrans>すべての実験は25℃で行われる。（℃の部分は読み方を文字で書いてみよう）</textTrans>
+<hint no="1">experiment,degree centigrade</hint>
+<hint no="2">experiment,degree centigrade,perform,at</hint>
+<sound>tech2b14s5Q01.mp3</sound>
+<reference>Unit14のStep5</reference>
+</question>
+
+<question no="14" type="I">
+<text>A large amount of heat was generated.</text>
+<textTrans>大量の熱が出た。</textTrans>
+<hint no="1">amount,heat</hint>
+<hint no="2">amount,heat,large,generate,of</hint>
+<sound>tech2b14s5Q02.mp3</sound>
+<reference>Unit14のStep5</reference>
+</question>
+
+<question no="14" type="I">
+<text>The earth is surrounded by a mixture of gasses called the atmosphere.</text>
+<textTrans>地球は大気と呼ばれるガスの混合物で覆われている。</textTrans>
+<hint no="1">earth,mixture,gas,atmosphere</hint>
+<hint no="2">the earth,mixture,gas,atmosphere,surround,call,by,of</hint>
+<sound>tech2b14s5Q03.mp3</sound>
+<reference>Unit14のStep5</reference>
+</question>
+
+<question no="14" type="I">
+<text>The latest machinery was installed in the factory.</text>
+<textTrans>最新機械類が工場に設置された。</textTrans>
+<hint no="1">machinery,factory</hint>
+<hint no="2">machinery,factory,latest,install,in</hint>
+<sound>tech2b14s5Q04.mp3</sound>
+<reference>Unit14のStep5</reference>
+</question>
+
+<question no="14" type="I">
+<text>The copper content was determined by atomic absorption spectrometry.</text>
+<textTrans>銅の含有量は原子吸光光度法で定量された。</textTrans>
+<hint no="1">content,atomic absorption spectrometry</hint>
+<hint no="2">content,atomic absorption spectrometry,copper,by</hint>
+<sound>tech2b14s5Q05.mp3</sound>
+<reference>Unit14のStep5</reference>
+</question>
+
+<question no="15" type="R">
+<text>The technique to eliminate various pollutants from the environments using microorganisms is called bioremediation.</text>
+<textTrans>微生物を利用して環境からさまざまな汚染物質を取り除く手法を、バイオレメディエーションと呼ぶ。</textTrans>
+<hint no="1">pollutant,environment,microorganism,bioremediation</hint>
+<hint no="2">pollutant,environment,microorganism,bioremediation,technique,various,eliminate,use,call,from</hint>
+<sound>tech2b15s4m2.mp3</sound>
+<reference>Unit15の課題文</reference>
+</question>
+
+<question no="15" type="I">
+<text>The degradation technique using microorganisms to eliminate various environmental pollutants is called bioremediation.</text>
+<textTrans>微生物を使ってさまざまな環境汚染物質を取り除く分解技術をバイオレメディエーションと呼ぶ。</textTrans>
+<hint no="1">degradation,technique,microorganism,pollutant,bioremediation</hint>
+<hint no="2">degradation,technique,microorganism,pollutant,bioremediation,various,environmental,use,eliminate,call</hint>
+<sound>tech2b15s5Q01.mp3</sound>
+<reference>Unit15のStep5</reference>
+</question>
+
+<question no="15" type="I">
+<text>This filter can remove 90% of the dust from the air.</text>
+<textTrans>このフィルターは空気中のゴミを90％除去できる。</textTrans>
+<hint no="1">filter,dust,air</hint>
+<hint no="2">filter,dust,air,90%,remove,of,from</hint>
+<sound>tech2b15s5Q02.mp3</sound>
+<reference>Unit15のStep5</reference>
+</question>
+
+<question no="15" type="I">
+<text>The world's most serious ecological problem is pollution.</text>
+<textTrans>世界で最も深刻な生態学上の問題は汚染である。</textTrans>
+<hint no="1">world,serious,ecological</hint>
+<hint no="2">world,serious,ecological,problem,pollution</hint>
+<sound>tech2b15s5Q03.mp3</sound>
+<reference>Unit15のStep5</reference>
+</question>
+
+<question no="15" type="I">
+<text>The density is calculated by dividing the mass by the volume.</text>
+<textTrans>密度は質量を体積で割ることによって算出される。</textTrans>
+<hint no="1">density,mass,volume,calculate</hint>
+<hint no="2">density,mass,volume,calculate,divide,by</hint>
+<sound>tech2b15s5Q04.mp3</sound>
+<reference>Unit15のStep5</reference>
+</question>
+
+<question no="15" type="I">
+<text>Salt was dissolved in water.</text>
+<textTrans>塩が水に溶かされた。</textTrans>
+<hint no="1">salt,dissolve</hint>
+<hint no="2">salt,water,dissolve,in</hint>
+<sound>tech2b15s5Q05.mp3</sound>
+<reference>Unit15のStep5</reference>
+</question>
+
+<question no="16" type="R">
+<text>Yearly average temperatures across the world from 1860 to 1998 are shown in Figure 1.</text>
+<textTrans>1860年から1998年までの世界の年間平均気温を図１に示した。</textTrans>
+<hint no="1">average,temperature,world,figure</hint>
+<hint no="2">average,temperature,world,Figure 1,yearly,show,across,from,to,in</hint>
+<sound>tech2b16s4m2.mp3</sound>
+<reference>Unit16の課題文</reference>
+</question>
+
+<question no="16" type="I">
+<text>A typical fuel pump is shown in Figure 8.</text>
+<textTrans>代表的な燃料ポンプを図８に示す。</textTrans>
+<hint no="1">fuel pump,figure,typical</hint>
+<hint no="2">fuel pump,Figure 8,typical,show,in</hint>
+<sound>tech2b16s5Q01.mp3</sound>
+<reference>Unit16のStep5</reference>
+</question>
+
+<question no="16" type="I">
+<text>The tables below summarize the properties of these fine particles.</text>
+<textTrans>下表にこれらの微粒子の性質がまとめてある。</textTrans>
+<hint no="1">table,property,particle</hint>
+<hint no="2">table,property,particle,below,fine,summarize,of</hint>
+<sound>tech2b16s5Q02.mp3</sound>
+<reference>Unit16のStep5</reference>
+</question>
+
+<question no="16" type="I">
+<text>Discharge volume is tabulated.</text>
+<textTrans>吐き出し量を表に記載した。</textTrans>
+<hint no="1">discharge volume</hint>
+<hint no="2">discharge volume,tabulate</hint>
+<sound>tech2b16s5Q03.mp3</sound>
+<reference>Unit16のStep5</reference>
+</question>
+
+<question no="16" type="I">
+<text>Tables 1 through 5 show the comparison between A and B.</text>
+<textTrans>表１～５は、A と B との比較を示す。</textTrans>
+<hint no="1">table,comparison</hint>
+<hint no="2">table,comparison,show,through,between,and</hint>
+<sound>tech2b16s5Q04.mp3</sound>
+<reference>Unit16のStep5</reference>
+</question>
+
+<question no="16" type="I">
+<text>The conversion rate is shown in Figure 4.</text>
+<textTrans>変換率を図４に示す。</textTrans>
+<hint no="1">conversion,figure,rate</hint>
+<hint no="2">conversion rate,Figure 4,show,in</hint>
+<sound>tech2b16s5Q05.mp3</sound>
+<reference>Unit16のStep5</reference>
+</question>
+
+</unit>

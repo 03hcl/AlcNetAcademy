@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="12">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅰ 専門分野別,機械２</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">機械の分野でよく使われる語句です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="stator">
+<jp>固定子</jp>
+<exp>【名】固定子、ステータ</exp>
+<sound>tech2v12idx01_stator.mp3</sound>
+</w>
+<w idx="2" name="rotor">
+<jp>回転子</jp>
+<exp>【名】回転子、ロータ</exp>
+<sound>tech2v12idx02_rotor.mp3</sound>
+</w>
+<w idx="3" name="joint">
+<jp>継手</jp>
+<exp>【名】接続、継手、ジョイント</exp>
+<sound>tech2v12idx03_joint.mp3</sound>
+</w>
+<w idx="4" name="motor">
+<jp>モータ</jp>
+<exp>【名】モータ</exp>
+<sound>tech2v12idx04_motor.mp3</sound>
+</w>
+<w idx="5" name="crank">
+<jp>クランク</jp>
+<exp>【名】クランク</exp>
+<sound>tech2v12idx05_crank.mp3</sound>
+</w>
+<w idx="6" name="press">
+<jp>圧縮機</jp>
+<exp>【名】圧縮機、プレス</exp>
+<sound>tech2v12idx06_press.mp3</sound>
+</w>
+<w idx="7" name="refrigerator">
+<jp>冷蔵庫</jp>
+<exp>【名】冷蔵庫</exp>
+<sound>tech2v12idx07_refrigerator.mp3</sound>
+</w>
+<w idx="8" name="robot">
+<jp>ロボット</jp>
+<exp>【名】ロボット</exp>
+<sound>tech2v12idx08_robot.mp3</sound>
+</w>
+<w idx="9" name="solar power generation">
+<jp>太陽熱発電</jp>
+<exp>【名】太陽熱発電</exp>
+<sound>tech2v12idx09_solar_power_generation.mp3</sound>
+</w>
+<w idx="10" name="windmill">
+<jp>風車</jp>
+<exp>【名】風車</exp>
+<sound>tech2v12idx10_windmill.mp3</sound>
+</w>
+<w idx="11" name="alloy">
+<jp>合金</jp>
+<exp>【名】合金</exp>
+<sound>tech2v12idx11_alloy.mp3</sound>
+</w>
+<w idx="12" name="brass">
+<jp>真鍮（しんちゅう）</jp>
+<exp>【名】真鍮（しんちゅう）</exp>
+<sound>tech2v12idx12_brass.mp3</sound>
+</w>
+<w idx="13" name="metal fatigue">
+<jp>金属疲労</jp>
+<exp>【名】金属疲労</exp>
+<sound>tech2v12idx13_metal_fatigue.mp3</sound>
+</w>
+<w idx="14" name="mild steel">
+<jp>軟鋼</jp>
+<exp>【名】軟鋼</exp>
+<sound>tech2v12idx14_mild_steel.mp3</sound>
+</w>
+<w idx="15" name="shape memory alloy">
+<jp>形状記憶合金</jp>
+<exp>【名】形状記憶合金</exp>
+<sound>tech2v12idx15_shape_memory_alloy.mp3</sound>
+</w>
+<w idx="16" name="steel">
+<jp>鋼</jp>
+<exp>【名】鋼</exp>
+<sound>tech2v12idx16_steel.mp3</sound>
+</w>
+<w idx="17" name="starter">
+<jp>起動装置</jp>
+<exp>【名】起動装置</exp>
+<sound>tech2v12idx17_starter.mp3</sound>
+</w>
+<w idx="18" name="laser">
+<jp>レーザー</jp>
+<exp>【名】レーザー</exp>
+<sound>tech2v12idx18_laser.mp3</sound>
+</w>
+<w idx="19" name="laser beam">
+<jp>レーザー光線</jp>
+<exp>【名】レーザー光線</exp>
+<sound>tech2v12idx19_laser_beam.mp3</sound>
+</w>
+<w idx="20" name="lever">
+<jp>てこ</jp>
+<exp>【名】てこ</exp>
+<sound>tech2v12idx20_lever.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. stator</p>
+<p>2. rotor</p>
+<p>3. joint</p>
+<p>4. motor</p>
+<p>5. crank</p>
+<p>6. press</p>
+<p>7. refrigerator</p>
+<p>8. robot</p>
+<p>9. solar power generation</p>
+<p>10. windmill</p>
+<p>11. alloy</p>
+<p>12. brass</p>
+<p>13. metal fatigue</p>
+<p>14. mild steel</p>
+<p>15. shape memory alloy</p>
+<p>16. steel</p>
+<p>17. starter</p>
+<p>18. laser</p>
+<p>19. laser beam</p>
+<p>20. lever</p>
+</contents>
+</unit>

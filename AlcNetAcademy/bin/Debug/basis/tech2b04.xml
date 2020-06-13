@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 基礎コース -->
+
+<unit idx="04">
+
+<introduction>
+<title>次世代のカラーディスプレイ素子</title>
+<read>&lt;font size="16" color="#000000"&gt;
+（学習のポイント）                   
+&lt;/font&gt;
+&lt;font size="16" color="#0000FF"&gt;
+SVOC／allow／applicable
+&lt;/font&gt;
+&lt;br&gt;
+&lt;font size="16" color="#000000"&gt;
+これからの表示装置に広く利用される可能性がある新しいディスプレイ素子の話題です。ここでも第５文型の動詞 allow を使います。また、動詞と関係のある便利な形容詞 applicable を学習します。
+&lt;/font&gt;</read>
+</introduction>
+
+
+<notes>
+<w idx="1" name="display">
+<jp>ディスプレイ</jp>
+<sound>tech2b04idx01_display.mp3</sound>
+</w>
+<w idx="2" name="liquid crystal">
+<jp>液晶</jp>
+<sound>tech2b04idx02_liquid_crystal.mp3</sound>
+</w>
+<w idx="3" name="device">
+<jp>素子</jp>
+<sound>tech2b04idx03_device.mp3</sound>
+</w>
+<w idx="4" name="organic dye">
+<jp>有機色素</jp>
+<sound>tech2b04idx04_organic_dye.mp3</sound>
+</w>
+<w idx="5" name="polymer">
+<jp>高分子材料</jp>
+<sound>tech2b04idx05_polymer.mp3</sound>
+</w>
+<w idx="6" name="full-color">
+<jp>フルカラー</jp>
+<sound>tech2b04idx06_full-color.mp3</sound>
+</w>
+<w idx="7" name="lightweight">
+<jp>軽量</jp>
+<sound>tech2b04idx07_lightweight.mp3</sound>
+</w>
+</notes>
+
+
+<!-- Step1、Topic&Vocaburary -->
+<contents type="tech2bStep1">
+<p>　携帯情報通信機器であるPHS、携帯電話やノートパソコンの<w idx="1">ディスプレイ</w>には主に<w idx="2">液晶</w>ディスプレイ（LCD）が使われている。LCDは自発光していないのに対し、自発光する表示<w idx="3">素子</w>として有機エレクトロルミネッセンス（EL）素子が研究されている。適切な<w idx="4">有機色素</w>と<w idx="5">高分子材料</w>を選ぶことによって、有機EL素子は<w idx="6">フルカラー</w>・<w idx="7">軽量</w>ディスプレイへの応用が可能である。</p>
+<p></p>
+<p>PHS: Personal Handyphone System、LCD: Liquid Crystal Display、EL: Electro Luminescence</p>
+</contents>
+
+
+<!-- Step2、Writing1 -->
+<contents type="tech2bStep2">
+<instruction1>次の日本文から、幹センを抜き出そう。</instruction1>
+<instruction2>[先輩]ボタンを押して、先輩が書いた英文とあなたの英文を比べてみよう。</instruction2>
+<sentence>
+<ph idx="1">適切な有機色素と高分子材料を選ぶことによって、</ph>
+<ph idx="2" miki="true">有機EL素子は</ph>
+<ph idx="3">フルカラー・軽量</ph>
+<ph idx="4" miki="true">ディスプレイへの</ph>
+<ph idx="5" miki="true">応用が可能</ph>
+<ph idx="6" miki="true">である。</ph>
+</sentence>
+<mikisentence>
+<ph idx="1" type="S">有機EL素子は</ph>
+<ph idx="2">ディスプレイへの</ph>
+<ph idx="2" type="C">応用が可能 </ph>
+<ph idx="3" type="V">である。</ph>
+</mikisentence>
+<hint text="">
+<ph idx="1">organic</ph>
+<ph idx="2">EL device</ph>
+<ph idx="3">display</ph>
+</hint>
+<senior answer="B"><sel cd="A">Organic EL devices</sel> <sel cd="B">can apply</sel> <sel cd="C">to</sel> <sel cd="D">displays</sel>.</senior>
+<teach>Organic EL devices are applicable to displays.</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　「応用が可能である」をなんとなんと、形容詞１語で表現することができます。感激するべきところです。 &lt;font color="#FF0000"&gt;applicable&lt;/font&gt; です。 apply（応用する）が able（できる）で applicable というわけです。「ディスプレイへの応用が可能である」は be applicable to displays とします。このように、&lt;b&gt;applicable（…へ応用できる）は to を伴います&lt;/b&gt;。こういう形容詞を知っておくと、引き締まった（語数の少ない）英文が書けます。例えば、「持ち運べる」は &lt;font color="#FF0000"&gt;portable&lt;/font&gt;、「着用できる」は &lt;font color="#FF0000"&gt;wearable&lt;/font&gt;、「交換できる」は &lt;font color="#FF0000"&gt;interchangeable&lt;/font&gt;、そして「利用できる」は &lt;font color="#FF0000"&gt;available&lt;/font&gt; です。&lt;br&gt;
+&lt;br&gt;
+　トピック全体をライティングする場合は、課題文の前文に有機EL素子がすでに登場していましたので文頭に The をつけます。既に出た言葉に言及して「このELデバイスは…」として関係を明確にします。日本文では「この」がなくても通じますが、英文では必ず The をつけます。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;&lt;font color="#FF0000"&gt;先輩へ&lt;/font&gt;：&lt;/b&gt;&lt;br&gt;
+　応用するのは「私たち」ですから、Organic EL devices を主語にするなら apply を動詞として使うことはできません。 is applicable とすれば、モノを主語にすることができます。 apply をどうしても使いたいのであれば、次のように書いてください。&lt;br&gt;
+　　We can apply the organic EL devices to displays.&lt;br&gt;
+しかし理系の英文としては、Organic EL devices を主語にした方がよいでしょう。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step3、Writing2 -->
+<contents type="tech2bStep3">
+<hint text="">
+<ph idx="1">appropriate</ph>
+<ph idx="2">organic dyes</ph>
+<ph idx="3">polymers</ph>
+<ph idx="4">full-color</ph>
+<ph idx="5">lightweight</ph>
+</hint>
+</contents>
+
+
+<!-- Step4、Comparisons -->
+<contents type="tech2bStep4">
+<senior answer="6,7">Organic EL devices are applicable to full-color, lightweight displays by choosing appropriate organic dyes and polymers.</senior>
+<teach>
+&lt;font size="20" color="#0000FF"&gt;
+Selecting appropriate organic dyes and polymers allows 
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+organic EL devices 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+to be 
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+applicable to 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+full-color and lightweight 
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+displays.
+&lt;/font&gt;
+</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　「～することによって」とくれば「by doing（doing は動名詞）」としたくなります。課題文ではここの部分が文の先頭にきているので重要なはずです。英文でも先頭にして、できれば主語にしてあげたいわけです。&lt;br&gt;
+　　&lt;b&gt;「●によって▲が■する」&lt;/b&gt;&lt;br&gt;
+　　&lt;b&gt;「●のせいで▲が■になる」&lt;/b&gt;&lt;br&gt;
+　　&lt;b&gt;「●が原因で▲が■という結果になる」&lt;/b&gt;&lt;br&gt;
+このパターンの英訳は&lt;br&gt;
+　　&lt;b&gt;「● allow ▲ ■」&lt;/b&gt;ここで、■は不定詞&lt;br&gt;
+allow はユニット３の enable の仲間です。これまた第５文型で &lt;font color="#0000FF"&gt;SVOC&lt;/font&gt; です。&lt;b&gt;OCのところは主語と述語の関係&lt;/b&gt;ですから、幹センがそのまま入ります。「そのまま」というのは言い過ぎでした。 is applicable を to be applicable に変えます。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;&lt;font color="#FF0000"&gt;先輩へ&lt;/font&gt;：&lt;/b&gt;&lt;br&gt;
+　「選ぶ」はなるべく select を使います。 choose や pick は好みの入った選択なのでここでは使いません。また、full-color と lightweight の間に and が不足しています。パラパラ（並列構造）なのに and を使わないのはルール違反です。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step5、Exercisse -->
+<contents type="tech2bStep5" size="5">
+<instruction1>このユニットで登場した表現と、関連する表現を練習しよう。間違えやすい表現に気をつけよう。</instruction1>
+<question no="1" type="R">
+<textTrans>次元解析は多くの問題に適用されている。</textTrans>
+<text>A dimensional analysis has been applied <sel cd="A" answer="2"></sel> many problems.</text>
+<sel cd="A" idx="1">for</sel>
+<sel cd="A" idx="2">to</sel>
+<sel cd="A" idx="3">on</sel>
+<hint>
+<sound>tech2b04s5Q01.mp3</sound>
+</hint>
+<point>　apply A to B で、「A を B に応用（適用）する」の意味です。 applied physics、applied chemistry はそれぞれ応用物理、応用化学です。</point>
+</question>
+
+<question no="2" type="I">
+<textTrans>あなたの提案はその問題に応用できない。</textTrans>
+<text>Your suggestion is not <sel cd="A" answer="2"></sel> to the problem.</text>
+<sel cd="A" idx="1">favorable</sel>
+<sel cd="A" idx="2">applicable</sel>
+<sel cd="A" idx="3">useful</sel>
+<hint>
+<sound>tech2b04s5Q02.mp3</sound>
+</hint>
+<point>　apply の形容詞形が applicable です。このときも後ろには前置詞 to を伴います。 application は apply の名詞形になります。
+　favorable: 好ましい、useful: 役に立つ</point>
+</question>
+
+<question no="3" type="I">
+<textTrans>これについては直接または文書で申し込むことができます。</textTrans>
+<text>You may apply <sel cd="A" answer="1"></sel> this personally or by letter.</text>
+<sel cd="A" idx="1">for</sel>
+<sel cd="A" idx="2">to</sel>
+<sel cd="A" idx="3">on</sel>
+<hint>
+<sound>tech2b04s5Q03.mp3</sound>
+</hint>
+<point>　apply for ... で、「（…に）申し込む」になります。 application には、応用と申し込みの意味があります。 applicant で申し込み者です。</point>
+</question>
+
+<question no="4" type="R">
+<textTrans>一定の電圧を両端子間にかけた。</textTrans>
+<text>A constant voltage was applied <sel cd="A" answer="2"></sel> the terminals.</text>
+<sel cd="A" idx="1">for</sel>
+<sel cd="A" idx="2">between</sel>
+<hint>
+<sound>tech2b04s5Q04.mp3</sound>
+</hint>
+<point>　「圧力、電圧、熱などをかける」という意味で apply を使います。両端子の「間」ですので、between です。 across も使えます。</point>
+</question>
+
+<question no="5" type="R">
+<textTrans>私たちは表面に接着剤を10回塗布する。</textTrans>
+<text>We <sel cd="A" answer="3"></sel> ten coats of adhesive to the surface.</text>
+<sel cd="A" idx="1">coat</sel>
+<sel cd="A" idx="2">make</sel>
+<sel cd="A" idx="3">apply</sel>
+<hint>
+<sound>tech2b04s5Q05.mp3</sound>
+</hint>
+<point>　「薬、接着剤、塗料などを塗る」意味でも apply を使います。 coat には動詞で「塗る」という意味はありません。</point>
+</question>
+</contents>
+
+
+<contents type="phrase">
+<p><ph idx="1">Selecting appropriate organic dyes and polymers allows organic EL devices to be applicable to full-color and lightweight displays.</ph></p>
+<p></p>
+<p><ph idx="2">1. A dimensional analysis has been applied to many problems.</ph></p>
+<p><ph idx="3">2. Your suggestion is not applicable to the problem.</ph></p>
+<p><ph idx="4">3. You may apply for this personally or by letter.</ph></p>
+<p><ph idx="5">4. A constant voltage was applied between the terminals.</ph></p>
+<p><ph idx="6">5. We apply ten coats of adhesive to the surface.</ph></p>
+</contents>
+
+<contents type="translation">
+<p><ph idx="1">適切な有機色素と高分子材料を選ぶことによって、有機EL素子はフルカラー・軽量ディスプレイへの応用が可能である。</ph></p>
+<p></p>
+<p><ph idx="2">1. 次元解析は多くの問題に適用されている。</ph></p>
+<p><ph idx="3">2. あなたの提案はその問題に応用できない。</ph></p>
+<p><ph idx="4">3. これについては直接または文書で申し込むことができます。</ph></p>
+<p><ph idx="5">4. 一定の電圧を両端子間にかけた。</ph></p>
+<p><ph idx="6">5. 私たちは表面に接着剤を10回塗布する。</ph></p>
+</contents>
+
+</unit>

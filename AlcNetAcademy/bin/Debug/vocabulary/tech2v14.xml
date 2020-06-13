@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="14">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅰ 専門分野別,コンピュータ２</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">コンピュータに関連する語句です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="server">
+<jp>サーバ</jp>
+<exp>【名】サーバ</exp>
+<sound>tech2v14idx01_server.mp3</sound>
+</w>
+<w idx="2" name="Telnet">
+<jp>テルネット</jp>
+<exp>【名】テルネット</exp>
+<sound>tech2v14idx02_Telnet.mp3</sound>
+</w>
+<w idx="3" name="transfer">
+<jp>転送する</jp>
+<exp>【動】転送する</exp>
+<sound>tech2v14idx03_transfer.mp3</sound>
+</w>
+<w idx="4" name="upward-compatible">
+<jp>上位互換の</jp>
+<exp>【形】上位互換の</exp>
+<sound>tech2v14idx04_upward-compatible.mp3</sound>
+</w>
+<w idx="5" name="computer virus">
+<jp>コンピュータウイルス</jp>
+<exp>【名】コンピュータウイルス</exp>
+<sound>tech2v14idx05_computer_virus.mp3</sound>
+</w>
+<w idx="6" name="electronic commerce">
+<jp>電子商取引</jp>
+<exp>【名】電子商取引（ＥＣ）</exp>
+<sound>tech2v14idx06_electronic_commerce.mp3</sound>
+</w>
+<w idx="7" name="archive">
+<jp>アーカイブ</jp>
+<exp>【名】アーカイブ</exp>
+<sound>tech2v14idx07_archive.mp3</sound>
+</w>
+<w idx="8" name="documentation">
+<jp>文書化</jp>
+<exp>【名】文書化、ドキュメンテーション</exp>
+<sound>tech2v14idx08_documentation.mp3</sound>
+</w>
+<w idx="9" name="local area network">
+<jp>ローカルエリアネットワーク</jp>
+<exp>【名】ローカルエリアネットワーク（ＬＡＮ）</exp>
+<sound>tech2v14idx09_local_area_network.mp3</sound>
+</w>
+<w idx="10" name="network">
+<jp>回路網</jp>
+<exp>【名】回路網、通信網</exp>
+<sound>tech2v14idx10_network.mp3</sound>
+</w>
+<w idx="11" name="terminal">
+<jp>端末</jp>
+<exp>【名】端末、端子</exp>
+<sound>tech2v14idx11_terminal.mp3</sound>
+</w>
+<w idx="12" name="computer aided design">
+<jp>コンピュータ支援設計</jp>
+<exp>【名】コンピュータ支援設計（ＣＡＤ）</exp>
+<sound>tech2v14idx12_computer_aided_design.mp3</sound>
+</w>
+<w idx="13" name="language">
+<jp>言語</jp>
+<exp>【名】言語</exp>
+<sound>tech2v14idx13_language.mp3</sound>
+</w>
+<w idx="14" name="program">
+<jp>プログラム</jp>
+<exp>【名】プログラム</exp>
+<sound>tech2v14idx14_program.mp3</sound>
+</w>
+<w idx="15" name="instruction">
+<jp>命令</jp>
+<exp>【名】命令</exp>
+<sound>tech2v14idx15_instruction.mp3</sound>
+</w>
+<w idx="16" name="computer graphics">
+<jp>コンピュータグラフィックス</jp>
+<exp>【名】コンピュータグラフィックス（ＣＧ）</exp>
+<sound>tech2v14idx16_computer_graphics.mp3</sound>
+</w>
+<w idx="17" name="portable">
+<jp>携帯用の</jp>
+<exp>【形】携帯用の</exp>
+<sound>tech2v14idx17_portable.mp3</sound>
+</w>
+<w idx="18" name="save">
+<jp>蓄える</jp>
+<exp>【動】蓄える</exp>
+<sound>tech2v14idx18_save.mp3</sound>
+</w>
+<w idx="19" name="scroll">
+<jp>画面移動</jp>
+<exp>【名】画面移動</exp>
+<sound>tech2v14idx19_scroll.mp3</sound>
+</w>
+<w idx="20" name="cache memory">
+<jp>キャッシュメモリ</jp>
+<exp>【名】キャッシュメモリ</exp>
+<sound>tech2v14idx20_cache_memory.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. server</p>
+<p>2. Telnet</p>
+<p>3. transfer</p>
+<p>4. upward-compatible</p>
+<p>5. computer virus</p>
+<p>6. electronic commerce</p>
+<p>7. archive</p>
+<p>8. documentation</p>
+<p>9. local area network</p>
+<p>10. network</p>
+<p>11. terminal</p>
+<p>12. computer aided design</p>
+<p>13. language</p>
+<p>14. program</p>
+<p>15. instruction</p>
+<p>16. computer graphics</p>
+<p>17. portable</p>
+<p>18. save</p>
+<p>19. scroll</p>
+<p>20. cache memory</p>
+</contents>
+</unit>

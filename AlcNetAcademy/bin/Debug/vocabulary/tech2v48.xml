@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="48">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅲ 科学基礎,科学基礎７</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">科学全般に共通する基礎語彙力を身につけます。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="barrel">
+<jp>バレル</jp>
+<exp>【名】バレル（容積の単位）、樽</exp>
+<sound>tech2v48idx01_barrel.mp3</sound>
+</w>
+<w idx="2" name="case">
+<jp>容器</jp>
+<exp>【名】容器、事例</exp>
+<sound>tech2v48idx02_case.mp3</sound>
+</w>
+<w idx="3" name="rim">
+<jp>（主に円形のものの）へり</jp>
+<exp>【名】（主に円形のものの）へり、枠</exp>
+<sound>tech2v48idx03_rim.mp3</sound>
+</w>
+<w idx="4" name="lubricity">
+<jp>潤滑性</jp>
+<exp>【名】潤滑性、滑らかさ</exp>
+<sound>tech2v48idx04_lubricity.mp3</sound>
+</w>
+<w idx="5" name="piece">
+<jp>破片</jp>
+<exp>【名】破片、部品</exp>
+<sound>tech2v48idx05_piece.mp3</sound>
+</w>
+<w idx="6" name="wear">
+<jp>摩耗</jp>
+<exp>【名】摩耗、摩滅　【動】すり減る</exp>
+<sound>tech2v48idx06_wear.mp3</sound>
+</w>
+<w idx="7" name="adjustment">
+<jp>調整</jp>
+<exp>【名】調整</exp>
+<sound>tech2v48idx07_adjustment.mp3</sound>
+</w>
+<w idx="8" name="edge">
+<jp>（鋭い）縁</jp>
+<exp>【名】（鋭い）縁、へり</exp>
+<sound>tech2v48idx08_edge.mp3</sound>
+</w>
+<w idx="9" name="emergency">
+<jp>非常事態</jp>
+<exp>【名】非常事態</exp>
+<sound>tech2v48idx09_emergency.mp3</sound>
+</w>
+<w idx="10" name="material">
+<jp>材料</jp>
+<exp>【名】材料、物質、資材</exp>
+<sound>tech2v48idx10_material.mp3</sound>
+</w>
+<w idx="11" name="accident">
+<jp>事故</jp>
+<exp>【名】事故</exp>
+<sound>tech2v48idx11_accident.mp3</sound>
+</w>
+<w idx="12" name="design">
+<jp>設計</jp>
+<exp>【名】設計　【動】設計する</exp>
+<sound>tech2v48idx12_design.mp3</sound>
+</w>
+<w idx="13" name="durability">
+<jp>耐久性</jp>
+<exp>【名】耐久性</exp>
+<sound>tech2v48idx13_durability.mp3</sound>
+</w>
+<w idx="14" name="failure">
+<jp>破損</jp>
+<exp>【名】破損、故障</exp>
+<sound>tech2v48idx14_failure.mp3</sound>
+</w>
+<w idx="15" name="safety">
+<jp>安全</jp>
+<exp>【名】安全</exp>
+<sound>tech2v48idx15_safety.mp3</sound>
+</w>
+<w idx="16" name="stability">
+<jp>安定性</jp>
+<exp>【名】安定性</exp>
+<sound>tech2v48idx16_stability.mp3</sound>
+</w>
+<w idx="17" name="risk">
+<jp>危険度</jp>
+<exp>【名】危険度</exp>
+<sound>tech2v48idx17_risk.mp3</sound>
+</w>
+<w idx="18" name="security">
+<jp>秘密保護</jp>
+<exp>【名】秘密保護、安全性</exp>
+<sound>tech2v48idx18_security.mp3</sound>
+</w>
+<w idx="19" name="reliability">
+<jp>信頼度</jp>
+<exp>【名】信頼度</exp>
+<sound>tech2v48idx19_reliability.mp3</sound>
+</w>
+<w idx="20" name="automation">
+<jp>自動化</jp>
+<exp>【名】自動化、オートメーション</exp>
+<sound>tech2v48idx20_automation.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. barrel</p>
+<p>2. case</p>
+<p>3. rim</p>
+<p>4. lubricity</p>
+<p>5. piece</p>
+<p>6. wear</p>
+<p>7. adjustment</p>
+<p>8. edge</p>
+<p>9. emergency</p>
+<p>10. material</p>
+<p>11. accident</p>
+<p>12. design</p>
+<p>13. durability</p>
+<p>14. failure</p>
+<p>15. safety</p>
+<p>16. stability</p>
+<p>17. risk</p>
+<p>18. security</p>
+<p>19. reliability</p>
+<p>20. automation</p>
+</contents>
+</unit>

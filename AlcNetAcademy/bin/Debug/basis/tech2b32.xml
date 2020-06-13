@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 基礎コース -->
+
+<unit idx="32">
+
+<introduction>
+<title>（表現）E-mailの英語</title>
+<read>&lt;font size="16" color="#000000"&gt;
+（学習のポイント）               
+&lt;/font&gt;
+&lt;font size="16" color="#0000FF"&gt;
+不定詞／pleased／which
+&lt;/font&gt;
+&lt;br&gt;
+&lt;font size="16" color="#000000"&gt;
+いよいよ最後のユニットです。電子メールを取り上げます。いいたいことを相手に的確に伝える表現をめざしましょう。最後に32ユニットの事例を振り返って、理系の英語表現の特徴を整理します。
+&lt;/font&gt;</read>
+</introduction>
+
+
+<notes>
+<w idx="1" name="reply">
+<jp>返事</jp>
+<sound>tech2b32idx01_reply.mp3</sound>
+</w>
+<w idx="2" name="New York">
+<jp>ニューヨーク</jp>
+<sound>tech2b32idx02_New_York.mp3</sound>
+</w>
+<w idx="3" name="sensor">
+<jp>センサー</jp>
+<sound>tech2b32idx03_sensor.mp3</sound>
+</w>
+<w idx="4" name="order">
+<jp>注文</jp>
+<sound>tech2b32idx04_order.mp3</sound>
+</w>
+<w idx="5" name="factory">
+<jp>工場</jp>
+<sound>tech2b32idx05_factory.mp3</sound>
+</w>
+<w idx="6" name="trial">
+<jp>試用</jp>
+<sound>tech2b32idx06_trial.mp3</sound>
+</w>
+</notes>
+
+
+<!-- Step1、Topic&Vocaburary -->
+<contents type="tech2bStep1">
+<p>　20xx年11月13日付の手紙に対する12月17日付のご<w idx="1">返事</w>を頂き、ありがとうございました。
+　私たちは、１月15日から始まる週に<w idx="2">ニューヨーク</w>へ行き、アメリカ国内で当社製<w idx="3">センサー</w>が置かれている状況について、貴社およびUSセンサーシステム社と詳細な検討をしたい考えです。
+　ご<w idx="4">注文</w>いただいたTK型センサーがUSセンサーシステム社の<w idx="5">工場</w>で<w idx="6">試用</w>される予定であると伺い、喜んでおります。
+　ニューヨークに到着次第ご連絡申し上げます。</p>
+</contents>
+
+
+<!-- Step2、Writing1 -->
+<contents type="tech2bStep2">
+<instruction1>次の日本文から幹センを抜き出そう。</instruction1>
+<instruction2>[先輩]ボタンを押して、先輩が書いた英文とあなたの英文を比べてみよう。</instruction2>
+<sentence>
+<ph idx="1">ご注文いただいた</ph>
+<ph idx="2" miki="true">TK型センサーが</ph>
+<ph idx="3">USセンサーシステム社の工場で</ph>
+<ph idx="4" miki="true">試用される予定であると伺い、</ph>
+<ph idx="5" miki="true">喜んでおります。</ph>
+</sentence>
+<mikisentence>
+<ph idx="1">TK型センサーが試用される予定であると伺い、</ph>
+<ph idx="2" type="C">喜んでおります。</ph>
+</mikisentence>
+<hint text="">
+<ph idx="1">Model TK Sensor</ph>
+<ph idx="2">trial</ph>
+</hint>
+<senior answer="A">We are <sel cd="A">happy</sel> to <sel cd="B">hear</sel> that the Model TK Sensor <sel cd="C">will be</sel> used <sel cd="D">on trial</sel>.</senior>
+<teach>We are pleased to hear that the Model TK Sensor will be used on trial.</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　不定詞の用法には、&lt;font color="#0000FF"&gt;名詞的用法&lt;/font&gt;、&lt;font color="#0000FF"&gt;形容詞的用法&lt;/font&gt;および&lt;font color="#0000FF"&gt;副詞的用法&lt;/font&gt;があります。ユニット１から始まってユニット32までの不定詞の登場回数は、なんと10回にも上ります。あるときは、allow、enable などの補語になるために、名詞になったり、あるときは、名詞を説明するための修飾語になるために、形容詞になったり、そしてまたあるときは、結果や目的を表すために、副詞になったりして不定詞は活躍してくれました。&lt;br&gt;
+&lt;br&gt;
+　このユニットは、E-mail ということで、理系特有の感情を差し挟まない文章とはひと味違います。 E-mail や手紙には「喜んでおります」「残念です」などが登場します。&lt;br&gt;
+　&lt;font color="#FF0000"&gt;We are pleased to hear ...&lt;/font&gt;&lt;br&gt;
+は「…と伺い、喜んでおります」という意味です。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　happy より pleased の方が丁寧な表現です。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step3、Writing2 -->
+<contents type="tech2bStep3">
+<hint text="">
+<ph idx="1">place an order</ph>
+<ph idx="2">factory</ph>
+<ph idx="3">U.S.</ph>
+</hint>
+</contents>
+
+
+<!-- Step4、Comparisons -->
+<contents type="tech2bStep4">
+<senior answer="1,7">We are pleased to hear that the Model TK Sensor which you placed an order will be used on trial in the U.S. Sensor system factory.</senior>
+<teach>
+&lt;font size="20" color="#000000"&gt;
+We are pleased to hear that the Model TK Sensor 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+for which you placed an order 
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+will be used on trial 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+in the U.S. Sensor System factory
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+.
+&lt;/font&gt;
+</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　いよいよ解説も最後になりました。もう解説することもなくなってしまいました。そこで、32個のユニットを眺めて部門別ランキングあるいは対決を作ってみました。&lt;br&gt;
+&lt;br&gt;
+１）&lt;font color="#0000FF"&gt;不定詞、動名詞、分詞（現在分詞、過去分詞）、関係詞&lt;/font&gt;&lt;br&gt;
+　不定詞と動名詞がそれぞれ10回登場しています。分詞（受け身の文に登場する過去分詞は除きました）は９回です。関係詞は３回です。関係詞はあまり使わないようです。&lt;br&gt;
+&lt;br&gt;
+２）&lt;font color="#0000FF"&gt;文型&lt;/font&gt;&lt;br&gt;
+　SV、SVC、SVO、SVOO、そして SVOC は、それぞれ、14、12、18、０、そして２という結果になりました。 SV が多いのは受け身の文の貢献によります。 SVO と SVC が活躍するのが理系の英文です。&lt;br&gt;
+&lt;br&gt;
+３）&lt;font color="#0000FF"&gt;受け身（受動態）vs 能動態&lt;/font&gt;&lt;br&gt;
+　能動態が12回、受動態が30回登場しています。能動態のがんばりが目立ちます。これは理系のぴったんこ動詞がモノ・コトを主語にして文を作るからです。&lt;br&gt;
+　ついでに、パラパラ（並列構造）は、言葉と言葉との並列で12回、文と文との並列で５回登場です。 andをおろそかにしてはいけません。&lt;br&gt;
+&lt;br&gt;
+　こうしてみると、どのあたりの英文法の学習が理系の英文にとって重要なのかが見えてきます。理系の英文ライティングは、努力の方法さえ間違えなければ（この教材で勉強すれば）、必ず上達します。いろいろな使い方をして32個のユニットをかわいがってください。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　文と文の接着剤 which の登場です。必ずふたつの文にしてひとつずつ文が正しいことを確認してください。先輩の英文では、「共通語」は the Model TK Sensor ですから、&lt;br&gt;
+　　The Model TK Sensor will be used on trial.&lt;br&gt;
+　　You placed an order the Model TK Sensor.&lt;br&gt;
+となります。第２文には place an order for ...（…を注文する）の for が抜けてしまっています。 for the Model TK Sensor の the Model TK Sensor が which になりますので、for は残ります。 US センサーシステム社という会社名ですから、system のところも先頭の s を大文字 S にしてください。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step5、Exercisse -->
+<contents type="tech2bStep5" size="5">
+<instruction1>これまで学習したことを思い出して最後の練習をしよう。</instruction1>
+<question no="1" type="R">
+<textTrans>直流とは、１方向に流れる電流と定義される。</textTrans>
+<text>Direct current is <sel cd="A" answer="3"></sel> as current that flows in one direction.</text>
+<sel cd="A" idx="1">called</sel>
+<sel cd="A" idx="2">described</sel>
+<sel cd="A" idx="3">defined</sel>
+<hint>
+<sound>tech2b32s5Q01.mp3</sound>
+</hint>
+<point>　ことばの定義のパターンです。● is defined as ▲です。ここでの that は関係代名詞です。</point>
+</question>
+
+<question no="2" type="R">
+<textTrans>この会社は大きな３部門から成る。</textTrans>
+<text>This company consists <sel cd="A" answer="3"></sel> three major divisions.</text>
+<sel cd="A" idx="1">in</sel>
+<sel cd="A" idx="2">among</sel>
+<sel cd="A" idx="3">of</sel>
+<hint>
+<sound>tech2b32s5Q02.mp3</sound>
+</hint>
+<point>　consist of ... ＝ be composed of ... 頻出表現です。</point>
+</question>
+
+<question no="3" type="R">
+<textTrans>鉄の破片が四方八方に飛び散った。</textTrans>
+<text>Pieces of iron flew <sel cd="A" answer="1"></sel> all directions.</text>
+<sel cd="A" idx="1">in</sel>
+<sel cd="A" idx="2">for</sel>
+<sel cd="A" idx="3">to</sel>
+<hint>
+<sound>tech2b32s5Q03.mp3</sound>
+</hint>
+<point>　direction には相性のいい前置詞 in を使ってください。</point>
+</question>
+
+<question no="4" type="R">
+<textTrans>AをBと平行に置いてください。</textTrans>
+<text>Place A parallel <sel cd="A" answer="2"></sel> B.</text>
+<sel cd="A" idx="1">in</sel>
+<sel cd="A" idx="2">to</sel>
+<sel cd="A" idx="3">for</sel>
+<hint>
+<sound>tech2b32s5Q04.mp3</sound>
+</hint>
+<point>　parallel to [with] ... で「…に平行して」となります。</point>
+</question>
+
+<question no="5" type="R">
+<textTrans>生産量を10%だけ減らした。</textTrans>
+<text>Production was reduced <sel cd="A" answer="1"></sel> 10%.</text>
+<sel cd="A" idx="1">by</sel>
+<sel cd="A" idx="2">to</sel>
+<sel cd="A" idx="3">within</sel>
+<hint>
+<sound>tech2b32s5Q05.mp3</sound>
+</hint>
+<point>　10％「だけ」というニュアンスで、数量を限定するときに by を使います。 to だと「10％まで減らした」となります。 within であれば「10％以内に」です。</point>
+</question>
+</contents>
+
+
+<contents type="phrase">
+<p><ph idx="1">We are pleased to hear that the Model TK Sensor for which you placed an order will be used on trial in the U.S. Sensor System factory.</ph></p>
+<p></p>
+<p><ph idx="2">1. Direct current is defined as current that flows in one direction.</ph></p>
+<p><ph idx="3">2. This company consists of three major divisions.</ph></p>
+<p><ph idx="4">3. Pieces of iron flew in all directions.</ph></p>
+<p><ph idx="5">4. Place A parallel to B.</ph></p>
+<p><ph idx="6">5. Production was reduced by 10%.</ph></p>
+</contents>
+
+<contents type="translation">
+<p><ph idx="1">ご注文いただいたTK型センサーがUSセンサーシステム社の工場で試用される予定であると伺い、喜んでおります。</ph></p>
+<p></p>
+<p><ph idx="2">1. 直流とは、１方向に流れる電流と定義される。</ph></p>
+<p><ph idx="3">2. この会社は大きな３部門から成る。</ph></p>
+<p><ph idx="4">3. 鉄の破片が四方八方に飛び散った。</ph></p>
+<p><ph idx="5">4. A を B と平行に置いてください。</ph></p>
+<p><ph idx="6">5. 生産量を10％だけ減らした。</ph></p>
+</contents>
+
+
+</unit>

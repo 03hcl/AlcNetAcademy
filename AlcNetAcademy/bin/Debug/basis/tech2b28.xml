@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 基礎コース -->
+
+<unit idx="28">
+
+<introduction>
+<title>家電製品のリサイクル</title>
+<read>&lt;font size="16" color="#000000"&gt;
+（学習のポイント）               
+&lt;/font&gt;
+&lt;font size="16" color="#0000FF"&gt;
+並列構造／should／such as
+&lt;/font&gt;
+&lt;br&gt;
+&lt;font size="16" color="#000000"&gt;
+工業製品の便利さは、利用を終えた後の廃棄までを含めて考えていく必要があります。この学習で最も長い文章表現に挑戦します。長いといっても、幹センの構造をとらえて基本をつかめば大丈夫です。
+&lt;/font&gt;</read>
+</introduction>
+
+
+<notes>
+<w idx="1" name="refrigerator">
+<jp>冷蔵庫</jp>
+<sound>tech2b28idx01_refrigerator.mp3</sound>
+</w>
+<w idx="2" name="washing machine">
+<jp>洗濯機</jp>
+<sound>tech2b28idx02_washing_machine.mp3</sound>
+</w>
+<w idx="3" name="air conditioner">
+<jp>エアコン</jp>
+<sound>tech2b28idx03_air_conditioner.mp3</sound>
+</w>
+<w idx="4" name="consumer electronic products">
+<jp>家電製品</jp>
+<sound>tech2b28idx04_consumer_electronic_products.mp3</sound>
+</w>
+<w idx="5" name="consumer">
+<jp>消費者</jp>
+<sound>tech2b28idx05_consumer.mp3</sound>
+</w>
+<w idx="6" name="simplify">
+<jp>単純化し</jp>
+<sound>tech2b28idx06_simplify.mp3</sound>
+</w>
+<w idx="7" name="disassemble">
+<jp>分解し</jp>
+<sound>tech2b28idx07_disassemble.mp3</sound>
+</w>
+<w idx="8" name="design">
+<jp>設計</jp>
+<sound>tech2b28idx08_design.mp3</sound>
+</w>
+</notes>
+
+
+<!-- Step1、Topic&Vocaburary -->
+<contents type="tech2bStep1">
+<p>　「家電リサイクル法」の成立を受けて、2001年4月からテレビ、<w idx="1">冷蔵庫</w>、<w idx="2">洗濯機</w>、<w idx="3">エアコン</w>のリサイクルが本格化した。これまで<w idx="4">家電製品</w>は大半が粉砕されて埋め立てられてきた。これからは<w idx="5">消費者</w>には再商品化のための費用負担、販売店・メーカーには回収とリサイクルが義務づけられることになった。どのメーカーも、部品点数を減らし、材料を<w idx="6">単純化し</w>、<w idx="7">分解し</w>やすい構造にするなどの新しいコンセプトに基づいたより丈夫な家電製品の<w idx="8">設計</w>を考慮すべきである。</p>
+</contents>
+
+
+<!-- Step2、Writing1 -->
+<contents type="tech2bStep2">
+<instruction1>次の日本文から、幹センを抜き出そう。</instruction1>
+<instruction2>[先輩]ボタンを押して、先輩が書いた英文とあなたの英文を比べてみよう。</instruction2>
+<sentence>
+<ph idx="1" miki="true">どのメーカーも、</ph>
+<ph idx="2">部品点数を減らし、</ph>
+<ph idx="3">材料を単純化し、</ph>
+<ph idx="4">分解しやすい構造にする</ph>
+<ph idx="5">などの</ph>
+<ph idx="6">新しいコンセプトに基づいた</ph>
+<ph idx="7" miki="true">より丈夫な家電製品の設計を</ph>
+<ph idx="8" miki="true">考慮すべきである。</ph>
+</sentence>
+<mikisentence>
+<ph idx="1" type="S">どのメーカーも、</ph>
+<ph idx="2">より丈夫な家電製品の</ph>
+<ph idx="3" type="O">設計を</ph>
+<ph idx="4" type="V">考慮すべきである。</ph>
+</mikisentence>
+<hint text="">
+<ph idx="1">consider</ph>
+<ph idx="2">designing</ph>
+<ph idx="3">sturdy</ph>
+<ph idx="4">consumer electronic products</ph>
+</hint>
+<senior answer="A"><sel cd="A">Any maker</sel> <sel cd="B">should consider</sel> <sel cd="C">designing</sel> <sel cd="D">more sturdy</sel> consumer electronic products.</senior>
+<teach>Any manufacturer should consider designing more sturdy consumer electronic products.</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　「考慮すべきである」の「すべきである」はきつい表現だから、「考慮した方がよい」にリライトして、had better を使おうなんてすると大変です。 had better consider の意味は「ちゃんと考慮しないと後でどうなるかわかってるだろうな」という脅迫になってしまいます。ここは、&lt;font color="#FF0000"&gt;should&lt;/font&gt; にすべきです。&lt;br&gt;
+&lt;br&gt;
+　「考慮する」の &lt;font color="#FF0000"&gt;consider&lt;/font&gt; は動名詞を伴って SVO にすることができます。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　「どのメーカーも」は any maker といいたいところですが、理系の英文では &lt;font color="#FF0000"&gt;any manufacturer&lt;/font&gt; を使ってください。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step3、Writing2 -->
+<contents type="tech2bStep3">
+<hint text="">
+<ph idx="1">reduce</ph>
+<ph idx="2">number of parts</ph>
+<ph idx="3">simplify</ph>
+<ph idx="4">material</ph>
+<ph idx="5">provide</ph>
+<ph idx="6">disassemble</ph>
+<ph idx="7">structures</ph>
+</hint>
+</contents>
+
+
+<!-- Step4、Comparisons -->
+<contents type="tech2bStep4">
+<senior answer="8">Any manufacturer should consider designing more sturdy consumer electronic products based on new concepts, which are reducing the number of parts, simplifying materials, and easiness of disassembling structures.</senior>
+<teach>
+&lt;font size="20" color="#000000"&gt;
+Any manufacturer should consider designing more sturdy consumer electronic products 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+based on new concepts, such as reducing the number of parts, simplifying materials, and providing structures to be easily disassembled
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+.
+&lt;/font&gt;
+</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　「部品点数を減らし、材料を単純化し、分解しやすい構造にするなどの新しいコンセプト」。ここのところは&lt;b&gt;パラパラ（並列構造）&lt;/b&gt;です。「部品点数を減らすこと」「材料を単純化すること」そして「分解しやすい構造にすること」。３つ並んでいます。バランスの悪いパラパラは読み手にとって負担です。すべてに動名詞を使ってきれいに並べましょう。&lt;br&gt;
+&lt;br&gt;
+　「などの」の表現には &lt;font color="#FF0000"&gt;such as&lt;/font&gt; が使えます。&lt;br&gt;
+&lt;br&gt;
+　「…に基づいて」は、&lt;font color="#FF0000"&gt;based on ...&lt;/font&gt; といいます。過去分詞で始まる句の仲間には、&lt;font color="#FF0000"&gt;compared to ...&lt;/font&gt;（…と比較して）があります。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　工夫を凝らしてパラパラをきれいに並べてください。そうでないとパラパラがバラバラになってしまいます。「分解しやすい構造にする」を「容易に分解される構造を与える」とリライトして、パラパラの動名詞の３つ目は providing structures to be easily disassembled にします。 &lt;font color="#FF0000"&gt;provide&lt;/font&gt; は「与える」という意味の使いでのある動詞です。 to be ... の不定詞は形容詞的用法です。ここは難所でした。パラパラへのこだわりを見習ってください。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step5、Exercisse -->
+<contents type="tech2bStep5" size="5">
+<instruction1>このユニットで登場した表現、関連する表現、さらに新しい表現を練習しよう。</instruction1>
+<question no="1" type="I">
+<textTrans>私たちは来年スイス訪問を検討しています。</textTrans>
+<text>We are considering <sel cd="A" answer="2"></sel> Switzerland next year.</text>
+<sel cd="A" idx="1">to visit</sel>
+<sel cd="A" idx="2">visiting</sel>
+<hint>
+<sound>tech2b28s5Q01.mp3</sound>
+</hint>
+<point>　consider には動名詞が続いて、「…することを考慮する」になります。</point>
+</question>
+
+<question no="2" type="I">
+<textTrans>私たちはローマに行くことを考えた。</textTrans>
+<text>We considered <sel cd="A" answer="3"></sel> to Rome.</text>
+<sel cd="A" idx="1">about going</sel>
+<sel cd="A" idx="2">to go</sel>
+<sel cd="A" idx="3">going</sel>
+<hint>
+<sound>tech2b28s5Q02.mp3</sound>
+</hint>
+<point>　consider doing ですでに think carefully about doing のことです。 consider に about は必要ありません。</point>
+</question>
+
+<question no="3" type="I">
+<textTrans>あなたはこの問題を検討しなければいけない。</textTrans>
+<text>You must <sel cd="A" answer="2"></sel> consideration to this problem.</text>
+<sel cd="A" idx="1">pay</sel>
+<sel cd="A" idx="2">give</sel>
+<sel cd="A" idx="3">bring</sel>
+<hint>
+<sound>tech2b28s5Q03.mp3</sound>
+</hint>
+<point>　give consideration to ... で、「…を検討する」となります。「…に注意を払う」という場合は、pay[give] attention to ... となります。</point>
+</question>
+
+<question no="4" type="R">
+<textTrans>熱は物体から物体へ３つの方式で伝えられる。</textTrans>
+<text>Heat is <sel cd="A" answer="3"></sel> from one body to another in three ways.</text>
+<sel cd="A" idx="1">transported</sel>
+<sel cd="A" idx="2">moved</sel>
+<sel cd="A" idx="3">transferred</sel>
+<hint>
+<sound>tech2b28s5Q04.mp3</sound>
+</hint>
+<point>　transfer で「伝達する」の意味です。 heat transfer「熱伝達」です。</point>
+</question>
+
+<question no="5" type="R">
+<textTrans>C と D との関係を図３に示す。</textTrans>
+<text>The relationship between C and D is <sel cd="A" answer="3"></sel> in Figure 3.</text>
+<sel cd="A" idx="1">given</sel>
+<sel cd="A" idx="2">made</sel>
+<sel cd="A" idx="3">shown</sel>
+<hint>
+<sound>tech2b28s5Q05.mp3</sound>
+</hint>
+<point>　図はほとんどの場合、show で済みます。</point>
+</question>
+</contents>
+
+
+<contents type="phrase">
+<p><ph idx="1">Any manufacturer should consider designing more sturdy consumer electronic products.</ph></p>
+<p></p>
+<p><ph idx="2">1. We are considering visiting Switzerland next year.</ph></p>
+<p><ph idx="3">2. We considered going to Rome.</ph></p>
+<p><ph idx="4">3. You must give consideration to this problem.</ph></p>
+<p><ph idx="5">4. Heat is transferred from one body to another in three ways.</ph></p>
+<p><ph idx="6">5. The relationship between C and D is shown in Figure 3.</ph></p>
+</contents>
+
+<contents type="translation">
+<p><ph idx="1">どのメーカーも、より丈夫な家電製品の設計を考慮すべきである。</ph></p>
+<p></p>
+<p><ph idx="2">1. 私たちは来年スイス訪問を検討しています。</ph></p>
+<p><ph idx="3">2. 私たちはローマに行くことを考えた。</ph></p>
+<p><ph idx="4">3. あなたはこの問題を検討しなければいけない。</ph></p>
+<p><ph idx="5">4. 熱は物体から物体へ３つの方式で伝えられる。</ph></p>
+<p><ph idx="6">5. C と D との関係を図３に示す。</ph></p>
+</contents>
+
+
+</unit>

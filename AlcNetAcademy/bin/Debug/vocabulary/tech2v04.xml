@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="04">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅰ 専門分野別,物理２</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">物理でよく使われる語句です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="wave">
+<jp>波</jp>
+<exp>【名】波、波動</exp>
+<sound>tech2v04idx01_wave.mp3</sound>
+</w>
+<w idx="2" name="chaos">
+<jp>カオス</jp>
+<exp>【名】カオス</exp>
+<sound>tech2v04idx02_chaos.mp3</sound>
+</w>
+<w idx="3" name="deformation">
+<jp>変形</jp>
+<exp>【名】変形</exp>
+<sound>tech2v04idx03_deformation.mp3</sound>
+</w>
+<w idx="4" name="elementary particle">
+<jp>素粒子</jp>
+<exp>【名】素粒子</exp>
+<sound>tech2v04idx04_elementary_particle.mp3</sound>
+</w>
+<w idx="5" name="fluid">
+<jp>流体</jp>
+<exp>【名】流体</exp>
+<sound>tech2v04idx05_fluid.mp3</sound>
+</w>
+<w idx="6" name="intensity">
+<jp>（電流・光など）強度</jp>
+<exp>【名】（電流・光・放射能など）強度</exp>
+<sound>tech2v04idx06_intensity.mp3</sound>
+</w>
+<w idx="7" name="lens">
+<jp>レンズ</jp>
+<exp>【名】レンズ</exp>
+<sound>tech2v04idx07_lens.mp3</sound>
+</w>
+<w idx="8" name="neutron">
+<jp>中性子</jp>
+<exp>【名】中性子</exp>
+<sound>tech2v04idx08_neutron.mp3</sound>
+</w>
+<w idx="9" name="particle">
+<jp>粒子</jp>
+<exp>【名】粒子</exp>
+<sound>tech2v04idx09_particle.mp3</sound>
+</w>
+<w idx="10" name="photon">
+<jp>光子</jp>
+<exp>【名】光子</exp>
+<sound>tech2v04idx10_photon.mp3</sound>
+</w>
+<w idx="11" name="precession">
+<jp>歳差運動</jp>
+<exp>【名】歳差運動</exp>
+<sound>tech2v04idx11_precession.mp3</sound>
+</w>
+<w idx="12" name="prism">
+<jp>プリズム</jp>
+<exp>【名】プリズム、角柱</exp>
+<sound>tech2v04idx12_prism.mp3</sound>
+</w>
+<w idx="13" name="proton">
+<jp>陽子</jp>
+<exp>【名】陽子</exp>
+<sound>tech2v04idx13_proton.mp3</sound>
+</w>
+<w idx="14" name="radiation">
+<jp>輻射</jp>
+<exp>【名】輻射、放射</exp>
+<sound>tech2v04idx14_radiation.mp3</sound>
+</w>
+<w idx="15" name="ray">
+<jp>光線</jp>
+<exp>【名】光線</exp>
+<sound>tech2v04idx15_ray.mp3</sound>
+</w>
+<w idx="16" name="steam">
+<jp>蒸気</jp>
+<exp>【名】蒸気</exp>
+<sound>tech2v04idx16_steam.mp3</sound>
+</w>
+<w idx="17" name="supersonic">
+<jp>超音速の</jp>
+<exp>【形】超音速の</exp>
+<sound>tech2v04idx17_supersonic.mp3</sound>
+</w>
+<w idx="18" name="visible ray">
+<jp>可視光線</jp>
+<exp>【名】可視光線</exp>
+<sound>tech2v04idx18_visible_ray.mp3</sound>
+</w>
+<w idx="19" name="wavelength">
+<jp>波長</jp>
+<exp>【名】波長</exp>
+<sound>tech2v04idx19_wavelength.mp3</sound>
+</w>
+<w idx="20" name="light">
+<jp>光</jp>
+<exp>【名】光</exp>
+<sound>tech2v04idx20_light.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. wave</p>
+<p>2. chaos</p>
+<p>3. deformation</p>
+<p>4. elementary particle</p>
+<p>5. fluid</p>
+<p>6. intensity</p>
+<p>7. lens</p>
+<p>8. neutron</p>
+<p>9. particle</p>
+<p>10. photon</p>
+<p>11. precession</p>
+<p>12. prism</p>
+<p>13. proton</p>
+<p>14. radiation</p>
+<p>15. ray</p>
+<p>16. steam</p>
+<p>17. supersonic</p>
+<p>18. visible ray</p>
+<p>19. wavelength</p>
+<p>20. light</p>
+</contents>
+</unit>

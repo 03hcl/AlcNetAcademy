@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="23">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅱ 動詞・形容詞ほか,動詞２</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">技術英語でよく使われる動詞です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="rectify">
+<jp>整流する</jp>
+<exp>【動】整流する</exp>
+<sound>tech2v23idx01_rectify.mp3</sound>
+</w>
+<w idx="2" name="regulate">
+<jp>調整する</jp>
+<exp>【動】調整する</exp>
+<sound>tech2v23idx02_regulate.mp3</sound>
+</w>
+<w idx="3" name="export">
+<jp>輸出する</jp>
+<exp>【動】輸出する</exp>
+<sound>tech2v23idx03_export.mp3</sound>
+</w>
+<w idx="4" name="import">
+<jp>輸入する</jp>
+<exp>【動】輸入する</exp>
+<sound>tech2v23idx04_import.mp3</sound>
+</w>
+<w idx="5" name="conserve">
+<jp>（天然資源などを）保存する</jp>
+<exp>【動】（天然資源・エネルギーなどを）保存する</exp>
+<sound>tech2v23idx05_conserve.mp3</sound>
+</w>
+<w idx="6" name="preserve">
+<jp>保存 （保管・保護） する</jp>
+<exp>【動】（破損などから守って）保存 （保管・保護） する</exp>
+<sound>tech2v23idx06_preserve.mp3</sound>
+</w>
+<w idx="7" name="breathe">
+<jp>呼吸する</jp>
+<exp>【動】呼吸する</exp>
+<sound>tech2v23idx07_breathe.mp3</sound>
+</w>
+<w idx="8" name="publish">
+<jp>出版する</jp>
+<exp>【動】出版する</exp>
+<sound>tech2v23idx08_publish.mp3</sound>
+</w>
+<w idx="9" name="propose">
+<jp>提案する</jp>
+<exp>【動】提案する</exp>
+<sound>tech2v23idx09_propose.mp3</sound>
+</w>
+<w idx="10" name="affect">
+<jp>影響を及ぼす</jp>
+<exp>【動】影響を及ぼす</exp>
+<sound>tech2v23idx10_affect.mp3</sound>
+</w>
+<w idx="11" name="exert">
+<jp>（作用などを）及ぼす</jp>
+<exp>【動】（作用などを）及ぼす</exp>
+<sound>tech2v23idx11_exert.mp3</sound>
+</w>
+<w idx="12" name="perform">
+<jp>実行する</jp>
+<exp>【動】実行する</exp>
+<sound>tech2v23idx12_perform.mp3</sound>
+</w>
+<w idx="13" name="travel">
+<jp>（光・音などが）伝わる</jp>
+<exp>【動】（光・音などが）伝わる、移動する</exp>
+<sound>tech2v23idx13_travel.mp3</sound>
+</w>
+<w idx="14" name="turn">
+<jp>回す</jp>
+<exp>【動】回す、回転させる</exp>
+<sound>tech2v23idx14_turn.mp3</sound>
+</w>
+<w idx="15" name="navigate">
+<jp>操縦する</jp>
+<exp>【動】操縦する</exp>
+<sound>tech2v23idx15_navigate.mp3</sound>
+</w>
+<w idx="16" name="develop">
+<jp>開発する</jp>
+<exp>【動】開発する</exp>
+<sound>tech2v23idx16_develop.mp3</sound>
+</w>
+<w idx="17" name="share">
+<jp>共有する</jp>
+<exp>【動】共有する、分ける</exp>
+<sound>tech2v23idx17_share.mp3</sound>
+</w>
+<w idx="18" name="fasten">
+<jp>固定する</jp>
+<exp>【動】固定する</exp>
+<sound>tech2v23idx18_fasten.mp3</sound>
+</w>
+<w idx="19" name="tighten">
+<jp>締め付ける</jp>
+<exp>【動】締め付ける</exp>
+<sound>tech2v23idx19_tighten.mp3</sound>
+</w>
+<w idx="20" name="build">
+<jp>（装置などを）組み立てる</jp>
+<exp>【動】（装置などを）作る、組み立てる、建設する、築く</exp>
+<sound>tech2v23idx20_build.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. rectify</p>
+<p>2. regulate</p>
+<p>3. export</p>
+<p>4. import</p>
+<p>5. conserve</p>
+<p>6. preserve</p>
+<p>7. breathe</p>
+<p>8. publish</p>
+<p>9. propose</p>
+<p>10. affect</p>
+<p>11. exert</p>
+<p>12. perform</p>
+<p>13. travel</p>
+<p>14. turn</p>
+<p>15. navigate</p>
+<p>16. develop</p>
+<p>17. share</p>
+<p>18. fasten</p>
+<p>19. tighten</p>
+<p>20. build</p>
+</contents>
+</unit>

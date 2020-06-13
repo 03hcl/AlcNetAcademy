@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="16">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅰ 専門分野別,環境１</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">環境の分野でよく使われる語句です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="acid rain">
+<jp>酸性雨</jp>
+<exp>【名】酸性雨</exp>
+<sound>tech2v16idx01_acid_rain.mp3</sound>
+</w>
+<w idx="2" name="air pollution">
+<jp>大気汚染</jp>
+<exp>【名】大気汚染</exp>
+<sound>tech2v16idx02_air_pollution.mp3</sound>
+</w>
+<w idx="3" name="desert">
+<jp>砂漠</jp>
+<exp>【名】砂漠</exp>
+<sound>tech2v16idx03_desert.mp3</sound>
+</w>
+<w idx="4" name="desertification">
+<jp>砂漠化</jp>
+<exp>【名】砂漠化</exp>
+<sound>tech2v16idx04_desertification.mp3</sound>
+</w>
+<w idx="5" name="dioxin">
+<jp>ダイオキシン</jp>
+<exp>【名】ダイオキシン</exp>
+<sound>tech2v16idx05_dioxin.mp3</sound>
+</w>
+<w idx="6" name="environment">
+<jp>環境</jp>
+<exp>【名】環境</exp>
+<sound>tech2v16idx06_environment.mp3</sound>
+</w>
+<w idx="7" name="environmental problem">
+<jp>環境問題</jp>
+<exp>【名】環境問題</exp>
+<sound>tech2v16idx07_environmental_problem.mp3</sound>
+</w>
+<w idx="8" name="fossil fuel">
+<jp>化石燃料</jp>
+<exp>【名】化石燃料</exp>
+<sound>tech2v16idx08_fossil_fuel.mp3</sound>
+</w>
+<w idx="9" name="fume">
+<jp>煙霧</jp>
+<exp>【名】煙霧</exp>
+<sound>tech2v16idx09_fume.mp3</sound>
+</w>
+<w idx="10" name="greenhouse gas">
+<jp>温室効果ガス（ＧＨＧ）</jp>
+<exp>【名】温室効果ガス（ＧＨＧ）</exp>
+<sound>tech2v16idx10_greenhouse_gas.mp3</sound>
+</w>
+<w idx="11" name="harm">
+<jp>害</jp>
+<exp>【名】害</exp>
+<sound>tech2v16idx11_harm.mp3</sound>
+</w>
+<w idx="12" name="industrial waste">
+<jp>産業廃棄物</jp>
+<exp>【名】産業廃棄物</exp>
+<sound>tech2v16idx12_industrial_waste.mp3</sound>
+</w>
+<w idx="13" name="ozone">
+<jp>オゾン</jp>
+<exp>【名】オゾン</exp>
+<sound>tech2v16idx13_ozone.mp3</sound>
+</w>
+<w idx="14" name="ozone hole">
+<jp>オゾンホール</jp>
+<exp>【名】オゾンホール</exp>
+<sound>tech2v16idx14_ozone_hole.mp3</sound>
+</w>
+<w idx="15" name="photochemical smog">
+<jp>光化学スモッグ</jp>
+<exp>【名】光化学スモッグ</exp>
+<sound>tech2v16idx15_photochemical_smog.mp3</sound>
+</w>
+<w idx="16" name="pollutant">
+<jp>汚染物質</jp>
+<exp>【名】汚染物質</exp>
+<sound>tech2v16idx16_pollutant.mp3</sound>
+</w>
+<w idx="17" name="pollution">
+<jp>汚染</jp>
+<exp>【名】汚染</exp>
+<sound>tech2v16idx17_pollution.mp3</sound>
+</w>
+<w idx="18" name="sea pollution">
+<jp>海洋汚染</jp>
+<exp>【名】海洋汚染</exp>
+<sound>tech2v16idx18_sea_pollution.mp3</sound>
+</w>
+<w idx="19" name="solid waste">
+<jp>固体廃棄物</jp>
+<exp>【名】固体廃棄物</exp>
+<sound>tech2v16idx19_solid_waste.mp3</sound>
+</w>
+<w idx="20" name="waste">
+<jp>廃棄物</jp>
+<exp>【名】廃棄物</exp>
+<sound>tech2v16idx20_waste.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. acid rain</p>
+<p>2. air pollution</p>
+<p>3. desert</p>
+<p>4. desertification</p>
+<p>5. dioxin</p>
+<p>6. environment</p>
+<p>7. environmental problem</p>
+<p>8. fossil fuel</p>
+<p>9. fume</p>
+<p>10. greenhouse gas</p>
+<p>11. harm</p>
+<p>12. industrial waste</p>
+<p>13. ozone</p>
+<p>14. ozone hole</p>
+<p>15. photochemical smog</p>
+<p>16. pollutant</p>
+<p>17. pollution</p>
+<p>18. sea pollution</p>
+<p>19. solid waste</p>
+<p>20. waste</p>
+</contents>
+</unit>

@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 レビュークイズ -->
+
+<unit idx="03" size="24">
+
+<question no="09" type="R">
+<text>Adding a certain number to data encrypts the data before transmission.</text>
+<textTrans>データを送信する前に、データにある数を足してそのデータを暗号化する。</textTrans>
+<hint no="1">number,data,transmission,encrypt</hint>
+<hint no="2">number,data,transmission,encrypt,add,certain,before,to</hint>
+<sound>tech2b09s4m2.mp3</sound>
+<reference>Unit09の課題文</reference>
+</question>
+
+<question no="09" type="I">
+<text>Data is encrypted for security before transmission.</text>
+<textTrans>機密保護のためにデータは暗号化されて送信される。</textTrans>
+<hint no="1">data,security,encrypt</hint>
+<hint no="2">data,security,encrypt,transmission,before</hint>
+<sound>tech2b09s5Q01.mp3</sound>
+<reference>Unit09のStep5</reference>
+</question>
+
+<question no="09" type="I">
+<text>The other ingredients were added to the mixture.</text>
+<textTrans>他の成分を混合物に加えた。</textTrans>
+<hint no="1">ingredient,mixture</hint>
+<hint no="2">ingredient,mixture,add,other,to</hint>
+<sound>tech2b09s5Q02.mp3</sound>
+<reference>Unit09のStep5</reference>
+</question>
+
+<question no="09" type="I">
+<text>Turn the knob counterclockwise.</text>
+<textTrans>ノブを反時計回りに回しなさい。</textTrans>
+<hint no="1">knob,counterclockwise</hint>
+<hint no="2">knob,counterclockwise,turn</hint>
+<sound>tech2b09s5Q03.mp3</sound>
+<reference>Unit09のStep5</reference>
+</question>
+
+<question no="09" type="I">
+<text>Tighten the screw with a screwdriver.</text>
+<textTrans>ネジをネジ回しで締めなさい。</textTrans>
+<hint no="1">screw,screwdriver</hint>
+<hint no="2">screw,screwdriver,tighten,with</hint>
+<sound>tech2b09s5Q04.mp3</sound>
+<reference>Unit09のStep5</reference>
+</question>
+
+<question no="09" type="I">
+<text>Illustrate the mechanism.</text>
+<textTrans>機構を詳しく説明しなさい。</textTrans>
+<hint no="1">mechanism</hint>
+<hint no="2">mechanism,illustrate</hint>
+<sound>tech2b09s5Q05.mp3</sound>
+<reference>Unit09のStep5</reference>
+</question>
+
+<question no="10" type="R">
+<text>These portable electronic instruments have increased power consumption due to the employment of a sophisticated CPU, bulk memory, and a color display.</text>
+<textTrans>これらの携帯電子機器は、最先端のCPU、大容量メモリ、およびカラーディスプレイの採用によって、消費電力を増加させてきた。</textTrans>
+<hint no="1">portable electronic instrument,consumption,employment,sophisticated,bulk</hint>
+<hint no="2">portable electronic instrument,power consumption,employment,sophisticated,bulk,CPU,memory,color display,increase,due to</hint>
+<sound>tech2b10s4m2.mp3</sound>
+<reference>Unit10の課題文</reference>
+</question>
+
+<question no="10" type="I">
+<text>The pilot studied his instruments.</text>
+<textTrans>パイロットは自分の計器を調べた。</textTrans>
+<hint no="1">pilot,study</hint>
+<hint no="2">pilot,study,instrument</hint>
+<sound>tech2b10s5Q01.mp3</sound>
+<reference>Unit10のStep5</reference>
+</question>
+
+<question no="10" type="I">
+<text>An experimental apparatus is shown in Figure 2.</text>
+<textTrans>実験装置を図２に示す。</textTrans>
+<hint no="1">apparatus,Figure,experimental</hint>
+<hint no="2">apparatus,Figure 2,experimental,show,in</hint>
+<sound>tech2b10s5Q02.mp3</sound>
+<reference>Unit10のStep5</reference>
+</question>
+
+<question no="10" type="I">
+<text>An increase in the number of cars has continued.</text>
+<textTrans>車の台数の増加が続いてきた。</textTrans>
+<hint no="1">increase,number,car</hint>
+<hint no="2">increase,number,car,continue,in</hint>
+<sound>tech2b10s5Q03.mp3</sound>
+<reference>Unit10のStep5</reference>
+</question>
+
+<question no="10" type="I">
+<text>Fill this beaker with water.</text>
+<textTrans>このビーカーを水で満たしなさい。</textTrans>
+<hint no="1">beaker,water</hint>
+<hint no="2">beaker,water,fill,with</hint>
+<sound>tech2b10s5Q04.mp3</sound>
+<reference>Unit10のStep5</reference>
+</question>
+
+<question no="10" type="I">
+<text>Light travels faster than sound.</text>
+<textTrans>光は音より速く伝わる。</textTrans>
+<hint no="1">light,sound</hint>
+<hint no="2">light,sound,travel,fast</hint>
+<sound>tech2b10s5Q05.mp3</sound>
+<reference>Unit10のStep5</reference>
+</question>
+
+<question no="11" type="R">
+<text>Sulfur contained in petroleum reacts with oxygen to form sulfur oxides harmful to the human body.</text>
+<textTrans>石油に含まれる硫黄が酸素と反応して人体に有害な硫黄酸化物を生じる。</textTrans>
+<hint no="1">sulfur,petroleum,oxygen,sulfur oxide,human body,harmful</hint>
+<hint no="2">sulfur,petroleum,oxygen,sulfur oxide,human body,harmful,contain,react,form,in,with,to</hint>
+<sound>tech2b11s4m2.mp3</sound>
+<reference>Unit11の課題文</reference>
+</question>
+
+<question no="11" type="I">
+<text>One of the bottles containing the virus had been stolen.</text>
+<textTrans>ウイルスを含んだビンのひとつが盗まれていた。</textTrans>
+<hint no="1">bottle,virus</hint>
+<hint no="2">bottle,virus,one,contain,steal,of</hint>
+<sound>tech2b11s5Q01.mp3</sound>
+<reference>Unit11のStep5</reference>
+</question>
+
+<question no="11" type="I">
+<text>Milk also contains vitamins.</text>
+<textTrans>ミルクにはビタミンも含まれている。</textTrans>
+<hint no="1">milk,vitamin</hint>
+<hint no="2">milk,vitamin,contain,also</hint>
+<sound>tech2b11s5Q02.mp3</sound>
+<reference>Unit11のStep5</reference>
+</question>
+
+<question no="11" type="I">
+<text>Albumin contains 17 histidine residues.</text>
+<textTrans>アルブミンは17のヒスチジン残基を有している。</textTrans>
+<hint no="1">albumin,histidine,residue</hint>
+<hint no="2">albumin,histidine,residue,contain,17</hint>
+<sound>tech2b11s5Q03.mp3</sound>
+<reference>Unit11のStep5</reference>
+</question>
+
+<question no="11" type="I">
+<text>Arithmetical operations are addition, subtraction, multiplication, and division.</text>
+<textTrans>代数計算には足し算、引き算、掛け算、そして割り算がある。</textTrans>
+<hint no="1">addition,subtraction,multiplication,division</hint>
+<hint no="2">addition,subtraction,multiplication,division,arithmetical operation,and</hint>
+<sound>tech2b11s5Q04.mp3</sound>
+<reference>Unit11のStep5</reference>
+</question>
+
+<question no="11" type="I">
+<text>Hydrogen reacts with oxygen to form water.</text>
+<textTrans>水素は酸素と反応して水になる。</textTrans>
+<hint no="1">hydrogen,oxygen,water</hint>
+<hint no="2">hydrogen,oxygen,water,react,form</hint>
+<sound>tech2b11s5Q05.mp3</sound>
+<reference>Unit11のStep5</reference>
+</question>
+
+<question no="12" type="R">
+<text>To transmit large volumes of data through a limited circuit over the Internet, the data compression technique is essential.</text>
+<textTrans>インターネットの限られた回線で大量のデータを送るには、データの圧縮技術が欠かせない。</textTrans>
+<hint no="1">data,circuit,Internet,data compression technique</hint>
+<hint no="2">data,circuit,Internet,data compression technique,transmit,large volumes of,limited,essential,through,over</hint>
+<sound>tech2b12s4m2.mp3</sound>
+<reference>Unit12の課題文</reference>
+</question>
+
+<question no="12" type="I">
+<text>A space between the sun and the earth transmits heat radiation.</text>
+<textTrans>太陽と地球との間の空間が熱輻射を伝える。</textTrans>
+<hint no="1">space,sun,earth,heat radiation</hint>
+<hint no="2">space,sun,earth,heat radiation,transmit,between,and</hint>
+<sound>tech2b12s5Q01.mp3</sound>
+<reference>Unit12のStep5</reference>
+</question>
+
+<question no="12" type="I">
+<text>Advanced technology requires massive investment.</text>
+<textTrans>先端技術には巨額の投資が必要である。</textTrans>
+<hint no="1">investment,advanced,massive</hint>
+<hint no="2">investment,advanced,massive,technology,require</hint>
+<sound>tech2b12s5Q02.mp3</sound>
+<reference>Unit12のStep5</reference>
+</question>
+
+<question no="12" type="I">
+<text>A new technique for treating diabetes has been developed.</text>
+<textTrans>糖尿病を治療する新しい手法が開発された。</textTrans>
+<hint no="1">diabetes,technique</hint>
+<hint no="2">diabetes,technique,treat,develop,new,for</hint>
+<sound>tech2b12s5Q03.mp3</sound>
+<reference>Unit12のStep5</reference>
+</question>
+
+<question no="12" type="I">
+<text>The job requires proper technical training.</text>
+<textTrans>その仕事には，適切な技術訓練が必要である。</textTrans>
+<hint no="1">job,training,proper</hint>
+<hint no="2">job,training,proper,require,technical</hint>
+<sound>tech2b12s5Q04.mp3</sound>
+<reference>Unit12のStep5</reference>
+</question>
+
+<question no="12" type="I">
+<text>The experimental values agreed with the theoretical values.</text>
+<textTrans>実験値は理論値に一致した。</textTrans>
+<hint no="1">value,experimental,theoretical</hint>
+<hint no="2">value,experimental,theoretical,agree,with</hint>
+<sound>tech2b12s5Q05.mp3</sound>
+<reference>Unit12のStep5</reference>
+</question>
+
+</unit>

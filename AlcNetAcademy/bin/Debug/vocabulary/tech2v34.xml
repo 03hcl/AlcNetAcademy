@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="34">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅱ 動詞・形容詞ほか,形容詞３</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">技術英語でよく使われる形容詞です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="perfect">
+<jp>完全な</jp>
+<exp>【形】完全な</exp>
+<sound>tech2v34idx01_perfect.mp3</sound>
+</w>
+<w idx="2" name="exact">
+<jp>正確な</jp>
+<exp>【形】正確な</exp>
+<sound>tech2v34idx02_exact.mp3</sound>
+</w>
+<w idx="3" name="conventional">
+<jp>従来の</jp>
+<exp>【形】従来の</exp>
+<sound>tech2v34idx03_conventional.mp3</sound>
+</w>
+<w idx="4" name="humid">
+<jp>（天候が）湿気のある</jp>
+<exp>【形】（天候が）湿気のある</exp>
+<sound>tech2v34idx04_humid.mp3</sound>
+</w>
+<w idx="5" name="reasonable">
+<jp>合理的な</jp>
+<exp>【形】合理的な</exp>
+<sound>tech2v34idx05_reasonable.mp3</sound>
+</w>
+<w idx="6" name="economical">
+<jp>経済的な</jp>
+<exp>【形】経済的な</exp>
+<sound>tech2v34idx06_economical.mp3</sound>
+</w>
+<w idx="7" name="defective">
+<jp>欠陥のある</jp>
+<exp>【形】欠陥のある</exp>
+<sound>tech2v34idx07_defective.mp3</sound>
+</w>
+<w idx="8" name="modern">
+<jp>現代の</jp>
+<exp>【形】現代の、近代的な</exp>
+<sound>tech2v34idx08_modern.mp3</sound>
+</w>
+<w idx="9" name="industrial">
+<jp>産業の</jp>
+<exp>【形】産業の、工業の</exp>
+<sound>tech2v34idx09_industrial.mp3</sound>
+</w>
+<w idx="10" name="agricultural">
+<jp>農業の</jp>
+<exp>【形】農業の</exp>
+<sound>tech2v34idx10_agricultural.mp3</sound>
+</w>
+<w idx="11" name="rear">
+<jp>後方の</jp>
+<exp>【形】後方の</exp>
+<sound>tech2v34idx11_rear.mp3</sound>
+</w>
+<w idx="12" name="essential">
+<jp>欠かせない</jp>
+<exp>【形】欠かせない</exp>
+<sound>tech2v34idx12_essential.mp3</sound>
+</w>
+<w idx="13" name="inert">
+<jp>不活性の</jp>
+<exp>【形】不活性の</exp>
+<sound>tech2v34idx13_inert.mp3</sound>
+</w>
+<w idx="14" name="main">
+<jp>主の</jp>
+<exp>【形】主の</exp>
+<sound>tech2v34idx14_main.mp3</sound>
+</w>
+<w idx="15" name="effective">
+<jp>有効な</jp>
+<exp>【形】有効な</exp>
+<sound>tech2v34idx15_effective.mp3</sound>
+</w>
+<w idx="16" name="neutral">
+<jp>中性の</jp>
+<exp>【形】中性の</exp>
+<sound>tech2v34idx16_neutral.mp3</sound>
+</w>
+<w idx="17" name="medical">
+<jp>医学の</jp>
+<exp>【形】医学の</exp>
+<sound>tech2v34idx17_medical.mp3</sound>
+</w>
+<w idx="18" name="genetic">
+<jp>遺伝的な</jp>
+<exp>【形】遺伝的な</exp>
+<sound>tech2v34idx18_genetic.mp3</sound>
+</w>
+<w idx="19" name="technical">
+<jp>技術的な</jp>
+<exp>【形】技術的な</exp>
+<sound>tech2v34idx19_technical.mp3</sound>
+</w>
+<w idx="20" name="optical">
+<jp>光学の</jp>
+<exp>【形】光学の</exp>
+<sound>tech2v34idx20_optical.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. perfect</p>
+<p>2. exact</p>
+<p>3. conventional</p>
+<p>4. humid</p>
+<p>5. reasonable</p>
+<p>6. economical</p>
+<p>7. defective</p>
+<p>8. modern</p>
+<p>9. industrial</p>
+<p>10. agricultural</p>
+<p>11. rear</p>
+<p>12. essential</p>
+<p>13. inert</p>
+<p>14. main</p>
+<p>15. effective</p>
+<p>16. neutral</p>
+<p>17. medical</p>
+<p>18. genetic</p>
+<p>19. technical</p>
+<p>20. optical</p>
+</contents>
+</unit>

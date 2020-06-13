@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="35">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅱ 動詞・形容詞ほか,形容詞４</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">技術英語でよく使われる形容詞です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="rapid">
+<jp>速い、急な</jp>
+<exp>【形】速い、急な</exp>
+<sound>tech2v35idx01_rapid.mp3</sound>
+</w>
+<w idx="2" name="instant">
+<jp>即時の</jp>
+<exp>【形】即時の</exp>
+<sound>tech2v35idx02_instant.mp3</sound>
+</w>
+<w idx="3" name="present">
+<jp>現在の</jp>
+<exp>【形】現在の</exp>
+<sound>tech2v35idx03_present.mp3</sound>
+</w>
+<w idx="4" name="swift">
+<jp>迅速な</jp>
+<exp>【形】迅速な</exp>
+<sound>tech2v35idx04_swift.mp3</sound>
+</w>
+<w idx="5" name="general">
+<jp>一般的な</jp>
+<exp>【形】一般的な、全体の</exp>
+<sound>tech2v35idx05_general.mp3</sound>
+</w>
+<w idx="6" name="previous">
+<jp>以前の</jp>
+<exp>【形】以前の</exp>
+<sound>tech2v35idx06_previous.mp3</sound>
+</w>
+<w idx="7" name="stable">
+<jp>安定性のある</jp>
+<exp>【形】安定性のある</exp>
+<sound>tech2v35idx07_stable.mp3</sound>
+</w>
+<w idx="8" name="vacant">
+<jp>空きの</jp>
+<exp>【形】空きの</exp>
+<sound>tech2v35idx08_vacant.mp3</sound>
+</w>
+<w idx="9" name="nutritious">
+<jp>栄養になる</jp>
+<exp>【形】栄養になる</exp>
+<sound>tech2v35idx09_nutritious.mp3</sound>
+</w>
+<w idx="10" name="limited">
+<jp>限られた</jp>
+<exp>【形】限られた</exp>
+<sound>tech2v35idx10_limited.mp3</sound>
+</w>
+<w idx="11" name="excessive">
+<jp>過剰な</jp>
+<exp>【形】過剰な</exp>
+<sound>tech2v35idx11_excessive.mp3</sound>
+</w>
+<w idx="12" name="soluble">
+<jp>可溶性の</jp>
+<exp>【形】可溶性の</exp>
+<sound>tech2v35idx12_soluble.mp3</sound>
+</w>
+<w idx="13" name="mechanical">
+<jp>機械的な</jp>
+<exp>【形】機械的な</exp>
+<sound>tech2v35idx13_mechanical.mp3</sound>
+</w>
+<w idx="14" name="dangerous">
+<jp>危険な</jp>
+<exp>【形】危険な</exp>
+<sound>tech2v35idx14_dangerous.mp3</sound>
+</w>
+<w idx="15" name="inverse">
+<jp>逆の</jp>
+<exp>【形】逆の</exp>
+<sound>tech2v35idx15_inverse.mp3</sound>
+</w>
+<w idx="16" name="common">
+<jp>共通の</jp>
+<exp>【形】共通の、通常の</exp>
+<sound>tech2v35idx16_common.mp3</sound>
+</w>
+<w idx="17" name="built-in">
+<jp>組み込みの</jp>
+<exp>【形】組み込みの、内蔵の</exp>
+<sound>tech2v35idx17_built-in.mp3</sound>
+</w>
+<w idx="18" name="synthetic">
+<jp>合成の</jp>
+<exp>【形】合成の</exp>
+<sound>tech2v35idx18_synthetic.mp3</sound>
+</w>
+<w idx="19" name="efficient">
+<jp>効率のよい</jp>
+<exp>【形】効率のよい</exp>
+<sound>tech2v35idx19_efficient.mp3</sound>
+</w>
+<w idx="20" name="cellular">
+<jp>細胞の</jp>
+<exp>【形】細胞の</exp>
+<sound>tech2v35idx20_cellular.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. rapid</p>
+<p>2. instant</p>
+<p>3. present</p>
+<p>4. swift</p>
+<p>5. general</p>
+<p>6. previous</p>
+<p>7. stable</p>
+<p>8. vacant</p>
+<p>9. nutritious</p>
+<p>10. limited</p>
+<p>11. excessive</p>
+<p>12. soluble</p>
+<p>13. mechanical</p>
+<p>14. dangerous</p>
+<p>15. inverse</p>
+<p>16. common</p>
+<p>17. built-in</p>
+<p>18. synthetic</p>
+<p>19. efficient</p>
+<p>20. cellular</p>
+</contents>
+</unit>

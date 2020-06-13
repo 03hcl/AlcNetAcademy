@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 基礎コース -->
+
+<unit idx="07">
+
+<introduction>
+<title>環境に優しいハイブリッドカー</title>
+<read>&lt;font size="16" color="#000000"&gt;
+（学習のポイント）                   
+&lt;/font&gt;
+&lt;font size="16" color="#0000FF"&gt;
+同格のof／exceed／reduce
+&lt;/font&gt;
+&lt;br&gt;
+&lt;font size="16" color="#000000"&gt;
+地球環境と車社会の関係で、ハイブリッドカーを取り上げます。また、ここでは奥の深い前置詞 of を学習します。何でもかんでも「…の」ではありません。『of をというのが訳し方』が勘どころ表現です。
+&lt;/font&gt;</read>
+</introduction>
+
+
+<notes>
+<w idx="1" name="hybrid car">
+<jp>ハイブリッドカー</jp>
+<sound>tech2b07idx01_hybrid_car.mp3</sound>
+</w>
+<w idx="2" name="electric motor">
+<jp>電気モーター</jp>
+<sound>tech2b07idx02_electric_motor.mp3</sound>
+</w>
+<w idx="3" name="pollution">
+<jp>公害</jp>
+<sound>tech2b07idx03_pollution.mp3</sound>
+</w>
+<w idx="4" name="manufacturer">
+<jp>メーカー</jp>
+<sound>tech2b07idx04_manufacturer.mp3</sound>
+</w>
+<w idx="5" name="technical innovation">
+<jp>技術革新</jp>
+<sound>tech2b07idx05_technical_innovation.mp3</sound>
+</w>
+<w idx="6" name="mileage">
+<jp>走行距離</jp>
+<sound>tech2b07idx06_mileage.mp3</sound>
+</w>
+<w idx="7" name="exhaust">
+<jp>排ガス</jp>
+<sound>tech2b07idx07_exhaust.mp3</sound>
+</w>
+<w idx="8" name="pollutant">
+<jp>汚染物質</jp>
+<sound>tech2b07idx08_pollutant.mp3</sound>
+</w>
+</notes>
+
+
+<!-- Step1、Topic&Vocaburary -->
+<contents type="tech2bStep1">
+<p>　1997年に国内で初めて<w idx="1">ハイブリッドカー</w>が量産車として発売された。ハイブリッドカーは、ガソリンエンジンと<w idx="2">電気モーターの</w>効果的な組み合わせにより、低燃費・低<w idx="3">公害</w>・省エネルギーを実現することを目的に開発された自動車である。その後、各<w idx="4">メーカー</w>の<w idx="5">技術革新</w>により、最近開発されたハイブリッドカーは、<w idx="6">走行距離</w>がガソリン１リットルあたり30キロメートルを超え、<w idx="7">排ガス</w>中の<w idx="8">汚染物質</w>を大幅に削減した。</p>
+</contents>
+
+
+<!-- Step2、Writing1 -->
+<contents type="tech2bStep2">
+<instruction1>次の日本文から、主語をひとつと、動詞と目的語をふたつずつ選んでみよう。</instruction1>
+<instruction2>[先輩]ボタンを押して、先輩が書いた英文とあなたの英文を比べてみよう。</instruction2>
+<sentence>
+<ph idx="1">最近開発された</ph>
+<ph idx="2" miki="true">ハイブリッドカーは、</ph>
+<ph idx="3" miki="true">走行距離が</ph>
+<ph idx="4" miki="true">ガソリン１リットル当たり</ph>
+<ph idx="5" miki="true">30キロメートルを</ph>
+<ph idx="6" miki="true">超え、</ph>
+<ph idx="7">排ガス中の</ph>
+<ph idx="8" miki="true">汚染物質を</ph>
+<ph idx="9">大幅に</ph>
+<ph idx="10" miki="true">削減した。</ph>
+</sentence>
+<mikisentence>
+<ph idx="1" type="S">ハイブリッドカーは、</ph>
+<ph idx="2">走行距離がガソリン１リットル当たり</ph>
+<ph idx="3" type="O">30キロメートルを</ph>
+<ph idx="4" type="V">超え、</ph>
+<ph idx="5" type="O">汚染物質を</ph>
+<ph idx="6" type="V">削減した。</ph>
+</mikisentence>
+<hint text="">
+<ph idx="1">hybrid car</ph>
+<ph idx="2">mileage</ph>
+<ph idx="3">pollutants</ph>
+<ph idx="4">exceed</ph>
+<ph idx="5">gasoline</ph>
+<ph idx="6">reduce</ph>
+</hint>
+<senior answer="B,C">Hybrid cars <sel cd="A">exceeded</sel> 30 km/liter <sel cd="B">of</sel> a mileage, <sel cd="C">and then</sel> <sel cd="D">reduced</sel> pollutants.</senior>
+<teach>Hybrid cars exceeded a mileage of 30 km per liter of gasoline and reduced pollutants.</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　まず、日本文を&lt;b&gt;リライト（書き直し）&lt;/b&gt;します。幹セン「ハイブリッドカーは、ガソリン１リットル当たり30キロメートルという走行距離を超えた。そして、汚染物質を減らした。」こうなると、英文で書くときの文型が見えてきます。英訳に困ったら（正確には、英訳がいやになったら）、日本文をじっくり読んで書き直してしまうことにしましょう。&lt;br&gt;
+&lt;br&gt;
+　ここでは、前置詞 of を習得します。&lt;font color="#0000FF"&gt;&lt;b&gt;『of をというのが訳し方』&lt;/b&gt;&lt;/font&gt;と３回唱えます。このフレーズの中に of の訳し方が４つ含まれています。「を」が&lt;font color="#0000FF"&gt;目的格&lt;/font&gt;、「という」が&lt;font color="#0000FF"&gt;同格&lt;/font&gt;、「の」が&lt;font color="#0000FF"&gt;所有格&lt;/font&gt;、そして、「が」が&lt;font color="#0000FF"&gt;主格&lt;/font&gt;です。○○格というのは忘れてもいいですが、of の４つの訳し方を忘れないでください。ここでは「１リットル当たり30キロメートルという走行距離」を、of（同格）を使って a mileage of 30 km per liter としてください。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　of の前後が逆です。 and の前の「 , 」と後の then は余分です。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step3、Writing2 -->
+<contents type="tech2bStep3">
+<hint text="">
+<ph idx="1">newly</ph>
+<ph idx="2">develop</ph>
+<ph idx="3">exhaust</ph>
+</hint>
+</contents>
+
+
+<!-- Step4、Comparisons -->
+<contents type="tech2bStep4">
+<senior answer="6">The newly developing hybrid cars exceeded a mileage of 30 km per liter of gasoline and widely reduced pollutants in their exhaust.</senior>
+<teach>
+&lt;font size="20" color="#0000FF"&gt;
+The newly developed 
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+hybrid cars exceeded a mileage of 30 km per liter of gasoline and 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+greatly 
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+reduced pollutants 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+in their exhaust
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+.
+&lt;/font&gt;
+</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　「最近開発された」というハイブリッドカーにかかる &lt;font color="#FF0000"&gt;newly developed&lt;/font&gt; を形容詞とみなしてください。 developed はもちろん develop 「開発する」の過去分詞形ですが、名詞の前で多用されると形容詞にみえてきます。 developing だと「発展途上の」になります。&lt;br&gt;
+　「大幅に」に widely を使うと、「広範囲に、幅広く」というニュアンスになりますから意味が違います。 drastically（急激に）でもよいのですが、少し大げさなので &lt;font color="#FF0000"&gt;greatly&lt;/font&gt; が適当でしょう。「排ガス」は exhaust（この単語に初めて出会ったときは読めませんでした）。イグゾーストと濁ります。ちなみに、exhibit 「性能を示す」は濁るのに、exhibition は濁りません。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step5、Exercisse -->
+<contents type="tech2bStep5" size="5">
+<instruction1>このユニットで登場した表現と、関連する表現を練習しよう。</instruction1>
+<question no="1" type="R">
+<textTrans>ABCシステムは、コストを下げた。</textTrans>
+<text>The ABC system <sel cd="A" answer="3"></sel> costs.</text>
+<sel cd="A" idx="1">put down</sel>
+<sel cd="A" idx="2">decreased</sel>
+<sel cd="A" idx="3">reduced</sel>
+<hint>
+<sound>tech2b07s5Q01.mp3</sound>
+</hint>
+<point>　いまの状態より減らすのが reduce です。コストダウンは cost reduction といいます。decrease にも「減らす」という意味がありますが、「コストを減らす」ときには使われません。put down は、「（モノを）下ろす」「書き留める」です。</point>
+</question>
+
+<question no="2" type="R">
+<textTrans>電力消費がこのデバイスの利用によって減る。</textTrans>
+<text>Power consumption is reduced <sel cd="A" answer="3"></sel> using this device.</text>
+<sel cd="A" idx="1">to</sel>
+<sel cd="A" idx="2">in</sel>
+<sel cd="A" idx="3">by</sel>
+<hint>
+<sound>tech2b07s5Q02.mp3</sound>
+</hint>
+<point>　by using ... は by ... に比べて具体的で丁寧な表現です。</point>
+</question>
+
+<question no="3" type="R">
+<textTrans>鉄酸化物は水素で鉄に還元される。</textTrans>
+<text>Iron oxides are <sel cd="A" answer="3"></sel> <sel cd="B" answer="1"></sel> iron with hydrogen.</text>
+<sel cd="A" idx="1">deducted</sel>
+<sel cd="A" idx="2">returned</sel>
+<sel cd="A" idx="3">reduced</sel>
+<sel cd="B" idx="1">to</sel>
+<sel cd="B" idx="2">in</sel>
+<sel cd="B" idx="3">by</sel>
+<hint>
+<sound>tech2b07s5Q03.mp3</sound>
+</hint>
+<point>　この reduce は化学用語で、「還元する」です。対立語は「酸化する」で oxidize。名詞形はそれぞれ、reduction、oxidation（またはoxidization）です。 reduce iron oxides to iron with hydrogen は「鉄酸化物を水素で鉄に還元する」という意味です。</point>
+</question>
+
+<question no="4" type="R">
+<textTrans>生産量は、日産2,000ユニットを超える。</textTrans>
+<text>The output <sel cd="A" answer="1"></sel> 2,000 units per day.</text>
+<sel cd="A" idx="1">exceeds</sel>
+<sel cd="A" idx="2">passes</sel>
+<hint>
+<sound>tech2b07s5Q04.mp3</sound>
+</hint>
+<point>　「超える」は exceed です。 pass は主に人や乗り物を「追い越す」という場合に使います。</point>
+</question>
+
+<question no="5" type="R">
+<textTrans>車はある速度で、ある方向に走る。</textTrans>
+<text>Vehicles <sel cd="A" answer="2"></sel> at a certain speed in a certain direction.</text>
+<sel cd="A" idx="1">drive</sel>
+<sel cd="A" idx="2">travel</sel>
+<sel cd="A" idx="3">run</sel>
+<hint>
+<sound>tech2b07s5Q05.mp3</sound>
+</hint>
+<point>　一定のスピードで車が走るときには、travel、move、go を使います。</point>
+</question>
+</contents>
+
+<contents type="phrase">
+<p><ph idx="1">The newly developed hybrid cars exceeded a mileage of 30 km per liter of gasoline and greatly reduced pollutants in their exhaust.</ph></p>
+<p></p>
+<p><ph idx="2">1. The ABC system reduced costs.</ph></p>
+<p><ph idx="3">2. Power consumption is reduced by using this device.</ph></p>
+<p><ph idx="4">3. Iron oxides are reduced to iron with hydrogen.</ph></p>
+<p><ph idx="5">4. The output exceeds 2,000 units per day.</ph></p>
+<p><ph idx="6">5. Vehicles travel at a certain speed in a certain direction.</ph></p>
+</contents>
+
+<contents type="translation">
+<p><ph idx="1">最近開発されたハイブリッドカーは、走行距離がガソリン１リットル当たり30キロメートルを超え、排ガス中の汚染物質を大幅に削減した。</ph></p>
+<p></p>
+<p><ph idx="2">1. ABCシステムは、コストを下げた。</ph></p>
+<p><ph idx="3">2. 電力消費がこのデバイスの利用によって減る。</ph></p>
+<p><ph idx="4">3. 鉄酸化物は水素で鉄に還元される。</ph></p>
+<p><ph idx="5">4. 生産量は、日産2,000ユニットを超える。</ph></p>
+<p><ph idx="6">5. 車はある速度で、ある方向に走る。</ph></p>
+</contents>
+
+
+</unit>

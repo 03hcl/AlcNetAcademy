@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="37">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅱ 動詞・形容詞ほか,対義語１</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">技術英語でよく使われる対義語を集めました。ペアで覚えましょう。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="absolute">
+<jp>絶対的な</jp>
+<exp>【形】絶対的な</exp>
+<sound>tech2v37idx01_absolute.mp3</sound>
+</w>
+<w idx="2" name="relative">
+<jp>相対的な</jp>
+<exp>【形】相対的な</exp>
+<sound>tech2v37idx02_relative.mp3</sound>
+</w>
+<w idx="3" name="concave lens">
+<jp>凹レンズ</jp>
+<exp>【名】凹レンズ</exp>
+<sound>tech2v37idx03_concave_lens.mp3</sound>
+</w>
+<w idx="4" name="convex lens">
+<jp>凸レンズ</jp>
+<exp>【名】凸レンズ</exp>
+<sound>tech2v37idx04_convex_lens.mp3</sound>
+</w>
+<w idx="5" name="clockwise">
+<jp>時計回り（右回り）に</jp>
+<exp>【副】時計回り（右回り）に</exp>
+<sound>tech2v37idx05_clockwise.mp3</sound>
+</w>
+<w idx="6" name="counterclockwise">
+<jp>逆時計回り（左回り）に</jp>
+<exp>【副】逆時計回り（左回り）に</exp>
+<sound>tech2v37idx06_counterclockwise.mp3</sound>
+</w>
+<w idx="7" name="analog">
+<jp>アナログの</jp>
+<exp>【形】アナログの</exp>
+<sound>tech2v37idx07_analog.mp3</sound>
+</w>
+<w idx="8" name="digital">
+<jp>デジタルの</jp>
+<exp>【形】デジタルの</exp>
+<sound>tech2v37idx08_digital.mp3</sound>
+</w>
+<w idx="9" name="external combustion engine">
+<jp>外燃機関</jp>
+<exp>【名】外燃機関</exp>
+<sound>tech2v37idx09_external_combustion_engine.mp3</sound>
+</w>
+<w idx="10" name="internal combustion engine">
+<jp>内燃機関</jp>
+<exp>【名】内燃機関</exp>
+<sound>tech2v37idx10_internal_combustion_engine.mp3</sound>
+</w>
+<w idx="11" name="harden">
+<jp>硬化する</jp>
+<exp>【動】硬化する</exp>
+<sound>tech2v37idx11_harden.mp3</sound>
+</w>
+<w idx="12" name="soften">
+<jp>軟化する</jp>
+<exp>【動】軟化する</exp>
+<sound>tech2v37idx12_soften.mp3</sound>
+</w>
+<w idx="13" name="negative">
+<jp>負の</jp>
+<exp>【形】負の</exp>
+<sound>tech2v37idx13_negative.mp3</sound>
+</w>
+<w idx="14" name="positive">
+<jp>正の</jp>
+<exp>【形】正の</exp>
+<sound>tech2v37idx14_positive.mp3</sound>
+</w>
+<w idx="15" name="active">
+<jp>能動の</jp>
+<exp>【形】能動の</exp>
+<sound>tech2v37idx15_active.mp3</sound>
+</w>
+<w idx="16" name="passive">
+<jp>受動の</jp>
+<exp>【形】受動の</exp>
+<sound>tech2v37idx16_passive.mp3</sound>
+</w>
+<w idx="17" name="elastic">
+<jp>弾性の</jp>
+<exp>【形】弾性の</exp>
+<sound>tech2v37idx17_elastic.mp3</sound>
+</w>
+<w idx="18" name="plastic">
+<jp>塑性の</jp>
+<exp>【形】塑性の</exp>
+<sound>tech2v37idx18_plastic.mp3</sound>
+</w>
+<w idx="19" name="decrease">
+<jp>減少</jp>
+<exp>【名】減少</exp>
+<sound>tech2v37idx19_decrease.mp3</sound>
+</w>
+<w idx="20" name="increase">
+<jp>増加</jp>
+<exp>【名】増加</exp>
+<sound>tech2v37idx20_increase.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. absolute</p>
+<p>2. relative</p>
+<p>3. concave lens</p>
+<p>4. convex lens</p>
+<p>5. clockwise</p>
+<p>6. counterclockwise</p>
+<p>7. analog</p>
+<p>8. digital </p>
+<p>9. external combustion engine</p>
+<p>10. internal combustion engine</p>
+<p>11. harden</p>
+<p>12. soften</p>
+<p>13. negative</p>
+<p>14. positive</p>
+<p>15. active</p>
+<p>16. passive</p>
+<p>17. elastic</p>
+<p>18. plastic</p>
+<p>19. decrease</p>
+<p>20. increase</p>
+</contents>
+</unit>

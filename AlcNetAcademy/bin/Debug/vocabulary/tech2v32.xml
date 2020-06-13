@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="32">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅱ 動詞・形容詞ほか,形容詞１</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">技術英語でよく使われる形容詞です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="double">
+<jp>２倍の</jp>
+<exp>【形】２倍の</exp>
+<sound>tech2v32idx01_double.mp3</sound>
+</w>
+<w idx="2" name="triple">
+<jp>３倍の</jp>
+<exp>【形】３倍の</exp>
+<sound>tech2v32idx02_triple.mp3</sound>
+</w>
+<w idx="3" name="several">
+<jp>いくつかの</jp>
+<exp>【形】いくつかの</exp>
+<sound>tech2v32idx03_several.mp3</sound>
+</w>
+<w idx="4" name="single">
+<jp>ひとつの</jp>
+<exp>【形】ひとつの、単一の</exp>
+<sound>tech2v32idx04_single.mp3</sound>
+</w>
+<w idx="5" name="reverse">
+<jp>逆方向の</jp>
+<exp>【形】逆方向の</exp>
+<sound>tech2v32idx05_reverse.mp3</sound>
+</w>
+<w idx="6" name="upside-down">
+<jp>さかさまの</jp>
+<exp>【形】さかさまの</exp>
+<sound>tech2v32idx06_upside-down.mp3</sound>
+</w>
+<w idx="7" name="vertical">
+<jp>垂直な</jp>
+<exp>【形】垂直な</exp>
+<sound>tech2v32idx07_vertical.mp3</sound>
+</w>
+<w idx="8" name="horizontal">
+<jp>水平な</jp>
+<exp>【形】水平な</exp>
+<sound>tech2v32idx08_horizontal.mp3</sound>
+</w>
+<w idx="9" name="flat">
+<jp>平らな</jp>
+<exp>【形】平らな</exp>
+<sound>tech2v32idx09_flat.mp3</sound>
+</w>
+<w idx="10" name="straight">
+<jp>まっすぐな</jp>
+<exp>【形】まっすぐな</exp>
+<sound>tech2v32idx10_straight.mp3</sound>
+</w>
+<w idx="11" name="atomic">
+<jp>原子の</jp>
+<exp>【形】原子の</exp>
+<sound>tech2v32idx11_atomic.mp3</sound>
+</w>
+<w idx="12" name="nuclear">
+<jp>原子力の</jp>
+<exp>【形】原子力の</exp>
+<sound>tech2v32idx12_nuclear.mp3</sound>
+</w>
+<w idx="13" name="abnormal">
+<jp>異常な</jp>
+<exp>【形】異常な、変則の</exp>
+<sound>tech2v32idx13_abnormal.mp3</sound>
+</w>
+<w idx="14" name="normal">
+<jp>正常な</jp>
+<exp>【形】正常な</exp>
+<sound>tech2v32idx14_normal.mp3</sound>
+</w>
+<w idx="15" name="chemical">
+<jp>化学的な</jp>
+<exp>【形】化学的な</exp>
+<sound>tech2v32idx15_chemical.mp3</sound>
+</w>
+<w idx="16" name="scientific">
+<jp>科学的な</jp>
+<exp>【形】科学的な</exp>
+<sound>tech2v32idx16_scientific.mp3</sound>
+</w>
+<w idx="17" name="dynamic">
+<jp>動的な</jp>
+<exp>【形】動的な</exp>
+<sound>tech2v32idx17_dynamic.mp3</sound>
+</w>
+<w idx="18" name="static">
+<jp>静的な</jp>
+<exp>【形】静的な</exp>
+<sound>tech2v32idx18_static.mp3</sound>
+</w>
+<w idx="19" name="silent">
+<jp>無音の</jp>
+<exp>【形】無音の</exp>
+<sound>tech2v32idx19_silent.mp3</sound>
+</w>
+<w idx="20" name="colorless">
+<jp>無色の</jp>
+<exp>【形】無色の</exp>
+<sound>tech2v32idx20_colorless.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. double</p>
+<p>2. triple</p>
+<p>3. several</p>
+<p>4. single</p>
+<p>5. reverse</p>
+<p>6. upside-down</p>
+<p>7. vertical</p>
+<p>8. horizontal</p>
+<p>9. flat</p>
+<p>10. straight</p>
+<p>11. atomic</p>
+<p>12. nuclear</p>
+<p>13. abnormal</p>
+<p>14. normal</p>
+<p>15. chemical</p>
+<p>16. scientific</p>
+<p>17. dynamic</p>
+<p>18. static</p>
+<p>19. silent</p>
+<p>20. colorless</p>
+</contents>
+</unit>

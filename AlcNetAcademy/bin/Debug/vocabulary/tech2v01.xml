@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+<unit idx="01">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅰ 専門分野別,数学１</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">数学でよく使われる語句です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="binary">
+<jp>２進法の </jp>
+<exp>【形】２進法の </exp>
+<sound>tech2v01idx01_binary.mp3</sound>
+</w>
+<w idx="2" name="binary system">
+<jp>２進法</jp>
+<exp>【名】２進法</exp>
+<sound>tech2v01idx02_binary_system.mp3</sound>
+</w>
+<w idx="3" name="decimal">
+<jp>10進法の</jp>
+<exp>【形】10進法の</exp>
+<sound>tech2v01idx03_decimal.mp3</sound>
+</w>
+<w idx="4" name="decimal system">
+<jp>10進法</jp>
+<exp>【名】10進法</exp>
+<sound>tech2v01idx04_decimal_system.mp3</sound>
+</w>
+<w idx="5" name="parabola">
+<jp>放物線</jp>
+<exp>【名】放物線</exp>
+<sound>tech2v01idx05_parabola.mp3</sound>
+</w>
+<w idx="6" name="fraction">
+<jp>分数</jp>
+<exp>【名】分数</exp>
+<sound>tech2v01idx06_fraction.mp3</sound>
+</w>
+<w idx="7" name="addition">
+<jp>足し算</jp>
+<exp>【名】足し算</exp>
+<sound>tech2v01idx07_addition.mp3</sound>
+</w>
+<w idx="8" name="division">
+<jp>割り算</jp>
+<exp>【名】割り算</exp>
+<sound>tech2v01idx08_division.mp3</sound>
+</w>
+<w idx="9" name="multiplication">
+<jp>掛け算</jp>
+<exp>【名】掛け算</exp>
+<sound>tech2v01idx09_multiplication.mp3</sound>
+</w>
+<w idx="10" name="subtraction">
+<jp>引き算</jp>
+<exp>【名】引き算</exp>
+<sound>tech2v01idx10_subtraction.mp3</sound>
+</w>
+<w idx="11" name="even number">
+<jp>偶数</jp>
+<exp>【名】偶数</exp>
+<sound>tech2v01idx11_even_number.mp3</sound>
+</w>
+<w idx="12" name="odd number">
+<jp>奇数</jp>
+<exp>【名】奇数</exp>
+<sound>tech2v01idx12_odd_number.mp3</sound>
+</w>
+<w idx="13" name="area">
+<jp>面積</jp>
+<exp>【名】面積</exp>
+<sound>tech2v01idx13_area.mp3</sound>
+</w>
+<w idx="14" name="circle">
+<jp>円</jp>
+<exp>【名】円</exp>
+<sound>tech2v01idx14_circle.mp3</sound>
+</w>
+<w idx="15" name="cross-sectional area">
+<jp>断面積</jp>
+<exp>【名】断面積</exp>
+<sound>tech2v01idx15_cross-sectional_area.mp3</sound>
+</w>
+<w idx="16" name="diameter">
+<jp>直径</jp>
+<exp>【名】直径</exp>
+<sound>tech2v01idx16_diameter.mp3</sound>
+</w>
+<w idx="17" name="radius">
+<jp>半径</jp>
+<exp>【名】半径</exp>
+<sound>tech2v01idx17_radius.mp3</sound>
+</w>
+<w idx="18" name="sphere">
+<jp>球</jp>
+<exp>【名】球</exp>
+<sound>tech2v01idx18_sphere.mp3</sound>
+</w>
+<w idx="19" name="volume">
+<jp>体積</jp>
+<exp>【名】体積、容積</exp>
+<sound>tech2v01idx19_volume.mp3</sound>
+</w>
+<w idx="20" name="graph">
+<jp>図表</jp>
+<exp>【名】図表</exp>
+<sound>tech2v01idx20_graph.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. binary</p>
+<p>2. binary system</p>
+<p>3. decimal</p>
+<p>4. decimal system</p>
+<p>5. parabola</p>
+<p>6. fraction</p>
+<p>7. addition</p>
+<p>8. division</p>
+<p>9. multiplication</p>
+<p>10. subtraction</p>
+<p>11. even number</p>
+<p>12. odd number</p>
+<p>13. area</p>
+<p>14. circle</p>
+<p>15. cross-sectional area</p>
+<p>16. diameter</p>
+<p>17. radius</p>
+<p>18. sphere</p>
+<p>19. volume</p>
+<p>20. graph</p>
+</contents>
+</unit>

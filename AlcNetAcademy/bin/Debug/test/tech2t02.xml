@@ -1,0 +1,536 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 中間テスト／修了テスト -->
+<unit idx="02">
+
+<title>修了テスト</title>
+
+<!-- セクション１ -->
+<part no="1" type="tech2-1">
+
+<question no="1" answer="1">
+<text>This sensor detects the light intensity reflected from the metal surface.</text>
+<selTrans cd="1">このセンサは金属表面で反射される光の強度を検出する。</selTrans>
+<selTrans cd="2">このセンサは金属表面に集められた光の屈折を調べる。</selTrans>
+<selTrans cd="3">このセンサは光が金属表面で反射されたのでそのために使用される。</selTrans>
+<selTrans cd="4">このセンサは金属表面で光が強く屈折するのを調べる。</selTrans>
+<comment>幹セン This sensor detects the light intensity.
+「このセンサは光の強度を検出する」という和訳だけでも正解１にたどり着きます。そうでなくても、intensity に後ろからかかる reflected from the metal surface 「金属表面から反射される」がわかれば１と３に絞れます。</comment>
+</question>
+
+<question no="2" answer="4">
+<text>The rise in temperature caused the thermostat to turn off the heating circuit.</text>
+<selTrans cd="1">温度が上昇したので、回路を加熱から冷却にするサーモスタットが働いた。</selTrans>
+<selTrans cd="2">温度上昇により、回路を加熱に切り替えるサーモスタットが働いた。</selTrans>
+<selTrans cd="3">温度上昇により、サーモスタットは回路を冷房にするように働いた。</selTrans>
+<selTrans cd="4">温度が上昇したので、サーモスタットは加熱回路を遮断した。</selTrans>
+<comment>幹セン The rise caused the thermostat to turn off the heating circuit.
+これは、「● cause ▲ 不定詞」の第５文型（SVOC）で、「●が原因で▲が不定詞する」という意味になります。基礎コースの Unit 3、Unit 4 で学習した enable や allow も、同じ文型で書ける動詞の仲間です。ここで３と４に絞れます。さらに turn off の「遮断する」という意味がわかると正解は４。</comment>
+</question>
+
+<question no="3" answer="2">
+<text>This part can be easily replaced within ten minutes.</text>
+<selTrans cd="1">この部分は、10分程度で簡単に取り外すことができる。</selTrans>
+<selTrans cd="2">この部品は、10分以内に簡単に取り替えることができる。</selTrans>
+<selTrans cd="3">この部品は、10分程度で簡単に新品と取り替えることができる。</selTrans>
+<selTrans cd="4">この部分は、10分以内に簡単に整備することができる。</selTrans>
+<comment>幹セン This part can be replaced.
+「この部品を取り替えることができる」だけでも２と３に絞れます。 within は「以内」なので、正解は２。</comment>
+</question>
+
+<question no="4" answer="3">
+<text>Plan the best way to dispose of industrial wastes.</text>
+<selTrans cd="1">工場廃棄物を埋める最も賢明な方法を提案しなさい。</selTrans>
+<selTrans cd="2">廃棄物を工場へ輸送する最もよい運搬計画を立てなさい。</selTrans>
+<selTrans cd="3">産業廃棄物を処理する最もよい方法を計画しなさい。</selTrans>
+<selTrans cd="4">産業廃棄物を活用する最もよい方法を発表しなさい。</selTrans>
+<comment>幹セン Plan the best way.
+「最善の方法を計画しなさい」という和訳だけで正解３を選べます。 to dispose of industrial wastes は、way を修飾する不定詞の形容詞的用法です。</comment>
+</question>
+
+<question no="5" answer="1">
+<text>A balanced diet will provide you with adequate vitamins.</text>
+<selTrans cd="1">バランスの取れた食事によって、十分なビタミン摂取が可能である。</selTrans>
+<selTrans cd="2">ビタミンの一部が不足するような食事のバランスを崩してはならない。</selTrans>
+<selTrans cd="3">栄養の偏る食事を続けると、ある種のビタミン摂取能力が低下する。</selTrans>
+<selTrans cd="4">偏りのない食事をしていても、ビタミンの一部は十分に摂取できない。</selTrans>
+<comment>幹セン A diet will provide you with vitamins.
+これは、provide が provide ● with ▲ で「●（ヒト）に▲（モノ）を与える」という使い方を知っていれば正解は１になります。32ユニットには登場していません。辞書で provide を調べてください。</comment>
+</question>
+
+<question no="6" answer="4">
+<text>To start the machine, move the switch to the right-hand position.</text>
+<selTrans cd="1">機械を運転させるためには、スイッチを正しい位置に固定しなさい。</selTrans>
+<selTrans cd="2">機械を始動することは、スイッチを正しい位置に戻すことである。</selTrans>
+<selTrans cd="3">機械を運転させるためには、右側のスイッチを引きなさい。</selTrans>
+<selTrans cd="4">機械を始動させるためには、スイッチを右側の位置へ動かしなさい。</selTrans>
+<comment>幹セン Move the switch to the right-hand position.
+形容詞 right には「右の」と「正しい」という意味があります。ここは hand 付きなので「右側の」になります。文頭の不定詞は副詞的用法（目的）です。 start は「運転させる」ではなくて「始動させる」ですから正解は４になります。</comment>
+</question>
+
+<question no="7" answer="2">
+<text>The nitrogen necessary for plants to build up proteins comes from the soil.</text>
+<selTrans cd="1">土壌から生じるタンパク質は窒素と同じように植物にとって必要である。</selTrans>
+<selTrans cd="2">植物がタンパク質を作り出すために必要とする窒素は土壌から得られる。</selTrans>
+<selTrans cd="3">タンパク質を土壌から取り入れ成長するためには、植物には窒素が必要である。</selTrans>
+<selTrans cd="4">植物にとって成長に必要な窒素は、タンパク質と同じように土壌から取り入れる。</selTrans>
+<comment>幹セン The nitrogen comes from the soil.
+「窒素は土壌から comes from」。これだけで、２または４に絞れます。 necessary 以下は nitrogen に後ろからかかる形容詞句です。ここで、for plants は to build up の主語です。「植物がタンパク質を作り出すために必要な窒素」の意味です。</comment>
+</question>
+
+</part>
+
+
+<!-- セクション２ -->
+<part no="2" type="tech2-2">
+
+<question no="1" answer="1">
+<text>routine</text>
+<selTrans cd="1">決まりきった</selTrans>
+<selTrans cd="2">任意の</selTrans>
+<selTrans cd="3">回転</selTrans>
+<comment>任意の: optional  回転: revolution、rotation</comment>
+</question>
+
+<question no="2" answer="3">
+<text>lubricate</text>
+<selTrans cd="1">摩擦する</selTrans>
+<selTrans cd="2">熱を帯びる</selTrans>
+<selTrans cd="3">注油する</selTrans>
+<comment>摩擦する: rub  熱を帯びる: heat</comment>
+</question>
+
+<question no="3" answer="2">
+<text>byproduct</text>
+<selTrans cd="1">生産物</selTrans>
+<selTrans cd="2">副産物</selTrans>
+<selTrans cd="3">産出高</selTrans>
+<comment>生産物: product  産出高: output、production</comment>
+</question>
+
+<question no="4" answer="2">
+<text>apply</text>
+<selTrans cd="1">発明する</selTrans>
+<selTrans cd="2">応用する</selTrans>
+<selTrans cd="3">支援する</selTrans>
+<comment>発明する: invent  支援する: support</comment>
+</question>
+
+<question no="5" answer="1">
+<text>longitude</text>
+<selTrans cd="1">経度</selTrans>
+<selTrans cd="2">前線</selTrans>
+<selTrans cd="3">春分</selTrans>
+<comment>前線: front  春分: equinox</comment>
+</question>
+
+<question no="6" answer="1">
+<text>following</text>
+<selTrans cd="1">次の</selTrans>
+<selTrans cd="2">前の</selTrans>
+<selTrans cd="3">上の</selTrans>
+<comment>前の（前者の）: former  上の（上記の）: above</comment>
+</question>
+
+<question no="7" answer="2">
+<text>biology</text>
+<selTrans cd="1">生態学</selTrans>
+<selTrans cd="2">生物学</selTrans>
+<selTrans cd="3">生理学</selTrans>
+<comment>生態学: ecology  生理学: physiology</comment>
+</question>
+
+<question no="8" answer="3">
+<text>solution</text>
+<selTrans cd="1">混合液</selTrans>
+<selTrans cd="2">流動体</selTrans>
+<selTrans cd="3">溶液</selTrans>
+<comment>混合液: mixture  流動体: fluid</comment>
+</question>
+
+<question no="9" answer="3">
+<text>decompose</text>
+<selTrans cd="1">反応する</selTrans>
+<selTrans cd="2">溶解する</selTrans>
+<selTrans cd="3">分解する</selTrans>
+<comment>反応する: react  溶解する: dissolve</comment>
+</question>
+
+<question no="10" answer="2">
+<text>lever</text>
+<selTrans cd="1">釣り合い</selTrans>
+<selTrans cd="2">てこ</selTrans>
+<selTrans cd="3">水準</selTrans>
+<comment>釣り合い: balance  水準: standard（標準）、level（程度）</comment>
+</question>
+
+<question no="11" answer="3">
+<text>built-in</text>
+<selTrans cd="1">密集した</selTrans>
+<selTrans cd="2">壊れた</selTrans>
+<selTrans cd="3">内蔵の</selTrans>
+<comment>密集した: dense  壊れた: broken</comment>
+</question>
+
+<question no="12" answer="2">
+<text>genetic</text>
+<selTrans cd="1">一般の</selTrans>
+<selTrans cd="2">遺伝子の</selTrans>
+<selTrans cd="3">生物の</selTrans>
+<comment>一般の: general  生物の: biotical</comment>
+</question>
+
+<question no="13" answer="1">
+<text>transmission</text>
+<selTrans cd="1">伝送</selTrans>
+<selTrans cd="2">通過</selTrans>
+<selTrans cd="3">変換</selTrans>
+<comment>通過: passage  変換: transformation、conversion</comment>
+</question>
+
+<question no="14" answer="1">
+<text>modify</text>
+<selTrans cd="1">修正する</selTrans>
+<selTrans cd="2">動機付ける</selTrans>
+<selTrans cd="3">模型を作る</selTrans>
+<comment>動機付ける: motivate  模型を作る: model</comment>
+</question>
+
+<question no="15" answer="2">
+<text>radiation</text>
+<selTrans cd="1">光線</selTrans>
+<selTrans cd="2">放射</selTrans>
+<selTrans cd="3">無線</selTrans>
+<comment>光線: ray  無線: radio</comment>
+</question>
+
+</part>
+
+<!-- セクション３ -->
+<part no="3" type="tech2-3">
+
+<question no="1" answer="1">
+<text>Plastics are synthetic materials <blank></blank></text>
+<textTrans>プラスチックは軟化、成形が可能な合成材料である。</textTrans>
+<comment>キーワードは「プラスチック」「合成材料」。これで、１につながります。</comment>
+</question>
+
+<question no="2" answer="2">
+<text>You have to read not only text <blank></blank></text>
+<textTrans>あなたは本文だけでなく図も読み取らなくてはいけません。</textTrans>
+<comment>キーワードは「読む」「本文」。ここには not only があるので、後半文に but also を探せば済みます。２につながります。 not only ● but also ▲ で「●だけでなく▲も」という表現を覚えましょう。</comment>
+</question>
+
+<question no="3" answer="4">
+<text>Red light has the longest wavelength <blank></blank></text>
+<textTrans>赤い光は最も長い波長を持ち、紫の光は最も短い。</textTrans>
+<comment>キーワードは「赤い光」「最も長い」。対立語の shortest に気づけば、４につなげることができます。</comment>
+</question>
+
+<question no="4" answer="5">
+<text>The space shuttle stood <blank></blank></text>
+<textTrans>スペースシャトルは先端を空に向けて立っていた。</textTrans>
+<comment>キーワードは「スペースシャトル」。これで５につなげることができます。ここの with は付帯状況を表します。 Its nose was pointed toward the sky. という文を作ることができます。</comment>
+</question>
+
+<question no="5" answer="3">
+<text>Coal combustion releases <blank></blank></text>
+<textTrans>石炭の燃焼は様々な汚染物質を放出する。</textTrans>
+<comment>キーワードは「石炭の燃焼」。これは３につながります。</comment>
+</question>
+
+<sel cd="1">that can be softened and molded.</sel>
+<sel cd="2">but also diagrams.</sel>
+<sel cd="3">a variety of pollutants.</sel>
+<sel cd="4">violet the shortest.</sel>
+<sel cd="5">with its nose pointed toward the sky.</sel>
+
+<point>　問題の指示に、後半の「１から５は１回しか使えません」とあります。ですから、ひとつ間違えると、当然もうひとつも間違えます。逆に、できる問題からやっていけば、難しそうな他の問題も正解に近づきます。この問題は、キーワードの分析と構文の分析というふたつの視点から考えることで、より正確に答えることができます。まずはキーワードでつないでいくのがコツです。大いに理系の知識を動員してください。
+　後半のキーワードは、
+　　1. 「軟化される」「成形される」
+　　2. 「図」
+　　3. 「さまざまな汚染物質」
+　　4. 「紫」「最も短い」
+　　5. 「先端」「空」</point>
+
+</part>
+
+<!-- セクション４ -->
+<part no="4" type="tech2-4">
+
+<question no="1" answer="5">
+<text>Every object in <blank></blank> has kinetic energy.</text>
+<textTrans>すべての動く物体には運動エネルギーがある。</textTrans>
+<comment>前置詞 in の後のカッコです。しかも、後ろに kinetic energy 「運動エネルギー」が出てきます。 object は、 「物体」です。それに in motion がくっつくと「動いている物体」となります。</comment>
+</question>
+
+<question no="2" answer="4">
+<text>A thermostat causes the heater to turn on and <blank></blank>.</text>
+<textTrans>サーモスタットは暖房器具のスイッチを入れたり切ったりする。</textTrans>
+<comment>「● cause ▲ 不定詞」の文型です。「●が原因で▲が不定詞する」。でも、ここがわからなくても、パラパラ （並列構造）の美しさを理解していれば、on and off とすぐに正解に達します。</comment>
+</question>
+
+<question no="3" answer="1">
+<text>The device <blank></blank> on solar power.</text>
+<textTrans>その装置は太陽エネルギーで動く。</textTrans>
+<comment>カッコの後が on solar power だけです。主語が the device ですからカッコは動詞が入って第１文型（SV）になります。そうなると、答えは runs しかありません。</comment>
+</question>
+
+<question no="4" answer="3">
+<text>A nucleus is <blank></blank> of protons and neutrons.</text>
+<textTrans>原子核は陽子と中性子で構成されている。</textTrans>
+<comment>ここは少々難しいので他の問題を考えてから最後に選ぶとよいでしょう。後に of が続いているので、名詞が入ると思う人も多いでしょう。しかし motion では意味が通じないだけでなく(a)の Every object in (      ) has kinetic energy. に入る語がなくなってしまいます。 be composed of ... は、consist of ... と同じ意味で「…から成る」という表現になります。</comment>
+</question>
+
+<question no="5" answer="2">
+<text>Most food contains one <blank></blank> more nutritious components.</text>
+<textTrans>ほとんどの食料品はひとつ以上の栄養分を含んでいる。</textTrans>
+<comment>one と more に挟まれています。「ひとつまたはそれ以上」という表現を知っていれば or にあっさり決まります。 nutritious components は「栄養素」のことです。</comment>
+</question>
+
+<sel cd="1">runs</sel>
+<sel cd="2">or</sel>
+<sel cd="3">composed</sel>
+<sel cd="4">off</sel>
+<sel cd="5">motion</sel>
+
+<point>　セクションⅢに続いて、「１から５は１回しか使えません」とあります。この問題では、ひとつずつカッコに入れていってみます。そして、「品詞（動詞、副詞、形容詞、前置詞、名詞程度がわかれば大丈夫）としてここには入るのは変だ！」または「文の意味が変だ！」と判断しながらふるい落としていくのがコツです。
+　それでは、まず選択肢の品詞分けをします。
+　　1. runs は動詞（３人称単数現在）
+　　2. or は「または」か「すなわち」
+　　3. composed は動詞 compose の過去分詞
+　　4. off は副詞で「離れて」
+　　5. motion は名詞で「運動」
+品詞にすべて分けなくても問題を解けますのでご心配なく。</point>
+
+</part>
+
+<!-- セクション５ -->
+<part no="5" type="tech2-5">
+
+<question no="1" answer="3">
+<text>Most airbag sensors react to a car's motion just <blank></blank> a crash.</text>
+<textTrans>ほとんどのエアバッグセンサーは衝突の直後、車の動きに反応する。</textTrans>
+<sel cd="1">before</sel>
+<sel cd="2">between</sel>
+<sel cd="3">after</sel>
+<comment>react to ... で「…に反応する」です。 airbag が膨らむのは、crash（衝突）の直後です。 just after ... で「…の直後に」という表現になります。</comment>
+</question>
+
+<question no="2" answer="2">
+<text>A fuse is made of a metal that <blank></blank> before it gets very hot.</text>
+<textTrans>フューズは加熱すると溶ける金属でできている。</textTrans>
+<sel cd="1">mends</sel>
+<sel cd="2">melts</sel>
+<sel cd="3">mixes</sel>
+<comment>ここの that は関係代名詞です。 A fuse is made of a metal.  A metal melts before it gets very hot. のふたつに文を分けることができます。フューズをいじったことがある人ならわかります。過剰な電流が流れると発熱してフューズ自体が溶け、その結果、回路を遮断するという安全装置がフューズです。その名も fuse、動詞では「溶ける」という意味です。</comment>
+</question>
+
+<question no="3" answer="2">
+<text>A <blank></blank> is half the length of the diameter.</text>
+<textTrans>半径は直径の半分の長さである。</textTrans>
+<sel cd="1">ratio</sel>
+<sel cd="2">radius</sel>
+<sel cd="3">random</sel>
+<comment>後に diameter（直径）があって、途中に half the length があるので、半径のことだとわかります。 radius が正解。 ratio は比（または比率）です。</comment>
+</question>
+
+<question no="4" answer="3">
+<text>Nine <blank></blank> by three is three.</text>
+<textTrans>９割る３は３。</textTrans>
+<sel cd="1">multiplied</sel>
+<sel cd="2">squared</sel>
+<sel cd="3">divided</sel>
+<comment>９を「何か」すると３になる。「何か」は割るですから divided を選びます。 Nine multiplied by three is twenty-seven.  Nine squared is eighty-one.  Nine divided by three is three. となります。</comment>
+</question>
+
+<question no="5" answer="1">
+<text>Take care to <blank></blank> accidents.</text>
+<textTrans>事故を起こさないよう注意してください。</textTrans>
+<sel cd="1">prevent</sel>
+<sel cd="2">present</sel>
+<sel cd="3">prepare</sel>
+<comment>「注意して事故を防ごう」という意味です。「事故を防ぐ」は、prevent がぴったんこ動詞です。</comment>
+</question>
+
+</part>
+
+<!-- セクション６ -->
+<part no="6" type="tech2-6">
+
+<question no="1" answer="6">
+<text>The automatic doors remain open for about four seconds <blank></blank> closing again.</text>
+<textTrans>この自動ドアは約４秒開いて再び閉まる。</textTrans>
+<comment>カッコの後が closing で動名詞になっていますから、前置詞がカッコの候補です。「再び閉まる前に」の意味ですから、before を選びます。</comment>
+</question>
+
+<question no="2" answer="7">
+<text>Does this computer <blank></blank> on 100 VAC or 200 VAC?</text>
+<textTrans>このパソコンの電源は AC 100V、それとも AC 200V ですか。</textTrans>
+<comment>this computer が主語ですから、ここには動詞が入ります。疑問文なので動詞の原形として operate しかありません。これまで operate は目的語を伴って「…を操作する」の意味でした。ここでは、第２文型（SVC）ですから、目的語はありません。このときには、「作動する」という意味です。</comment>
+</question>
+
+<question no="3" answer="10">
+<text>The <blank></blank> system is a number system with a base of 10.</text>
+<textTrans>10を基調にした数のシステムは……。</textTrans>
+<comment>日本文の意味から10進法のことを説明していることがわかります。10進法は decimal system といいます。２進法は binary system です。なお、decimals は名詞で「小数」という意味になります。</comment>
+</question>
+
+<question no="4" answer="2">
+<text>The meter is <blank></blank> on the right side of the panel.</text>
+<textTrans>パネルの右側にメーターが……。</textTrans>
+<comment>is と on に挟まれていますから、受け身が第一候補です。そこで、メータがパネルの右側に mounted あるいは filled から考えます。 filled では「満たされている」となり、意味から考えると間違っていそうです。 mount には「取り付ける」という意味があってぴったりはまります。「取り付けられている」となります。</comment>
+</question>
+
+<question no="5" answer="9">
+<text>The bicycle frame <blank></blank> be flexible to absorb bumps.</text>
+<textTrans>衝撃を吸収するために、自転車のフレームは柔軟性が……。</textTrans>
+<comment>日本文の意味から「柔軟性が必要である」と予想できます。すると need も目に入りますが、need be となり文法上おかしなことになります。英文では flexible（柔軟な、しなやかな）と形容詞になっていますので「柔軟性が必要である」を「柔軟でなければならない」とリライトして、must を選んでください。</comment>
+</question>
+
+<sel cd="1">power</sel>
+<sel cd="2">mounted</sel>
+<sel cd="3">by</sel>
+<sel cd="4">binary</sel>
+<sel cd="5">filled</sel>
+<sel cd="6">before</sel>
+<sel cd="7">operate</sel>
+<sel cd="8">need</sel>
+<sel cd="9">must</sel>
+<sel cd="10">decimal</sel>
+
+<point>　10個の選択肢から、５個選ぶ問題です。構文、選択肢の品詞、そして意味から正解を導き出します。選択肢を品詞で分類しておきましょう。
+　　名詞： power
+　　形容詞： binary、decimal
+　　動詞： mounted、filled、operate、need
+　　前置詞： by、before
+　　助動詞： must</point>
+
+</part>
+
+<!-- セクション７ -->
+<part no="7" type="tech2-7">
+
+<question no="1" answer="3">
+<text>軸</text>
+<sel cd="1">beam</sel>
+<sel cd="2">exercise</sel>
+<sel cd="3">axis</sel>
+<comment>beam: 光線、梁  exercise: 練習、練習させる</comment>
+</question>
+
+<question no="2" answer="3">
+<text>選択する</text>
+<sel cd="1">avoid</sel>
+<sel cd="2">mix</sel>
+<sel cd="3">select</sel>
+<comment>avoid: 避ける  mix: 混ぜる</comment>
+</question>
+
+<question no="3" answer="2">
+<text>完全に</text>
+<sel cd="1">overall</sel>
+<sel cd="2">completely</sel>
+<sel cd="3">finally</sel>
+<comment>overall: 全体にわたる  finally: 最終的に</comment>
+</question>
+
+<question no="4" answer="2">
+<text>基礎</text>
+<sel cd="1">fund</sel>
+<sel cd="2">foundation</sel>
+<sel cd="3">bottom</sel>
+<comment>fund: 資金  bottom: 底</comment>
+</question>
+
+<question no="5" answer="1">
+<text>構成する</text>
+<sel cd="1">compose</sel>
+<sel cd="2">concrete</sel>
+<sel cd="3">contain</sel>
+<comment>concrete: 具体的な、固まる  contain: 含む</comment>
+</question>
+
+<question no="6" answer="3">
+<text>分析する</text>
+<sel cd="1">measure</sel>
+<sel cd="2">medicine</sel>
+<sel cd="3">analyze</sel>
+<comment>measure: 測定する  medicine: 医薬品、医学</comment>
+</question>
+
+<question no="7" answer="3">
+<text>高さ</text>
+<sel cd="1">tall</sel>
+<sel cd="2">tower</sel>
+<sel cd="3">height</sel>
+<comment>tall: 高い  tower: 塔</comment>
+</question>
+
+<question no="8" answer="2">
+<text>縁</text>
+<sel cd="1">spin</sel>
+<sel cd="2">rim</sel>
+<sel cd="3">guide</sel>
+<comment>spin: 回転  guide: 案内、目印</comment>
+</question>
+
+<question no="9" answer="3">
+<text>核の</text>
+<sel cd="1">medium</sel>
+<sel cd="2">atomic</sel>
+<sel cd="3">nuclear</sel>
+<comment>medium: 媒体、中間  atomic: 原子の</comment>
+</question>
+
+<question no="10" answer="1">
+<text>底</text>
+<sel cd="1">bottom</sel>
+<sel cd="2">side</sel>
+<sel cd="3">surface</sel>
+<comment>side: 辺  surface: 表面</comment>
+</question>
+
+<question no="11" answer="3">
+<text>ペンチ</text>
+<sel cd="1">file</sel>
+<sel cd="2">gage</sel>
+<sel cd="3">cutting pliers</sel>
+<comment>file: やすり  gage: 計器、ゲージ</comment>
+</question>
+
+<question no="12" answer="2">
+<text>蒸気</text>
+<sel cd="1">waterproof</sel>
+<sel cd="2">vapor</sel>
+<sel cd="3">humid</sel>
+<comment>waterproof: 防水の  humid: 湿った</comment>
+</question>
+
+<question no="13" answer="2">
+<text>溶解する</text>
+<sel cd="1">mixture</sel>
+<sel cd="2">dissolve</sel>
+<sel cd="3">stream</sel>
+<comment>mixture: 混合物  stream: 流れる</comment>
+</question>
+
+<question no="14" answer="3">
+<text>集める</text>
+<sel cd="1">correct</sel>
+<sel cd="2">appear</sel>
+<sel cd="3">collect</sel>
+<comment>correct: 訂正する  appear: 現れる</comment>
+</question>
+
+<question no="15" answer="3">
+<text>垂直に</text>
+<sel cd="1">horizontally</sel>
+<sel cd="2">parallel</sel>
+<sel cd="3">vertically</sel>
+<comment>horizontally: 水平に  parallel: 平行に、平行な</comment>
+</question>
+
+</part>
+
+</unit>

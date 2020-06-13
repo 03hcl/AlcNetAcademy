@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 レビュークイズ -->
+
+<unit idx="06" size="24">
+
+<question no="21" type="R">
+<text>Animals to make pharmaceuticals are being created by using genetic recombination technologies and mass-produced by using cloning technologies.</text>
+<textTrans>遺伝子組換え技術を使って医薬品をつくるための動物が生み出され、クローン技術を使ってその動物が量産されつつある。</textTrans>
+<hint no="1">animal,pharmaceutical,genetic recombination technology,cloning technology</hint>
+<hint no="2">animal,pharmaceutical,genetic recombination technology,cloning technology,make,create,mass-produce,use,by,and</hint>
+<sound>tech2b21s4m2.mp3</sound>
+<reference>Unit21の課題文</reference>
+</question>
+
+<question no="21" type="I">
+<text>This plant manufactures floppy disks.</text>
+<textTrans>この工場ではフロッピーディスクを製造している。</textTrans>
+<hint no="1">plant</hint>
+<hint no="2">plant,floppy disk,manufacture</hint>
+<sound>tech2b21s5Q01.mp3</sound>
+<reference>Unit21のStep5</reference>
+</question>
+
+<question no="21" type="I">
+<text>Two experimental reactors have been built in Great Britain.</text>
+<textTrans>実験用原子炉２基が英国に作られた。</textTrans>
+<hint no="1">reactor,Great Britain</hint>
+<hint no="2">reactor,Great Britain,two,build,in</hint>
+<sound>tech2b21s5Q02.mp3</sound>
+<reference>Unit21のStep5</reference>
+</question>
+
+<question no="21" type="I">
+<text>We made this machine by ourselves.</text>
+<textTrans>私たちはこの機械を自作した。</textTrans>
+<hint no="1">machine</hint>
+<hint no="2">machine,make,by</hint>
+<sound>tech2b21s5Q03.mp3</sound>
+<reference>Unit21のStep5</reference>
+</question>
+
+<question no="21" type="I">
+<text>The viscosity of liquids decreases with increasing temperatures.</text>
+<textTrans>液体の粘度は温度が上がると低下する。</textTrans>
+<hint no="1">viscosity,liquid,temperature</hint>
+<hint no="2">viscosity,liquid,temperature,decrease,increase,with</hint>
+<sound>tech2b21s5Q04.mp3</sound>
+<reference>Unit21のStep5</reference>
+</question>
+
+<question no="21" type="I">
+<text>The speed of rotation increased with an increase in temperature.</text>
+<textTrans>回転数は温度の上昇につれて増加した。</textTrans>
+<hint no="1">speed,rotation,increase</hint>
+<hint no="2">speed,rotation,increase,temperature,of,with,in</hint>
+<sound>tech2b21s5Q05.mp3</sound>
+<reference>Unit21のStep5</reference>
+</question>
+
+<question no="22" type="R">
+<text>When chlorofluorocarbons are emitted into the atmosphere and reach the stratosphere, chlorine causes a depletion of the ozone layer.</text>
+<textTrans>フロンが大気に放出されて成層圏に達すると、塩素がオゾン層を破壊する原因となる。</textTrans>
+<hint no="1">chlorofluorocarbon,atmosphere,stratosphere,chlorine,depletion,ozone layer</hint>
+<hint no="2">chlorofluorocarbon,atmosphere,stratosphere,chlorine,depletion,ozone layer,emit,reach,cause,when,into,and,of</hint>
+<sound>tech2b22s2m1.mp3</sound>
+<reference>Unit22の幹セン</reference>
+</question>
+
+<question no="22" type="I">
+<text>The vibration causes friction at this interface.</text>
+<textTrans>振動がこの界面での摩擦の原因となる。</textTrans>
+<hint no="1">vibration,friction,interface</hint>
+<hint no="2">vibration,friction,interface,cause,at</hint>
+<sound>tech2b22s5Q01.mp3</sound>
+<reference>Unit22のStep5</reference>
+</question>
+
+<question no="22" type="I">
+<text>The greenhouse effect of carbon dioxide causes the high surface temperature.</text>
+<textTrans>二酸化炭素の温室効果によって表面温度は高くなる。</textTrans>
+<hint no="1">greenhouse effect,carbon,dioxide,surface</hint>
+<hint no="2">greenhouse effect,carbon dioxide,surface,temperature,high,of</hint>
+<sound>tech2b22s5Q02.mp3</sound>
+<reference>Unit22のStep5</reference>
+</question>
+
+<question no="22" type="I">
+<text>Smoking is one of the major causes of lung cancer.</text>
+<textTrans>喫煙は肺ガンの主な原因のひとつです。</textTrans>
+<hint no="1">smoking,cause,lung cancer</hint>
+<hint no="2">smoking,cause,lung cancer,one,major,of</hint>
+<sound>tech2b22s5Q03.mp3</sound>
+<reference>Unit22のStep5</reference>
+</question>
+
+<question no="22" type="I">
+<text>The damage caused by the earthquake reached four billion yen.</text>
+<textTrans>地震による被害は40億円に達した。</textTrans>
+<hint no="1">damage,earthquake,yen</hint>
+<hint no="2">damage,earthquake,four billion yen,cause,reach,by</hint>
+<sound>tech2b22s5Q04.mp3</sound>
+<reference>Unit22のStep5</reference>
+</question>
+
+<question no="22" type="I">
+<text>Carbon dioxide is decomposed into carbon monoxide and oxygen.</text>
+<textTrans>二酸化炭素は一酸化炭素と酸素に分解される。</textTrans>
+<hint no="1">carbon dioxide,carbon monoxide,oxygen</hint>
+<hint no="2">carbon dioxide,carbon monoxide,oxygen,decompose,into</hint>
+<sound>tech2b22s5Q05.mp3</sound>
+<reference>Unit22のStep5</reference>
+</question>
+
+<question no="23" type="R">
+<text>Carbons linked in a network form a tiny tube with both ends closed.</text>
+<textTrans>網状につながった炭素が両端の閉じた微小なチューブをつくっている。</textTrans>
+<hint no="1">carbon,network,tube,end</hint>
+<hint no="2">carbon,network,tube,end,link,form,close,tiny,in,with,both</hint>
+<sound>tech2b23s4m2.mp3</sound>
+<reference>Unit23の課題文</reference>
+</question>
+
+<question no="23" type="I">
+<text>Regular lubrication prevents the bearings from overheating.</text>
+<textTrans>潤滑油の定期的な注油がベアリングの過熱を防ぐ。</textTrans>
+<hint no="1">lubrication,bearing,overheat,regular</hint>
+<hint no="2">lubrication,bearing,overheat,regular,prevent,from</hint>
+<sound>tech2b23s5Q01.mp3</sound>
+<reference>Unit23のStep5</reference>
+</question>
+
+<question no="23" type="I">
+<text>Vaccines defend our bodies by speeding antibody production.</text>
+<textTrans>ワクチンは抗体の生産を速めることによって体を守る。</textTrans>
+<hint no="1">vaccine,body,production,antibody</hint>
+<hint no="2">vaccine,body,production,antibody,defend,speed,by</hint>
+<sound>tech2b23s5Q02.mp3</sound>
+<reference>Unit23のStep5</reference>
+</question>
+
+<question no="23" type="I">
+<text>This computer works four times as fast as the previous one.</text>
+<textTrans>このコンピュータは、前のコンピュータより４倍速く作動する。</textTrans>
+<hint no="1">computer,time,fast,previous</hint>
+<hint no="2">computer,time,as fast as,previous,one,work</hint>
+<sound>tech2b23s5Q03.mp3</sound>
+<reference>Unit23のStep5</reference>
+</question>
+
+<question no="23" type="I">
+<text>The following formula is used to convert Fahrenheit temperatures to Celsius temperatures.</text>
+<textTrans>次の式は華氏を摂氏に変換するために使われる。</textTrans>
+<hint no="1">formula,Fahrenheit temperature,Celsius temperature</hint>
+<hint no="2">formula,Fahrenheit temperature,Celsius temperature,following,use,to</hint>
+<sound>tech2b23s5Q04.mp3</sound>
+<reference>Unit23のStep5</reference>
+</question>
+
+<question no="23" type="I">
+<text>This material cannot endure mechanical shock.</text>
+<textTrans>この物質は機械的ショックに耐えることができない。</textTrans>
+<hint no="1">material,shock,mechanical</hint>
+<hint no="2">material,shock,mechanical,endure</hint>
+<sound>tech2b23s5Q05.mp3</sound>
+<reference>Unit23のStep5</reference>
+</question>
+
+<question no="24" type="R">
+<text>The outlook for energy consumption by different areas in the world is shown in Table 1.</text>
+<textTrans>世界の地域別エネルギー消費の見通しを表１に示した。</textTrans>
+<hint no="1">outlook,energy,consumption,area,world,table</hint>
+<hint no="2">outlook,energy consumption,area,world,Table 1,different,show,for,by,in</hint>
+<sound>tech2b24s4m2.mp3</sound>
+<reference>Unit24の課題文</reference>
+</question>
+
+<question no="24" type="I">
+<text>Regular maintenance prolongs the machine's life.</text>
+<textTrans>定期点検は機械の寿命を延ばす。</textTrans>
+<hint no="1">maintenance,machine,life</hint>
+<hint no="2">maintenance,machine,life,regular,prolong</hint>
+<sound>tech2b24s5Q01.mp3</sound>
+<reference>Unit24のStep5</reference>
+</question>
+
+<question no="24" type="I">
+<text>The atmosphere consists of various gases.</text>
+<textTrans>大気はさまざまな気体からできている。</textTrans>
+<hint no="1">atmosphere,gas</hint>
+<hint no="2">atmosphere,gas,various,consist of</hint>
+<sound>tech2b24s5Q02.mp3</sound>
+<reference>Unit24のStep5</reference>
+</question>
+
+<question no="24" type="I">
+<text>White reflects more light than black.</text>
+<textTrans>白は黒よりも光を反射する。</textTrans>
+<hint no="1">white,light,black</hint>
+<hint no="2">white,light,black,more,reflect</hint>
+<sound>tech2b24s5Q03.mp3</sound>
+<reference>Unit24のStep5</reference>
+</question>
+
+<question no="24" type="I">
+<text>The quality has deteriorated.</text>
+<textTrans>品質が低下した。</textTrans>
+<hint no="1">quality</hint>
+<hint no="2">quality,deteriorate</hint>
+<sound>tech2b24s5Q04.mp3</sound>
+<reference>Unit24のStep5</reference>
+</question>
+
+<question no="24" type="I">
+<text>Apply the emergency brakes.</text>
+<textTrans>サイドブレーキをかけなさい。</textTrans>
+<hint no="1">emergency,brake</hint>
+<hint no="2">emergency brake,apply</hint>
+<sound>tech2b24s5Q05.mp3</sound>
+<reference>Unit24のStep5</reference>
+</question>
+
+</unit>

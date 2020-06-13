@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 基礎コース -->
+
+<unit idx="13">
+
+<introduction>
+<title>万能細胞の可能性</title>
+<read>&lt;font size="16" color="#000000"&gt;
+（学習のポイント）      
+&lt;/font&gt;
+&lt;font size="16" color="#0000FF"&gt;
+不定詞の形容詞的用法／any／possess
+&lt;/font&gt;
+&lt;br&gt;
+&lt;font size="16" color="#000000"&gt;
+注目されている画期的な細胞があります。バイオの話題の第２弾です。不定詞を名詞の直後に置いて名詞を修飾する表現や、「どんな…」を表す any を学習します。
+&lt;/font&gt;</read>
+</introduction>
+
+
+<notes>
+<w idx="1" name="oosperm">
+<jp>受精卵</jp>
+<sound>tech2b13idx01_oosperm.mp3</sound>
+</w>
+<w idx="2" name="division">
+<jp>分裂</jp>
+<sound>tech2b13idx02_division.mp3</sound>
+</w>
+<w idx="3" name="multiplication">
+<jp>増殖</jp>
+<sound>tech2b13idx03_multiplication.mp3</sound>
+</w>
+<w idx="4" name="cell">
+<jp>細胞</jp>
+<sound>tech2b13idx04_cell.mp3</sound>
+</w>
+<w idx="5" name="organ">
+<jp>臓器</jp>
+<sound>tech2b13idx05_organ.mp3</sound>
+</w>
+<w idx="6" name="embryo">
+<jp>胚</jp>
+<sound>tech2b13idx06_embryo.mp3</sound>
+</w>
+<w idx="7" name="tissue">
+<jp>組織</jp>
+<sound>tech2b13idx07_tissue.mp3</sound>
+</w>
+<w idx="8" name="potential">
+<jp>可能性</jp>
+<sound>tech2b13idx08_potential.mp3</sound>
+</w>
+</notes>
+
+
+<!-- Step1、Topic&Vocaburary -->
+<contents type="tech2bStep1">
+<p>　<w idx="1">受精卵</w>は<w idx="2">分裂</w>・<w idx="3">増殖</w>すると、それぞれの<w idx="4">細胞</w>が<w idx="5">臓器</w>や皮膚、脳などの各機能をもつようになる。これを分化という。ES細胞（<w idx="6">胚</w>性幹細胞）は、分化を始める前の胚盤胞という段階まで受精卵を育て、その内部から取り出した細胞のことである。ES細胞は分化しないまま分裂・増殖することができ、適当な成長因子を与えてやれば、目的の<w idx="7">組織</w>や臓器だけをつくることができる。ES細胞は、どんな組織や臓器にもなる遺伝的<w idx="8">可能性</w>を秘めている。</p>
+<p></p>
+<p>ES: Embryonic Stem </p>
+</contents>
+
+
+<!-- Step2、Writing1 -->
+<contents type="tech2bStep2">
+<instruction1>次の日本文から、幹セン（S・V・O）を抜き出そう。</instruction1>
+<instruction2>[先輩]ボタンを押して、先輩が書いた英文とあなたの英文を比べてみよう。</instruction2>
+<sentence>
+<ph idx="1" miki="true">ES細胞は、</ph>
+<ph idx="2">どんな</ph>
+<ph idx="3">組織や</ph>
+<ph idx="4">臓器にも</ph>
+<ph idx="5">なる</ph>
+<ph idx="6" miki="true">遺伝的可能性を</ph>
+<ph idx="7" miki="true">秘めている。</ph>
+</sentence>
+<mikisentence>
+<ph idx="1" type="S">ES細胞は、</ph>
+<ph idx="2" type="O">遺伝的可能性を</ph>
+<ph idx="3" type="V">秘めている。</ph>
+</mikisentence>
+<hint text="">
+<ph idx="1">ES cells</ph>
+<ph idx="2">genetic</ph>
+</hint>
+<senior answer="D"><sel cd="A">ES cells</sel> <sel cd="B">have</sel> the <sel cd="C">genetic</sel> <sel cd="D">possibility</sel>.</senior>
+<teach>ES cells possess the genetic potential.</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　「可能性を秘めている」の「秘めている」には、&lt;font color="#FF0000"&gt;possess&lt;/font&gt; というスペルの覚えにくい動詞が&lt;b&gt;「ぴったんこ動詞」&lt;/b&gt;です。 possess の２人称単数では possesses になり、s が全部で５つになります。先輩の英文の have は学校英語のニオイがしてきます。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　「可能性」というと、&lt;font color="#FF0000"&gt;possibility&lt;/font&gt; と &lt;font color="#FF0000"&gt;probability&lt;/font&gt; がまず和英辞典に載っています。それぞれの可能性の度合いは、possible が30％、probable が90％だそうです。しかしながら、ここでの「遺伝的可能性」は、潜在的可能性の意味なので &lt;font color="#FF0000"&gt;potential&lt;/font&gt; を使います。このへんが「どっちでもいいじゃないか」と言いたくなるところですが、辛抱してください。そうすれば上達の可能性が高くなります。&lt;br&gt;
+　それでは次の２文を比較しましょう。&lt;br&gt;
+　　It may possibly rain.&lt;br&gt;
+　　It may probably rain.&lt;br&gt;
+下の文の方が雨の降る可能性が高いことになります。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step3、Writing2 -->
+<contents type="tech2bStep3">
+<hint text="">
+<ph idx="1">tissue</ph>
+<ph idx="2">organ</ph>
+</hint>
+</contents>
+
+
+<!-- Step4、Comparisons -->
+<contents type="tech2bStep4">
+<senior answer="7">ES cells possess the genetic potential to become any tissue and any organ.</senior>
+<teach>
+&lt;font size="20" color="#000000"&gt;
+ES cells possess the genetic potential 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+to become any tissue and organ
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+.
+&lt;/font&gt;
+</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　「…になる可能性」には、&lt;b&gt;名詞を後ろから修飾する不定詞&lt;/b&gt;を使います。このところ不定詞が大活躍なので、まとめておきます。不定詞には３つの用法があります。理系の英文での主な使い方だけを挙げますので、まずはこれだけしっかり身につけましょう。&lt;br&gt;
+　　&lt;font color="#0000FF"&gt;名詞的用法&lt;/font&gt;	allow、enable の後ろでの補語 C として登場&lt;br&gt;
+　　　Flash memory enables us to write and erase data.&lt;br&gt;
+　　&lt;font color="#0000FF"&gt;副詞的用法&lt;/font&gt;	文頭なら「目的」、文末なら「結果」で活躍&lt;br&gt;
+　　　To transmit large volumes of data ... &lt;br&gt;
+　　　Sulfur reacts with oxygen to form sulfur oxides.&lt;br&gt;
+　　&lt;font color="#0000FF"&gt;形容詞的用法&lt;/font&gt;	名詞を後ろから修飾&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　any の後に単数の名詞を続けると、「どんな」を表現できます。「組織」にも「臓器」にも any をつけています。ひとつで両方を修飾できますから、後ろの any は不要です。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step5、Exercisse -->
+<contents type="tech2bStep5" size="5">
+<instruction1>新しい表現を練習しよう。</instruction1>
+<question no="1" type="R">
+<textTrans>カメラにフィルムを充填（じゅうてん）しなさい。</textTrans>
+<text><sel cd="A" answer="3"></sel> the camera with film.</text>
+<sel cd="A" idx="1">Insert</sel>
+<sel cd="A" idx="2">Fill</sel>
+<sel cd="A" idx="3">Load</sel>
+<hint>
+<sound>tech2b13s5Q01.mp3</sound>
+</hint>
+<point>　「（カメラにフィルム）を充填する」には load を使います。 load a camera with film ＝ load film to a camera</point>
+</question>
+
+<question no="2" type="R">
+<textTrans>コストを比較しなさい。</textTrans>
+<text><sel cd="A" answer="1"></sel> the costs.</text>
+<sel cd="A" idx="1">Compare</sel>
+<sel cd="A" idx="2">Prepare</sel>
+<sel cd="A" idx="3">Repair</sel>
+<hint>
+<sound>tech2b13s5Q02.mp3</sound>
+</hint>
+<point>　「比較する」は compare です。名詞（比較）、形容詞（匹敵する）はそれぞれ comparison、comparable です。
+　prepare: 用意する、repair: 修理する</point>
+</question>
+
+<question no="3" type="R">
+<textTrans>装置を調整してから操作しなさい。</textTrans>
+<text>Adjust the apparatus <sel cd="A" answer="1"></sel> <sel cd="B" answer="2"></sel> it.</text>
+<sel cd="A" idx="1">before</sel>
+<sel cd="A" idx="2">after</sel>
+<sel cd="A" idx="3">from</sel>
+<sel cd="B" idx="1">moving</sel>
+<sel cd="B" idx="2">operating</sel>
+<sel cd="B" idx="3">driving</sel>
+<hint>
+<sound>tech2b13s5Q03.mp3</sound>
+</hint>
+<point>　move、drive はそれぞれ「移動させる」「動力で動かす」の意味です。ここは、operate で「操作する」になります。「調整してから」ですので、before です。</point>
+</question>
+
+<question no="4" type="R">
+<textTrans>高温になると金属が軟らかくなる。</textTrans>
+<text>High temperatures <sel cd="A" answer="1"></sel> metals.</text>
+<sel cd="A" idx="1">soften</sel>
+<sel cd="A" idx="2">make soft</sel>
+<sel cd="A" idx="3">relax</sel>
+<hint>
+<sound>tech2b13s5Q04.mp3</sound>
+</hint>
+<point>　形容詞には語尾に en をつけて動詞に変身させられるものがあります。 tighten（締める）、loosen（ゆるめる）も同じ形です。 soften（発音はソーフンで、ソフトンではありません）の対立語は harden（硬くする）です。</point>
+</question>
+
+<question no="5" type="R">
+<textTrans>誤操作で装置がだめになる。</textTrans>
+<text>Incorrect operation will <sel cd="A" answer="2"></sel> the machines.</text>
+<sel cd="A" idx="1">lose</sel>
+<sel cd="A" idx="2">damage</sel>
+<sel cd="A" idx="3">break</sel>
+<hint>
+<sound>tech2b13s5Q05.mp3</sound>
+</hint>
+<point>　break は「ばらばらに壊す」という意味が強いですから、ここにはふさわしくありません。damage（読み方はダメージではなくでダミジです）は「モノに損害を与える」という動詞として使います。 The storm damaged the crops. 暴風（雨）によって作物が損害を被った。</point>
+</question>
+</contents>
+
+
+<contents type="phrase">
+<p><ph idx="1">ES cells possess the genetic potential to become any tissue and organ.</ph></p>
+<p></p>
+<p><ph idx="2">1. Load the camera with film.</ph></p>
+<p><ph idx="3">2. Compare the costs.</ph></p>
+<p><ph idx="4">3. Adjust the apparatus before operating it.</ph></p>
+<p><ph idx="5">4. High temperatures soften metals.</ph></p>
+<p><ph idx="6">5. Incorrect operation will damage the machines.</ph></p>
+</contents>
+
+<contents type="translation">
+<p><ph idx="1">ES細胞は、どんな組織や臓器にもなる遺伝的可能性を秘めている。</ph></p>
+<p></p>
+<p><ph idx="2">1. カメラにフィルムを充填しなさい。</ph></p>
+<p><ph idx="3">2. コストを比較しなさい。</ph></p>
+<p><ph idx="4">3. 装置を調整してから操作しなさい。</ph></p>
+<p><ph idx="5">4. 高温になると金属が軟らかくなる。</ph></p>
+<p><ph idx="6">5. 誤操作で装置がだめになる。</ph></p>
+</contents>
+
+</unit>

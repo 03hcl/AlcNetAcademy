@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="05">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅰ 専門分野別,化学１</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">化学の分野でよく使われる語句です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="aluminum">
+<jp>アルミニウム</jp>
+<exp>【名】アルミニウム</exp>
+<sound>tech2v05idx01_aluminum.mp3</sound>
+</w>
+<w idx="2" name="arsenic">
+<jp>砒素</jp>
+<exp>【名】砒素</exp>
+<sound>tech2v05idx02_arsenic.mp3</sound>
+</w>
+<w idx="3" name="carbon">
+<jp>炭素</jp>
+<exp>【名】炭素</exp>
+<sound>tech2v05idx03_carbon.mp3</sound>
+</w>
+<w idx="4" name="copper">
+<jp>銅</jp>
+<exp>【名】銅</exp>
+<sound>tech2v05idx04_copper.mp3</sound>
+</w>
+<w idx="5" name="helium">
+<jp>ヘリウム</jp>
+<exp>【名】ヘリウム</exp>
+<sound>tech2v05idx05_helium.mp3</sound>
+</w>
+<w idx="6" name="hydrogen">
+<jp>水素</jp>
+<exp>【名】水素</exp>
+<sound>tech2v05idx06_hydrogen.mp3</sound>
+</w>
+<w idx="7" name="iron">
+<jp>鉄</jp>
+<exp>【名】鉄</exp>
+<sound>tech2v05idx07_iron.mp3</sound>
+</w>
+<w idx="8" name="lead">
+<jp>鉛</jp>
+<exp>【名】鉛</exp>
+<sound>tech2v05idx08_lead.mp3</sound>
+</w>
+<w idx="9" name="magnesium">
+<jp>マグネシウム</jp>
+<exp>【名】マグネシウム</exp>
+<sound>tech2v05idx09_magnesium.mp3</sound>
+</w>
+<w idx="10" name="mercury">
+<jp>水銀</jp>
+<exp>【名】水銀</exp>
+<sound>tech2v05idx10_mercury.mp3</sound>
+</w>
+<w idx="11" name="molecular weight">
+<jp>分子量</jp>
+<exp>【名】分子量</exp>
+<sound>tech2v05idx11_molecular_weight.mp3</sound>
+</w>
+<w idx="12" name="nickel">
+<jp>ニッケル</jp>
+<exp>【名】ニッケル</exp>
+<sound>tech2v05idx12_nickel.mp3</sound>
+</w>
+<w idx="13" name="nitrogen">
+<jp>窒素</jp>
+<exp>【名】窒素</exp>
+<sound>tech2v05idx13_nitrogen.mp3</sound>
+</w>
+<w idx="14" name="silicon">
+<jp>ケイ素</jp>
+<exp>【名】ケイ素</exp>
+<sound>tech2v05idx14_silicon.mp3</sound>
+</w>
+<w idx="15" name="sodium">
+<jp>ナトリウム</jp>
+<exp>【名】ナトリウム</exp>
+<sound>tech2v05idx15_sodium.mp3</sound>
+</w>
+<w idx="16" name="tin">
+<jp>錫（すず）</jp>
+<exp>【名】錫（すず）</exp>
+<sound>tech2v05idx16_tin.mp3</sound>
+</w>
+<w idx="17" name="zinc">
+<jp>亜鉛</jp>
+<exp>【名】亜鉛</exp>
+<sound>tech2v05idx17_zinc.mp3</sound>
+</w>
+<w idx="18" name="atomic number">
+<jp>原子番号</jp>
+<exp>【名】原子番号</exp>
+<sound>tech2v05idx18_atomic_number.mp3</sound>
+</w>
+<w idx="19" name="element">
+<jp>元素</jp>
+<exp>【名】元素、素子、構成要素</exp>
+<sound>tech2v05idx19_element.mp3</sound>
+</w>
+<w idx="20" name="molecule">
+<jp>分子</jp>
+<exp>【名】分子</exp>
+<sound>tech2v05idx20_molecule.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. aluminum</p>
+<p>2. arsenic</p>
+<p>3. carbon</p>
+<p>4. copper</p>
+<p>5. helium</p>
+<p>6. hydrogen</p>
+<p>7. iron</p>
+<p>8. lead</p>
+<p>9. magnesium</p>
+<p>10. mercury</p>
+<p>11. molecular weight</p>
+<p>12. nickel</p>
+<p>13. nitrogen</p>
+<p>14. silicon</p>
+<p>15. sodium</p>
+<p>16. tin</p>
+<p>17. zinc</p>
+<p>18. atomic number</p>
+<p>19. element</p>
+<p>20. molecule</p>
+</contents>
+</unit>

@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="55">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅲ 科学基礎,科学基礎14</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">科学全般に共通する基礎語彙力を身につけます。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="table">
+<jp>表</jp>
+<exp>【名】表、台</exp>
+<sound>tech2v55idx01_table.mp3</sound>
+</w>
+<w idx="2" name="dust">
+<jp>ほこり</jp>
+<exp>【名】ほこり、ごみ</exp>
+<sound>tech2v55idx02_dust.mp3</sound>
+</w>
+<w idx="3" name="character">
+<jp>文字</jp>
+<exp>【名】文字、性質</exp>
+<sound>tech2v55idx03_character.mp3</sound>
+</w>
+<w idx="4" name="demand">
+<jp>要求</jp>
+<exp>【名】要求、需要　【動】要求する</exp>
+<sound>tech2v55idx04_demand.mp3</sound>
+</w>
+<w idx="5" name="link">
+<jp>連結</jp>
+<exp>【名】連結、リンク</exp>
+<sound>tech2v55idx05_link.mp3</sound>
+</w>
+<w idx="6" name="gap">
+<jp>隙間</jp>
+<exp>【名】隙間、ギャップ</exp>
+<sound>tech2v55idx06_gap.mp3</sound>
+</w>
+<w idx="7" name="slip">
+<jp>滑り</jp>
+<exp>【名】滑り　【動】滑る</exp>
+<sound>tech2v55idx07_slip.mp3</sound>
+</w>
+<w idx="8" name="flash">
+<jp>閃光</jp>
+<exp>【名】閃光　【動】点滅する</exp>
+<sound>tech2v55idx08_flash.mp3</sound>
+</w>
+<w idx="9" name="pile">
+<jp>杭</jp>
+<exp>【名】杭</exp>
+<sound>tech2v55idx09_pile.mp3</sound>
+</w>
+<w idx="10" name="channel">
+<jp>（通信などの）計器</jp>
+<exp>【名】（通信などの）計器、チャネル</exp>
+<sound>tech2v55idx10_channel.mp3</sound>
+</w>
+<w idx="11" name="treatment">
+<jp>治療</jp>
+<exp>【名】治療、処置</exp>
+<sound>tech2v55idx11_treatment.mp3</sound>
+</w>
+<w idx="12" name="hole">
+<jp>正孔</jp>
+<exp>【名】正孔、ホール</exp>
+<sound>tech2v55idx12_hole.mp3</sound>
+</w>
+<w idx="13" name="semiconductor laser">
+<jp>半導体レーザー</jp>
+<exp>【名】半導体レーザー</exp>
+<sound>tech2v55idx13_semiconductor_laser.mp3</sound>
+</w>
+<w idx="14" name="symbol">
+<jp>シンボル</jp>
+<exp>【名】シンボル</exp>
+<sound>tech2v55idx14_symbol.mp3</sound>
+</w>
+<w idx="15" name="license">
+<jp>許可証</jp>
+<exp>【名】許可証、免許、ライセンス</exp>
+<sound>tech2v55idx15_license.mp3</sound>
+</w>
+<w idx="16" name="wheelchair">
+<jp>車椅子</jp>
+<exp>【名】車椅子</exp>
+<sound>tech2v55idx16_wheelchair.mp3</sound>
+</w>
+<w idx="17" name="expansion">
+<jp>膨張</jp>
+<exp>【名】膨張</exp>
+<sound>tech2v55idx17_expansion.mp3</sound>
+</w>
+<w idx="18" name="position">
+<jp>位置</jp>
+<exp>【名】位置　【動】位置をしめる</exp>
+<sound>tech2v55idx18_position.mp3</sound>
+</w>
+<w idx="19" name="skip">
+<jp>飛び越し</jp>
+<exp>【名】飛び越し</exp>
+<sound>tech2v55idx19_skip.mp3</sound>
+</w>
+<w idx="20" name="training">
+<jp>訓練</jp>
+<exp>【名】訓練、トレーニング</exp>
+<sound>tech2v55idx20_training.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. table</p>
+<p>2. dust</p>
+<p>3. character</p>
+<p>4. demand</p>
+<p>5. link</p>
+<p>6. gap</p>
+<p>7. slip</p>
+<p>8. flash</p>
+<p>9. pile</p>
+<p>10. channel</p>
+<p>11. treatment</p>
+<p>12. hole</p>
+<p>13. semiconductor laser</p>
+<p>14. symbol</p>
+<p>15. license</p>
+<p>16. wheelchair</p>
+<p>17. expansion</p>
+<p>18. position</p>
+<p>19. skip</p>
+<p>20. training</p>
+</contents>
+</unit>

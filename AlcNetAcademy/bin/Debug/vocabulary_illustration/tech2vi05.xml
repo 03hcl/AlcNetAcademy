@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（イラスト演習） -->
+
+<unit idx="05">
+
+<!-- タイトル -->
+<title>Ⅳ イラスト演習,単位２・図</title>
+
+<!-- 問題 -->
+<question no="1" size="3">
+<sel cd="1" w="1"></sel>
+<sel cd="2" w="2"></sel>
+<sel cd="3" w="3"></sel>
+</question>
+<question no="2" size="3">
+<sel cd="1" w="4"></sel>
+<sel cd="2" w="5"></sel>
+<sel cd="3" w="6"></sel>
+</question>
+<question no="3" size="3">
+<sel cd="1" w="21"></sel>
+<sel cd="2" w="22"></sel>
+<sel cd="3" w="23"></sel>
+</question>
+<question no="4" size="3">
+<sel cd="1" w="7"></sel>
+<sel cd="2" w="8"></sel>
+<sel cd="3" w="9"></sel>
+</question>
+<question no="5" size="3">
+<sel cd="1" w="10"></sel>
+<sel cd="2" w="24"></sel>
+<sel cd="3" w="25"></sel>
+</question>
+<question no="6" size="3">
+<sel cd="1" w="11"></sel>
+<sel cd="2" w="12"></sel>
+<sel cd="3" w="13"></sel>
+</question>
+<question no="7" size="3">
+<sel cd="1" w="14"></sel>
+<sel cd="2" w="15"></sel>
+<sel cd="3" w="16"></sel>
+</question>
+<question no="8" size="3">
+<sel cd="1" w="17"></sel>
+<sel cd="2" w="18"></sel>
+<sel cd="3" w="19"></sel>
+</question>
+<question no="9" size="3">
+<sel cd="1" w="26"></sel>
+<sel cd="2" w="27"></sel>
+<sel cd="3" w="28"></sel>
+</question>
+<question no="10" size="3">
+<sel cd="1" w="20"></sel>
+<sel cd="2" w="29"></sel>
+<sel cd="3" w="30"></sel>
+</question>
+
+<notes>
+<w idx="1" name="solid line" list="true">
+<jp>実線</jp>
+<exp>実線</exp>
+<sound>tech2vi05idx01_solid_line.mp3</sound>
+<image>solid_line.swf</image>
+</w>
+<w idx="2" name="dotted line" list="true">
+<jp>点線</jp>
+<exp>点線</exp>
+<sound>tech2vi05idx02_dotted_line.mp3</sound>
+<image>dotted_line.swf</image>
+</w>
+<w idx="3" name="broken line" list="true">
+<jp>破線</jp>
+<exp>破線</exp>
+<sound>tech2vi05idx03_broken_line.mp3</sound>
+<image>broken_line.swf</image>
+</w>
+<w idx="4" name="four megabytes" list="true">
+<jp>４メガバイト</jp>
+<exp>４メガバイト</exp>
+<sound>tech2vi05idx04_four_megabytes.mp3</sound>
+<image>four_megabytes.swf</image>
+</w>
+<w idx="5" name="four gigabytes" list="true">
+<jp>４ギガバイト</jp>
+<exp>４ギガバイト</exp>
+<sound>tech2vi05idx05_four_gigabytes.mp3</sound>
+<image>four_gigabytes.swf</image>
+</w>
+<w idx="6" name="four terabytes" list="true">
+<jp>４テラバイト</jp>
+<exp>４テラバイト</exp>
+<sound>tech2vi05idx06_four_terabytes.mp3</sound>
+<image>four_terabytes.swf</image>
+</w>
+<w idx="7" name="candela" list="true">
+<jp>カンデラ</jp>
+<exp>カンデラ（光度の単位）</exp>
+<sound>tech2vi05idx07_candela.mp3</sound>
+<image>candela.swf</image>
+</w>
+<w idx="8" name="kelvin" list="true">
+<jp>ケルビン</jp>
+<exp>ケルビン（絶対温度の単位）</exp>
+<sound>tech2vi05idx08_kelvin.mp3</sound>
+<image>kelvin.swf</image>
+</w>
+<w idx="9" name="ampere" list="true">
+<jp>アンペア</jp>
+<exp>アンペア（電流の強さの単位）</exp>
+<sound>tech2vi05idx09_ampere.mp3</sound>
+<image>ampere.swf</image>
+</w>
+<w idx="10" name="one angstrom" list="true">
+<jp>１オングストローム（Å）</jp>
+<exp>１オングストローム（Å）</exp>
+<sound>tech2vi05idx10_one_angstrom.mp3</sound>
+<image>one_angstrom.swf</image>
+</w>
+<w idx="11" name="ten milliliters" list="true">
+<jp>10ミリリットル</jp>
+<exp>10ミリリットル</exp>
+<sound>tech2vi05idx11_ten_milliliters.mp3</sound>
+<image>ten_milliliters.swf</image>
+</w>
+<w idx="12" name="one deciliter" list="true">
+<jp>１デシリットル</jp>
+<exp>１デシリットル</exp>
+<sound>tech2vi05idx12_one_deciliter.mp3</sound>
+<image>one_deciliter.swf</image>
+</w>
+<w idx="13" name="one liter" list="true">
+<jp>１リットル</jp>
+<exp>１リットル</exp>
+<sound>tech2vi05idx13_one_liter.mp3</sound>
+<image>one_liter.swf</image>
+</w>
+<w idx="14" name="toxic" list="true">
+<jp>毒性</jp>
+<exp>毒性</exp>
+<sound>tech2vi05idx14_toxic.mp3</sound>
+<image>toxic.swf</image>
+</w>
+<w idx="15" name="explosive" list="true">
+<jp>爆発性</jp>
+<exp>爆発性</exp>
+<sound>tech2vi05idx15_explosive.mp3</sound>
+<image>explosive.swf</image>
+</w>
+<w idx="16" name="radioactive" list="true">
+<jp>放射性</jp>
+<exp>放射性</exp>
+<sound>tech2vi05idx16_radioactive.mp3</sound>
+<image>radioactive.swf</image>
+</w>
+<w idx="17" name="flammable" list="true">
+<jp>可燃性</jp>
+<exp>可燃性</exp>
+<sound>tech2vi05idx17_flammable.mp3</sound>
+<image>flammable.swf</image>
+</w>
+<w idx="18" name="oxidizing" list="true">
+<jp>酸化性</jp>
+<exp>酸化性</exp>
+<sound>tech2vi05idx18_oxidizing.mp3</sound>
+<image>oxidizing.swf</image>
+</w>
+<w idx="19" name="corrosive" list="true">
+<jp>腐食性</jp>
+<exp>腐食性</exp>
+<sound>tech2vi05idx19_corrosive.mp3</sound>
+<image>corrosive.swf</image>
+</w>
+<w idx="20" name="one hectare" list="true">
+<jp>１ヘクタール</jp>
+<exp>１ヘクタール</exp>
+<sound>tech2vi05idx20_one_hectare.mp3</sound>
+<image>one_hectare.swf</image>
+</w>
+<w idx="21" name="one ton" list="false">
+<jp>１トン</jp>
+<exp></exp>
+<sound>tech2vi05idx21_one_ton.mp3</sound>
+<image>one_ton.swf</image>
+</w>
+<w idx="22" name="zero point one ton" list="false">
+<jp>0.1トン</jp>
+<exp></exp>
+<sound>tech2vi05idx22_zero_point_one_ton.mp3</sound>
+<image>zero_point_one_ton.swf</image>
+</w>
+<w idx="23" name="ten tons" list="false">
+<jp>10トン</jp>
+<exp></exp>
+<sound>tech2vi05idx23_ten_tons.mp3</sound>
+<image>ten_tons.swf</image>
+</w>
+<w idx="24" name="ten angstroms" list="false">
+<jp>10オングストローム（Å）</jp>
+<exp></exp>
+<sound>tech2vi05idx24_ten_angstroms.mp3</sound>
+<image>ten_angstroms.swf</image>
+</w>
+<w idx="25" name="a hundred angstroms" list="false">
+<jp>100オングストローム（Å）</jp>
+<exp></exp>
+<sound>tech2vi05idx25_a_hundred_angstroms.mp3</sound>
+<image>a_hundred_angstroms.swf</image>
+</w>
+<w idx="26" name="no smoking" list="false">
+<jp>禁煙</jp>
+<exp></exp>
+<sound>tech2vi05idx26_no_smoking.mp3</sound>
+<image>no_smoking.swf</image>
+</w>
+<w idx="27" name="no entry" list="false">
+<jp>立入禁止</jp>
+<exp></exp>
+<sound>tech2vi05idx27_no_entry.mp3</sound>
+<image>no_entry.swf</image>
+</w>
+<w idx="28" name="no parking" list="false">
+<jp>駐車禁止</jp>
+<exp></exp>
+<sound>tech2vi05idx28_no_parking.mp3</sound>
+<image>no_parking.swf</image>
+</w>
+<w idx="29" name="ten hectares" list="false">
+<jp>10ヘクタール</jp>
+<exp></exp>
+<sound>tech2vi05idx29_ten_hectares.mp3</sound>
+<image>ten_hectares.swf</image>
+</w>
+<w idx="30" name="one hundred hectares" list="false">
+<jp>100ヘクタール</jp>
+<exp></exp>
+<sound>tech2vi05idx30_one_hundred_hectares.mp3</sound>
+<image>one_hundred_hectares.swf</image>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. solid line</p>
+<p>2. dotted line</p>
+<p>3. broken line</p>
+<p>4. four megabytes</p>
+<p>5. four gigabytes</p>
+<p>6. four terabytes</p>
+<p>7. candela</p>
+<p>8. kelvin</p>
+<p>9. ampere</p>
+<p>10. one angstrom</p>
+<p>11. ten milliliters</p>
+<p>12. one deciliter</p>
+<p>13. one liter</p>
+<p>14. toxic</p>
+<p>15. explosive</p>
+<p>16. radioactive</p>
+<p>17. flammable</p>
+<p>18. oxidizing</p>
+<p>19. corrosive</p>
+<p>20. one hectare</p>
+</contents>
+</unit>

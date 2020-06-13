@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語<基礎>コース移植版 基礎コース -->
+
+<unit idx="10">
+
+<introduction>
+<title>携帯電子機器を支える電池</title>
+<read>&lt;font size="16" color="#000000"&gt;
+（学習のポイント）                   
+&lt;/font&gt;
+&lt;font size="16" color="#0000FF"&gt;
+現在完了／due to／employ
+&lt;/font&gt;
+&lt;br&gt;
+&lt;font size="16" color="#000000"&gt;
+携帯電話などの電子機器には必要不可欠な電池の話題です。現在完了と過去との区別をつけましょう。「春が来て、今も春です」。これが現在完了の基本。「（ここまでそして今も）…している」。これも継続の現在完了です。
+&lt;/font&gt;</read>
+</introduction>
+
+
+<notes>
+<w idx="1" name="cellular phone">
+<jp>携帯電話</jp>
+<sound>tech2b10idx01_cellular_phone.mp3</sound>
+</w>
+<w idx="2" name="portable electronic instrument">
+<jp>携帯電子機器</jp>
+<sound>tech2b10idx02_portable_electronic_instrument.mp3</sound>
+</w>
+<w idx="3" name="bulk memory">
+<jp>大容量メモリ</jp>
+<sound>tech2b10idx03_bulk_memory.mp3</sound>
+</w>
+<w idx="4" name="power consumption">
+<jp>消費電力</jp>
+<sound>tech2b10idx04_power_consumption.mp3</sound>
+</w>
+<w idx="5" name="fuel cell">
+<jp>燃料電池</jp>
+<sound>tech2b10idx05_fuel_cell.mp3</sound>
+</w>
+<w idx="6" name="lithium">
+<jp>リチウム</jp>
+<sound>tech2b10idx06_lithium.mp3</sound>
+</w>
+<w idx="7" name="polymer battery">
+<jp>ポリマー電池</jp>
+<sound>tech2b10idx07_polymer_battery.mp3</sound>
+</w>
+</notes>
+
+
+<!-- Step1、Topic&Vocaburary -->
+<contents type="tech2bStep1">
+<p>　<w idx="1">携帯電話</w>、ノートパソコン、PDA（携帯情報端末）などを<w idx="2">携帯電子機器</w>と呼ぶ。これらの携帯電子機器は、最先端のCPU、<w idx="3">大容量メモリ</w>、およびカラーディスプレイの採用によって、<w idx="4">消費電力</w>を増加させてきた。安定した長時間の電源確保のために、機器本体の省電力化だけでなく電池の軽量化や大容量化が求められ、<w idx="5">燃料電池</w>や<w idx="6">リチウム</w><w idx="7">ポリマー電池</w>などの開発が進んでいる。</p>
+<p></p>
+<p>PDA: Personal Digital Assistant、CPU: Central Processing Unit</p>
+</contents>
+
+
+<!-- Step2、Writing1 -->
+<contents type="tech2bStep2">
+<instruction1>次の日本文から、幹セン（Ｓ・Ｖ・Ｏ）を抜き出そう。</instruction1>
+<instruction2>[先輩]ボタンを押して、先輩が書いた英文とあなたの英文を比べてみよう。</instruction2>
+<sentence>
+<ph idx="1" miki="true">これらの携帯電子機器は、</ph>
+<ph idx="2">最先端のCPU、</ph>
+<ph idx="3">大容量メモリ、</ph>
+<ph idx="4">およびカラーディスプレイ</ph>
+<ph idx="5">の採用によって、</ph>
+<ph idx="6" miki="true">消費電力を</ph>
+<ph idx="7" miki="true">増加させてきた。</ph>
+</sentence>
+<mikisentence>
+<ph idx="1" type="S">これらの携帯電子機器は、</ph>
+<ph idx="2" type="O">消費電力を</ph>
+<ph idx="3" type="V">増加させてきた。</ph>
+</mikisentence>
+<hint text="">
+<ph idx="1">portable</ph>
+<ph idx="2">electronic instrument</ph>
+<ph idx="3">power consumption</ph>
+</hint>
+<senior answer="C"><sel cd="A">These</sel> <sel cd="B">portable electronic instruments</sel> <sel cd="C">increased</sel> <sel cd="D">power consumption</sel>.</senior>
+<teach>These portable electronic instruments have increased power consumption.</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　&lt;font color="#0000FF"&gt;時制（tense）&lt;/font&gt;なんて、普段は使わない英文法用語です。動詞の時間を表す形のことです。まさに「時を制する」のです。理系の英文で出てくる時制として、現在形と過去形がダントツ、現在完了形がときたま、未来形がひょっこりという具合です。&lt;br&gt;
+&lt;br&gt;
+　Spring has come. は「春が今より前のある時に来て、今も春です」という意味です。&lt;font color="#0000FF"&gt;「完了」を表す現在完了&lt;/font&gt;と呼びます。 have、has の後には、動詞の&lt;font color="#0000FF"&gt;過去分詞形&lt;/font&gt;が続きます。過去分詞は、普通原形に ed をつけて作ります。それ以外の不規則な変化は、たいてい辞書の付録に載っています。例えば、come なら、come-came-come です。過去分詞形はのちのち受け身にも使います。 increase、decrease、develop、continue といった「動き系」動詞を現在完了で使うと、「（これまで）増えてきた、減ってきた、発展してきた、続いてきた」といった意味を表すことができて便利です。&lt;font color="#0000FF"&gt;「継続」を表す現在完了&lt;/font&gt;と呼びます。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　「昨日増加した」というなら、yesterday をつけて正しい文になります。&lt;br&gt;
+　　&lt;b&gt;These portable electronic instruments increased power consumption yesterday.&lt;/b&gt;&lt;br&gt;
+ただし、今日も増加したままかどうかは不明な内容になります。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step3、Writing2 -->
+<contents type="tech2bStep3">
+<hint text="">
+<ph idx="1">employment</ph>
+<ph idx="2">sophisticated CPU</ph>
+<ph idx="3">bulk memory</ph>
+<ph idx="4">color display</ph>
+</hint>
+</contents>
+
+
+<!-- Step4、Comparisons -->
+<contents type="tech2bStep4">
+<senior answer="6">These portable electronic instruments have increased power consumption by the employment of a sophisticated CPU, bulk memory, and a color display.</senior>
+<teach>
+&lt;font size="20" color="#000000"&gt;
+These portable electronic instruments have increased power consumption 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+due to the employment of a sophisticated CPU, bulk memory, and a color display
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+.
+&lt;/font&gt;
+</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　「…の採用によって」の「…によって」は、ここでは手段ではなくて原因の意味です。これからは&lt;b&gt;「…によって」に出会ったら、手段か原因かを判定しましょう&lt;/b&gt;。原因なら &lt;font color="#FF0000"&gt;due to ...&lt;/font&gt; を使います。 &lt;font color="#FF0000"&gt;because of ...&lt;/font&gt; も使えます。この due to の後に、&lt;b&gt;パラパラ（並列構造）&lt;/b&gt;、ここでは３つの並列を続けます。「採用」は、「最先端のCPU」「大容量メモリ」、そして「カラーディスプレイ」の３つの「採用」ですから、the employment of ●, ▲, and ■ とします。 employ（動詞）、employment（名詞）はヒトの採用に限らず、モノ・コトにも採用してください。「最先端のCPU」「大容量メモリ」など、この辺りの用語は古い辞書にはありません。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　by は手段を表します。ここは「採用によって」は「採用しているので」とリライト（書き直し）できます。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+
+<!-- Step5、Exercisse -->
+<contents type="tech2bStep5" size="5">
+<instruction1>このユニットで登場した表現と、関連する表現、さらに新しい表現を練習しよう。</instruction1>
+<question no="1" type="R">
+<textTrans>パイロットは自分の計器を調べた。</textTrans>
+<text>The pilot studied his <sel cd="A" answer="1"></sel> .</text>
+<sel cd="A" idx="1">instruments</sel>
+<sel cd="A" idx="2">machines</sel>
+<sel cd="A" idx="3">equipment</sel>
+<hint>
+<sound>tech2b10s5Q01.mp3</sound>
+</hint>
+<point>　精密器具は instrument といいます。 equipment は機械設備です。</point>
+</question>
+
+<question no="2" type="R">
+<textTrans>実験装置を図２に示す。</textTrans>
+<text>An experimental <sel cd="A" answer="1"></sel> is shown in Figure 2.</text>
+<sel cd="A" idx="1">apparatus</sel>
+<sel cd="A" idx="2">instrument</sel>
+<hint>
+<sound>tech2b10s5Q02.mp3</sound>
+</hint>
+<point>　instrument の組み合わせが apparatus。発明された器具や装置が device です。「実験装置」は experimental apparatus もしくは experimental device です。</point>
+</question>
+
+<question no="3" type="R">
+<textTrans>車の台数の増加が続いてきた。</textTrans>
+<text>An increase <sel cd="A" answer="2"></sel> the number of cars has continued.</text>
+<sel cd="A" idx="1">of</sel>
+<sel cd="A" idx="2">in</sel>
+<sel cd="A" idx="3">by</sel>
+<hint>
+<sound>tech2b10s5Q03.mp3</sound>
+</hint>
+<point>　「…の増加（減少）」というときには increase(decrease)に in ... を続けます。 increase of ... にはなりません。</point>
+</question>
+
+<question no="4" type="R">
+<textTrans>このビーカーを水で満たしなさい。</textTrans>
+<text><sel cd="A" answer="2"></sel> this beaker with water.</text>
+<sel cd="A" idx="1">Full</sel>
+<sel cd="A" idx="2">Fill</sel>
+<sel cd="A" idx="3">Satisfy</sel>
+<hint>
+<sound>tech2b10s5Q04.mp3</sound>
+</hint>
+<point>　full は形容詞、This beaker is full of water.「このビーカーは水でいっぱいになっている」。satisfy は「満足させる」です。</point>
+</question>
+
+<question no="5" type="R">
+<textTrans>光は音より速く伝わる。</textTrans>
+<text>Light <sel cd="A" answer="3"></sel> faster than sound.</text>
+<sel cd="A" idx="1">runs</sel>
+<sel cd="A" idx="2">transmits</sel>
+<sel cd="A" idx="3">travels</sel>
+<hint>
+<sound>tech2b10s5Q05.mp3</sound>
+</hint>
+<point>　光が音より速く伝わるのは、花火大会に行けば実感できます。「光、音が進行する」には travel を使います。</point>
+</question>
+</contents>
+
+
+<contents type="phrase">
+<p><ph idx="1">These portable electronic instruments have increased power consumption due to the employment of a sophisticated CPU, bulk memory, and a color display.</ph></p>
+<p></p>
+<p><ph idx="2">1. The pilot studied his instruments.</ph></p>
+<p><ph idx="3">2. An experimental apparatus is shown in Figure 2.</ph></p>
+<p><ph idx="4">3. An increase in the number of cars has continued.</ph></p>
+<p><ph idx="5">4. Fill this beaker with water.</ph></p>
+<p><ph idx="6">5. Light travels faster than sound.</ph></p>
+</contents>
+
+<contents type="translation">
+<p><ph idx="1">これらの携帯電子機器は、最先端のCPU、大容量メモリ、およびカラーディスプレイの採用によって、消費電力を増加させてきた。</ph></p>
+<p></p>
+<p><ph idx="2">1. パイロットは自分の計器を調べた。</ph></p>
+<p><ph idx="3">2. 実験装置を図２に示す。</ph></p>
+<p><ph idx="4">3. 車の台数の増加が続いてきた。</ph></p>
+<p><ph idx="5">4. このビーカーを水で満たしなさい。</ph></p>
+<p><ph idx="6">5. 光は音より速く伝わる。</ph></p>
+</contents>
+
+</unit>

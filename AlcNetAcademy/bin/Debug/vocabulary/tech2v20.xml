@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="20">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅰ 専門分野別,宇宙・地理</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">宇宙・地理の分野でよく使われる語句です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="earthquake">
+<jp>地震</jp>
+<exp>【名】地震</exp>
+<sound>tech2v20idx01_earthquake.mp3</sound>
+</w>
+<w idx="2" name="hypocenter">
+<jp>震源</jp>
+<exp>【名】震源</exp>
+<sound>tech2v20idx02_hypocenter.mp3</sound>
+</w>
+<w idx="3" name="seismic intensity">
+<jp>震度</jp>
+<exp>【名】震度</exp>
+<sound>tech2v20idx03_seismic_intensity.mp3</sound>
+</w>
+<w idx="4" name="seismograph">
+<jp>地震計</jp>
+<exp>【名】地震計</exp>
+<sound>tech2v20idx04_seismograph.mp3</sound>
+</w>
+<w idx="5" name="galaxy">
+<jp>銀河</jp>
+<exp>【名】銀河</exp>
+<sound>tech2v20idx05_galaxy.mp3</sound>
+</w>
+<w idx="6" name="planet">
+<jp>惑星</jp>
+<exp>【名】惑星</exp>
+<sound>tech2v20idx06_planet.mp3</sound>
+</w>
+<w idx="7" name="solar system">
+<jp>太陽系</jp>
+<exp>【名】太陽系</exp>
+<sound>tech2v20idx07_solar_system.mp3</sound>
+</w>
+<w idx="8" name="space craft">
+<jp>宇宙船</jp>
+<exp>【名】宇宙船</exp>
+<sound>tech2v20idx08_space_craft.mp3</sound>
+</w>
+<w idx="9" name="universe">
+<jp>宇宙</jp>
+<exp>【名】宇宙</exp>
+<sound>tech2v20idx09_universe.mp3</sound>
+</w>
+<w idx="10" name="weather satellite">
+<jp>気象衛星</jp>
+<exp>【名】気象衛星</exp>
+<sound>tech2v20idx10_weather_satellite.mp3</sound>
+</w>
+<w idx="11" name="equator">
+<jp>赤道</jp>
+<exp>【名】赤道</exp>
+<sound>tech2v20idx11_equator.mp3</sound>
+</w>
+<w idx="12" name="latitude">
+<jp>緯度</jp>
+<exp>【名】緯度</exp>
+<sound>tech2v20idx12_latitude.mp3</sound>
+</w>
+<w idx="13" name="longitude">
+<jp>経度</jp>
+<exp>【名】経度</exp>
+<sound>tech2v20idx13_longitude.mp3</sound>
+</w>
+<w idx="14" name="Northern Hemisphere">
+<jp>北半球</jp>
+<exp>【名】北半球</exp>
+<sound>tech2v20idx14_Northern_Hemisphere.mp3</sound>
+</w>
+<w idx="15" name="Southern Hemisphere">
+<jp>南半球</jp>
+<exp>【名】南半球</exp>
+<sound>tech2v20idx15_Southern_Hemisphere.mp3</sound>
+</w>
+<w idx="16" name="balloon">
+<jp>気球</jp>
+<exp>【名】気球</exp>
+<sound>tech2v20idx16_balloon.mp3</sound>
+</w>
+<w idx="17" name="climate">
+<jp>気候</jp>
+<exp>【名】気候</exp>
+<sound>tech2v20idx17_climate.mp3</sound>
+</w>
+<w idx="18" name="liquefaction">
+<jp>液状化現象</jp>
+<exp>【名】液状化現象</exp>
+<sound>tech2v20idx18_liquefaction.mp3</sound>
+</w>
+<w idx="19" name="sunshine">
+<jp>日光</jp>
+<exp>【名】日光</exp>
+<sound>tech2v20idx19_sunshine.mp3</sound>
+</w>
+<w idx="20" name="weather forecast">
+<jp>天気予報</jp>
+<exp>【名】天気予報</exp>
+<sound>tech2v20idx20_weather_forecast.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. earthquake</p>
+<p>2. hypocenter</p>
+<p>3. seismic intensity</p>
+<p>4. seismograph</p>
+<p>5. galaxy</p>
+<p>6. planet</p>
+<p>7. solar system</p>
+<p>8. space craft</p>
+<p>9. universe</p>
+<p>10. weather satellite</p>
+<p>11. equator</p>
+<p>12. latitude</p>
+<p>13. longitude</p>
+<p>14. Northern Hemisphere</p>
+<p>15. Southern Hemisphere</p>
+<p>16. balloon</p>
+<p>17. climate</p>
+<p>18. liquefaction</p>
+<p>19. sunshine</p>
+<p>20. weather forecast</p>
+</contents>
+</unit>

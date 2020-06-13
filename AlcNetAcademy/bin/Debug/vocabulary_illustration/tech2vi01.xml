@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（イラスト演習） -->
+
+<unit idx="01">
+
+<!-- タイトル -->
+<title>Ⅳ イラスト演習,元素記号１</title>
+
+<!-- 問題 -->
+<question no="1" size="3">
+<sel cd="1" w="1"></sel>
+<sel cd="2" w="2"></sel>
+<sel cd="3" w="21"></sel>
+</question>
+<question no="2" size="3">
+<sel cd="1" w="3"></sel>
+<sel cd="2" w="4"></sel>
+<sel cd="3" w="22"></sel>
+</question>
+<question no="3" size="3">
+<sel cd="1" w="5"></sel>
+<sel cd="2" w="6"></sel>
+<sel cd="3" w="23"></sel>
+</question>
+<question no="4" size="3">
+<sel cd="1" w="7"></sel>
+<sel cd="2" w="8"></sel>
+<sel cd="3" w="24"></sel>
+</question>
+<question no="5" size="3">
+<sel cd="1" w="9"></sel>
+<sel cd="2" w="10"></sel>
+<sel cd="3" w="25"></sel>
+</question>
+<question no="6" size="3">
+<sel cd="1" w="11"></sel>
+<sel cd="2" w="12"></sel>
+<sel cd="3" w="26"></sel>
+</question>
+<question no="7" size="3">
+<sel cd="1" w="13"></sel>
+<sel cd="2" w="14"></sel>
+<sel cd="3" w="27"></sel>
+</question>
+<question no="8" size="3">
+<sel cd="1" w="15"></sel>
+<sel cd="2" w="16"></sel>
+<sel cd="3" w="28"></sel>
+</question>
+<question no="9" size="3">
+<sel cd="1" w="17"></sel>
+<sel cd="2" w="18"></sel>
+<sel cd="3" w="29"></sel>
+</question>
+<question no="10" size="3">
+<sel cd="1" w="19"></sel>
+<sel cd="2" w="20"></sel>
+<sel cd="3" w="30"></sel>
+</question>
+
+<notes>
+<w idx="1" name="hydrogen" list="true">
+<jp>水素</jp>
+<exp>水素</exp>
+<sound>tech2vi01idx01_hydrogen.mp3</sound>
+<image>hydrogen.swf</image>
+</w>
+<w idx="2" name="helium" list="true">
+<jp>ヘリウム</jp>
+<exp>ヘリウム</exp>
+<sound>tech2vi01idx02_helium.mp3</sound>
+<image>helium.swf</image>
+</w>
+<w idx="3" name="lithium" list="true">
+<jp>リチウム</jp>
+<exp>リチウム</exp>
+<sound>tech2vi01idx03_lithium.mp3</sound>
+<image>lithium.swf</image>
+</w>
+<w idx="4" name="beryllium" list="true">
+<jp>ベリリウム</jp>
+<exp>ベリリウム</exp>
+<sound>tech2vi01idx04_beryllium.mp3</sound>
+<image>beryllium.swf</image>
+</w>
+<w idx="5" name="boron" list="true">
+<jp>ホウ素</jp>
+<exp>ホウ素</exp>
+<sound>tech2vi01idx05_boron.mp3</sound>
+<image>boron.swf</image>
+</w>
+<w idx="6" name="carbon" list="true">
+<jp>炭素</jp>
+<exp>炭素</exp>
+<sound>tech2vi01idx06_carbon.mp3</sound>
+<image>carbon.swf</image>
+</w>
+<w idx="7" name="nitrogen" list="true">
+<jp>窒素</jp>
+<exp>窒素</exp>
+<sound>tech2vi01idx07_nitrogen.mp3</sound>
+<image>nitrogen.swf</image>
+</w>
+<w idx="8" name="oxygen" list="true">
+<jp>酸素</jp>
+<exp>酸素</exp>
+<sound>tech2vi01idx08_oxygen.mp3</sound>
+<image>oxygen.swf</image>
+</w>
+<w idx="9" name="fluorine" list="true">
+<jp>フッ素</jp>
+<exp>フッ素</exp>
+<sound>tech2vi01idx09_fluorine.mp3</sound>
+<image>fluorine.swf</image>
+</w>
+<w idx="10" name="neon" list="true">
+<jp>ネオン</jp>
+<exp>ネオン</exp>
+<sound>tech2vi01idx10_neon.mp3</sound>
+<image>neon.swf</image>
+</w>
+<w idx="11" name="sodium" list="true">
+<jp>ナトリウム</jp>
+<exp>ナトリウム</exp>
+<sound>tech2vi01idx11_sodium.mp3</sound>
+<image>sodium.swf</image>
+</w>
+<w idx="12" name="magnesium" list="true">
+<jp>マグネシウム</jp>
+<exp>マグネシウム</exp>
+<sound>tech2vi01idx12_magnesium.mp3</sound>
+<image>magnesium.swf</image>
+</w>
+<w idx="13" name="aluminum" list="true">
+<jp>アルミニウム</jp>
+<exp>アルミニウム</exp>
+<sound>tech2vi01idx13_aluminum.mp3</sound>
+<image>aluminum.swf</image>
+</w>
+<w idx="14" name="silicon" list="true">
+<jp>ケイ素</jp>
+<exp>ケイ素</exp>
+<sound>tech2vi01idx14_silicon.mp3</sound>
+<image>silicon.swf</image>
+</w>
+<w idx="15" name="phosphorus" list="true">
+<jp>リン</jp>
+<exp>リン</exp>
+<sound>tech2vi01idx15_phosphorus.mp3</sound>
+<image>phosphorus.swf</image>
+</w>
+<w idx="16" name="sulfur" list="true">
+<jp>硫黄</jp>
+<exp>硫黄</exp>
+<sound>tech2vi01idx16_sulfur.mp3</sound>
+<image>sulfur.swf</image>
+</w>
+<w idx="17" name="chlorine" list="true">
+<jp>塩素</jp>
+<exp>塩素</exp>
+<sound>tech2vi01idx17_chlorine.mp3</sound>
+<image>chlorine.swf</image>
+</w>
+<w idx="18" name="argon" list="true">
+<jp>アルゴン</jp>
+<exp>アルゴン</exp>
+<sound>tech2vi01idx18_argon.mp3</sound>
+<image>argon.swf</image>
+</w>
+<w idx="19" name="potassium" list="true">
+<jp>カリウム</jp>
+<exp>カリウム</exp>
+<sound>tech2vi01idx19_potassium.mp3</sound>
+<image>potassium.swf</image>
+</w>
+<w idx="20" name="calcium" list="true">
+<jp>カルシウム</jp>
+<exp>カルシウム</exp>
+<sound>tech2vi01idx20_calcium.mp3</sound>
+<image>calcium.swf</image>
+</w>
+<w idx="21" name="mercury" list="false">
+<jp>水銀</jp>
+<exp></exp>
+<sound>tech2vi01idx21_mercury.mp3</sound>
+<image>mercury.swf</image>
+</w>
+<w idx="22" name="sodium" list="false">
+<jp>ナトリウム</jp>
+<exp></exp>
+<sound>tech2vi01idx22_sodium.mp3</sound>
+<image>sodium.swf</image>
+</w>
+<w idx="23" name="sulfur" list="false">
+<jp>硫黄</jp>
+<exp></exp>
+<sound>tech2vi01idx23_sulfur.mp3</sound>
+<image>sulfur.swf</image>
+</w>
+<w idx="24" name="hydrogen" list="false">
+<jp>水素</jp>
+<exp></exp>
+<sound>tech2vi01idx24_hydrogen.mp3</sound>
+<image>hydrogen.swf</image>
+</w>
+<w idx="25" name="chlorine" list="false">
+<jp>塩素</jp>
+<exp></exp>
+<sound>tech2vi01idx25_chlorine.mp3</sound>
+<image>chlorine.swf</image>
+</w>
+<w idx="26" name="manganese" list="false">
+<jp>マンガン</jp>
+<exp></exp>
+<sound>tech2vi01idx26_manganese.mp3</sound>
+<image>manganese.swf</image>
+</w>
+<w idx="27" name="tin" list="false">
+<jp>錫</jp>
+<exp></exp>
+<sound>tech2vi01idx27_tin.mp3</sound>
+<image>tin.swf</image>
+</w>
+<w idx="28" name="arsenic" list="false">
+<jp>ヒ素</jp>
+<exp></exp>
+<sound>tech2vi01idx28_arsenic.mp3</sound>
+<image>arsenic.swf</image>
+</w>
+<w idx="29" name="silver" list="false">
+<jp>銀</jp>
+<exp></exp>
+<sound>tech2vi01idx29_silver.mp3</sound>
+<image>silver.swf</image>
+</w>
+<w idx="30" name="copper" list="false">
+<jp>銅</jp>
+<exp></exp>
+<sound>tech2vi01idx30_copper.mp3</sound>
+<image>copper.swf</image>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. hydrogen</p>
+<p>2. helium</p>
+<p>3. lithium</p>
+<p>4. beryllium</p>
+<p>5. boron</p>
+<p>6. carbon</p>
+<p>7. nitrogen</p>
+<p>8. oxygen</p>
+<p>9. fluorine</p>
+<p>10. neon</p>
+<p>11. sodium</p>
+<p>12. magnesium</p>
+<p>13. aluminum</p>
+<p>14. silicon</p>
+<p>15. phosphorus</p>
+<p>16. sulfur</p>
+<p>17. chlorine</p>
+<p>18. argon</p>
+<p>19. potassium</p>
+<p>20. calcium</p>
+</contents>
+</unit>

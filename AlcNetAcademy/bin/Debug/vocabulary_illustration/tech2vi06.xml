@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（イラスト演習） -->
+
+<unit idx="06">
+
+<!-- タイトル -->
+<title>Ⅳ イラスト演習,一般１</title>
+
+<!-- 問題 -->
+<question no="1" size="3">
+<sel cd="1" w="1"></sel>
+<sel cd="2" w="2"></sel>
+<sel cd="3" w="3"></sel>
+</question>
+<question no="2" size="3">
+<sel cd="1" w="4"></sel>
+<sel cd="2" w="5"></sel>
+<sel cd="3" w="6"></sel>
+</question>
+<question no="3" size="3">
+<sel cd="1" w="7"></sel>
+<sel cd="2" w="8"></sel>
+<sel cd="3" w="9"></sel>
+</question>
+<question no="4" size="3">
+<sel cd="1" w="21"></sel>
+<sel cd="2" w="22"></sel>
+<sel cd="3" w="23"></sel>
+</question>
+<question no="5" size="3">
+<sel cd="1" w="10"></sel>
+<sel cd="2" w="24"></sel>
+<sel cd="3" w="11"></sel>
+</question>
+<question no="6" size="3">
+<sel cd="1" w="12"></sel>
+<sel cd="2" w="13"></sel>
+<sel cd="3" w="14"></sel>
+</question>
+<question no="7" size="3">
+<sel cd="1" w="25"></sel>
+<sel cd="2" w="15"></sel>
+<sel cd="3" w="26"></sel>
+</question>
+<question no="8" size="3">
+<sel cd="1" w="16"></sel>
+<sel cd="2" w="17"></sel>
+<sel cd="3" w="18"></sel>
+</question>
+<question no="9" size="3">
+<sel cd="1" w="19"></sel>
+<sel cd="2" w="20"></sel>
+<sel cd="3" w="27"></sel>
+</question>
+<question no="10" size="3">
+<sel cd="1" w="28"></sel>
+<sel cd="2" w="29"></sel>
+<sel cd="3" w="30"></sel>
+</question>
+
+<notes>
+<w idx="1" name="nail" list="true">
+<jp>くぎ</jp>
+<exp>くぎ</exp>
+<sound>tech2vi06idx01_nail.mp3</sound>
+<image>nail.swf</image>
+</w>
+<w idx="2" name="screw" list="true">
+<jp>ねじ</jp>
+<exp>ねじ</exp>
+<sound>tech2vi06idx02_screw.mp3</sound>
+<image>screw.swf</image>
+</w>
+<w idx="3" name="bolt" list="true">
+<jp>ボルト</jp>
+<exp>ボルト</exp>
+<sound>tech2vi06idx03_bolt.mp3</sound>
+<image>bolt.swf</image>
+</w>
+<w idx="4" name="square" list="true">
+<jp>正方形</jp>
+<exp>正方形</exp>
+<sound>tech2vi06idx04_square.mp3</sound>
+<image>square.swf</image>
+</w>
+<w idx="5" name="rectangle" list="true">
+<jp>長方形</jp>
+<exp>長方形</exp>
+<sound>tech2vi06idx05_rectangle.mp3</sound>
+<image>rectangle.swf</image>
+</w>
+<w idx="6" name="triangle" list="true">
+<jp>三角形</jp>
+<exp>三角形</exp>
+<sound>tech2vi06idx06_triangle.mp3</sound>
+<image>triangle.swf</image>
+</w>
+<w idx="7" name="cube" list="true">
+<jp>立方体</jp>
+<exp>立方体</exp>
+<sound>tech2vi06idx07_cube.mp3</sound>
+<image>cube.swf</image>
+</w>
+<w idx="8" name="rectangular parallelepiped" list="true">
+<jp>直方体</jp>
+<exp>直方体</exp>
+<sound>tech2vi06idx08_rectangular_parallelepiped.mp3</sound>
+<image>rectangular_parallelepiped.swf</image>
+</w>
+<w idx="9" name="sphere" list="true">
+<jp>球</jp>
+<exp>球</exp>
+<sound>tech2vi06idx09_sphere.mp3</sound>
+<image>sphere.swf</image>
+</w>
+<w idx="10" name="vernier calipers" list="true">
+<jp>ノギス</jp>
+<exp>ノギス</exp>
+<sound>tech2vi06idx10_vernier_calipers.mp3</sound>
+<image>vernier_calipers.swf</image>
+</w>
+<w idx="11" name="tape measure" list="true">
+<jp>巻き尺</jp>
+<exp>巻き尺</exp>
+<sound>tech2vi06idx11_tape_measure.mp3</sound>
+<image>tape_measure.swf</image>
+</w>
+<w idx="12" name="battery" list="true">
+<jp>電池</jp>
+<exp>電池</exp>
+<sound>tech2vi06idx12_battery.mp3</sound>
+<image>battery.swf</image>
+</w>
+<w idx="13" name="bulb" list="true">
+<jp>電球</jp>
+<exp>電球</exp>
+<sound>tech2vi06idx13_bulb.mp3</sound>
+<image>bulb.swf</image>
+</w>
+<w idx="14" name="valve" list="true">
+<jp>弁</jp>
+<exp>弁</exp>
+<sound>tech2vi06idx14_valve.mp3</sound>
+<image>valve.swf</image>
+</w>
+<w idx="15" name="transistor" list="true">
+<jp>トランジスタ</jp>
+<exp>トランジスタ</exp>
+<sound>tech2vi06idx15_transistor.mp3</sound>
+<image>transistor.swf</image>
+</w>
+<w idx="16" name="Phillips screwdriver" list="true">
+<jp>プラスねじ回し</jp>
+<exp>プラスねじ回し</exp>
+<sound>tech2vi06idx16_Phillips_screwdriver.mp3</sound>
+<image>Phillips_screwdriver.swf</image>
+</w>
+<w idx="17" name="flat head screwdriver" list="true">
+<jp>マイナスねじ回し</jp>
+<exp>マイナスねじ回し</exp>
+<sound>tech2vi06idx17_flat_head_screwdriver.mp3</sound>
+<image>flat_head_screwdriver.swf</image>
+</w>
+<w idx="18" name="hex wrench" list="true">
+<jp>六角レンチ</jp>
+<exp>六角レンチ</exp>
+<sound>tech2vi06idx18_hex_wrench.mp3</sound>
+<image>hex_wrench.swf</image>
+</w>
+<w idx="19" name="pliers" list="true">
+<jp>プライヤ</jp>
+<exp>プライヤ</exp>
+<sound>tech2vi06idx19_pliers.mp3</sound>
+<image>pliers.swf</image>
+</w>
+<w idx="20" name="cutting pliers" list="true">
+<jp>ペンチ</jp>
+<exp>ペンチ</exp>
+<sound>tech2vi06idx20_cutting_pliers.mp3</sound>
+<image>cutting_pliers.swf</image>
+</w>
+<w idx="21" name="refrigerator" list="false">
+<jp>冷蔵庫</jp>
+<exp></exp>
+<sound>tech2vi06idx21_refrigerator.mp3</sound>
+<image>refrigerator.swf</image>
+</w>
+<w idx="22" name="vacuum cleaner" list="false">
+<jp>掃除機</jp>
+<exp></exp>
+<sound>tech2vi06idx22_vacuum_cleaner.mp3</sound>
+<image>vacuum_cleaner.swf</image>
+</w>
+<w idx="23" name="television" list="false">
+<jp>テレビ</jp>
+<exp></exp>
+<sound>tech2vi06idx23_television.mp3</sound>
+<image>television.swf</image>
+</w>
+<w idx="24" name="ruler" list="false">
+<jp>定規</jp>
+<exp></exp>
+<sound>tech2vi06idx24_ruler.mp3</sound>
+<image>ruler.swf</image>
+</w>
+<w idx="25" name="vacuum tube" list="false">
+<jp>真空管</jp>
+<exp></exp>
+<sound>tech2vi06idx25_vacuum_tube.mp3</sound>
+<image>vacuum_tube.swf</image>
+</w>
+<w idx="26" name="diode" list="false">
+<jp>ダイオード</jp>
+<exp></exp>
+<sound>tech2vi06idx26_diode.mp3</sound>
+<image>diode.swf</image>
+</w>
+<w idx="27" name="cutting nippers" list="false">
+<jp>ニッパ</jp>
+<exp></exp>
+<sound>tech2vi06idx27_cutting_nippers.mp3</sound>
+<image>cutting_nippers.swf</image>
+</w>
+<w idx="28" name="microscope" list="false">
+<jp>顕微鏡</jp>
+<exp></exp>
+<sound>tech2vi06idx28_microscope.mp3</sound>
+<image>microscope.swf</image>
+</w>
+<w idx="29" name="telescope" list="false">
+<jp>望遠鏡</jp>
+<exp></exp>
+<sound>tech2vi06idx29_telescope.mp3</sound>
+<image>telescope.swf</image>
+</w>
+<w idx="30" name="binoculars" list="false">
+<jp>双眼鏡</jp>
+<exp></exp>
+<sound>tech2vi06idx30_binoculars.mp3</sound>
+<image>binoculars.swf</image>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. nail</p>
+<p>2. screw</p>
+<p>3. bolt</p>
+<p>4. square</p>
+<p>5. rectangle</p>
+<p>6. triangle</p>
+<p>7. cube</p>
+<p>8. rectangular parallelepiped</p>
+<p>9. sphere</p>
+<p>10. vernier calipers</p>
+<p>11. tape measure</p>
+<p>12. battery</p>
+<p>13. bulb</p>
+<p>14. valve</p>
+<p>15. transistor</p>
+<p>16. Phillips screwdriver</p>
+<p>17. flat head screwdriver</p>
+<p>18. hex wrench</p>
+<p>19. pliers</p>
+<p>20. cutting pliers</p>
+</contents>
+</unit>

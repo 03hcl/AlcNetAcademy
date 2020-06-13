@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="54">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅲ 科学基礎,科学基礎13</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">科学全般に共通する基礎語彙力を身につけます。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="surface">
+<jp>表面</jp>
+<exp>【名】表面</exp>
+<sound>tech2v54idx01_surface.mp3</sound>
+</w>
+<w idx="2" name="shortage">
+<jp>不足</jp>
+<exp>【名】不足</exp>
+<sound>tech2v54idx02_shortage.mp3</sound>
+</w>
+<w idx="3" name="end">
+<jp>末端部</jp>
+<exp>【名】末端部</exp>
+<sound>tech2v54idx03_end.mp3</sound>
+</w>
+<w idx="4" name="knot">
+<jp>結び目</jp>
+<exp>【名】結び目</exp>
+<sound>tech2v54idx04_knot.mp3</sound>
+</w>
+<w idx="5" name="tip">
+<jp>先端</jp>
+<exp>【名】先端</exp>
+<sound>tech2v54idx05_tip.mp3</sound>
+</w>
+<w idx="6" name="frost">
+<jp>霜</jp>
+<exp>【名】霜</exp>
+<sound>tech2v54idx06_frost.mp3</sound>
+</w>
+<w idx="7" name="bump">
+<jp>衝突</jp>
+<exp>【名】衝突</exp>
+<sound>tech2v54idx07_bump.mp3</sound>
+</w>
+<w idx="8" name="horizon">
+<jp>水平線</jp>
+<exp>【名】水平線</exp>
+<sound>tech2v54idx08_horizon.mp3</sound>
+</w>
+<w idx="9" name="fiber">
+<jp>繊維</jp>
+<exp>【名】繊維</exp>
+<sound>tech2v54idx09_fiber.mp3</sound>
+</w>
+<w idx="10" name="unit">
+<jp>単位</jp>
+<exp>【名】単位、装置、ユニット</exp>
+<sound>tech2v54idx10_unit.mp3</sound>
+</w>
+<w idx="11" name="system">
+<jp>システム</jp>
+<exp>【名】システム</exp>
+<sound>tech2v54idx11_system.mp3</sound>
+</w>
+<w idx="12" name="bottom">
+<jp>底</jp>
+<exp>【名】底、下端</exp>
+<sound>tech2v54idx12_bottom.mp3</sound>
+</w>
+<w idx="13" name="split">
+<jp>割れ目</jp>
+<exp>【名】割れ目、分割　【動】分割する</exp>
+<sound>tech2v54idx13_split.mp3</sound>
+</w>
+<w idx="14" name="status">
+<jp>状態</jp>
+<exp>【名】状態</exp>
+<sound>tech2v54idx14_status.mp3</sound>
+</w>
+<w idx="15" name="basis">
+<jp>基準</jp>
+<exp>【名】基準、基礎</exp>
+<sound>tech2v54idx15_basis.mp3</sound>
+</w>
+<w idx="16" name="mark">
+<jp>標識</jp>
+<exp>【名】標識、印</exp>
+<sound>tech2v54idx16_mark.mp3</sound>
+</w>
+<w idx="17" name="boost">
+<jp>押し上げること</jp>
+<exp>【名】押し上げること、促進、増強</exp>
+<sound>tech2v54idx17_boost.mp3</sound>
+</w>
+<w idx="18" name="cross">
+<jp>交差</jp>
+<exp>【名】交差　【動】交差する</exp>
+<sound>tech2v54idx18_cross.mp3</sound>
+</w>
+<w idx="19" name="traffic">
+<jp>交通</jp>
+<exp>【名】交通</exp>
+<sound>tech2v54idx19_traffic.mp3</sound>
+</w>
+<w idx="20" name="passage">
+<jp>通過</jp>
+<exp>【名】通過</exp>
+<sound>tech2v54idx20_passage.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. surface</p>
+<p>2. shortage</p>
+<p>3. end</p>
+<p>4. knot</p>
+<p>5. tip</p>
+<p>6. frost</p>
+<p>7. bump</p>
+<p>8. horizon</p>
+<p>9. fiber</p>
+<p>10. unit</p>
+<p>11. system</p>
+<p>12. bottom</p>
+<p>13. split</p>
+<p>14. status</p>
+<p>15. basis</p>
+<p>16. mark</p>
+<p>17. boost</p>
+<p>18. cross</p>
+<p>19. traffic</p>
+<p>20. passage</p>
+</contents>
+</unit>

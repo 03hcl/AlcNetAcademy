@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="52">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅲ 科学基礎,科学基礎11</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">科学全般に共通する基礎語彙力を身につけます。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="launch">
+<jp>打ち上げ</jp>
+<exp>【名】打ち上げ　【動】発進させる</exp>
+<sound>tech2v52idx01_launch.mp3</sound>
+</w>
+<w idx="2" name="aircraft">
+<jp>航空機</jp>
+<exp>【名】航空機</exp>
+<sound>tech2v52idx02_aircraft.mp3</sound>
+</w>
+<w idx="3" name="route">
+<jp>進路</jp>
+<exp>【名】進路</exp>
+<sound>tech2v52idx03_route.mp3</sound>
+</w>
+<w idx="4" name="landing">
+<jp>着陸</jp>
+<exp>【名】着陸</exp>
+<sound>tech2v52idx04_landing.mp3</sound>
+</w>
+<w idx="5" name="flight">
+<jp>飛行</jp>
+<exp>【名】飛行</exp>
+<sound>tech2v52idx05_flight.mp3</sound>
+</w>
+<w idx="6" name="genetic code">
+<jp>遺伝暗号</jp>
+<exp>【名】遺伝暗号</exp>
+<sound>tech2v52idx06_genetic_code.mp3</sound>
+</w>
+<w idx="7" name="gene">
+<jp>遺伝子</jp>
+<exp>【名】遺伝子</exp>
+<sound>tech2v52idx07_gene.mp3</sound>
+</w>
+<w idx="8" name="gene recombination">
+<jp>遺伝子組み替え</jp>
+<exp>【名】遺伝子組み替え</exp>
+<sound>tech2v52idx08_gene_recombination.mp3</sound>
+</w>
+<w idx="9" name="xylitol">
+<jp>キシリトール</jp>
+<exp>【名】キシリトール</exp>
+<sound>tech2v52idx09_xylitol.mp3</sound>
+</w>
+<w idx="10" name="competition">
+<jp>競争</jp>
+<exp>【名】競争、競合</exp>
+<sound>tech2v52idx10_competition.mp3</sound>
+</w>
+<w idx="11" name="wheat">
+<jp>小麦</jp>
+<exp>【名】小麦</exp>
+<sound>tech2v52idx11_wheat.mp3</sound>
+</w>
+<w idx="12" name="fat">
+<jp>脂肪</jp>
+<exp>【名】脂肪</exp>
+<sound>tech2v52idx12_fat.mp3</sound>
+</w>
+<w idx="13" name="protein">
+<jp>タンパク質</jp>
+<exp>【名】タンパク質</exp>
+<sound>tech2v52idx13_protein.mp3</sound>
+</w>
+<w idx="14" name="fermentation">
+<jp>発酵</jp>
+<exp>【名】発酵</exp>
+<sound>tech2v52idx14_fermentation.mp3</sound>
+</w>
+<w idx="15" name="variety">
+<jp>多様性</jp>
+<exp>【名】多様性</exp>
+<sound>tech2v52idx15_variety.mp3</sound>
+</w>
+<w idx="16" name="compact disk">
+<jp>コンパクトディスク（ＣＤ）</jp>
+<exp>【名】コンパクトディスク（ＣＤ）</exp>
+<sound>tech2v52idx16_compact_disk.mp3</sound>
+</w>
+<w idx="17" name="information">
+<jp>情報</jp>
+<exp>【名】情報、通報</exp>
+<sound>tech2v52idx17_information.mp3</sound>
+</w>
+<w idx="18" name="drive">
+<jp>駆動</jp>
+<exp>【名】駆動、ドライブ　【動】駆動する</exp>
+<sound>tech2v52idx18_drive.mp3</sound>
+</w>
+<w idx="19" name="error">
+<jp>間違い</jp>
+<exp>【名】間違い、エラー</exp>
+<sound>tech2v52idx19_error.mp3</sound>
+</w>
+<w idx="20" name="operation">
+<jp>操作</jp>
+<exp>【名】操作、演算</exp>
+<sound>tech2v52idx20_operation.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. launch</p>
+<p>2. aircraft</p>
+<p>3. route</p>
+<p>4. landing</p>
+<p>5. flight</p>
+<p>6. genetic code</p>
+<p>7. gene</p>
+<p>8. gene recombination</p>
+<p>9. xylitol</p>
+<p>10. competition</p>
+<p>11. wheat</p>
+<p>12. fat</p>
+<p>13. protein</p>
+<p>14. fermentation</p>
+<p>15. variety</p>
+<p>16. compact disk</p>
+<p>17. information</p>
+<p>18. drive</p>
+<p>19. error</p>
+<p>20. operation</p>
+</contents>
+</unit>

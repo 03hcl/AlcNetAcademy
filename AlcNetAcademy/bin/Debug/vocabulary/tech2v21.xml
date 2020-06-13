@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 技術英語移植版 語彙（語彙演習） -->
+
+<unit idx="21">
+
+<!-- タイトル＆学習のポイント -->
+<title>Ⅰ 専門分野別,土木・建築</title>
+<point type="en">音声から答える場合は、すぐに選択肢から探さずにまず頭の中でつづりを考えるようにしましょう。</point>
+<point type="jp">土木・建築の分野でよく使われる語句です。はじめはスペルを表示せず音声に集中して、対応する日本語を選んでください。</point>
+
+<!-- 語彙 -->
+<notes>
+<w idx="1" name="dam">
+<jp>ダム</jp>
+<exp>【名】ダム</exp>
+<sound>tech2v21idx01_dam.mp3</sound>
+</w>
+<w idx="2" name="drain">
+<jp>排水</jp>
+<exp>【名】排水、ドレイン　【動】排水する</exp>
+<sound>tech2v21idx02_drain.mp3</sound>
+</w>
+<w idx="3" name="foundation">
+<jp>基礎</jp>
+<exp>【名】基礎、設立</exp>
+<sound>tech2v21idx03_foundation.mp3</sound>
+</w>
+<w idx="4" name="reinforced concrete">
+<jp>鉄筋コンクリート</jp>
+<exp>【名】鉄筋コンクリート</exp>
+<sound>tech2v21idx04_reinforced_concrete.mp3</sound>
+</w>
+<w idx="5" name="pave">
+<jp>舗装する</jp>
+<exp>【動】舗装する</exp>
+<sound>tech2v21idx05_pave.mp3</sound>
+</w>
+<w idx="6" name="railroad">
+<jp>鉄道</jp>
+<exp>【名】鉄道</exp>
+<sound>tech2v21idx06_railroad.mp3</sound>
+</w>
+<w idx="7" name="sewage">
+<jp>下水</jp>
+<exp>【名】下水、汚水</exp>
+<sound>tech2v21idx07_sewage.mp3</sound>
+</w>
+<w idx="8" name="sewer">
+<jp>下水管</jp>
+<exp>【名】下水管、下水道</exp>
+<sound>tech2v21idx08_sewer.mp3</sound>
+</w>
+<w idx="9" name="basement">
+<jp>地下室</jp>
+<exp>【名】地下室</exp>
+<sound>tech2v21idx09_basement.mp3</sound>
+</w>
+<w idx="10" name="roof">
+<jp>屋根</jp>
+<exp>【名】屋根</exp>
+<sound>tech2v21idx10_roof.mp3</sound>
+</w>
+<w idx="11" name="stairs">
+<jp>階段</jp>
+<exp>【名】階段</exp>
+<sound>tech2v21idx11_stairs.mp3</sound>
+</w>
+<w idx="12" name="hinge">
+<jp>ちょうつがい</jp>
+<exp>【名】ちょうつがい</exp>
+<sound>tech2v21idx12_hinge.mp3</sound>
+</w>
+<w idx="13" name="knob">
+<jp>取っ手</jp>
+<exp>【名】取っ手、ノブ</exp>
+<sound>tech2v21idx13_knob.mp3</sound>
+</w>
+<w idx="14" name="adhesive">
+<jp>接着剤</jp>
+<exp>【名】接着剤　【形】粘着性の</exp>
+<sound>tech2v21idx14_adhesive.mp3</sound>
+</w>
+<w idx="15" name="scaffold">
+<jp>足場</jp>
+<exp>【名】足場</exp>
+<sound>tech2v21idx15_scaffold.mp3</sound>
+</w>
+<w idx="16" name="glass">
+<jp>ガラス</jp>
+<exp>【名】ガラス</exp>
+<sound>tech2v21idx16_glass.mp3</sound>
+</w>
+<w idx="17" name="glue">
+<jp>にかわ</jp>
+<exp>【名】にかわ、糊</exp>
+<sound>tech2v21idx17_glue.mp3</sound>
+</w>
+<w idx="18" name="metal">
+<jp>金属</jp>
+<exp>【名】金属</exp>
+<sound>tech2v21idx18_metal.mp3</sound>
+</w>
+<w idx="19" name="fire wall">
+<jp>防火壁</jp>
+<exp>【名】防火壁</exp>
+<sound>tech2v21idx19_fire_wall.mp3</sound>
+</w>
+<w idx="20" name="wax">
+<jp>ワックス</jp>
+<exp>【名】ワックス</exp>
+<sound>tech2v21idx20_wax.mp3</sound>
+</w>
+</notes>
+
+<contents type="phrase">
+<p>1. dam</p>
+<p>2. drain</p>
+<p>3. foundation</p>
+<p>4. reinforced concrete</p>
+<p>5. pave</p>
+<p>6. railroad</p>
+<p>7. sewage</p>
+<p>8. sewer</p>
+<p>9. basement</p>
+<p>10. roof</p>
+<p>11. stairs</p>
+<p>12. hinge</p>
+<p>13. knob</p>
+<p>14. adhesive</p>
+<p>15. scaffold</p>
+<p>16. glass</p>
+<p>17. glue</p>
+<p>18. metal</p>
+<p>19. fire wall</p>
+<p>20. wax</p>
+</contents>
+</unit>

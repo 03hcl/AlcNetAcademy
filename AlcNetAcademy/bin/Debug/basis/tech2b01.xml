@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<unit idx="01">
+<!-- 技術英語<基礎>コース移植版 基礎コース -->
+
+<introduction>
+<title>注目を集めるOS：Linux</title>
+<read>&lt;font size="16" color="#000000"&gt;
+（学習のポイント）                   
+&lt;/font&gt;
+&lt;font size="16" color="#0000FF"&gt;
+５文型／because of／and
+&lt;/font&gt;
+&lt;br&gt;
+&lt;font size="16" color="#000000"&gt;
+最初のユニットです。最近話題のソフトウェアを取り上げます。トピックをよく読んで、技術英語に入門です。まず、基本の５つの文型を意識して書くことから始めましょう。
+&lt;/font&gt;</read>
+</introduction>
+
+<notes>
+<w idx="1" name="personal computer">
+<jp>パソコン</jp>
+<sound>tech2b01idx01_personal_computer.mp3</sound>
+</w>
+<w idx="2" name="operating system">
+<jp>OS</jp>
+<sound>tech2b01idx02_operating_system.mp3</sound>
+</w>
+<w idx="3" name="source">
+<jp>ソース</jp>
+<sound>tech2b01idx03_source.mp3</sound>
+</w>
+<w idx="4" name="program">
+<jp>プログラム</jp>
+<sound>tech2b01idx04_program.mp3</sound>
+</w>
+<w idx="5" name="high-performance">
+<jp>高性能の</jp>
+<sound>tech2b01idx05_high-performance.mp3</sound>
+</w>
+<w idx="6" name="Internet">
+<jp>インターネット</jp>
+<sound>tech2b01idx06_Internet.mp3</sound>
+</w>
+<w idx="7" name="server">
+<jp>サーバ</jp>
+<sound>tech2b01idx07_server.mp3</sound>
+</w>
+</notes>
+
+<!-- Step1、Topic&Vocaburary -->
+<contents type="tech2bStep1">
+<p>　Linuxは、フィンランドのLinus Torvalds氏が学生時代に開発した<w idx="1">パソコン</w>用<w idx="2">OS</w>である。Linuxは無料であること、そして<w idx="3">ソース</w>が公開されていることから、ユーザーの注目を集めている。<w idx="4">プログラム</w>の改変や再配布を自由に行うことができるため、多くのプログラマーが協力して改良を重ねた。<w idx="5">高性能の</w>コンピュータでなくても実用的なスピードで動作し、その動作が非常に安定しているという特長があるため、<w idx="6">インターネット</w>の<w idx="7">サーバ</w>OSとして広く採用されている。</p>
+</contents>
+
+<!-- Step2、Writing1 -->
+<contents type="tech2bStep2">
+<instruction1>次の日本文の中から、幹センを抜き出そう。操作は右の[Guide]をご覧ください。</instruction1>
+<instruction2>[先輩]ボタンを押して、先輩が書いた英文とあなたの英文を比べてみよう。</instruction2>
+<sentence>
+<ph idx="1" miki="true">Linuxは</ph>
+<ph idx="2">配布が無料であること、</ph>
+<ph idx="3">そして</ph>
+<ph idx="4">ソースが公開されていること</ph>
+<ph idx="5">から、</ph>
+<ph idx="6" miki="true">ユーザーの注目を</ph>
+<ph idx="7" miki="true">集めている。</ph>
+</sentence>
+<mikisentence>
+<ph idx="1" type="S">Linuxは</ph>
+<ph idx="2">ユーザーの</ph>
+<ph idx="3" type="O">注目を</ph>
+<ph idx="4" type="V">集めている。</ph>
+</mikisentence>
+<hint text="（必要な語句を補って英文を作ってください。）">
+<ph idx="1">Linux</ph>
+<ph idx="2">users</ph>
+<ph idx="3">attention</ph>
+</hint>
+<senior answer="B"><sel cd="A">Linux</sel> <sel cd="B">collects</sel> <sel cd="C">the attention</sel> <sel cd="D">of users</sel>.</senior>
+<teach>Linux attracts the attention of users.</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　英文は、特に理系の英文は、日本文よりも正確に書くことが要求されます。その基本は５文型です。中学校で習ったように、&lt;font color="#0000FF"&gt;SV、SVC、SVO、SVOO&lt;/font&gt;、そして&lt;font color="#0000FF"&gt;SVOC&lt;/font&gt;です。登場する略号の意味を知っておきましょう。 &lt;font color="#0000FF"&gt;S は主語（Subject）、V は動詞（Verb）、O は目的語（Object）、&lt;/font&gt;そして &lt;font color="#0000FF"&gt;C は補語（Complement）&lt;/font&gt;というわけです。&lt;b&gt;５文型の中でもよく使われる大事な文型はSVOです&lt;/b&gt;。文のまとまりがよく、わかりやすいからです。この幹センテンスも SVO の型です。&lt;br&gt;
+&lt;br&gt;
+　英文には、樹木と同じように中心となる幹の部分があります。これからそれを幹センテンス、略して&lt;font color="#0000FF"&gt;&lt;b&gt;『幹セン（みきせん）』&lt;/b&gt;&lt;/font&gt;と呼ぶことにしましょう。おせんべいみたいで覚えやすいでしょ？&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　「（注目を）集める」には attract（引きつける） を使います。「（切手を）集める」には collect（収集する）を使います。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+<!-- Step3、Writing2 -->
+<contents type="tech2bStep3">
+<hint text="">
+<ph idx="1">distribution</ph>
+<ph idx="2">free</ph>
+<ph idx="3">charge</ph>
+<ph idx="4">source</ph>
+<ph idx="5">open</ph>
+<ph idx="6">public</ph>
+</hint>
+</contents>
+
+<!-- Step4、Comparisons -->
+<contents type="tech2bStep4">
+<senior answer="6,7">Linux attracts the attention of users by its free and open source.</senior>
+<teach>
+&lt;font size="20" color="#000000"&gt;
+Linux attracts the attention of users 
+&lt;/font&gt;
+&lt;font size="20" color="#0000FF"&gt;
+because the distribution is free of charge and the source is open to the public
+&lt;/font&gt;
+&lt;font size="20" color="#000000"&gt;
+.
+&lt;/font&gt;
+</teach>
+<comment>&lt;font size="16" color="#000000"&gt;
+　「配布が無料であることそしてソースが公開されていることから」の部分を、&lt;br&gt;
+&lt;b&gt;（その）配布が無料であり、そして（その）ソースが公開されているので&lt;/b&gt;&lt;br&gt;
+と書き直します。この書き直し作業を&lt;font color="#0000FF"&gt;&lt;b&gt;『リライト（rewrite）』&lt;/b&gt;&lt;/font&gt;と呼びます。リライトされた文は、「その配布が無料である」という文と「そのソースが公開されている」という文との並列です。両方ともSVC型で表すことができます。&lt;br&gt;
+　　The distribution is free of charge.&lt;br&gt;
+　　The source is open to the public.&lt;br&gt;
+「無料である」には free of charge という慣用表現があります。&lt;br&gt;
+&lt;br&gt;
+　言葉や文を並べるときには、&lt;b&gt;必ず最後の並列語または並列文の前に and を入れます。&lt;/b&gt;&lt;br&gt;
+　　&lt;b&gt;２つなら　● and ▲&lt;/b&gt;&lt;br&gt;
+　　&lt;b&gt;３つなら　●, ▲, and ■&lt;/b&gt;&lt;br&gt;
+とします。 and は「並列をしっかり探して読んでね」というサインです。「…ので」には接続詞 because がぴったりでしょう。接続詞としての for は理系の英文には登場しません。&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;先輩へ&lt;/b&gt;&lt;/font&gt;：&lt;br&gt;
+　by では理由を表すことができません。少し高度な表現になりますが、because of を使いましょう。 because of はひとつの前置詞と同じように、続く部分を名詞の形で書かなければいけません。先輩の free and open source では説明不足ですので次のように書きます。&lt;br&gt;
+　　Linux attracts the attention of users because of the free distribution and the source open to the public.&lt;br&gt;
+最後の open to the public は、the source を後ろから修飾しています。&lt;br&gt;
+&lt;/font&gt;</comment>
+</contents>
+
+<!-- Step5、Exercisse -->
+<contents type="tech2bStep5" size="5">
+<instruction1>このユニットで登場した表現と、関連する表現を練習しよう。間違えやすい表現に気をつけよう。</instruction1>
+
+<question no="1" type="R">
+<textTrans>磁石は鉄片を引きつける。</textTrans>
+<text>A magnet <sel cd="A" answer="2"></sel> a piece of iron.</text>
+<sel cd="A" idx="1">collects</sel>
+<sel cd="A" idx="2">attracts</sel>
+<hint>
+<sound>tech2b01s5Q01.mp3</sound>
+</hint>
+<point>　磁石が引きつけるという場合は attract を使います。 attract（引きつける、引き寄せる）の対立語は repel（はじく）です。それぞれの名詞形は、attraction、repulsion です。</point>
+</question>
+
+<question no="2" type="R">
+<textTrans>彼らの実験結果は聴衆の注目を集めた。</textTrans>
+<text>Their <sel cd="A" answer="2"></sel>  results <sel cd="B" answer="2"></sel> the attention of the audience.</text>
+<sel cd="A" idx="1">experienced</sel>
+<sel cd="A" idx="2">experimental</sel>
+<sel cd="B" idx="1">collected</sel>
+<sel cd="B" idx="2">attracted</sel>
+<sel cd="B" idx="3">gathered</sel>
+<hint>
+<sound>tech2b01s5Q02.mp3</sound>
+</hint>
+<point>　「実験に基づく」は experimental、「…の注目を引く（集める）」は、attract the attention of ... です。
+　experienced: 経験を積んだ、experiment: 実験</point>
+</question>
+
+<question no="3" type="R">
+<textTrans>スプレーは荷電され、接地されたターゲットに引き寄せられる。</textTrans>
+<text>The spray is charged and attracted <sel cd="A" answer="2"></sel> the grounded target.</text>
+<sel cd="A" idx="1">against</sel>
+<sel cd="A" idx="2">to</sel>
+<sel cd="A" idx="3">onto</sel>
+<hint>
+<sound>tech2b01s5Q03.mp3</sound>
+</hint>
+<point>　the grounded target「へ向かって」という意味なので to を選びます。 ground には電気用語で 「（…を）接地（アース）する」の意味があります。</point>
+</question>
+
+<question no="4" type="R">
+<textTrans>最新の情報は毎週月曜日に集められる。</textTrans>
+<text>The latest information is <sel cd="A" answer="1"></sel> every Monday.</text>
+<sel cd="A" idx="1">collected</sel>
+<sel cd="A" idx="2">attracted</sel>
+<sel cd="A" idx="3">gathered</sel>
+<hint>
+<sound>tech2b01s5Q04.mp3</sound>
+</hint>
+<point>　目的をもって集めて、さらに整理する場合には、collect を使います。切手、証拠、情報を集めるにはぴったんこです。</point>
+</question>
+
+<question no="5" type="R">
+<textTrans>そのソフトウェアは無料です。</textTrans>
+<text>The software is <sel cd="A" answer="3"></sel> <sel cd="B" answer="2"></sel> charge.</text>
+<sel cd="A" idx="1">flee</sel>
+<sel cd="A" idx="2">fare</sel>
+<sel cd="A" idx="3">free</sel>
+<sel cd="B" idx="1">from</sel>
+<sel cd="B" idx="2">of</sel>
+<sel cd="B" idx="3">in</sel>
+<hint>
+<sound>tech2b01s5Q05.mp3</sound>
+</hint>
+<point>　charge には名詞で「請求金額」という意味があり、また、３問目にあるように動詞では「電荷を与える」という意味もあります。 be free of charge で「無料である」となります。
+　flee: 逃げる、fare: 運賃</point>
+</question>
+</contents>
+
+
+<contents type="phrase">
+<p><ph idx="1">Linux attracts the attention of users because the distribution is free of charge and the source is open to the public.</ph></p>
+<p></p>
+<p><ph idx="2">1. A magnet attracts a piece of iron.</ph></p>
+<p><ph idx="3">2. Their experimental results attracted the attention of the audience.</ph></p>
+<p><ph idx="4">3. The spray is charged and attracted to the grounded target.</ph></p>
+<p><ph idx="5">4. The latest information is collected every Monday.</ph></p>
+<p><ph idx="6">5. The software is free of charge.</ph></p>
+</contents>
+
+<contents type="translation">
+<p><ph idx="1">Linuxは、配布が無料であることそしてソースが公開されていることから、ユーザーの注目を集めている。</ph></p>
+<p></p>
+<p><ph idx="2">1. 磁石は鉄片を引きつける。</ph></p>
+<p><ph idx="3">2. 彼らの実験結果は聴衆の注目を集めた。</ph></p>
+<p><ph idx="4">3. スプレーは荷電され、接地されたターゲットに引き寄せられる。</ph></p>
+<p><ph idx="5">4. 最新の情報は毎週月曜日に集められる。</ph></p>
+<p><ph idx="6">5. そのソフトウェアは無料です。</ph></p>
+</contents>
+
+
+</unit>
